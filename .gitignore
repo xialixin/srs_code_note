@@ -1,0 +1,7 @@
+~*.docx
+~*.*vsd
+~*.*html
+*.tmp
+srs_node.html
+SRS.html
+SRS.files/
