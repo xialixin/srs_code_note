@@ -1,86 +1,1779 @@
 <html>
 
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<title>¿ªÔ´Á÷Ã½ÌåSRS½éÉÜ</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Courier;
+	panose-1:2 7 4 9 2 2 5 2 4 4;}
+@font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 2 6 3 4 5 5 2 3 4;}
+@font-face
+	{font-family:Helv;
+	panose-1:2 11 6 4 2 2 2 3 2 4;}
+@font-face
+	{font-family:"New York";
+	panose-1:2 4 5 3 6 5 6 2 3 4;}
+@font-face
+	{font-family:System;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+@font-face
+	{font-family:Batang;
+	panose-1:2 3 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:ËÎÌå;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:PMingLiU;
+	panose-1:2 1 6 1 0 1 1 1 1 1;}
+@font-face
+	{font-family:"MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+@font-face
+	{font-family:Dotum;
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:ºÚÌå;
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:MingLiU;
+	panose-1:2 1 6 9 0 1 1 1 1 1;}
+@font-face
+	{font-family:Mincho;
+	panose-1:2 2 6 9 4 3 5 8 3 5;}
+@font-face
+	{font-family:Gulim;
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:Century;
+	panose-1:2 4 6 4 5 5 5 2 3 4;}
+@font-face
+	{font-family:"Angsana New";
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:"Cordia New";
+	panose-1:2 11 3 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Mangal;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Latha;
+	panose-1:2 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Sylfaen;
+	panose-1:1 10 5 2 5 3 6 3 3 3;}
+@font-face
+	{font-family:Vrinda;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Raavi;
+	panose-1:2 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Shruti;
+	panose-1:2 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Sendnya;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Gautami;
+	panose-1:2 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Tunga;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Estrangelo Edessa";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Yu Gothic";
+	panose-1:2 11 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:µÈÏß;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Palatino Linotype";
+	panose-1:2 4 5 2 5 5 5 3 3 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"µÈÏß Light";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:·½ÕýµÈÏß;
+	panose-1:3 0 5 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI Emoji";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Microsoft YaHei UI";
+	panose-1:2 11 5 3 2 2 4 2 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+	{font-family:Î¢ÈíÑÅºÚ;
+	panose-1:2 11 5 3 2 2 4 2 2 4;}
+@font-face
+	{font-family:Simsun;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:TeamViewer13;}
+@font-face
+	{font-family:Marlett;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arial Black";
+	panose-1:2 11 10 4 2 1 2 2 2 4;}
+@font-face
+	{font-family:"Bahnschrift Light";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Bahnschrift SemiLight";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Bahnschrift;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Bahnschrift SemiBold";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Candara;
+	panose-1:2 14 5 2 3 3 3 2 2 4;}
+@font-face
+	{font-family:"Comic Sans MS";
+	panose-1:3 15 7 2 3 3 2 2 2 4;}
+@font-face
+	{font-family:Constantia;
+	panose-1:2 3 6 2 5 3 6 3 3 3;}
+@font-face
+	{font-family:Corbel;
+	panose-1:2 11 5 3 2 2 4 2 2 4;}
+@font-face
+	{font-family:Ebrima;
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Franklin Gothic Medium";
+	panose-1:2 11 6 3 2 1 2 2 2 4;}
+@font-face
+	{font-family:Gabriola;
+	panose-1:4 4 6 5 5 16 2 2 13 2;}
+@font-face
+	{font-family:Gadugi;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;}
+@font-face
+	{font-family:Impact;
+	panose-1:2 11 8 6 3 9 2 5 2 4;}
+@font-face
+	{font-family:"Javanese Text";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Leelawadee UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Leelawadee UI Semilight";
+	panose-1:2 11 4 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Lucida Console";
+	panose-1:2 11 6 9 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Lucida Sans Unicode";
+	panose-1:2 11 6 2 3 5 4 2 2 4;}
+@font-face
+	{font-family:"Malgun Gothic";
+	panose-1:2 11 5 3 2 0 0 2 0 4;}
+@font-face
+	{font-family:"\@Malgun Gothic";
+	panose-1:2 11 5 3 2 0 0 2 0 4;}
+@font-face
+	{font-family:"Malgun Gothic Semilight";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"\@Malgun Gothic Semilight";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Microsoft Himalaya";
+	panose-1:1 1 1 0 1 1 1 1 1 1;}
+@font-face
+	{font-family:"Microsoft JhengHei";
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\@Microsoft JhengHei";
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Microsoft JhengHei UI";
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\@Microsoft JhengHei UI";
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Microsoft JhengHei Light";
+	panose-1:2 11 3 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\@Microsoft JhengHei Light";
+	panose-1:2 11 3 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Microsoft JhengHei UI Light";
+	panose-1:2 11 3 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\@Microsoft JhengHei UI Light";
+	panose-1:2 11 3 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Microsoft New Tai Lue";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Microsoft PhagsPa";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Microsoft Sans Serif";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Microsoft Tai Le";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"\@Î¢ÈíÑÅºÚ";
+	panose-1:2 11 5 3 2 2 4 2 2 4;}
+@font-face
+	{font-family:"\@Microsoft YaHei UI";
+	panose-1:2 11 5 3 2 2 4 2 2 4;}
+@font-face
+	{font-family:"Î¢ÈíÑÅºÚ Light";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"\@Î¢ÈíÑÅºÚ Light";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Microsoft YaHei UI Light";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"\@Microsoft YaHei UI Light";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Microsoft Yi Baiti";
+	panose-1:3 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:MingLiU-ExtB;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@MingLiU-ExtB";
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:PMingLiU-ExtB;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@PMingLiU-ExtB";
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:MingLiU_HKSCS-ExtB;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@MingLiU_HKSCS-ExtB";
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mongolian Baiti";
+	panose-1:3 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+@font-face
+	{font-family:"MS UI Gothic";
+	panose-1:2 11 6 0 7 2 5 8 2 4;}
+@font-face
+	{font-family:"\@MS UI Gothic";
+	panose-1:2 11 6 0 7 2 5 8 2 4;}
+@font-face
+	{font-family:"MS PGothic";
+	panose-1:2 11 6 0 7 2 5 8 2 4;}
+@font-face
+	{font-family:"\@MS PGothic";
+	panose-1:2 11 6 0 7 2 5 8 2 4;}
+@font-face
+	{font-family:"MV Boli";
+	panose-1:2 0 5 0 3 2 0 9 0 0;}
+@font-face
+	{font-family:"Myanmar Text";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Nirmala UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Nirmala UI Semilight";
+	panose-1:2 11 4 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe MDL2 Assets";
+	panose-1:5 10 1 2 1 1 1 1 1 1;}
+@font-face
+	{font-family:"Segoe Print";
+	panose-1:2 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Script";
+	panose-1:3 11 5 4 2 0 0 0 0 3;}
+@font-face
+	{font-family:"Segoe UI Black";
+	panose-1:2 11 10 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe UI Historic";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe UI Light";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe UI Semibold";
+	panose-1:2 11 7 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe UI Semilight";
+	panose-1:2 11 4 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe UI Symbol";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"\@ËÎÌå";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:ÐÂËÎÌå;
+	panose-1:2 1 6 9 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@ÐÂËÎÌå";
+	panose-1:2 1 6 9 3 1 1 1 1 1;}
+@font-face
+	{font-family:SimSun-ExtB;
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"\@SimSun-ExtB";
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"Sitka Small";
+	panose-1:2 0 5 5 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Sitka Text";
+	panose-1:2 0 5 5 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Sitka Subheading";
+	panose-1:2 0 5 5 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Sitka Heading";
+	panose-1:2 0 5 5 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Sitka Display";
+	panose-1:2 0 5 5 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Sitka Banner";
+	panose-1:2 0 5 5 0 0 0 2 0 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:Webdings;
+	panose-1:5 3 1 2 1 5 9 6 7 3;}
+@font-face
+	{font-family:"\@Yu Gothic";
+	panose-1:2 11 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yu Gothic UI";
+	panose-1:2 11 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Yu Gothic UI";
+	panose-1:2 11 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yu Gothic UI Semibold";
+	panose-1:2 11 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Yu Gothic UI Semibold";
+	panose-1:2 11 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yu Gothic UI Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Yu Gothic UI Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yu Gothic Medium";
+	panose-1:2 11 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Yu Gothic Medium";
+	panose-1:2 11 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yu Gothic UI Semilight";
+	panose-1:2 11 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Yu Gothic UI Semilight";
+	panose-1:2 11 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@µÈÏß";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@µÈÏß Light";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:·ÂËÎ;
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"\@·ÂËÎ";
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:¿¬Ìå;
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"\@¿¬Ìå";
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"\@ºÚÌå";
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"HoloLens MDL2 Assets";
+	panose-1:5 10 1 2 1 1 1 1 1 1;}
+@font-face
+	{font-family:·½ÕýÊæÌå;
+	panose-1:2 1 6 1 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@·½ÕýÊæÌå";
+	panose-1:2 1 6 1 3 1 1 1 1 1;}
+@font-face
+	{font-family:·½ÕýÒ¦Ìå;
+	panose-1:2 1 6 1 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@·½ÕýÒ¦Ìå";
+	panose-1:2 1 6 1 3 1 1 1 1 1;}
+@font-face
+	{font-family:Á¥Êé;
+	panose-1:2 1 5 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"\@Á¥Êé";
+	panose-1:2 1 5 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:»ªÎÄ²ÊÔÆ;
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"\@»ªÎÄ²ÊÔÆ";
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:»ªÎÄ·ÂËÎ;
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"\@»ªÎÄ·ÂËÎ";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:»ªÎÄçúçê;
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"\@»ªÎÄçúçê";
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:»ªÎÄ¿¬Ìå;
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"\@»ªÎÄ¿¬Ìå";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:»ªÎÄÁ¥Êé;
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"\@»ªÎÄÁ¥Êé";
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:»ªÎÄËÎÌå;
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"\@»ªÎÄËÎÌå";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:»ªÎÄÏ¸ºÚ;
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"\@»ªÎÄÏ¸ºÚ";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:»ªÎÄÐÐ¿¬;
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"\@»ªÎÄÐÐ¿¬";
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:»ªÎÄÐÂÎº;
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"\@»ªÎÄÐÂÎº";
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:»ªÎÄÖÐËÎ;
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"\@»ªÎÄÖÐËÎ";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:Ó×Ô²;
+	panose-1:2 1 5 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"\@Ó×Ô²";
+	panose-1:2 1 5 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"MT Extra";
+	panose-1:5 5 1 2 1 2 5 2 2 2;}
+@font-face
+	{font-family:"Book Antiqua";
+	panose-1:2 4 6 2 5 3 5 3 3 4;}
+@font-face
+	{font-family:"Century Gothic";
+	panose-1:2 11 5 2 2 2 2 2 2 4;}
+@font-face
+	{font-family:Haettenschweiler;
+	panose-1:2 11 7 6 4 9 2 6 2 4;}
+@font-face
+	{font-family:"Tempus Sans ITC";
+	panose-1:4 2 4 4 3 13 7 2 2 2;}
+@font-face
+	{font-family:Mistral;
+	panose-1:3 9 7 2 3 4 7 2 4 3;}
+@font-face
+	{font-family:"Lucida Handwriting";
+	panose-1:3 1 1 1 1 1 1 1 1 1;}
+@font-face
+	{font-family:"Kristen ITC";
+	panose-1:3 5 5 2 4 2 2 3 2 2;}
+@font-face
+	{font-family:"Juice ITC";
+	panose-1:4 4 4 3 4 10 2 2 2 2;}
+@font-face
+	{font-family:"Freestyle Script";
+	panose-1:3 8 4 2 3 2 5 11 4 4;}
+@font-face
+	{font-family:"Arial Narrow";
+	panose-1:2 11 6 6 2 2 2 3 2 4;}
+@font-face
+	{font-family:Garamond;
+	panose-1:2 2 4 4 3 3 1 1 8 3;}
+@font-face
+	{font-family:"Monotype Corsiva";
+	panose-1:3 1 1 1 1 2 1 1 1 1;}
+@font-face
+	{font-family:Algerian;
+	panose-1:4 2 7 5 4 10 2 6 7 2;}
+@font-face
+	{font-family:"Baskerville Old Face";
+	panose-1:2 2 6 2 8 5 5 2 3 3;}
+@font-face
+	{font-family:"Bauhaus 93";
+	panose-1:4 3 9 5 2 11 2 2 12 2;}
+@font-face
+	{font-family:"Bell MT";
+	panose-1:2 2 5 3 6 3 5 2 3 3;}
+@font-face
+	{font-family:"Berlin Sans FB";
+	panose-1:2 14 6 2 2 5 2 2 3 6;}
+@font-face
+	{font-family:"Bernard MT Condensed";
+	panose-1:2 5 8 6 6 9 5 2 4 4;}
+@font-face
+	{font-family:"Bodoni MT Poster Compressed";
+	panose-1:2 7 7 6 8 6 1 5 2 4;}
+@font-face
+	{font-family:"Britannic Bold";
+	panose-1:2 11 9 3 6 7 3 2 2 4;}
+@font-face
+	{font-family:Broadway;
+	panose-1:4 4 9 5 8 11 2 2 5 2;}
+@font-face
+	{font-family:"Brush Script MT";
+	panose-1:3 6 8 2 4 4 6 7 3 4;}
+@font-face
+	{font-family:"Californian FB";
+	panose-1:2 7 4 3 6 8 11 3 2 4;}
+@font-face
+	{font-family:Centaur;
+	panose-1:2 3 5 4 5 2 5 2 3 4;}
+@font-face
+	{font-family:Chiller;
+	panose-1:4 2 4 4 3 16 7 2 6 2;}
+@font-face
+	{font-family:"Colonna MT";
+	panose-1:4 2 8 5 6 2 2 3 2 3;}
+@font-face
+	{font-family:"Cooper Black";
+	panose-1:2 8 9 4 4 3 11 2 4 4;}
+@font-face
+	{font-family:"Footlight MT Light";
+	panose-1:2 4 6 2 6 3 10 2 3 4;}
+@font-face
+	{font-family:"Harlow Solid Italic";
+	panose-1:4 3 6 4 2 15 2 2 13 2;}
+@font-face
+	{font-family:Harrington;
+	panose-1:4 4 5 5 5 10 2 2 7 2;}
+@font-face
+	{font-family:"High Tower Text";
+	panose-1:2 4 5 2 5 5 6 3 3 3;}
+@font-face
+	{font-family:Jokerman;
+	panose-1:4 9 6 5 6 13 6 2 7 2;}
+@font-face
+	{font-family:"Kunstler Script";
+	panose-1:3 3 4 2 2 6 7 13 13 6;}
+@font-face
+	{font-family:"Lucida Bright";
+	panose-1:2 4 6 2 5 5 5 2 3 4;}
+@font-face
+	{font-family:"Lucida Calligraphy";
+	panose-1:3 1 1 1 1 1 1 1 1 1;}
+@font-face
+	{font-family:"Lucida Fax";
+	panose-1:2 6 6 2 5 5 5 2 2 4;}
+@font-face
+	{font-family:Magneto;
+	panose-1:4 3 8 5 5 8 2 2 13 2;}
+@font-face
+	{font-family:"Matura MT Script Capitals";
+	panose-1:3 2 8 2 6 6 2 7 2 2;}
+@font-face
+	{font-family:"Modern No\. 20";
+	panose-1:2 7 7 4 7 5 5 2 3 3;}
+@font-face
+	{font-family:"Niagara Engraved";
+	panose-1:4 2 5 2 7 7 3 3 2 2;}
+@font-face
+	{font-family:"Niagara Solid";
+	panose-1:4 2 5 2 7 7 2 2 2 2;}
+@font-face
+	{font-family:"Old English Text MT";
+	panose-1:3 4 9 2 4 5 8 3 8 6;}
+@font-face
+	{font-family:Onyx;
+	panose-1:4 5 6 2 8 7 2 2 2 3;}
+@font-face
+	{font-family:Parchment;
+	panose-1:3 4 6 2 4 7 8 4 8 4;}
+@font-face
+	{font-family:Playbill;
+	panose-1:4 5 6 3 10 6 2 2 2 2;}
+@font-face
+	{font-family:"Poor Richard";
+	panose-1:2 8 5 2 5 5 5 2 7 2;}
+@font-face
+	{font-family:Ravie;
+	panose-1:4 4 8 5 5 8 9 2 6 2;}
+@font-face
+	{font-family:"Informal Roman";
+	panose-1:3 6 4 2 3 4 6 11 2 4;}
+@font-face
+	{font-family:"Showcard Gothic";
+	panose-1:4 2 9 4 2 1 2 2 6 4;}
+@font-face
+	{font-family:"Snap ITC";
+	panose-1:4 4 10 7 6 10 2 2 2 2;}
+@font-face
+	{font-family:Stencil;
+	panose-1:4 4 9 5 13 8 2 2 4 4;}
+@font-face
+	{font-family:"Viner Hand ITC";
+	panose-1:3 7 5 2 3 5 2 2 2 3;}
+@font-face
+	{font-family:Vivaldi;
+	panose-1:3 2 6 2 5 5 6 9 8 4;}
+@font-face
+	{font-family:"Vladimir Script";
+	panose-1:3 5 4 2 4 4 7 7 3 5;}
+@font-face
+	{font-family:"Wide Latin";
+	panose-1:2 10 10 7 5 5 5 2 4 4;}
+@font-face
+	{font-family:"Bookman Old Style";
+	panose-1:2 5 6 4 5 5 5 2 2 4;}
+@font-face
+	{font-family:"Berlin Sans FB Demi";
+	panose-1:2 14 8 2 2 5 2 2 3 6;}
+@font-face
+	{font-family:"\@·½ÕýµÈÏß";
+	panose-1:3 0 5 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Microsoft MHei";
+	panose-1:2 11 4 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"\@Microsoft MHei";
+	panose-1:2 11 4 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Microsoft NeoGothic";
+	panose-1:2 11 4 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"\@Microsoft NeoGothic";
+	panose-1:2 11 4 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe WP Black";
+	panose-1:2 11 10 2 4 5 4 2 2 3;}
+@font-face
+	{font-family:"Segoe WP";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe WP Semibold";
+	panose-1:2 11 7 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe WP Light";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe WP SemiLight";
+	panose-1:2 11 4 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"HP Simplified";
+	panose-1:2 11 6 4 2 2 4 2 2 4;}
+@font-face
+	{font-family:"HP Simplified Light";
+	panose-1:2 11 4 4 2 2 4 2 2 4;}
+@font-face
+	{font-family:·½ÕýÀ¼Í¤³¬Ï¸ºÚ¼òÌå;
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@·½ÕýÀ¼Í¤³¬Ï¸ºÚ¼òÌå";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Arvo;
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Droid Serif";
+	panose-1:2 2 6 0 6 5 0 2 2 0;}
+@font-face
+	{font-family:"Indie Flower";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Lobster;
+	panose-1:2 0 5 6 0 0 0 2 0 3;}
+@font-face
+	{font-family:"Open Sans";
+	panose-1:2 11 6 6 3 5 4 2 2 4;}
+@font-face
+	{font-family:"Poiret One";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Raleway;
+	panose-1:2 11 0 3 3 1 1 6 0 3;}
+@font-face
+	{font-family:Roboto;
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Condensed";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Slab";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Buxton Sketch";
+	panose-1:3 8 5 0 0 5 0 0 0 4;}
+@font-face
+	{font-family:"Segoe Marker";
+	panose-1:3 8 6 2 4 3 2 2 2 4;}
+@font-face
+	{font-family:"SketchFlow Print";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Agency FB";
+	panose-1:2 11 5 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Arial Rounded MT Bold";
+	panose-1:2 15 7 4 3 5 4 3 2 4;}
+@font-face
+	{font-family:"Bodoni MT";
+	panose-1:2 7 6 3 8 6 6 2 2 3;}
+@font-face
+	{font-family:"Bodoni MT Black";
+	panose-1:2 7 10 3 8 6 6 2 2 3;}
+@font-face
+	{font-family:"Bodoni MT Condensed";
+	panose-1:2 7 6 6 8 6 6 2 2 3;}
+@font-face
+	{font-family:"Bradley Hand ITC";
+	panose-1:3 7 4 2 5 3 2 3 2 3;}
+@font-face
+	{font-family:"Bookshelf Symbol 7";
+	panose-1:5 1 1 1 1 1 1 1 1 1;}
+@font-face
+	{font-family:"Calisto MT";
+	panose-1:2 4 6 3 5 5 5 3 3 4;}
+@font-face
+	{font-family:Castellar;
+	panose-1:2 10 4 2 6 4 6 1 3 1;}
+@font-face
+	{font-family:"Century Schoolbook";
+	panose-1:2 4 6 4 5 5 5 2 3 4;}
+@font-face
+	{font-family:"Copperplate Gothic Bold";
+	panose-1:2 14 7 5 2 2 6 2 4 4;}
+@font-face
+	{font-family:"Copperplate Gothic Light";
+	panose-1:2 14 5 7 2 2 6 2 4 4;}
+@font-face
+	{font-family:"Curlz MT";
+	panose-1:4 4 4 4 5 7 2 2 2 2;}
+@font-face
+	{font-family:Elephant;
+	panose-1:2 2 9 4 9 5 5 2 3 3;}
+@font-face
+	{font-family:"Engravers MT";
+	panose-1:2 9 7 7 8 5 5 2 3 4;}
+@font-face
+	{font-family:"Eras Bold ITC";
+	panose-1:2 11 9 7 3 5 4 2 2 4;}
+@font-face
+	{font-family:"Eras Demi ITC";
+	panose-1:2 11 8 5 3 5 4 2 8 4;}
+@font-face
+	{font-family:"Eras Light ITC";
+	panose-1:2 11 4 2 3 5 4 2 8 4;}
+@font-face
+	{font-family:"Eras Medium ITC";
+	panose-1:2 11 6 2 3 5 4 2 8 4;}
+@font-face
+	{font-family:"Felix Titling";
+	panose-1:4 6 5 5 6 2 2 2 10 4;}
+@font-face
+	{font-family:Forte;
+	panose-1:3 6 9 2 4 5 2 7 2 3;}
+@font-face
+	{font-family:"Franklin Gothic Book";
+	panose-1:2 11 5 3 2 1 2 2 2 4;}
+@font-face
+	{font-family:"Franklin Gothic Demi";
+	panose-1:2 11 7 3 2 1 2 2 2 4;}
+@font-face
+	{font-family:"Franklin Gothic Demi Cond";
+	panose-1:2 11 7 6 3 4 2 2 2 4;}
+@font-face
+	{font-family:"Franklin Gothic Heavy";
+	panose-1:2 11 9 3 2 1 2 2 2 4;}
+@font-face
+	{font-family:"Franklin Gothic Medium Cond";
+	panose-1:2 11 6 6 3 4 2 2 2 4;}
+@font-face
+	{font-family:"French Script MT";
+	panose-1:3 2 4 2 4 6 7 4 6 5;}
+@font-face
+	{font-family:Gigi;
+	panose-1:4 4 5 4 6 16 7 2 13 2;}
+@font-face
+	{font-family:"Gill Sans MT";
+	panose-1:2 11 5 2 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Gill Sans MT Condensed";
+	panose-1:2 11 5 6 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Gill Sans Ultra Bold Condensed";
+	panose-1:2 11 10 6 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Gill Sans Ultra Bold";
+	panose-1:2 11 10 2 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Gloucester MT Extra Condensed";
+	panose-1:2 3 8 8 2 6 1 1 1 1;}
+@font-face
+	{font-family:"Gill Sans MT Ext Condensed Bold";
+	panose-1:2 11 9 2 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Goudy Old Style";
+	panose-1:2 2 5 2 5 3 5 2 3 3;}
+@font-face
+	{font-family:"Goudy Stout";
+	panose-1:2 2 9 4 7 3 11 2 4 1;}
+@font-face
+	{font-family:"Imprint MT Shadow";
+	panose-1:4 2 6 5 6 3 3 3 2 2;}
+@font-face
+	{font-family:"Blackadder ITC";
+	panose-1:4 2 5 5 5 16 7 2 13 2;}
+@font-face
+	{font-family:"Edwardian Script ITC";
+	panose-1:3 3 3 2 4 7 7 13 8 4;}
+@font-face
+	{font-family:Leelawadee;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Lucida Sans";
+	panose-1:2 11 6 2 3 5 4 2 2 4;}
+@font-face
+	{font-family:"Lucida Sans Typewriter";
+	panose-1:2 11 5 9 3 5 4 3 2 4;}
+@font-face
+	{font-family:"Maiandra GD";
+	panose-1:2 14 5 2 3 3 8 2 2 4;}
+@font-face
+	{font-family:"Microsoft Uighur";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"OCR A Extended";
+	panose-1:2 1 5 9 2 1 2 1 3 3;}
+@font-face
+	{font-family:"MS Outlook";
+	panose-1:5 1 1 0 1 0 0 0 0 0;}
+@font-face
+	{font-family:"Palace Script MT";
+	panose-1:3 3 3 2 2 6 7 12 11 5;}
+@font-face
+	{font-family:Papyrus;
+	panose-1:3 7 5 2 6 5 2 3 2 5;}
+@font-face
+	{font-family:Perpetua;
+	panose-1:2 2 5 2 6 4 1 2 3 3;}
+@font-face
+	{font-family:"Perpetua Titling MT";
+	panose-1:2 2 5 2 6 5 5 2 8 4;}
+@font-face
+	{font-family:Pristina;
+	panose-1:3 6 4 2 4 4 6 8 2 4;}
+@font-face
+	{font-family:"Rage Italic";
+	panose-1:3 7 5 2 4 5 7 7 3 4;}
+@font-face
+	{font-family:"MS Reference Sans Serif";
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"MS Reference Specialty";
+	panose-1:5 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Rockwell Condensed";
+	panose-1:2 6 6 3 5 4 5 2 1 4;}
+@font-face
+	{font-family:Rockwell;
+	panose-1:2 6 6 3 2 2 5 2 4 3;}
+@font-face
+	{font-family:"Rockwell Extra Bold";
+	panose-1:2 6 9 3 4 5 5 2 4 3;}
+@font-face
+	{font-family:"Script MT Bold";
+	panose-1:3 4 6 2 4 6 7 8 9 4;}
+@font-face
+	{font-family:"Tw Cen MT";
+	panose-1:2 11 6 2 2 1 4 2 6 3;}
+@font-face
+	{font-family:"Tw Cen MT Condensed";
+	panose-1:2 11 6 6 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Tw Cen MT Condensed Extra Bold";
+	panose-1:2 11 8 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Wingdings 2";
+	panose-1:5 2 1 2 1 5 7 7 7 7;}
+@font-face
+	{font-family:"Wingdings 3";
+	panose-1:5 4 1 2 1 8 7 7 7 7;}
+@font-face
+	{font-family:·½Õý´ÖºÚËÎ¼òÌå;
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@·½Õý´ÖºÚËÎ¼òÌå";}
+@font-face
+	{font-family:Abadi;}
+@font-face
+	{font-family:"Abadi Extra Light";}
+@font-face
+	{font-family:Aharoni;}
+@font-face
+	{font-family:Aldhabi;}
+@font-face
+	{font-family:AngsanaUPC;}
+@font-face
+	{font-family:Aparajita;}
+@font-face
+	{font-family:"Arabic Typesetting";}
+@font-face
+	{font-family:"Arial Nova";}
+@font-face
+	{font-family:"Arial Nova Cond";}
+@font-face
+	{font-family:"Arial Nova Cond Light";}
+@font-face
+	{font-family:"Arial Nova Light";}
+@font-face
+	{font-family:"Avenir Next LT Pro";}
+@font-face
+	{font-family:"Avenir Next LT Pro Light";}
+@font-face
+	{font-family:BatangChe;}
+@font-face
+	{font-family:Bembo;}
+@font-face
+	{font-family:Biome;}
+@font-face
+	{font-family:"Biome Light";}
+@font-face
+	{font-family:"Browallia New";}
+@font-face
+	{font-family:BrowalliaUPC;}
+@font-face
+	{font-family:Cavolini;}
+@font-face
+	{font-family:CordiaUPC;}
+@font-face
+	{font-family:Dante;}
+@font-face
+	{font-family:DaunPenh;}
+@font-face
+	{font-family:David;}
+@font-face
+	{font-family:Daytona;}
+@font-face
+	{font-family:"Daytona Pro Condensed";}
+@font-face
+	{font-family:"Daytona Pro Condensed Light";}
+@font-face
+	{font-family:"Daytona Pro Light";}
+@font-face
+	{font-family:DilleniaUPC;}
+@font-face
+	{font-family:DokChampa;}
+@font-face
+	{font-family:DotumChe;}
+@font-face
+	{font-family:Dubai;}
+@font-face
+	{font-family:"Dubai Light";}
+@font-face
+	{font-family:"Dubai Medium";}
+@font-face
+	{font-family:EucrosiaUPC;}
+@font-face
+	{font-family:Euphemia;}
+@font-face
+	{font-family:FangSong;}
+@font-face
+	{font-family:FrankRuehl;}
+@font-face
+	{font-family:FreesiaUPC;}
+@font-face
+	{font-family:"Georgia Pro";}
+@font-face
+	{font-family:"Georgia Pro Black";}
+@font-face
+	{font-family:"Georgia Pro Cond";}
+@font-face
+	{font-family:"Georgia Pro Cond Black";}
+@font-face
+	{font-family:"Georgia Pro Cond Light";}
+@font-face
+	{font-family:"Georgia Pro Cond Semibold";}
+@font-face
+	{font-family:"Georgia Pro Light";}
+@font-face
+	{font-family:"Georgia Pro Semibold";}
+@font-face
+	{font-family:"Gill Sans Nova";}
+@font-face
+	{font-family:"Gill Sans Nova Cond";}
+@font-face
+	{font-family:"Gill Sans Nova Cond Lt";}
+@font-face
+	{font-family:"Gill Sans Nova Cond Ultra Bold";}
+@font-face
+	{font-family:"Gill Sans Nova Cond XBd";}
+@font-face
+	{font-family:"Gill Sans Nova Light";}
+@font-face
+	{font-family:"Gill Sans Nova Ultra Bold";}
+@font-face
+	{font-family:Gisha;}
+@font-face
+	{font-family:Grotesque;}
+@font-face
+	{font-family:"Grotesque Light";}
+@font-face
+	{font-family:GulimChe;}
+@font-face
+	{font-family:Gungsuh;}
+@font-face
+	{font-family:GungsuhChe;}
+@font-face
+	{font-family:"Hadassah Friedlaender";}
+@font-face
+	{font-family:HGGothicE;}
+@font-face
+	{font-family:HGMaruGothicMPRO;}
+@font-face
+	{font-family:HGMinchoE;}
+@font-face
+	{font-family:HGPGothicE;}
+@font-face
+	{font-family:HGPMinchoE;}
+@font-face
+	{font-family:HGPSoeiKakugothicUB;}
+@font-face
+	{font-family:HGSGothicE;}
+@font-face
+	{font-family:HGSMinchoE;}
+@font-face
+	{font-family:HGSoeiKakugothicUB;}
+@font-face
+	{font-family:HGSSoeiKakugothicUB;}
+@font-face
+	{font-family:"Ink Free";}
+@font-face
+	{font-family:IrisUPC;}
+@font-face
+	{font-family:"Iskoola Pota";}
+@font-face
+	{font-family:JasmineUPC;}
+@font-face
+	{font-family:KaiTi;}
+@font-face
+	{font-family:Kalinga;}
+@font-face
+	{font-family:Kartika;}
+@font-face
+	{font-family:"Khmer UI";}
+@font-face
+	{font-family:KodchiangUPC;}
+@font-face
+	{font-family:Kokila;}
+@font-face
+	{font-family:"Lao UI";}
+@font-face
+	{font-family:"Levenim MT";}
+@font-face
+	{font-family:LilyUPC;}
+@font-face
+	{font-family:Meiryo;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Meiryo UI";
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Microsoft GothicNeo";}
+@font-face
+	{font-family:"Microsoft GothicNeo Light";}
+@font-face
+	{font-family:"Microsoft YaHei Light";}
+@font-face
+	{font-family:MingLiU_HKSCS;}
+@font-face
+	{font-family:Miriam;}
+@font-face
+	{font-family:"Miriam Fixed";}
+@font-face
+	{font-family:"Modern Love";}
+@font-face
+	{font-family:"Modern Love Caps";}
+@font-face
+	{font-family:"Modern Love Grunge";}
+@font-face
+	{font-family:MoolBoran;}
+@font-face
+	{font-family:"MS PMincho";}
+@font-face
+	{font-family:Narkisim;}
+@font-face
+	{font-family:"Neue Haas Grotesk Text Pro";}
+@font-face
+	{font-family:"News Gothic MT";}
+@font-face
+	{font-family:Nyala;}
+@font-face
+	{font-family:OCRB;}
+@font-face
+	{font-family:"Plantagenet Cherokee";}
+@font-face
+	{font-family:Posterama;}
+@font-face
+	{font-family:"Quire Sans";}
+@font-face
+	{font-family:"Quire Sans Pro Light";}
+@font-face
+	{font-family:"Rockwell Light";}
+@font-face
+	{font-family:"Rockwell Nova";}
+@font-face
+	{font-family:"Rockwell Nova Cond";}
+@font-face
+	{font-family:"Rockwell Nova Cond Light";}
+@font-face
+	{font-family:"Rockwell Nova Extra Bold";}
+@font-face
+	{font-family:"Rockwell Nova Light";}
+@font-face
+	{font-family:Rod;}
+@font-face
+	{font-family:"Sabon Next LT";}
+@font-face
+	{font-family:"Sagona Book";}
+@font-face
+	{font-family:"Sagona ExtraLight";}
+@font-face
+	{font-family:"Sakkal Majalla";}
+@font-face
+	{font-family:"Sanskrit Text";}
+@font-face
+	{font-family:Selawik;}
+@font-face
+	{font-family:"Selawik Light";}
+@font-face
+	{font-family:"Selawik Semibold";}
+@font-face
+	{font-family:"Shonar Bangla";}
+@font-face
+	{font-family:"Simplified Arabic";}
+@font-face
+	{font-family:"Simplified Arabic Fixed";}
+@font-face
+	{font-family:"Source Sans Pro";}
+@font-face
+	{font-family:"Source Sans Pro Black";}
+@font-face
+	{font-family:"Source Sans Pro ExtraLight";}
+@font-face
+	{font-family:"Source Sans Pro Light";}
+@font-face
+	{font-family:"Source Sans Pro SemiBold";}
+@font-face
+	{font-family:"Speak Pro";}
+@font-face
+	{font-family:"Speak Pro Light";}
+@font-face
+	{font-family:"TH SarabunPSK";}
+@font-face
+	{font-family:"The Hand";}
+@font-face
+	{font-family:"The Hand Black";}
+@font-face
+	{font-family:"The Hand Extrablack";}
+@font-face
+	{font-family:"The Hand Light";}
+@font-face
+	{font-family:"The Serif Hand";}
+@font-face
+	{font-family:"The Serif Hand Black";}
+@font-face
+	{font-family:"The Serif Hand Extrablack";}
+@font-face
+	{font-family:"The Serif Hand Light";}
+@font-face
+	{font-family:"Tisa Offc Serif Pro";}
+@font-face
+	{font-family:"Tisa Offc Serif Pro Thin";}
+@font-face
+	{font-family:"Traditional Arabic";}
+@font-face
+	{font-family:"UD Digi Kyokasho N-B";}
+@font-face
+	{font-family:"UD Digi Kyokasho N-R";}
+@font-face
+	{font-family:"UD Digi Kyokasho NK-B";}
+@font-face
+	{font-family:"UD Digi Kyokasho NK-R";}
+@font-face
+	{font-family:"UD Digi Kyokasho NP-B";}
+@font-face
+	{font-family:"UD Digi Kyokasho NP-R";}
+@font-face
+	{font-family:Univers;}
+@font-face
+	{font-family:"Univers Condensed";}
+@font-face
+	{font-family:"Univers Condensed Light";}
+@font-face
+	{font-family:"Univers Light";}
+@font-face
+	{font-family:"Urdu Typesetting";}
+@font-face
+	{font-family:Utsaah;}
+@font-face
+	{font-family:Vani;}
+@font-face
+	{font-family:"Verdana Pro";}
+@font-face
+	{font-family:"Verdana Pro Black";}
+@font-face
+	{font-family:"Verdana Pro Cond";}
+@font-face
+	{font-family:"Verdana Pro Cond Black";}
+@font-face
+	{font-family:"Verdana Pro Cond Light";}
+@font-face
+	{font-family:"Verdana Pro Cond SemiBold";}
+@font-face
+	{font-family:"Verdana Pro Light";}
+@font-face
+	{font-family:"Verdana Pro SemiBold";}
+@font-face
+	{font-family:Vijaya;}
+@font-face
+	{font-family:"Walbaum Display";}
+@font-face
+	{font-family:"Walbaum Display Heavy";}
+@font-face
+	{font-family:"Walbaum Display Light";}
+@font-face
+	{font-family:"Walbaum Display SemiBold";}
+@font-face
+	{font-family:"Walbaum Heading";}
+@font-face
+	{font-family:"Walbaum Text";}
+@font-face
+	{font-family:"Yu Mincho";}
+@font-face
+	{font-family:"Yu Mincho Demibold";}
+@font-face
+	{font-family:"Yu Mincho Light";}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+h1
+	{mso-style-link:"±êÌâ 1 ×Ö·û";
+	margin-right:0cm;
+	margin-left:0cm;
+	font-size:24.0pt;
+	font-family:ËÎÌå;
+	font-weight:bold;}
+h2
+	{mso-style-link:"±êÌâ 2 ×Ö·û";
+	margin-top:13.0pt;
+	margin-right:0cm;
+	margin-bottom:13.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:173%;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:"Cambria",serif;
+	font-weight:bold;}
+h3
+	{mso-style-link:"±êÌâ 3 ×Ö·û";
+	margin-top:13.0pt;
+	margin-right:0cm;
+	margin-bottom:13.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:173%;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:"Calibri",sans-serif;
+	font-weight:bold;}
+h4
+	{mso-style-link:"±êÌâ 4 ×Ö·û";
+	margin-top:14.0pt;
+	margin-right:0cm;
+	margin-bottom:14.5pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:156%;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Cambria",serif;
+	font-weight:bold;}
+h5
+	{mso-style-link:"±êÌâ 5 ×Ö·û";
+	margin-top:14.0pt;
+	margin-right:0cm;
+	margin-bottom:14.5pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:156%;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Calibri",sans-serif;
+	font-weight:bold;}
+h6
+	{mso-style-link:"±êÌâ 6 ×Ö·û";
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:3.2pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:133%;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	font-weight:bold;}
+p.MsoToc1, li.MsoToc1, div.MsoToc1
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoToc2, li.MsoToc2, div.MsoToc2
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoToc3, li.MsoToc3, div.MsoToc3
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:42.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoToc4, li.MsoToc4, div.MsoToc4
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:63.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoToc5, li.MsoToc5, div.MsoToc5
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:84.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoToc6, li.MsoToc6, div.MsoToc6
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:105.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoToc7, li.MsoToc7, div.MsoToc7
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:126.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoToc8, li.MsoToc8, div.MsoToc8
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:147.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoToc9, li.MsoToc9, div.MsoToc9
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:168.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"Ò³Ã¼ ×Ö·û";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	layout-grid-mode:char;
+	border:none;
+	padding:0cm;
+	font-size:9.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Ò³½Å ×Ö·û";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:ËÎÌå;}
+code
+	{font-family:ËÎÌå;}
+pre
+	{mso-style-link:"HTML Ô¤Éè¸ñÊ½ ×Ö·û";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:ËÎÌå;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Åú×¢¿òÎÄ±¾ ×Ö·û";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:9.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-link:"ÎÞ¼ä¸ô ×Ö·û";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-indent:21.0pt;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoTocHeading, li.MsoTocHeading, div.MsoTocHeading
+	{margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Cambria",serif;
+	color:#365F91;
+	font-weight:bold;}
+span.a
+	{mso-style-name:"Ò³Ã¼ ×Ö·û";
+	mso-style-link:Ò³Ã¼;}
+span.a0
+	{mso-style-name:"Ò³½Å ×Ö·û";
+	mso-style-link:Ò³½Å;}
+span.HTML
+	{mso-style-name:"HTML Ô¤Éè¸ñÊ½ ×Ö·û";
+	mso-style-link:"HTML Ô¤Éè¸ñÊ½";
+	font-family:ËÎÌå;}
+span.1
+	{mso-style-name:"±êÌâ 1 ×Ö·û";
+	mso-style-link:"±êÌâ 1";
+	font-family:ËÎÌå;
+	font-weight:bold;}
+span.2
+	{mso-style-name:"±êÌâ 2 ×Ö·û";
+	mso-style-link:"±êÌâ 2";
+	font-family:"Cambria",serif;
+	font-weight:bold;}
+span.3
+	{mso-style-name:"±êÌâ 3 ×Ö·û";
+	mso-style-link:"±êÌâ 3";
+	font-weight:bold;}
+span.a1
+	{mso-style-name:"Åú×¢¿òÎÄ±¾ ×Ö·û";
+	mso-style-link:Åú×¢¿òÎÄ±¾;}
+span.4
+	{mso-style-name:"±êÌâ 4 ×Ö·û";
+	mso-style-link:"±êÌâ 4";
+	font-family:"Cambria",serif;
+	font-weight:bold;}
+span.5
+	{mso-style-name:"±êÌâ 5 ×Ö·û";
+	mso-style-link:"±êÌâ 5";
+	font-weight:bold;}
+span.pl-k
+	{mso-style-name:pl-k;}
+span.6
+	{mso-style-name:"±êÌâ 6 ×Ö·û";
+	mso-style-link:"±êÌâ 6";
+	font-family:"Cambria",serif;
+	font-weight:bold;}
+span.pl-c
+	{mso-style-name:pl-c;}
+span.pl-s
+	{mso-style-name:pl-s;}
+span.pl-pds
+	{mso-style-name:pl-pds;}
+span.pl-c1
+	{mso-style-name:pl-c1;}
+span.pl-en
+	{mso-style-name:pl-en;}
+span.pl-ent
+	{mso-style-name:pl-ent;}
+span.pl-e
+	{mso-style-name:pl-e;}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+span.a2
+	{mso-style-name:"ÎÞ¼ä¸ô ×Ö·û";
+	mso-style-link:ÎÞ¼ä¸ô;}
+p.xl34, li.xl34, div.xl34
+	{mso-style-name:xl34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:41.15pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-indent:-35.45pt;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+span.msoIns
+	{mso-style-name:"";
+	text-decoration:underline;
+	color:teal;}
+span.msoDel
+	{mso-style-name:"";
+	text-decoration:line-through;
+	color:red;}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	border:solid windowtext 1.0pt;
+	padding:24.0pt 24.0pt 24.0pt 24.0pt;
+	layout-grid:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+</head>
+
 <body lang=ZH-CN link=blue vlink=purple style='text-justify-trim:punctuation'>
 
 <div class=WordSection1 style='layout-grid:15.6pt'>
 
-<h1><a name="_Toc462219403"></a><a name="_Toc26097915">å¼€æºç›´æ’­æœåŠ¡srsè¯¦ç»†ä»‹ç»(wikiæ•´ç†)</a></h1>
+<h1><a name="_Toc462219403"></a><a name="_Toc26097915">¿ªÔ´Ö±²¥·þÎñsrsÏêÏ¸½éÉÜ(wikiÕûÀí)</a></h1>
 
-<p class=MsoTocHeading><span style='font-family:å®‹ä½“'>ç›®å½•</span></p>
+<p class=MsoTocHeading><span style='font-family:ËÎÌå'>Ä¿Â¼</span></p>
 
-<p class=MsoToc1><a href="#_Toc26097915"><span style='font-family:å®‹ä½“'>å¼€æºç›´æ’­æœåŠ¡</span>srs<span
-style='font-family:å®‹ä½“'>è¯¦ç»†ä»‹ç»</span>(wiki<span style='font-family:å®‹ä½“'>æ•´ç†</span>)<span
+<p class=MsoToc1><a href="#_Toc26097915"><span style='font-family:ËÎÌå'>¿ªÔ´Ö±²¥·þÎñ</span>srs<span
+style='font-family:ËÎÌå'>ÏêÏ¸½éÉÜ</span>(wiki<span style='font-family:ËÎÌå'>ÕûÀí</span>)<span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'> </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>0</span></a></p>
 
 <p class=MsoToc1><a href="#_Toc26097916"><span lang=EN-US>1.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>ç®€ä»‹</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>¼ò½é</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>2</span></a></p>
 
 <p class=MsoToc2><a href="#_Toc26097917"><span lang=EN-US>1.1.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>åŠŸèƒ½</span><span lang=EN-US
+lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>¹¦ÄÜ</span><span lang=EN-US
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>2</span></a></p>
 
 <p class=MsoToc2><a href="#_Toc26097918"><span lang=EN-US>1.2.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>æž¶æž„</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>¼Ü¹¹</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>2</span></a></p>
 
 <p class=MsoToc1><a href="#_Toc26097919"><span lang=EN-US>2.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>æµæŽ¥å…¥æ–¹å¼</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>Á÷½ÓÈë·½Ê½</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>3</span></a></p>
 
 <p class=MsoToc2><a href="#_Toc26097920"><span lang=EN-US>2.1.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>æŽ¨é€</span><span lang=EN-US>RTMP</span><span
-style='font-family:å®‹ä½“'>åˆ°</span><span lang=EN-US>SRS</span><span lang=EN-US
+style='font-family:ËÎÌå'>ÍÆËÍ</span><span lang=EN-US>RTMP</span><span
+style='font-family:ËÎÌå'>µ½</span><span lang=EN-US>SRS</span><span lang=EN-US
 style='color:windowtext;display:none;text-decoration:none'>. </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>4</span></a></p>
 
 <p class=MsoToc2><a href="#_Toc26097921"><span lang=EN-US>2.2.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>åˆ†å‘</span><span lang=EN-US>RTMP</span><span
-style='font-family:å®‹ä½“'>æµ</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>·Ö·¢</span><span lang=EN-US>RTMP</span><span
+style='font-family:ËÎÌå'>Á÷</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>4</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097922"><span lang=EN-US>2.2.1.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>åº”ç”¨åœºæ™¯</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>Ó¦ÓÃ³¡¾°</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>4</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097923"><span lang=EN-US style='font-family:
-å®‹ä½“'>2.2.2.</span><span lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-lang=EN-US style='font-family:å®‹ä½“'>WIKI</span><span lang=EN-US style='color:
+ËÎÌå'>2.2.2.</span><span lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+lang=EN-US style='font-family:ËÎÌå'>WIKI</span><span lang=EN-US style='color:
 windowtext;display:none;text-decoration:none'>. </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>5</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097924"><span lang=EN-US>2.2.3.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>è¡¥å……</span><span lang=EN-US>:SRS</span><span
-style='font-family:å®‹ä½“'>ä¸æ”¯æŒç‚¹æ’­</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>²¹³ä</span><span lang=EN-US>:SRS</span><span
+style='font-family:ËÎÌå'>²»Ö§³Öµã²¥</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>5</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097925"><span lang=EN-US>2.2.4.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>è¡¥å……</span><span lang=EN-US>:</span><span
-style='font-family:å®‹ä½“'>å¸¸ç”¨çš„ç¬¬ä¸‰æ–¹çš„æŽ¨æµä¸Žæ’­æ”¾å·¥å…·</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>²¹³ä</span><span lang=EN-US>:</span><span
+style='font-family:ËÎÌå'>³£ÓÃµÄµÚÈý·½µÄÍÆÁ÷Óë²¥·Å¹¤¾ß</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>6</span></a></p>
 
 <p class=MsoToc2><a href="#_Toc26097926"><span lang=EN-US>2.3.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>æŽ¨é€</span><span lang=EN-US>RTSP/UDP/FLV </span><span
-style='font-family:å®‹ä½“'>åˆ°</span><span lang=EN-US>SRS</span><span lang=EN-US
+style='font-family:ËÎÌå'>ÍÆËÍ</span><span lang=EN-US>RTSP/UDP/FLV </span><span
+style='font-family:ËÎÌå'>µ½</span><span lang=EN-US>SRS</span><span lang=EN-US
 style='color:windowtext;display:none;text-decoration:none'>. </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>6</span></a></p>
 
@@ -110,14 +1803,14 @@ lang=EN-US style='color:windowtext;display:none;text-decoration:none'>8</span></
 
 <p class=MsoToc2><a href="#_Toc26097931"><span lang=EN-US>2.4.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>æ‹‰å–æµåˆ°</span><span lang=EN-US>SRS</span><span lang=EN-US
+style='font-family:ËÎÌå'>À­È¡Á÷µ½</span><span lang=EN-US>SRS</span><span lang=EN-US
 style='color:windowtext;display:none;text-decoration:none'>. </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>9</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097932"><span lang=EN-US>2.4.1.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>è¡¥å……</span><span lang=EN-US>:RTSP</span><span
-style='font-family:å®‹ä½“'>å¼€æºé¡¹ç›®</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>²¹³ä</span><span lang=EN-US>:RTSP</span><span
+style='font-family:ËÎÌå'>¿ªÔ´ÏîÄ¿</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>10</span></a></p>
 
@@ -129,37 +1822,37 @@ lang=EN-US style='color:windowtext;display:none;text-decoration:none'>11</span><
 
 <p class=MsoToc2><a href="#_Toc26097934"><span lang=EN-US>2.5.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>æµçš„ä½Žå»¶æ—¶é…ç½®</span><span
+lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>Á÷µÄµÍÑÓÊ±ÅäÖÃ</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>11</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097935"><span lang=EN-US>2.5.1.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>ä½Žå»¶æ—¶ç›´æ’­åº”ç”¨</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>µÍÑÓÊ±Ö±²¥Ó¦ÓÃ</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>11</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097936"><span lang=EN-US>2.5.2.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>åº”ç”¨åœºæ™¯</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>Ó¦ÓÃ³¡¾°</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>11</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097937"><span lang=EN-US>2.5.3.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>å’Œå»¶æ—¶</span><span lang=EN-US
+lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>ºÍÑÓÊ±</span><span lang=EN-US
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>12</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097938"><span lang=EN-US>2.5.4.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>ç´¯ç§¯å»¶è¿Ÿ</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>ÀÛ»ýÑÓ³Ù</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>13</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097939"><span lang=EN-US>2.5.5.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>ä½Žå»¶æ—¶é…ç½®</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>µÍÑÓÊ±ÅäÖÃ</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>14</span></a></p>
 
@@ -171,38 +1864,38 @@ lang=EN-US style='color:windowtext;display:none;text-decoration:none'>15</span><
 
 <p class=MsoToc1><a href="#_Toc26097941"><span lang=EN-US>3.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>æµå˜æ¢</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>Á÷±ä»»</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>15</span></a></p>
 
 <p class=MsoToc2><a href="#_Toc26097942"><span lang=EN-US>3.1.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>å°†</span><span lang=EN-US>RTMP</span><span
-style='font-family:å®‹ä½“'>æµè½¬ç </span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>½«</span><span lang=EN-US>RTMP</span><span
+style='font-family:ËÎÌå'>Á÷×ªÂë</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>15</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097943"><span lang=EN-US>3.1.1.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>åº”ç”¨åœºæ™¯</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>Ó¦ÓÃ³¡¾°</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>15</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097944"><span lang=EN-US>3.1.2.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>å·¥ä½œæµç¨‹</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>¹¤×÷Á÷³Ì</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>16</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097945"><span lang=EN-US>3.1.3.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>é…ç½®</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>ÅäÖÃ</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>17</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097946"><span lang=EN-US>3.1.4.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>è½¬ç è§„åˆ™</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>×ªÂë¹æÔò</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>17</span></a></p>
 
@@ -220,8 +1913,8 @@ lang=EN-US style='color:windowtext;display:none;text-decoration:none'>20</span><
 
 <p class=MsoToc3><a href="#_Toc26097949"><span lang=EN-US>3.1.7.</span><span
 lang=EN-US style='color:windowtext;text-decoration:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>è¡¥å……</span><span lang=EN-US>:</span><span
-style='font-family:å®‹ä½“'>æµ‹è¯•æ•ˆæžœå›¾</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>²¹³ä</span><span lang=EN-US>:</span><span
+style='font-family:ËÎÌå'>²âÊÔÐ§¹ûÍ¼</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>20</span></a></p>
 
@@ -231,7 +1924,7 @@ lang=EN-US>WIKI</span><span lang=EN-US style='color:windowtext;display:none;
 text-decoration:none'> </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>20</span></a></p>
 
-<p class=MsoToc2><a href="#_Toc26097951"><span style='font-family:å®‹ä½“'>æµæˆªå›¾</span><span
+<p class=MsoToc2><a href="#_Toc26097951"><span style='font-family:ËÎÌå'>Á÷½ØÍ¼</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>20</span></a></p>
 
@@ -239,95 +1932,95 @@ lang=EN-US style='color:windowtext;display:none;text-decoration:none'>20</span><
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'> </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>21</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26097953"><span style='font-family:å®‹ä½“'>è¡¥å……</span><span
-lang=EN-US>:</span><span style='font-family:å®‹ä½“'>æµ‹è¯•æ•ˆæžœå›¾</span><span lang=EN-US
+<p class=MsoToc3><a href="#_Toc26097953"><span style='font-family:ËÎÌå'>²¹³ä</span><span
+lang=EN-US>:</span><span style='font-family:ËÎÌå'>²âÊÔÐ§¹ûÍ¼</span><span lang=EN-US
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>21</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26097954"><span style='font-family:å®‹ä½“'>è½¬å‘ç»™å…¶ä»–æœåŠ¡å™¨</span><span
+<p class=MsoToc3><a href="#_Toc26097954"><span style='font-family:ËÎÌå'>×ª·¢¸øÆäËû·þÎñÆ÷</span><span
 lang=EN-US>(Forward)</span><span lang=EN-US style='color:windowtext;display:
 none;text-decoration:none'> </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>21</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26097955"><span style='font-family:å®‹ä½“'>è½¬å°è£…æˆ</span><span
-lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>ç›´æ’­æµ</span><span lang=EN-US
+<p class=MsoToc3><a href="#_Toc26097955"><span style='font-family:ËÎÌå'>×ª·â×°³É</span><span
+lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>Ö±²¥Á÷</span><span lang=EN-US
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>22</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26097956"><span style='font-family:å®‹ä½“'>è½¬å°è£…æˆ</span><span
+<p class=MsoToc3><a href="#_Toc26097956"><span style='font-family:ËÎÌå'>×ª·â×°³É</span><span
 lang=EN-US>HLS</span><span lang=EN-US style='color:windowtext;display:none;
 text-decoration:none'>. </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>25</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26097957"><span style='font-family:å®‹ä½“'>è½¬å°è£…æˆ</span><span
+<p class=MsoToc3><a href="#_Toc26097957"><span style='font-family:ËÎÌå'>×ª·â×°³É</span><span
 lang=EN-US>HDS</span><span lang=EN-US style='color:windowtext;display:none;
 text-decoration:none'>. </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>28</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26097958"><span style='font-family:å®‹ä½“'>å½•åˆ¶æˆ</span><span
+<p class=MsoToc3><a href="#_Toc26097958"><span style='font-family:ËÎÌå'>Â¼ÖÆ³É</span><span
 lang=EN-US>FLV</span><span lang=EN-US style='color:windowtext;display:none;
 text-decoration:none'>. </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>28</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26097959"><span style='font-family:å®‹ä½“'>åˆ†å‘æ–¹å¼æ¯”è¾ƒ</span><span
+<p class=MsoToc3><a href="#_Toc26097959"><span style='font-family:ËÎÌå'>·Ö·¢·½Ê½±È½Ï</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>29</span></a></p>
 
-<p class=MsoToc2><a href="#_Toc26097960"><span style='font-family:å®‹ä½“'>é›†ç¾¤ä¸Ž</span><span
-lang=EN-US>CDN</span><span style='font-family:å®‹ä½“'>ç›¸å…³åŠŸèƒ½</span><span lang=EN-US
+<p class=MsoToc2><a href="#_Toc26097960"><span style='font-family:ËÎÌå'>¼¯ÈºÓë</span><span
+lang=EN-US>CDN</span><span style='font-family:ËÎÌå'>Ïà¹Ø¹¦ÄÜ</span><span lang=EN-US
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>32</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097961"><span lang=EN-US>RTMP</span><span
-style='font-family:å®‹ä½“'>å¤šçº§é›†ç¾¤</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>¶à¼¶¼¯Èº</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>32</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097962"><span lang=EN-US>VHOST</span><span
-style='font-family:å®‹ä½“'>è™šæ‹ŸæœåŠ¡å™¨</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>ÐéÄâ·þÎñÆ÷</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>37</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26097963"><span style='font-family:å®‹ä½“'>æ— ä¸­æ–­æœåŠ¡</span><span
+<p class=MsoToc3><a href="#_Toc26097963"><span style='font-family:ËÎÌå'>ÎÞÖÐ¶Ï·þÎñ</span><span
 lang=EN-US>Reload</span><span lang=EN-US style='color:windowtext;display:none;
 text-decoration:none'>. </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>46</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097964"><span lang=EN-US>HTTP-FLV</span><span
-style='font-family:å®‹ä½“'>é›†ç¾¤</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>¼¯Èº</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>47</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097965"><span lang=EN-US>Kafka</span><span
-style='font-family:å®‹ä½“'>å¯¹æŽ¥</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>¶Ô½Ó</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>48</span></a></p>
 
-<p class=MsoToc2><a href="#_Toc26097966"><span style='font-family:å®‹ä½“'>åº”ç”¨æŽ¥å£</span><span
+<p class=MsoToc2><a href="#_Toc26097966"><span style='font-family:ËÎÌå'>Ó¦ÓÃ½Ó¿Ú</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>48</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097967"><span lang=EN-US>HTTP</span><span
-style='font-family:å®‹ä½“'>å›žè°ƒ</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>»Øµ÷</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>48</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26097968"><span style='font-family:å®‹ä½“'>å®‰å…¨ç­–ç•¥</span><span
+<p class=MsoToc3><a href="#_Toc26097968"><span style='font-family:ËÎÌå'>°²È«²ßÂÔ</span><span
 lang=EN-US>Security</span><span lang=EN-US style='color:windowtext;display:
 none;text-decoration:none'>. </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>54</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097969"><span lang=EN-US>HTTP API</span><span
-style='font-family:å®‹ä½“'>æŽ¥å£</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>½Ó¿Ú</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>57</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097970"><span lang=EN-US>RTMP</span><span
-style='font-family:å®‹ä½“'>æµ‹é€Ÿ</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>²âËÙ</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>71</span></a></p>
 
-<p class=MsoToc2><a href="#_Toc26097971"><span style='font-family:å®‹ä½“'>å…¶ä»–åŠŸèƒ½</span><span
+<p class=MsoToc2><a href="#_Toc26097971"><span style='font-family:ËÎÌå'>ÆäËû¹¦ÄÜ</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>74</span></a></p>
 
@@ -384,21 +2077,21 @@ lang=EN-US style='color:windowtext;display:none;text-decoration:none'>. </span><
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>77</span></a></p>
 
 <p class=MsoToc2><a href="#_Toc26097984"><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>ä¸Žå…¶ä»–æµåª’ä½“æ¯”è¾ƒ</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>ÓëÆäËûÁ÷Ã½Ìå±È½Ï</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>78</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26097985"><span style='font-family:å®‹ä½“'>æµå‘åˆ†</span><span
+<p class=MsoToc3><a href="#_Toc26097985"><span style='font-family:ËÎÌå'>Á÷·¢·Ö</span><span
 lang=EN-US> Stream Delivery</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>. </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>78</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26097986"><span style='font-family:å®‹ä½“'>é›†ç¾¤</span><span
+<p class=MsoToc3><a href="#_Toc26097986"><span style='font-family:ËÎÌå'>¼¯Èº</span><span
 lang=EN-US> Cluster</span><span lang=EN-US style='color:windowtext;display:
 none;text-decoration:none'>. </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>79</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26097987"><span style='font-family:å®‹ä½“'>æµå¤„ç†æœåŠ¡</span><span
+<p class=MsoToc3><a href="#_Toc26097987"><span style='font-family:ËÎÌå'>Á÷´¦Àí·þÎñ</span><span
 lang=EN-US> Stream Service</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>. </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>79</span></a></p>
@@ -423,336 +2116,336 @@ lang=EN-US style='color:windowtext;display:none;text-decoration:none'>80</span><
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>. </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>80</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26097993"><span style='font-family:å®‹ä½“;
-background:white'>å¸‚é¢ä¸»è¦çš„æµåª’ä½“æœåŠ¡å™¨å¯¹æ¯”</span><span lang=EN-US style='color:windowtext;
+<p class=MsoToc3><a href="#_Toc26097993"><span style='font-family:ËÎÌå;
+background:white'>ÊÐÃæÖ÷ÒªµÄÁ÷Ã½Ìå·þÎñÆ÷¶Ô±È</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>80</span></a></p>
 
 <p class=MsoToc3><a href="#_Toc26097994"><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>å•†ä¸šç‰ˆï¼ˆ</span><span lang=EN-US>BMS</span><span
-style='font-family:å®‹ä½“'>ï¼‰ç®€ä»‹</span><span lang=EN-US style='color:windowtext;
+style='font-family:ËÎÌå'>ÉÌÒµ°æ£¨</span><span lang=EN-US>BMS</span><span
+style='font-family:ËÎÌå'>£©¼ò½é</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>93</span></a></p>
 
-<p class=MsoToc1><a href="#_Toc26097995"><span style='font-family:å®‹ä½“'>å¸¸ç”¨çš„ç›´æ’­å¹³å°ç½‘ç«™</span><span
+<p class=MsoToc1><a href="#_Toc26097995"><span style='font-family:ËÎÌå'>³£ÓÃµÄÖ±²¥Æ½Ì¨ÍøÕ¾</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>96</span></a></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
 <h1 style='margin-left:21.25pt;text-indent:-21.25pt'><a name="_Toc26097916"><span
-lang=EN-US>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span>ç®€ä»‹</a></h1>
+lang=EN-US>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span>¼ò½é</a></h1>
 
 <p class=MsoNormal style='text-indent:28.0pt'><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>è¯¥æ–‡æ¡£ä»‹ç»äº†å¼€æºç›´æ’­æœåŠ¡å™¨<span lang=EN-US>SRS</span>æž¶æž„ã€åŠŸèƒ½ä»¥åŠåº”ç”¨ã€<span
-lang=EN-US>SRS</span>ä¸Žå…¶ä»–ç›´æ’­æœåŠ¡å™¨çš„æ¯”è¾ƒã€<span lang=EN-US>SRS</span>å•†ä¸šç‰ˆçš„åŠŸèƒ½ç®€ä»‹ã€‚å†…å®¹ä¸»è¦æ¥è‡ªäºŽ<span
-lang=EN-US>SRS WIKI</span>æ•´ç†ï¼Œä»¥åŠç½‘ä¸Šæœ‰å…³åšå®¢å†…å®¹<span lang=EN-US>,</span>æœ‰äº›åœ°æ–¹åŠ äº†è¡¥å……å†…å®¹ã€‚å‡ºæŽ‰<span
-lang=EN-US>WIKI</span>ä¸Šä¸€äº›è®²è§£é…ç½®ä½¿ç”¨çš„å†…å®¹ï¼Œéœ€è¦äº†è§£è¿™äº›å†…å®¹å¯ç‚¹å‡»æ–‡æ¡£ä¸­ç›¸å…³<span lang=EN-US>wiki</span>é“¾æŽ¥ã€‚</span></p>
+font-family:ËÎÌå'>¸ÃÎÄµµ½éÉÜÁË¿ªÔ´Ö±²¥·þÎñÆ÷<span lang=EN-US>SRS</span>¼Ü¹¹¡¢¹¦ÄÜÒÔ¼°Ó¦ÓÃ¡¢<span
+lang=EN-US>SRS</span>ÓëÆäËûÖ±²¥·þÎñÆ÷µÄ±È½Ï¡¢<span lang=EN-US>SRS</span>ÉÌÒµ°æµÄ¹¦ÄÜ¼ò½é¡£ÄÚÈÝÖ÷ÒªÀ´×ÔÓÚ<span
+lang=EN-US>SRS WIKI</span>ÕûÀí£¬ÒÔ¼°ÍøÉÏÓÐ¹Ø²©¿ÍÄÚÈÝ<span lang=EN-US>,</span>ÓÐÐ©µØ·½¼ÓÁË²¹³äÄÚÈÝ¡£³öµô<span
+lang=EN-US>WIKI</span>ÉÏÒ»Ð©½²½âÅäÖÃÊ¹ÓÃµÄÄÚÈÝ£¬ÐèÒªÁË½âÕâÐ©ÄÚÈÝ¿Éµã»÷ÎÄµµÖÐÏà¹Ø<span lang=EN-US>wiki</span>Á´½Ó¡£</span></p>
 
 <p class=MsoNormal style='text-indent:28.0pt'><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>æ•´ç†è¿™äº›å†…å®¹çš„ç›®çš„æ˜¯ä¸ºäº†æ–¹ä¾¿æŸ¥é˜…ï¼Œé˜…è¯»åŽèƒ½å¯¹<span lang=EN-US>SRS</span>æ¯”è¾ƒå…¨é¢çš„äº†è§£ï¼Œç‰¹åˆ«æ˜¯å¯¹åˆšæŽ¥è§£<span
-lang=EN-US>SRS</span>çš„ä½¿ç”¨è€…ã€‚</span></p>
+font-family:ËÎÌå'>ÕûÀíÕâÐ©ÄÚÈÝµÄÄ¿µÄÊÇÎªÁË·½±ã²éÔÄ£¬ÔÄ¶ÁºóÄÜ¶Ô<span lang=EN-US>SRS</span>±È½ÏÈ«ÃæµÄÁË½â£¬ÌØ±ðÊÇ¶Ô¸Õ½Ó½â<span
+lang=EN-US>SRS</span>µÄÊ¹ÓÃÕß¡£</span></p>
 
 <h2 style='margin-left:1.0cm;text-indent:-1.0cm'><a name="_Toc26097917"><span
 lang=EN-US>1.1.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-lang=EN-US>SRS</span></a><span style='font-family:å®‹ä½“'>åŠŸèƒ½</span></h2>
+lang=EN-US>SRS</span></a><span style='font-family:ËÎÌå'>¹¦ÄÜ</span></h2>
 
 <p class=MsoNormal style='text-indent:28.0pt'><span lang=EN-US
-style='font-size:14.0pt;font-family:å®‹ä½“'>SRS</span><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>æä¾›äº†ä¸°å¯Œçš„æŽ¥å…¥æ–¹æ¡ˆå°†<span lang=EN-US>RTMP</span>æµæŽ¥å…¥<span lang=EN-US>SRS</span>ï¼ŒåŒ…æ‹¬æŽ¨é€<span
-lang=EN-US>RTMP</span>åˆ°<span lang=EN-US>SRS</span>ã€æŽ¨é€<span lang=EN-US>RTSP/UDP/FLV</span>åˆ°<span
-lang=EN-US>SRS</span>ã€æ‹‰å–æµåˆ°<span lang=EN-US>SRS</span>ã€‚<span lang=EN-US>SRS</span>è¿˜æ”¯æŒå°†æŽ¥å…¥çš„<span
-lang=EN-US>RTMP</span>æµè¿›è¡Œå„ç§å˜æ¢ï¼Œè­¬å¦‚å°†<span lang=EN-US>RTMP</span>æµè½¬ç ã€æµæˆªå›¾ã€è½¬å‘ç»™å…¶ä»–æœåŠ¡å™¨ã€è½¬å°è£…æˆ<span
-lang=EN-US>HTTP-FLV</span>æµã€è½¬å°è£…æˆ<span lang=EN-US>HLS</span>ã€è½¬å°è£…æˆ<span
-lang=EN-US>HDS</span>ã€å½•åˆ¶æˆ<span lang=EN-US>FLV</span>ã€‚<span lang=EN-US>SRS</span>åŒ…å«æ”¯å¤§è§„æ¨¡é›†ç¾¤å¦‚<span
-lang=EN-US>CDN</span>ä¸šåŠ¡çš„å…³é”®ç‰¹æ€§ï¼Œè­¬å¦‚<span lang=EN-US>RTMP</span>å¤šçº§é›†ç¾¤ã€<span
-lang=EN-US>VHOST</span>è™šæ‹ŸæœåŠ¡å™¨ã€æ— ä¸­æ–­æœåŠ¡<span lang=EN-US>Reload</span>ã€<span
-lang=EN-US>HTTP-FLV</span>é›†ç¾¤ã€<span lang=EN-US>Kafka</span>å¯¹æŽ¥ã€‚æ­¤å¤–ï¼Œ<span
-lang=EN-US>SRS</span>è¿˜æä¾›ä¸°å¯Œçš„åº”ç”¨æŽ¥å£ï¼ŒåŒ…æ‹¬<span lang=EN-US>HTTP</span>å›žè°ƒã€å®‰å…¨ç­–ç•¥<span
-lang=EN-US>Security</span>ã€<span lang=EN-US>HTTP API</span>æŽ¥å£ã€<span lang=EN-US>RTMP</span>æµ‹é€Ÿã€‚</span></p>
+style='font-size:14.0pt;font-family:ËÎÌå'>SRS</span><span style='font-size:14.0pt;
+font-family:ËÎÌå'>Ìá¹©ÁË·á¸»µÄ½ÓÈë·½°¸½«<span lang=EN-US>RTMP</span>Á÷½ÓÈë<span lang=EN-US>SRS</span>£¬°üÀ¨ÍÆËÍ<span
+lang=EN-US>RTMP</span>µ½<span lang=EN-US>SRS</span>¡¢ÍÆËÍ<span lang=EN-US>RTSP/UDP/FLV</span>µ½<span
+lang=EN-US>SRS</span>¡¢À­È¡Á÷µ½<span lang=EN-US>SRS</span>¡£<span lang=EN-US>SRS</span>»¹Ö§³Ö½«½ÓÈëµÄ<span
+lang=EN-US>RTMP</span>Á÷½øÐÐ¸÷ÖÖ±ä»»£¬Æ©Èç½«<span lang=EN-US>RTMP</span>Á÷×ªÂë¡¢Á÷½ØÍ¼¡¢×ª·¢¸øÆäËû·þÎñÆ÷¡¢×ª·â×°³É<span
+lang=EN-US>HTTP-FLV</span>Á÷¡¢×ª·â×°³É<span lang=EN-US>HLS</span>¡¢×ª·â×°³É<span
+lang=EN-US>HDS</span>¡¢Â¼ÖÆ³É<span lang=EN-US>FLV</span>¡£<span lang=EN-US>SRS</span>°üº¬Ö§´ó¹æÄ£¼¯ÈºÈç<span
+lang=EN-US>CDN</span>ÒµÎñµÄ¹Ø¼üÌØÐÔ£¬Æ©Èç<span lang=EN-US>RTMP</span>¶à¼¶¼¯Èº¡¢<span
+lang=EN-US>VHOST</span>ÐéÄâ·þÎñÆ÷¡¢ÎÞÖÐ¶Ï·þÎñ<span lang=EN-US>Reload</span>¡¢<span
+lang=EN-US>HTTP-FLV</span>¼¯Èº¡¢<span lang=EN-US>Kafka</span>¶Ô½Ó¡£´ËÍâ£¬<span
+lang=EN-US>SRS</span>»¹Ìá¹©·á¸»µÄÓ¦ÓÃ½Ó¿Ú£¬°üÀ¨<span lang=EN-US>HTTP</span>»Øµ÷¡¢°²È«²ßÂÔ<span
+lang=EN-US>Security</span>¡¢<span lang=EN-US>HTTP API</span>½Ó¿Ú¡¢<span lang=EN-US>RTMP</span>²âËÙ¡£</span></p>
 
 <h2 style='margin-left:1.0cm;text-indent:-1.0cm'><a name="_Toc26097918"></a><a
 name="_Toc462219404"><span lang=EN-US>1.2.<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span><span style='font-family:å®‹ä½“'>æž¶æž„</span></a></h2>
+</span></span><span style='font-family:ËÎÌå'>¼Ü¹¹</span></a></h2>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 +---------+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 +----------+</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 | Publish
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp; Deliver |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 +---|-----+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 +----|-----+</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>+----------------------+-------------------------+----------------+</span></p>
+style='font-size:12.0pt;font-family:ËÎÌå'>+----------------------+-------------------------+----------------+</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;&nbsp;&nbsp;&nbsp;
 Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 SRS(Simple RTMP Server) |&nbsp;&nbsp;&nbsp;&nbsp;
 Output&nbsp;&nbsp;&nbsp;&nbsp; |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>+----------------------+-------------------------+----------------+</span></p>
+style='font-size:12.0pt;font-family:ËÎÌå'>+----------------------+-------------------------+----------------+</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;&nbsp;&nbsp;
 Encoder(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp; +-&gt;
 RTMP/HDS&nbsp; --------+-&gt; Flash player |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp; (FMLE,FFMPEG,
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp; (FMLE,FFMPEG,
 -rtmp-+-&gt;-+-&gt; HLS/HTTP ---------+-&gt; M3u8 player&nbsp; |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;
 Flash,XSPLIT,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp; +-&gt;
 FLV/MP3/Aac/Ts ---+-&gt; HTTP player&nbsp; |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;
 ......)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp; +-&gt; Fowarder ---------+-&gt; RTMP server&nbsp; |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp; +-&gt; Transcoder -------+-&gt; RTMP server&nbsp; |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp; +-&gt; DVR --------------+-&gt; Flv file&nbsp;&nbsp;&nbsp;&nbsp;
 |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp; +-&gt; BandwidthTest ----+-&gt;
 flash&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>+----------------------+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>+----------------------+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;
 MediaSource(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;
 (RTSP,FILE,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;&nbsp; HTTP,HLS,&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;&nbsp; HTTP,HLS,&nbsp;&nbsp;
 --pull-+-&gt;-- Ingester(3) -(rtmp)-+-&gt;
 SRS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;&nbsp; Device,&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;&nbsp; Device,&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;&nbsp;
 ......)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>+----------------------+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>+----------------------+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;
 MediaSource(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;
 (RTSP,FILE,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;&nbsp; HTTP,HLS,&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;&nbsp; HTTP,HLS,&nbsp;&nbsp;
 --push-+-&gt;-- Streamer(4) -(rtmp)-+-&gt;
 SRS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;&nbsp;
 Device,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>|&nbsp;&nbsp;
+style='font-size:12.0pt;font-family:ËÎÌå'>|&nbsp;&nbsp;
 ......)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-size:12.0pt;font-family:å®‹ä½“'>+----------------------+-------------------------+----------------+</span></p>
+style='font-size:12.0pt;font-family:ËÎÌå'>+----------------------+-------------------------+----------------+</span></p>
 
 <h1 style='margin-left:21.25pt;text-indent:-21.25pt'><a name="_Toc26097919"></a><a
 name="_Toc462219405"></a><a name="_Toc456260508"><span lang=EN-US>2.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span>æµæŽ¥å…¥æ–¹å¼</a></h1>
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span>Á÷½ÓÈë·½Ê½</a></h1>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>å¯ä»¥é€šè¿‡ä»¥ä¸‹å‡ ç§æ–¹å¼å°†éŸ³è§†é¢‘æµæŽ¥å…¥åˆ°</span><span lang=EN-US style='font-size:
+font-family:ËÎÌå'>¿ÉÒÔÍ¨¹ýÒÔÏÂ¼¸ÖÖ·½Ê½½«ÒôÊÓÆµÁ÷½ÓÈëµ½</span><span lang=EN-US style='font-size:
 14.0pt'>SRS: </span></p>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
 style='font-size:14.0pt'>1.</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>å®¢æˆ·ç«¯ä½¿ç”¨ç¼–ç å™¨å°†éŸ³è§†é¢‘ç¼–ç æˆ</span><span lang=EN-US style='font-size:14.0pt'>h264 ,aac,mp3</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ä½¿ç”¨</span><span lang=EN-US
+ËÎÌå'>¿Í»§¶ËÊ¹ÓÃ±àÂëÆ÷½«ÒôÊÓÆµ±àÂë³É</span><span lang=EN-US style='font-size:14.0pt'>h264 ,aac,mp3</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>Ê¹ÓÃ</span><span lang=EN-US
 style='font-size:14.0pt'>rtmp</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>åè®®æŽ¨é€åˆ°</span><span lang=EN-US style='font-size:14.0pt'>SRS;</span></p>
+ËÎÌå'>Ð­ÒéÍÆËÍµ½</span><span lang=EN-US style='font-size:14.0pt'>SRS;</span></p>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
 style='font-size:14.0pt'>2.</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ä½¿ç”¨</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>é‡‡å–å™¨</span><span lang=EN-US
+ËÎÌå'>Ê¹ÓÃ</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>²ÉÈ¡Æ÷</span><span lang=EN-US
 style='font-size:14.0pt'>(</span><span lang=EN-US style='font-size:14.0pt;
-font-family:å®‹ä½“'>Ingester</span><span lang=EN-US style='font-size:14.0pt'>),</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>å°†å„ç§æº</span><span lang=EN-US
+font-family:ËÎÌå'>Ingester</span><span lang=EN-US style='font-size:14.0pt'>),</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>½«¸÷ÖÖÔ´</span><span lang=EN-US
 style='font-size:14.0pt'>(</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>æµï¼Œæ–‡ä»¶ï¼Œè®¾å¤‡ç­‰</span><span lang=EN-US style='font-size:14.0pt'>)</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>æ‹‰è¿‡æ¥åŽï¼ŒæŽ¨é€ç»™è‡ªå·±</span><span lang=EN-US
+ËÎÌå'>Á÷£¬ÎÄ¼þ£¬Éè±¸µÈ</span><span lang=EN-US style='font-size:14.0pt'>)</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>À­¹ýÀ´ºó£¬ÍÆËÍ¸ø×Ô¼º</span><span lang=EN-US
 style='font-size:14.0pt'>;</span></p>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
 style='font-size:14.0pt'>3.SRS</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ä½œä¸ºæœåŠ¡å™¨ä¾¦å¬å¹¶æŽ¥æ”¶å…¶ä»–åè®®çš„æµï¼ˆè­¬å¦‚</span><span lang=EN-US style='font-size:14.0pt'>RTSP</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US
+ËÎÌå'>×÷Îª·þÎñÆ÷ÕìÌý²¢½ÓÊÕÆäËûÐ­ÒéµÄÁ÷£¨Æ©Èç</span><span lang=EN-US style='font-size:14.0pt'>RTSP</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>£¬</span><span lang=EN-US
 style='font-size:14.0pt'>MPEG-TS over UDP</span><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>ç­‰ç­‰ï¼‰ï¼Œå°†åè®®çš„æµè½¬æ¢æˆ</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>æŽ¨é€ç»™è‡ªå·±</span><span lang=EN-US
+font-family:ËÎÌå'>µÈµÈ£©£¬½«Ð­ÒéµÄÁ÷×ª»»³É</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>ÍÆËÍ¸ø×Ô¼º</span><span lang=EN-US
 style='font-size:14.0pt'>;</span></p>
 
 <h2 style='margin-left:1.0cm;text-indent:-1.0cm'><a name="_Toc26097920"></a><a
 name="_Toc462219406"></a><a name="_Toc456260509"><span lang=EN-US>2.1.<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-style='font-family:å®‹ä½“'>æŽ¨é€</span><span lang=EN-US>RTMP</span></a><span
-style='font-family:å®‹ä½“'>åˆ°</span><span lang=EN-US>SRS</span></h2>
+style='font-family:ËÎÌå'>ÍÆËÍ</span><span lang=EN-US>RTMP</span></a><span
+style='font-family:ËÎÌå'>µ½</span><span lang=EN-US>SRS</span></h2>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>è¿™æ˜¯</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>çš„æ ¸å¿ƒåŠŸèƒ½ä¹‹ä¸€ï¼Œé€šè¿‡å®¢æˆ·ç«¯ä½¿ç”¨</span><span lang=EN-US
+font-family:ËÎÌå'>ÕâÊÇ</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>µÄºËÐÄ¹¦ÄÜÖ®Ò»£¬Í¨¹ý¿Í»§¶ËÊ¹ÓÃ</span><span lang=EN-US
 style='font-size:14.0pt'>rtmp</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>åè®®å°†éŸ³è§†é¢‘æµæŽ¨é€</span><span lang=EN-US style='font-size:14.0pt'>srs</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ã€‚ç„¶åŽä½¿ç”¨</span><span lang=EN-US
+ËÎÌå'>Ð­Òé½«ÒôÊÓÆµÁ÷ÍÆËÍ</span><span lang=EN-US style='font-size:14.0pt'>srs</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>¡£È»ºóÊ¹ÓÃ</span><span lang=EN-US
 style='font-size:14.0pt'>rtmp</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>æ’­æ”¾å™¨è¿žæŽ¥</span><span lang=EN-US style='font-size:14.0pt'>srs</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>åŽè§‚çœ‹ï¼Œ</span><span style='font-size:14.0pt'>
+ËÎÌå'>²¥·ÅÆ÷Á¬½Ó</span><span lang=EN-US style='font-size:14.0pt'>srs</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>ºó¹Û¿´£¬</span><span style='font-size:14.0pt'>
 <span lang=EN-US>Srs</span></span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ç›®å‰æ”¯æŒè§†é¢‘</span><span lang=EN-US style='font-size:14.0pt'>H264, </span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>éŸ³é¢‘</span><span lang=EN-US
+ËÎÌå'>Ä¿Ç°Ö§³ÖÊÓÆµ</span><span lang=EN-US style='font-size:14.0pt'>H264, </span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>ÒôÆµ</span><span lang=EN-US
 style='font-size:14.0pt'>AAC</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ã€</span><span lang=EN-US style='font-size:14.0pt'>MP3</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ã€‚</span></p>
+ËÎÌå'>¡¢</span><span lang=EN-US style='font-size:14.0pt'>MP3</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>¡£</span></p>
 
 <h2 style='margin-left:1.0cm;text-indent:-1.0cm'><a name="_Toc26097921"></a><a
 name="_Toc462219407"><span lang=EN-US>2.2.<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span><span style='font-family:å®‹ä½“'>åˆ†å‘</span><span lang=EN-US>RTMP</span></a><span
-style='font-family:å®‹ä½“'>æµ</span></h2>
+</span></span><span style='font-family:ËÎÌå'>·Ö·¢</span><span lang=EN-US>RTMP</span></a><span
+style='font-family:ËÎÌå'>Á÷</span></h2>
 
 <p style='text-indent:28.0pt'><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt'>ï¼ˆ<span lang=EN-US>Simple RTMP Server</span>ï¼‰åˆ†å‘<span
-lang=EN-US>RTMP</span>ä¹Ÿæ˜¯æ ¸å¿ƒåŠŸèƒ½ä¹‹ä¸€ï¼Œ<span lang=EN-US>srs</span>çš„ä¸»è¦å®šä½å°±æ˜¯åˆ†å‘<span
-lang=EN-US>RTMP</span>ä½Žå»¶æ—¶æµåª’ä½“ï¼ŒåŒæ—¶æ”¯æŒåˆ†å‘<span lang=EN-US>HLS</span>æµã€‚</span></p>
+style='font-size:14.0pt'>£¨<span lang=EN-US>Simple RTMP Server</span>£©·Ö·¢<span
+lang=EN-US>RTMP</span>Ò²ÊÇºËÐÄ¹¦ÄÜÖ®Ò»£¬<span lang=EN-US>srs</span>µÄÖ÷Òª¶¨Î»¾ÍÊÇ·Ö·¢<span
+lang=EN-US>RTMP</span>µÍÑÓÊ±Á÷Ã½Ìå£¬Í¬Ê±Ö§³Ö·Ö·¢<span lang=EN-US>HLS</span>Á÷¡£</span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097922"></a><a
 name="_Toc462219408"><span lang=EN-US>2.2.1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><span style='font-family:å®‹ä½“'>åº”ç”¨åœºæ™¯</span></a></h3>
+</span></span><span style='font-family:ËÎÌå'>Ó¦ÓÃ³¡¾°</span></a></h3>
 
 <p><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span style='font-size:
-14.0pt'>æ˜¯<span lang=EN-US>PC-flash</span>æ”¯æŒæœ€å®Œå–„çš„æµåˆ†å‘æ–¹å¼ï¼Œä¸»è¦çš„åº”ç”¨åœºæ™¯åŒ…æ‹¬ï¼š</span></p>
+14.0pt'>ÊÇ<span lang=EN-US>PC-flash</span>Ö§³Ö×îÍêÉÆµÄÁ÷·Ö·¢·½Ê½£¬Ö÷ÒªµÄÓ¦ÓÃ³¡¾°°üÀ¨£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>æ— æ’ä»¶æµåª’ä½“åº”ç”¨ï¼šåå¹´å‰å„ç§æµè§ˆå™¨æ’ä»¶å¤§è¡Œå…¶é“ï¼Œæœ€åŽ</span><span lang=EN-US
+     font-family:ËÎÌå'>ÎÞ²å¼þÁ÷Ã½ÌåÓ¦ÓÃ£ºÊ®ÄêÇ°¸÷ÖÖä¯ÀÀÆ÷²å¼þ´óÐÐÆäµÀ£¬×îºó</span><span lang=EN-US
      style='font-size:14.0pt'>adobe</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>çš„</span><span lang=EN-US style='font-size:14.0pt'>flash</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>ä¸€ç»Ÿå¤©ä¸‹ï¼ŒçŽ°åœ¨å¦‚ä½•è§‚çœ‹è§†é¢‘è¿˜éœ€è¦ç”¨æˆ·è£…æ’ä»¶ï¼Œå·²ç»æ˜¯éžå¸¸ç½•è§çš„äº‹æƒ…ã€‚æ‰“å¼€æµè§ˆå™¨å°±èƒ½ç”¨ï¼Œä¸ç”¨è£…æ’ä»¶ï¼Œè¿™æ˜¯</span><span
+     font-family:ËÎÌå'>µÄ</span><span lang=EN-US style='font-size:14.0pt'>flash</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>Ò»Í³ÌìÏÂ£¬ÏÖÔÚÈçºÎ¹Û¿´ÊÓÆµ»¹ÐèÒªÓÃ»§×°²å¼þ£¬ÒÑ¾­ÊÇ·Ç³£º±¼ûµÄÊÂÇé¡£´ò¿ªä¯ÀÀÆ÷¾ÍÄÜÓÃ£¬²»ÓÃ×°²å¼þ£¬ÕâÊÇ</span><span
      lang=EN-US style='font-size:14.0pt'>RTMP</span><span style='font-size:
-     14.0pt;font-family:å®‹ä½“'>çš„æœ€åŸºæœ¬çš„åº”ç”¨æ–¹å¼ã€‚</span></li>
+     14.0pt;font-family:ËÎÌå'>µÄ×î»ù±¾µÄÓ¦ÓÃ·½Ê½¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>é€‚é…å¹¿æ³›çš„æ’­æ”¾å™¨ï¼šå¦‚æžœæ²¡æœ‰ä¸“ä¸šçš„</span><span lang=EN-US style='font-size:
-     14.0pt'>flash</span><span style='font-size:14.0pt;font-family:å®‹ä½“'>å¼€å‘äººå‘˜ï¼Œé‚£ä¹ˆ</span><span
+     font-family:ËÎÌå'>ÊÊÅä¹ã·ºµÄ²¥·ÅÆ÷£ºÈç¹ûÃ»ÓÐ×¨ÒµµÄ</span><span lang=EN-US style='font-size:
+     14.0pt'>flash</span><span style='font-size:14.0pt;font-family:ËÎÌå'>¿ª·¢ÈËÔ±£¬ÄÇÃ´</span><span
      lang=EN-US style='font-size:14.0pt'>RTMP</span><span style='font-size:
-     14.0pt;font-family:å®‹ä½“'>ä¼šæ˜¯ä¸ªå¾ˆå¥½çš„é€‰æ‹©ï¼Œåªè¦</span><span lang=EN-US
+     14.0pt;font-family:ËÎÌå'>»áÊÇ¸öºÜºÃµÄÑ¡Ôñ£¬Ö»Òª</span><span lang=EN-US
      style='font-size:14.0pt'>3</span><span style='font-size:14.0pt;font-family:
-     å®‹ä½“'>è¡Œä»£ç å°±èƒ½å®Œæˆä¸€ä¸ªæ’­æ”¾å™¨ï¼Œå’Œ</span><span lang=EN-US style='font-size:14.0pt'>html5</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>çš„</span><span lang=EN-US
+     ËÎÌå'>ÐÐ´úÂë¾ÍÄÜÍê³ÉÒ»¸ö²¥·ÅÆ÷£¬ºÍ</span><span lang=EN-US style='font-size:14.0pt'>html5</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>µÄ</span><span lang=EN-US
      style='font-size:14.0pt'>video</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>æ ‡ç­¾ä¸€æ ·æ–¹ä¾¿ã€‚</span><span lang=EN-US style='font-size:14.0pt'>HDS/HLS</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>åœ¨</span><span lang=EN-US
+     font-family:ËÎÌå'>±êÇ©Ò»Ñù·½±ã¡£</span><span lang=EN-US style='font-size:14.0pt'>HDS/HLS</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>ÔÚ</span><span lang=EN-US
      style='font-size:14.0pt'>PC</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ä¸Šï¼Œéƒ½éœ€è¦åº“æ”¯æŒï¼Œ</span><span lang=EN-US style='font-size:14.0pt'>N</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>è¡Œä»£ç å¾ˆéº»çƒ¦ã€‚</span></li>
+     font-family:ËÎÌå'>ÉÏ£¬¶¼ÐèÒª¿âÖ§³Ö£¬</span><span lang=EN-US style='font-size:14.0pt'>N</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>ÐÐ´úÂëºÜÂé·³¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>è‹›åˆ»çš„ç¨³å®šæ€§æ”¯æŒï¼š</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>æœåŠ¡å™¨èƒ½</span><span lang=EN-US
+     font-family:ËÎÌå'>¿Á¿ÌµÄÎÈ¶¨ÐÔÖ§³Ö£º</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>·þÎñÆ÷ÄÜ</span><span lang=EN-US
      style='font-size:14.0pt'>365x24</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>æä¾›æœåŠ¡ï¼Œå½“ç„¶</span><span lang=EN-US style='font-size:14.0pt'>http</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>æœåŠ¡å™¨ä¹Ÿå¯ä»¥ã€‚å®¢æˆ·ç«¯çš„ç¨³å®šæ€§å‘¢ï¼Ÿ</span><span
+     font-family:ËÎÌå'>Ìá¹©·þÎñ£¬µ±È»</span><span lang=EN-US style='font-size:14.0pt'>http</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>·þÎñÆ÷Ò²¿ÉÒÔ¡£¿Í»§¶ËµÄÎÈ¶¨ÐÔÄØ£¿</span><span
      lang=EN-US style='font-size:14.0pt'>RTMP</span><span style='font-size:
-     14.0pt;font-family:å®‹ä½“'>åœ¨</span><span lang=EN-US style='font-size:14.0pt'>flash</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>ä¸­è¿žç»­æ’­æ”¾</span><span lang=EN-US
+     14.0pt;font-family:ËÎÌå'>ÔÚ</span><span lang=EN-US style='font-size:14.0pt'>flash</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>ÖÐÁ¬Ðø²¥·Å</span><span lang=EN-US
      style='font-size:14.0pt'>10</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>å¤©</span><span style='font-size:14.0pt'> </span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>æ²¡æœ‰é—®é¢˜ï¼Œ</span><span lang=EN-US
+     font-family:ËÎÌå'>Ìì</span><span style='font-size:14.0pt'> </span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>Ã»ÓÐÎÊÌâ£¬</span><span lang=EN-US
      style='font-size:14.0pt'>flash</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>å¦‚æžœæ’­æ”¾</span><span lang=EN-US style='font-size:14.0pt'>HTTP</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>æµå°±çœŸçš„å¾ˆéš¾è®²ã€‚å¦‚æžœåœ¨</span><span
+     font-family:ËÎÌå'>Èç¹û²¥·Å</span><span lang=EN-US style='font-size:14.0pt'>HTTP</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>Á÷¾ÍÕæµÄºÜÄÑ½²¡£Èç¹ûÔÚ</span><span
      lang=EN-US style='font-size:14.0pt'>PC</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ä¸Šéœ€è¦å®¢æˆ·ç«¯é•¿æ—¶é—´æ’­æ”¾ï¼Œç¨³å®šæ’­æ”¾ï¼Œé€‰æ‹©</span><span lang=EN-US
+     font-family:ËÎÌå'>ÉÏÐèÒª¿Í»§¶Ë³¤Ê±¼ä²¥·Å£¬ÎÈ¶¨²¥·Å£¬Ñ¡Ôñ</span><span lang=EN-US
      style='font-size:14.0pt'>RTMP</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ä¼šæ˜¯æœ€ä½³é€‰æ‹©ã€‚</span></li>
+     font-family:ËÎÌå'>»áÊÇ×î¼ÑÑ¡Ôñ¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ç¨³å®šçš„è¾ƒå°å»¶è¿Ÿï¼š</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>å»¶è¿Ÿåœ¨</span><span lang=EN-US
+     font-family:ËÎÌå'>ÎÈ¶¨µÄ½ÏÐ¡ÑÓ³Ù£º</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>ÑÓ³ÙÔÚ</span><span lang=EN-US
      style='font-size:14.0pt'>0.8-3</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ç§’ï¼Œèƒ½åº”ç”¨äºŽäº¤äº’å¼ç›´æ’­ï¼Œè§†é¢‘ä¼šè®®ï¼Œäº’åŠ¨å¼ç›´æ’­ç­‰ç­‰ã€‚å¦‚æžœå¯¹å»¶æ—¶æœ‰ä¸€å®šè¦æ±‚ï¼Œå°±ä¸è¦é€‰æ‹©</span><span
+     font-family:ËÎÌå'>Ãë£¬ÄÜÓ¦ÓÃÓÚ½»»¥Ê½Ö±²¥£¬ÊÓÆµ»áÒé£¬»¥¶¯Ê½Ö±²¥µÈµÈ¡£Èç¹û¶ÔÑÓÊ±ÓÐÒ»¶¨ÒªÇó£¬¾Í²»ÒªÑ¡Ôñ</span><span
      lang=EN-US style='font-size:14.0pt'>HLS</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>ä¼šæ˜¯æœ€ä½³é€‰æ‹©ã€‚</span></li>
+     font-family:ËÎÌå'>£¬</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>»áÊÇ×î¼ÑÑ¡Ôñ¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>é€šç”¨æŽ¥å…¥æ ‡å‡†ï¼š</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>æ˜¯ç¼–ç å™¨åˆ°æœåŠ¡å™¨çš„å®žé™…æ ‡å‡†åè®®ï¼Œæ‰€æœ‰ç¼–ç å™¨éƒ½æ”¯æŒ</span><span
+     font-family:ËÎÌå'>Í¨ÓÃ½ÓÈë±ê×¼£º</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>ÊÇ±àÂëÆ÷µ½·þÎñÆ÷µÄÊµ¼Ê±ê×¼Ð­Òé£¬ËùÓÐ±àÂëÆ÷¶¼Ö§³Ö</span><span
      lang=EN-US style='font-size:14.0pt'>RTMP</span><span style='font-size:
-     14.0pt;font-family:å®‹ä½“'>æŽ¨é€æµã€‚é€‰æ‹©</span><span lang=EN-US style='font-size:
-     14.0pt'>RTMP</span><span style='font-size:14.0pt;font-family:å®‹ä½“'>ä½œä¸ºç›´æ’­æŽ¥å…¥åè®®ï¼Œèƒ½é€‚é…å¤šç§ç¼–ç å™¨ï¼Œä¸è‡³äºŽç»‘å®šåˆ°ä¸€ç§ç¼–ç å™¨ã€‚å¦‚æžœæœåŠ¡å™¨åªèƒ½æŽ¥å…¥</span><span
+     14.0pt;font-family:ËÎÌå'>ÍÆËÍÁ÷¡£Ñ¡Ôñ</span><span lang=EN-US style='font-size:
+     14.0pt'>RTMP</span><span style='font-size:14.0pt;font-family:ËÎÌå'>×÷ÎªÖ±²¥½ÓÈëÐ­Òé£¬ÄÜÊÊÅä¶àÖÖ±àÂëÆ÷£¬²»ÖÁÓÚ°ó¶¨µ½Ò»ÖÖ±àÂëÆ÷¡£Èç¹û·þÎñÆ÷Ö»ÄÜ½ÓÈë</span><span
      lang=EN-US style='font-size:14.0pt'>HTTP FLV</span><span style='font-size:
-     14.0pt;font-family:å®‹ä½“'>æµï¼ŒåƒæŸäº›å…¬å¸åšçš„ç§æœ‰åè®®ï¼Œé‚£ä¹ˆå¯¹æŽ¥é€šç”¨ç¼–ç å™¨å°±æœ‰é—®é¢˜ã€‚ä½•å¿…é—­é—¨é€ è½¦ï¼Ÿï¼ç»‘å®šç”¨æˆ·çš„æ–¹å¼åœ¨äºŽè‰¯å¥½çš„å®¢æˆ·å…³ç³»å’Œä¼˜ç§€çš„è½¯ä»¶è´¨é‡ï¼Œè€Œä¸æ˜¯ä¸Šäº†è´¼èˆ¹å°±</span><span
+     14.0pt;font-family:ËÎÌå'>Á÷£¬ÏñÄ³Ð©¹«Ë¾×öµÄË½ÓÐÐ­Òé£¬ÄÇÃ´¶Ô½ÓÍ¨ÓÃ±àÂëÆ÷¾ÍÓÐÎÊÌâ¡£ºÎ±Ø±ÕÃÅÔì³µ£¿£¡°ó¶¨ÓÃ»§µÄ·½Ê½ÔÚÓÚÁ¼ºÃµÄ¿Í»§¹ØÏµºÍÓÅÐãµÄÈí¼þÖÊÁ¿£¬¶ø²»ÊÇÉÏÁËÔô´¬¾Í</span><span
      style='font-size:14.0pt'> </span><span style='font-size:14.0pt;font-family:
-     å®‹ä½“'>ä¸‹ä¸äº†èˆ¹äº†ã€‚</span></li>
+     ËÎÌå'>ÏÂ²»ÁË´¬ÁË¡£</span></li>
 </ul>
 
 <p style='text-indent:28.0pt'><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt'>ç›´æ’­å°†<span lang=EN-US>RTMP</span>ä½œä¸ºåŸºæœ¬åè®®ï¼Œä»¥å„ç§æ–¹å¼è½¬ç ä¸º<span
-lang=EN-US>RTMP</span>åŽè¾“å…¥åˆ°<span lang=EN-US>SRS</span>ï¼Œè¾“å‡ºä¸º<span lang=EN-US>RTMP</span>å’Œ<span
-lang=EN-US>HLS</span>ï¼Œæ”¯æŒå¹¿æ³›çš„å®¢æˆ·ç«¯å’Œå„ç§åº”ç”¨åœºæ™¯</span>ã€‚</p>
+style='font-size:14.0pt'>Ö±²¥½«<span lang=EN-US>RTMP</span>×÷Îª»ù±¾Ð­Òé£¬ÒÔ¸÷ÖÖ·½Ê½×ªÂëÎª<span
+lang=EN-US>RTMP</span>ºóÊäÈëµ½<span lang=EN-US>SRS</span>£¬Êä³öÎª<span lang=EN-US>RTMP</span>ºÍ<span
+lang=EN-US>HLS</span>£¬Ö§³Ö¹ã·ºµÄ¿Í»§¶ËºÍ¸÷ÖÖÓ¦ÓÃ³¡¾°</span>¡£</p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097923"></a><a
 name="_Toc462219409"><code><span lang=EN-US style='font-size:12.0pt;line-height:
@@ -763,82 +2456,82 @@ lang=EN-US style='font-size:12.0pt;line-height:173%'>WIKI</span></code></a></h3>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097924"></a><a
 name="_Toc462219410"><span lang=EN-US>2.2.3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><span style='font-family:å®‹ä½“'>è¡¥å……</span><span lang=EN-US>:SRS</span></a><span
-style='font-family:å®‹ä½“'>ä¸æ”¯æŒç‚¹æ’­</span></h3>
+</span></span><span style='font-family:ËÎÌå'>²¹³ä</span><span lang=EN-US>:SRS</span></a><span
+style='font-family:ËÎÌå'>²»Ö§³Öµã²¥</span></h3>
 
 <p style='text-indent:28.0pt'><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt'>ä¸æ”¯æŒç‚¹æ’­ï¼Œä¸€èˆ¬ç‚¹æ’­ä¸ä¼šä½¿ç”¨<span lang=EN-US>RTMP</span>ä½œä¸ºç‚¹æ’­åè®®ï¼Œç›®å‰ç‚¹æ’­ä»¥<span
-lang=EN-US>HTTP</span>åè®®ä¸ºä¸»ã€‚<span lang=EN-US>Nginx rtmp</span>å¯ä»¥ä½¿ç”¨<span
-lang=EN-US>rtmp</span>ç‚¹æ’­<span lang=EN-US>.</span>ä¸è¿‡åœ¨æµ‹è¯•è¿‡ç¨‹ä¸­å‘çŽ°ï¼Œæ‰˜æ”¾æ”¯æŒä¸æ˜¯å¾ˆå¥½<span
-lang=EN-US>,</span>å›½å†…å¾ˆå°‘ä½¿ç”¨<span lang=EN-US>rtmp</span>ç‚¹æ’­ï¼ŒçŽ°åœ¨ç‚¹æ’­å¤§éƒ½ä½¿ç”¨<span
-lang=EN-US>http</span>ã€‚</span></p>
+style='font-size:14.0pt'>²»Ö§³Öµã²¥£¬Ò»°ãµã²¥²»»áÊ¹ÓÃ<span lang=EN-US>RTMP</span>×÷Îªµã²¥Ð­Òé£¬Ä¿Ç°µã²¥ÒÔ<span
+lang=EN-US>HTTP</span>Ð­ÒéÎªÖ÷¡£<span lang=EN-US>Nginx rtmp</span>¿ÉÒÔÊ¹ÓÃ<span
+lang=EN-US>rtmp</span>µã²¥<span lang=EN-US>.</span>²»¹ýÔÚ²âÊÔ¹ý³ÌÖÐ·¢ÏÖ£¬ÍÐ·ÅÖ§³Ö²»ÊÇºÜºÃ<span
+lang=EN-US>,</span>¹úÄÚºÜÉÙÊ¹ÓÃ<span lang=EN-US>rtmp</span>µã²¥£¬ÏÖÔÚµã²¥´ó¶¼Ê¹ÓÃ<span
+lang=EN-US>http</span>¡£</span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097925"></a><a
 name="_Toc462219411"><span class=3><span lang=EN-US style='font-weight:normal'>2.2.4.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><span
-class=3><span style='font-family:å®‹ä½“;font-weight:normal'>è¡¥å……</span></span></a><span
+class=3><span style='font-family:ËÎÌå;font-weight:normal'>²¹³ä</span></span></a><span
 class=3><span lang=EN-US style='font-weight:normal'>:</span></span><span
-class=3><span style='font-family:å®‹ä½“;font-weight:normal'>å¸¸ç”¨çš„ç¬¬ä¸‰æ–¹çš„æŽ¨æµä¸Žæ’­æ”¾å·¥å…·</span></span></h3>
+class=3><span style='font-family:ËÎÌå;font-weight:normal'>³£ÓÃµÄµÚÈý·½µÄÍÆÁ÷Óë²¥·Å¹¤¾ß</span></span></h3>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>å¸¸ç”¨çš„ç¬¬ä¸‰æ–¹çš„æŽ¨æµå·¥å…·æœ‰<span lang=EN-US>OBS,&nbsp; XSplit,&nbsp; FMLE,&nbsp;
-video_broadcast++(Android)</span>ï¼Œ<span lang=EN-US>Broadcast_Me(iPhone),</span>é™¤ä¸Šé¢è¿™äº›å·¥å…·å¤–ï¼Œè¿˜å¯ä»¥ä½¿ç”¨<span
+font-family:ËÎÌå'>³£ÓÃµÄµÚÈý·½µÄÍÆÁ÷¹¤¾ßÓÐ<span lang=EN-US>OBS,&nbsp; XSplit,&nbsp; FMLE,&nbsp;
+video_broadcast++(Android)</span>£¬<span lang=EN-US>Broadcast_Me(iPhone),</span>³ýÉÏÃæÕâÐ©¹¤¾ßÍâ£¬»¹¿ÉÒÔÊ¹ÓÃ<span
 lang=EN-US>ffmpeg</span></span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US style='font-size:14.0pt;font-family:
-å®‹ä½“'>&nbsp;&nbsp;&nbsp; </span><span style='font-size:14.0pt;font-family:å®‹ä½“'>å¸¸ç”¨æ’­æ”¾å™¨<span
-lang=EN-US>:&nbsp; flash player, ffplay, vlc</span>ç­‰ã€‚</span></p>
+ËÎÌå'>&nbsp;&nbsp;&nbsp; </span><span style='font-size:14.0pt;font-family:ËÎÌå'>³£ÓÃ²¥·ÅÆ÷<span
+lang=EN-US>:&nbsp; flash player, ffplay, vlc</span>µÈ¡£</span></p>
 
 <h2 style='margin-left:1.0cm;text-indent:-1.0cm'><a name="_Toc26097926"></a><a
 name="_Toc462219412"></a><a name="_Toc456260510"><span lang=EN-US>2.3.<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-style='font-family:å®‹ä½“'>æŽ¨é€</span><span lang=EN-US>RTSP/UDP/FLV </span></a><span
-style='font-family:å®‹ä½“'>åˆ°</span><span lang=EN-US>SRS</span></h2>
+style='font-family:ËÎÌå'>ÍÆËÍ</span><span lang=EN-US>RTSP/UDP/FLV </span></a><span
+style='font-family:ËÎÌå'>µ½</span><span lang=EN-US>SRS</span></h2>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
-style='font-size:14.0pt;font-family:å®‹ä½“'>Streamer</span><span style='font-size:
-14.0pt;font-family:å®‹ä½“'>ï¼ˆæµæœåŠ¡ï¼‰æ˜¯<span lang=EN-US>SRS</span>ä½œä¸ºæœåŠ¡å™¨ä¾¦å¬å¹¶æŽ¥æ”¶å…¶ä»–åè®®çš„æµï¼ˆè­¬å¦‚<span
-lang=EN-US>RTSP</span>ï¼Œ<span lang=EN-US>MPEG-TS over UDP</span>ç­‰ç­‰ï¼‰ï¼Œå°†è¿™äº›åè®®çš„æµè½¬æ¢æˆ<span
-lang=EN-US>RTMP</span>æŽ¨é€ç»™è‡ªå·±ï¼Œä»¥ä½¿ç”¨<span lang=EN-US>RTMP/HLS/HTTP</span>åˆ†å‘æµã€‚</span></p>
+style='font-size:14.0pt;font-family:ËÎÌå'>Streamer</span><span style='font-size:
+14.0pt;font-family:ËÎÌå'>£¨Á÷·þÎñ£©ÊÇ<span lang=EN-US>SRS</span>×÷Îª·þÎñÆ÷ÕìÌý²¢½ÓÊÕÆäËûÐ­ÒéµÄÁ÷£¨Æ©Èç<span
+lang=EN-US>RTSP</span>£¬<span lang=EN-US>MPEG-TS over UDP</span>µÈµÈ£©£¬½«ÕâÐ©Ð­ÒéµÄÁ÷×ª»»³É<span
+lang=EN-US>RTMP</span>ÍÆËÍ¸ø×Ô¼º£¬ÒÔÊ¹ÓÃ<span lang=EN-US>RTMP/HLS/HTTP</span>·Ö·¢Á÷¡£</span></p>
 
-<p class=MsoNoSpacing><span style='font-size:14.0pt;font-family:å®‹ä½“'>å¸¸è§çš„åº”ç”¨åœºæ™¯åŒ…æ‹¬ï¼š</span></p>
-
-<p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
-style='font-size:14.0pt;font-family:å®‹ä½“'>Push MPEG-TS over UDP to SRS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼šé€šè¿‡<span lang=EN-US>UDP</span>åè®®ï¼Œå°†<span
-lang=EN-US>MPEG-TS</span>æŽ¨é€åˆ°<span lang=EN-US>SRS</span>ï¼Œåˆ†å‘ä¸º<span lang=EN-US>RTMP/HLS/HTTP</span>æµã€‚</span></p>
+<p class=MsoNoSpacing><span style='font-size:14.0pt;font-family:ËÎÌå'>³£¼ûµÄÓ¦ÓÃ³¡¾°°üÀ¨£º</span></p>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
-style='font-size:14.0pt;font-family:å®‹ä½“'>Push RTSP to SRS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼šé€šè¿‡<span lang=EN-US>RTSP</span>åè®®ï¼Œå°†æµæŽ¨é€åˆ°<span
-lang=EN-US>SRS</span>ï¼Œåˆ†å‘ä¸º<span lang=EN-US>RTMP/HLS/HTTP</span>æµã€‚</span></p>
+style='font-size:14.0pt;font-family:ËÎÌå'>Push MPEG-TS over UDP to SRS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>£ºÍ¨¹ý<span lang=EN-US>UDP</span>Ð­Òé£¬½«<span
+lang=EN-US>MPEG-TS</span>ÍÆËÍµ½<span lang=EN-US>SRS</span>£¬·Ö·¢Îª<span lang=EN-US>RTMP/HLS/HTTP</span>Á÷¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
-style='font-size:14.0pt;font-family:å®‹ä½“'>POST FLV over HTTP to SRS: </span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>é€šè¿‡<span lang=EN-US>HTTP</span>åè®®ï¼Œå°†<span
-lang=EN-US>FLV</span>æµ<span lang=EN-US>POST</span>åˆ°<span lang=EN-US>SRS</span>ï¼Œåˆ†å‘ä¸º<span
-lang=EN-US>RTMP/HLS/HTTP</span>æµã€‚</span></p>
+style='font-size:14.0pt;font-family:ËÎÌå'>Push RTSP to SRS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>£ºÍ¨¹ý<span lang=EN-US>RTSP</span>Ð­Òé£¬½«Á÷ÍÆËÍµ½<span
+lang=EN-US>SRS</span>£¬·Ö·¢Îª<span lang=EN-US>RTMP/HLS/HTTP</span>Á÷¡£</span></p>
+
+<p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
+style='font-size:14.0pt;font-family:ËÎÌå'>POST FLV over HTTP to SRS: </span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>Í¨¹ý<span lang=EN-US>HTTP</span>Ð­Òé£¬½«<span
+lang=EN-US>FLV</span>Á÷<span lang=EN-US>POST</span>µ½<span lang=EN-US>SRS</span>£¬·Ö·¢Îª<span
+lang=EN-US>RTMP/HLS/HTTP</span>Á÷¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>å¤‡æ³¨ï¼š<span lang=EN-US>Streamer</span>å°†å…¶ä»–æ”¯æŒçš„åè®®æŽ¨é€<span lang=EN-US>RTMP</span>ç»™<span
-lang=EN-US>SRS</span>åŽï¼Œæ‰€æœ‰<span lang=EN-US>SRS</span>çš„åŠŸèƒ½éƒ½èƒ½æ”¯æŒã€‚è­¬å¦‚ï¼ŒæŽ¨<span
-lang=EN-US>RTSP</span>æµç»™<span lang=EN-US> Streamer</span>ï¼Œ<span lang=EN-US>Streamer</span>è½¬æˆ<span
-lang=EN-US>RTMP</span>æŽ¨é€ç»™<span lang=EN-US>SRS</span>ï¼Œè‹¥<span lang=EN-US>vhost</span>æ˜¯<span
-lang=EN-US>edge</span>ï¼Œ<span lang=EN-US>SRS</span>å°†<span lang=EN-US>RTMP</span>æµè½¬å‘ç»™æºç«™ã€‚æˆ–è€…å°†<span
-lang=EN-US>RTMP</span>æµè½¬ç ï¼Œæˆ–è€…ç›´æŽ¥è½¬å‘ã€‚å¦å¤–ï¼Œæ‰€æœ‰åˆ†å‘æ–¹æ³•éƒ½æ˜¯å¯ç”¨çš„ï¼Œè­¬å¦‚æŽ¨<span lang=EN-US>RTSP</span>æµç»™<span
-lang=EN-US>Streamer</span>ï¼Œ<span lang=EN-US>Streamer</span>è½¬æˆ<span lang=EN-US>RTMP</span>æŽ¨ç»™<span
-lang=EN-US>SRS</span>ï¼Œä»¥<span lang=EN-US>RTMP/HLS/HTTP</span>åˆ†å‘ã€‚</span></p>
+font-family:ËÎÌå'>±¸×¢£º<span lang=EN-US>Streamer</span>½«ÆäËûÖ§³ÖµÄÐ­ÒéÍÆËÍ<span lang=EN-US>RTMP</span>¸ø<span
+lang=EN-US>SRS</span>ºó£¬ËùÓÐ<span lang=EN-US>SRS</span>µÄ¹¦ÄÜ¶¼ÄÜÖ§³Ö¡£Æ©Èç£¬ÍÆ<span
+lang=EN-US>RTSP</span>Á÷¸ø<span lang=EN-US> Streamer</span>£¬<span lang=EN-US>Streamer</span>×ª³É<span
+lang=EN-US>RTMP</span>ÍÆËÍ¸ø<span lang=EN-US>SRS</span>£¬Èô<span lang=EN-US>vhost</span>ÊÇ<span
+lang=EN-US>edge</span>£¬<span lang=EN-US>SRS</span>½«<span lang=EN-US>RTMP</span>Á÷×ª·¢¸øÔ´Õ¾¡£»òÕß½«<span
+lang=EN-US>RTMP</span>Á÷×ªÂë£¬»òÕßÖ±½Ó×ª·¢¡£ÁíÍâ£¬ËùÓÐ·Ö·¢·½·¨¶¼ÊÇ¿ÉÓÃµÄ£¬Æ©ÈçÍÆ<span lang=EN-US>RTSP</span>Á÷¸ø<span
+lang=EN-US>Streamer</span>£¬<span lang=EN-US>Streamer</span>×ª³É<span lang=EN-US>RTMP</span>ÍÆ¸ø<span
+lang=EN-US>SRS</span>£¬ÒÔ<span lang=EN-US>RTMP/HLS/HTTP</span>·Ö·¢¡£</span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097927"></a><a
 name="_Toc462219413"><span lang=EN-US>2.3.1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
 </span></span><span lang=EN-US>Push MPEG-TS over UDP</span></a></h3>
 
 <p style='text-indent:28.0pt'><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt'>å¯ä»¥ä¾¦å¬ä¸€ä¸ª<span lang=EN-US>udp</span>ç«¯å£ï¼Œç¼–ç å™¨å°†æµæŽ¨é€åˆ°è¿™ä¸ª<span
-lang=EN-US>udp</span>ç«¯å£ï¼ˆ<span lang=EN-US>SPTS</span>ï¼‰åŽï¼Œ<span lang=EN-US>SRS</span>ä¼šè½¬æˆä¸€è·¯<span
-lang=EN-US>RTMP</span>æµã€‚åŽé¢<span lang=EN-US>RTMP</span>æµèƒ½æ”¯æŒçš„åŠŸèƒ½éƒ½æ”¯æŒã€‚</span></p>
+style='font-size:14.0pt'>¿ÉÒÔÕìÌýÒ»¸ö<span lang=EN-US>udp</span>¶Ë¿Ú£¬±àÂëÆ÷½«Á÷ÍÆËÍµ½Õâ¸ö<span
+lang=EN-US>udp</span>¶Ë¿Ú£¨<span lang=EN-US>SPTS</span>£©ºó£¬<span lang=EN-US>SRS</span>»á×ª³ÉÒ»Â·<span
+lang=EN-US>RTMP</span>Á÷¡£ºóÃæ<span lang=EN-US>RTMP</span>Á÷ÄÜÖ§³ÖµÄ¹¦ÄÜ¶¼Ö§³Ö¡£</span></p>
 
-<p><span style='font-size:14.0pt'>é…ç½®å¦‚ä¸‹ï¼Œå‚è€ƒ<code><span lang=EN-US>conf/push.mpegts.over.udp.conf</span></code>ï¼š</span></p>
+<p><span style='font-size:14.0pt'>ÅäÖÃÈçÏÂ£¬²Î¿¼<code><span lang=EN-US>conf/push.mpegts.over.udp.conf</span></code>£º</span></p>
 
 <p class=MsoNoSpacing><code><span lang=EN-US style='font-family:"Calibri",sans-serif'>#
 the streamer cast stream from other protocol to SRS over RTMP.</span></code></p>
@@ -864,7 +2557,7 @@ listen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1935;</span></code>
 
 <p class=MsoNoSpacing><code><span lang=EN-US style='font-family:"Calibri",sans-serif'>}</span></code></p>
 
-<p>å‚è€ƒï¼š<span lang=EN-US><a
+<p>²Î¿¼£º<span lang=EN-US><a
 href="https://github.com/ossrs/srs/issues/250#issuecomment-72321769">https://github.com/ossrs/srs/issues/250#issuecomment-72321769</a></span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097928"></a><a
@@ -873,20 +2566,20 @@ name="_Toc462219414"><span lang=EN-US>2.3.2.<span style='font:7.0pt "Times New R
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
 style='font-size:14.0pt'>SRS</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>å¯ä»¥ä¾¦å¬ä¸€ä¸ª</span><span lang=EN-US style='font-size:14.0pt'>tcp</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ç«¯å£ï¼Œç¼–ç å™¨å°†æµæŽ¨é€åˆ°è¿™ä¸ª</span><span lang=EN-US
+ËÎÌå'>¿ÉÒÔÕìÌýÒ»¸ö</span><span lang=EN-US style='font-size:14.0pt'>tcp</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>¶Ë¿Ú£¬±àÂëÆ÷½«Á÷ÍÆËÍµ½Õâ¸ö</span><span lang=EN-US
 style='font-size:14.0pt'>tcp</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ç«¯å£ï¼ˆ</span><span lang=EN-US style='font-size:14.0pt'>RTSP</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼‰åŽï¼Œ</span><span lang=EN-US
+ËÎÌå'>¶Ë¿Ú£¨</span><span lang=EN-US style='font-size:14.0pt'>RTSP</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>£©ºó£¬</span><span lang=EN-US
 style='font-size:14.0pt'>SRS</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ä¼šè½¬æˆä¸€è·¯</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>æµã€‚åŽé¢</span><span lang=EN-US
+ËÎÌå'>»á×ª³ÉÒ»Â·</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>Á÷¡£ºóÃæ</span><span lang=EN-US
 style='font-size:14.0pt'>RTMP</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>æµèƒ½æ”¯æŒçš„åŠŸèƒ½éƒ½æ”¯æŒã€‚</span></p>
+ËÎÌå'>Á÷ÄÜÖ§³ÖµÄ¹¦ÄÜ¶¼Ö§³Ö¡£</span></p>
 
-<p class=MsoNoSpacing><span style='font-size:14.0pt;font-family:å®‹ä½“'>é…ç½®å¦‚ä¸‹ï¼Œå‚è€ƒ</span><code><span
+<p class=MsoNoSpacing><span style='font-size:14.0pt;font-family:ËÎÌå'>ÅäÖÃÈçÏÂ£¬²Î¿¼</span><code><span
 lang=EN-US style='font-size:14.0pt'>conf/push.rtsp.conf</span></code><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼š</span></p>
+style='font-size:14.0pt;font-family:ËÎÌå'>£º</span></p>
 
 <p class=MsoNoSpacing><code><span lang=EN-US style='font-family:"Calibri",sans-serif'>#
 the streamer cast stream from other protocol to SRS over RTMP.</span></code></p>
@@ -918,7 +2611,7 @@ rtp_port_max&nbsp;&nbsp;&nbsp; 57300;</span></code></p>
 
 <p class=MsoNoSpacing><code><span lang=EN-US style='font-family:"Calibri",sans-serif'>}</span></code></p>
 
-<p>å‚è€ƒï¼š<span lang=EN-US><a
+<p>²Î¿¼£º<span lang=EN-US><a
 href="https://github.com/ossrs/srs/issues/133#issuecomment-75531884">https://github.com/ossrs/srs/issues/133#issuecomment-75531884</a></span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097929"></a><a
@@ -926,11 +2619,11 @@ name="_Toc462219415"><span lang=EN-US>2.3.3.<span style='font:7.0pt "Times New R
 </span></span><span lang=EN-US>Push HTTP FLV to SRS</span></a></h3>
 
 <p style='text-indent:28.0pt'><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt'>å¯ä»¥ä¾¦å¬ä¸€ä¸ª<span lang=EN-US>HTTP</span>ç«¯å£ï¼Œç¼–ç å™¨å°†æµæŽ¨é€åˆ°è¿™ä¸ª<span
-lang=EN-US>http</span>ç«¯å£åŽï¼Œ<span lang=EN-US>SRS</span>ä¼šè½¬æˆä¸€è·¯<span lang=EN-US>RTMP</span>æµã€‚æ‰€æœ‰<span
-lang=EN-US>RTMP</span>æµçš„åŠŸèƒ½éƒ½èƒ½æ”¯æŒã€‚</span></p>
+style='font-size:14.0pt'>¿ÉÒÔÕìÌýÒ»¸ö<span lang=EN-US>HTTP</span>¶Ë¿Ú£¬±àÂëÆ÷½«Á÷ÍÆËÍµ½Õâ¸ö<span
+lang=EN-US>http</span>¶Ë¿Úºó£¬<span lang=EN-US>SRS</span>»á×ª³ÉÒ»Â·<span lang=EN-US>RTMP</span>Á÷¡£ËùÓÐ<span
+lang=EN-US>RTMP</span>Á÷µÄ¹¦ÄÜ¶¼ÄÜÖ§³Ö¡£</span></p>
 
-<p>é…ç½®å¦‚ä¸‹ï¼Œå‚è€ƒ<code><span lang=EN-US>conf/push.flv.conf</span></code>ï¼š</p>
+<p>ÅäÖÃÈçÏÂ£¬²Î¿¼<code><span lang=EN-US>conf/push.flv.conf</span></code>£º</p>
 
 <pre><code><span lang=EN-US># the streamer cast stream from other protocol to SRS over RTMP.</span></code></pre><pre><code><span
 lang=EN-US># @see https://github.com/ossrs/srs/tree/develop#stream-architecture</span></code></pre><pre><code><span
@@ -940,14 +2633,14 @@ lang=EN-US>&nbsp;&nbsp;&nbsp; output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 lang=EN-US>&nbsp;&nbsp;&nbsp; listen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8936;</span></code></pre><pre><code><span
 lang=EN-US>}</span></code></pre>
 
-<p><span style='font-size:14.0pt'>è¿™ä¸ªé…ç½®æ—¶ï¼Œå®¢æˆ·ç«¯æŽ¨æµçš„åœ°å€ï¼Œä¾‹å¦‚ï¼š<code><span lang=EN-US>http://127.0.0.1:8936/live/sea.flv</span></code><span
+<p><span style='font-size:14.0pt'>Õâ¸öÅäÖÃÊ±£¬¿Í»§¶ËÍÆÁ÷µÄµØÖ·£¬ÀýÈç£º<code><span lang=EN-US>http://127.0.0.1:8936/live/sea.flv</span></code><span
 lang=EN-US><br>
-</span>æ’­æ”¾<span lang=EN-US>RTMP</span>æµåœ°å€æ˜¯ï¼š<code><span lang=EN-US>rtmp://127.0.0.1/live/sea</span></code><span
+</span>²¥·Å<span lang=EN-US>RTMP</span>Á÷µØÖ·ÊÇ£º<code><span lang=EN-US>rtmp://127.0.0.1/live/sea</span></code><span
 lang=EN-US><br>
-</span>æ’­æ”¾<span lang=EN-US>HLS</span>æµåœ°å€æ˜¯ï¼š<code><span lang=EN-US>http://127.0.0.1:8080/live/sea.m3u8</span></code></span></p>
+</span>²¥·Å<span lang=EN-US>HLS</span>Á÷µØÖ·ÊÇ£º<code><span lang=EN-US>http://127.0.0.1:8080/live/sea.m3u8</span></code></span></p>
 
-<p><span style='font-size:14.0pt'>æ³¨æ„ï¼šéœ€è¦é…ç½®<span lang=EN-US>HTTP</span>æœåŠ¡å™¨å’Œ<span
-lang=EN-US>HLS</span>ï¼Œå‚è€ƒ<code><span lang=EN-US>conf/push.flv.conf</span></code></span></p>
+<p><span style='font-size:14.0pt'>×¢Òâ£ºÐèÒªÅäÖÃ<span lang=EN-US>HTTP</span>·þÎñÆ÷ºÍ<span
+lang=EN-US>HLS</span>£¬²Î¿¼<code><span lang=EN-US>conf/push.flv.conf</span></code></span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097930"></a><a
 name="_Toc462219416"><span lang=EN-US>2.3.4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
@@ -955,189 +2648,189 @@ name="_Toc462219416"><span lang=EN-US>2.3.4.<span style='font:7.0pt "Times New R
 
 <p class=MsoNoSpacing style='text-indent:15.75pt'><span lang=EN-US><a
 href="https://github.com/ossrs/srs/wiki/v2_CN_Streamer"><span style='font-size:
-12.0pt;font-family:å®‹ä½“'>https://github.com/ossrs/srs/wiki/v2_CN_Streamer</span></a></span></p>
+12.0pt;font-family:ËÎÌå'>https://github.com/ossrs/srs/wiki/v2_CN_Streamer</span></a></span></p>
 
 <h2 style='margin-left:1.0cm;text-indent:-1.0cm'><a name="_Toc26097931"></a><a
 name="_Toc462219418"></a><a name="_Toc456260511"><span lang=EN-US>2.4.<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-style='font-family:å®‹ä½“'>æ‹‰å–æµåˆ°</span><span lang=EN-US>SRS</span></a></h2>
+style='font-family:ËÎÌå'>À­È¡Á÷µ½</span><span lang=EN-US>SRS</span></a></h2>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>é‡‡é›†</span><span lang=EN-US style='font-size:14.0pt'>(Ingest)</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>æŒ‡çš„æ˜¯å°†æ–‡ä»¶ï¼ˆ</span><span lang=EN-US
+font-family:ËÎÌå'>²É¼¯</span><span lang=EN-US style='font-size:14.0pt'>(Ingest)</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>Ö¸µÄÊÇ½«ÎÄ¼þ£¨</span><span lang=EN-US
 style='font-size:14.0pt'>flv</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ï¼Œ</span><span lang=EN-US style='font-size:14.0pt'>mp4</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US
+ËÎÌå'>£¬</span><span lang=EN-US style='font-size:14.0pt'>mp4</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>£¬</span><span lang=EN-US
 style='font-size:14.0pt'>mkv</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ï¼Œ</span><span lang=EN-US style='font-size:14.0pt'>avi</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US
+ËÎÌå'>£¬</span><span lang=EN-US style='font-size:14.0pt'>avi</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>£¬</span><span lang=EN-US
 style='font-size:14.0pt'>rmvb</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ç­‰ç­‰ï¼‰ï¼Œæµï¼ˆ</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US
+ËÎÌå'>µÈµÈ£©£¬Á÷£¨</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>£¬</span><span lang=EN-US
 style='font-size:14.0pt'>RTMPT</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ï¼Œ</span><span lang=EN-US style='font-size:14.0pt'>RTMPS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US
+ËÎÌå'>£¬</span><span lang=EN-US style='font-size:14.0pt'>RTMPS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>£¬</span><span lang=EN-US
 style='font-size:14.0pt'>RTSP</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ï¼Œ</span><span lang=EN-US style='font-size:14.0pt'>HTTP</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US
+ËÎÌå'>£¬</span><span lang=EN-US style='font-size:14.0pt'>HTTP</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>£¬</span><span lang=EN-US
 style='font-size:14.0pt'>HLS</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ç­‰ç­‰ï¼‰ï¼Œè®¾å¤‡ç­‰çš„æ•°æ®ï¼Œè½¬å°è£…ä¸º</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>æµï¼ˆè‹¥ç¼–ç ä¸æ˜¯</span><span lang=EN-US
+ËÎÌå'>µÈµÈ£©£¬Éè±¸µÈµÄÊý¾Ý£¬×ª·â×°Îª</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>Á÷£¨Èô±àÂë²»ÊÇ</span><span lang=EN-US
 style='font-size:14.0pt'>h264/aac</span><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>åˆ™éœ€è¦è½¬ç ï¼‰ï¼ŒæŽ¨é€åˆ°</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ã€‚é‡‡é›†åŸºæœ¬ä¸Šå°±æ˜¯ä½¿ç”¨</span><span lang=EN-US
+font-family:ËÎÌå'>ÔòÐèÒª×ªÂë£©£¬ÍÆËÍµ½</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>¡£²É¼¯»ù±¾ÉÏ¾ÍÊÇÊ¹ÓÃ</span><span lang=EN-US
 style='font-size:14.0pt'>FFMPEG</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ä½œä¸ºç¼–ç å™¨ï¼Œæˆ–è€…è½¬å°è£…å™¨ï¼Œå°†å¤–éƒ¨æµä¸»åŠ¨æŠ“å–åˆ°</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ã€‚</span></p>
+ËÎÌå'>×÷Îª±àÂëÆ÷£¬»òÕß×ª·â×°Æ÷£¬½«Íâ²¿Á÷Ö÷¶¯×¥È¡µ½</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>é‡‡é›†çš„ä¸»è¦åº”ç”¨åœºæ™¯åŒ…æ‹¬ï¼š</span></p>
+font-family:ËÎÌå'>²É¼¯µÄÖ÷ÒªÓ¦ÓÃ³¡¾°°üÀ¨£º</span></p>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
 style='font-size:14.0pt'>1.</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>è™šæ‹Ÿç›´æ’­ï¼šå°†æ–‡ä»¶ç¼–ç ä¸ºç›´æ’­æµã€‚å¯ä»¥æŒ‡å®šå¤šä¸ªæ–‡ä»¶åŽï¼Œ</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ä¼šå¾ªçŽ¯æ’­æ”¾ã€‚</span></p>
+ËÎÌå'>ÐéÄâÖ±²¥£º½«ÎÄ¼þ±àÂëÎªÖ±²¥Á÷¡£¿ÉÒÔÖ¸¶¨¶à¸öÎÄ¼þºó£¬</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>»áÑ­»·²¥·Å¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
 style='font-size:14.0pt'>2.RTSP</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>æ‘„åƒå¤´å¯¹æŽ¥ï¼šä»¥å‰å®‰é˜²æ‘„åƒå¤´éƒ½æ”¯æŒè®¿é—®</span><span lang=EN-US style='font-size:14.0pt'>RTSP</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>åœ°å€ï¼Œ</span><span lang=EN-US
+ËÎÌå'>ÉãÏñÍ·¶Ô½Ó£ºÒÔÇ°°²·ÀÉãÏñÍ·¶¼Ö§³Ö·ÃÎÊ</span><span lang=EN-US style='font-size:14.0pt'>RTSP</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>µØÖ·£¬</span><span lang=EN-US
 style='font-size:14.0pt'>RTSP </span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>æ— æ³•åœ¨äº’è”ç½‘æ’­æ”¾ã€‚å¯ä»¥å°†</span><span lang=EN-US style='font-size:14.0pt'>RTSP</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>é‡‡é›†åŽï¼Œä»¥</span><span lang=EN-US
+ËÎÌå'>ÎÞ·¨ÔÚ»¥ÁªÍø²¥·Å¡£¿ÉÒÔ½«</span><span lang=EN-US style='font-size:14.0pt'>RTSP</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>²É¼¯ºó£¬ÒÔ</span><span lang=EN-US
 style='font-size:14.0pt'>RTMP</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>æŽ¨é€åˆ°</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼ŒåŽé¢çš„ä¸œè¥¿å°±ä¸ç”¨è®²äº†ã€‚</span></p>
+ËÎÌå'>ÍÆËÍµ½</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>£¬ºóÃæµÄ¶«Î÷¾Í²»ÓÃ½²ÁË¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
 style='font-size:14.0pt'>3.</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ç›´æŽ¥é‡‡é›†è®¾å¤‡ï¼š</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>é‡‡é›†åŠŸèƒ½å¯ä»¥ä½œä¸ºç¼–ç å™¨é‡‡é›†è®¾å¤‡ä¸Šçš„æœªåŽ‹ç¼©å›¾åƒæ•°æ®ï¼Œè­¬å¦‚</span><span
+ËÎÌå'>Ö±½Ó²É¼¯Éè±¸£º</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>²É¼¯¹¦ÄÜ¿ÉÒÔ×÷Îª±àÂëÆ÷²É¼¯Éè±¸ÉÏµÄÎ´Ñ¹ËõÍ¼ÏñÊý¾Ý£¬Æ©Èç</span><span
 lang=EN-US style='font-size:14.0pt'>video4linux</span><span style='font-size:
-14.0pt;font-family:å®‹ä½“'>å’Œ</span><span lang=EN-US style='font-size:14.0pt'>alsa</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>è®¾å¤‡ï¼Œç¼–ç ä¸º</span><span lang=EN-US
+14.0pt;font-family:ËÎÌå'>ºÍ</span><span lang=EN-US style='font-size:14.0pt'>alsa</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>Éè±¸£¬±àÂëÎª</span><span lang=EN-US
 style='font-size:14.0pt'>h264/aac</span><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>åŽè¾“å‡º</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>åˆ°</span><span lang=EN-US
+font-family:ËÎÌå'>ºóÊä³ö</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>µ½</span><span lang=EN-US
 style='font-size:14.0pt'>SRS</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ã€‚</span></p>
+ËÎÌå'>¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
 style='font-size:14.0pt'>4.</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>å°†</span><span lang=EN-US style='font-size:14.0pt'>HTTP</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>æµé‡‡é›†ä¸º</span><span lang=EN-US
+ËÎÌå'>½«</span><span lang=EN-US style='font-size:14.0pt'>HTTP</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>Á÷²É¼¯Îª</span><span lang=EN-US
 style='font-size:14.0pt'>RTMP</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ï¼šæœ‰äº›è€çš„è®¾å¤‡ï¼Œèƒ½è¾“å‡º</span><span lang=EN-US style='font-size:14.0pt'>HTTP</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>çš„</span><span lang=EN-US
+ËÎÌå'>£ºÓÐÐ©ÀÏµÄÉè±¸£¬ÄÜÊä³ö</span><span lang=EN-US style='font-size:14.0pt'>HTTP</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>µÄ</span><span lang=EN-US
 style='font-size:14.0pt'>ts</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>æˆ–</span><span lang=EN-US style='font-size:14.0pt'>FLV</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>æµï¼Œå¯ä»¥é‡‡é›†åŽè½¬å°è£…ä¸º</span><span lang=EN-US
+ËÎÌå'>»ò</span><span lang=EN-US style='font-size:14.0pt'>FLV</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>Á÷£¬¿ÉÒÔ²É¼¯ºó×ª·â×°Îª</span><span lang=EN-US
 style='font-size:14.0pt'>RTMP</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ï¼Œæ”¯æŒ</span><span lang=EN-US style='font-size:14.0pt'>HLS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>è¾“å‡ºã€‚</span></p>
+ËÎÌå'>£¬Ö§³Ö</span><span lang=EN-US style='font-size:14.0pt'>HLS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>Êä³ö¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>æ€»ä¹‹ï¼Œé‡‡é›†çš„åº”ç”¨åœºæ™¯ä¸»è¦æ˜¯<span lang=EN-US>â€œSRS</span>æ‹‰æµ<span lang=EN-US>â€</span>ï¼›èƒ½æ‹‰ä»»æ„çš„æµï¼Œåªè¦<span
-lang=EN-US>ffmpeg</span>æ”¯æŒï¼›ä¸æ˜¯<span lang=EN-US>h264/aac</span>éƒ½æ²¡æœ‰å…³ç³»ï¼Œ<span
-lang=EN-US>ffmpeg</span>èƒ½è½¬ç ã€‚<span lang=EN-US>SRS</span>é»˜è®¤æ˜¯æ”¯æŒ<span lang=EN-US>â€œ</span>æŽ¨æµ<span
-lang=EN-US>â€</span>ï¼Œå³ç­‰å¾…ç¼–ç å™¨æŽ¨æµä¸Šæ¥ï¼Œå¯ä»¥æ˜¯ä¸“é—¨çš„ç¼–ç è®¾å¤‡ï¼Œ<span lang=EN-US>FMLE</span>ï¼Œ<span
-lang=EN-US>ffmpeg</span>ï¼Œ<span lang=EN-US>xsplit</span>ï¼Œ<span lang=EN-US>flash,
-obs</span>ç­‰ç­‰ã€‚</span></p>
+font-family:ËÎÌå'>×ÜÖ®£¬²É¼¯µÄÓ¦ÓÃ³¡¾°Ö÷ÒªÊÇ<span lang=EN-US>¡°SRS</span>À­Á÷<span lang=EN-US>¡±</span>£»ÄÜÀ­ÈÎÒâµÄÁ÷£¬Ö»Òª<span
+lang=EN-US>ffmpeg</span>Ö§³Ö£»²»ÊÇ<span lang=EN-US>h264/aac</span>¶¼Ã»ÓÐ¹ØÏµ£¬<span
+lang=EN-US>ffmpeg</span>ÄÜ×ªÂë¡£<span lang=EN-US>SRS</span>Ä¬ÈÏÊÇÖ§³Ö<span lang=EN-US>¡°</span>ÍÆÁ÷<span
+lang=EN-US>¡±</span>£¬¼´µÈ´ý±àÂëÆ÷ÍÆÁ÷ÉÏÀ´£¬¿ÉÒÔÊÇ×¨ÃÅµÄ±àÂëÉè±¸£¬<span lang=EN-US>FMLE</span>£¬<span
+lang=EN-US>ffmpeg</span>£¬<span lang=EN-US>xsplit</span>£¬<span lang=EN-US>flash,
+obs</span>µÈµÈ¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>å¦‚æ­¤ï¼Œ<span lang=EN-US>SRS</span>çš„æŽ¥å…¥æ–¹å¼å¯ä»¥æ˜¯<span lang=EN-US>â€œ</span>æŽ¨æµåˆ°<span
-lang=EN-US>SRSâ€</span>å’Œ<span lang=EN-US>â€œSRS</span>ä¸»åŠ¨æ‹‰æµ<span lang=EN-US>â€</span>ï¼ŒåŸºæœ¬ä¸Šä½œä¸ºæºç«™çš„åŠŸèƒ½å°±å®Œå–„äº†ã€‚</span></p>
+font-family:ËÎÌå'>Èç´Ë£¬<span lang=EN-US>SRS</span>µÄ½ÓÈë·½Ê½¿ÉÒÔÊÇ<span lang=EN-US>¡°</span>ÍÆÁ÷µ½<span
+lang=EN-US>SRS¡±</span>ºÍ<span lang=EN-US>¡°SRS</span>Ö÷¶¯À­Á÷<span lang=EN-US>¡±</span>£¬»ù±¾ÉÏ×÷ÎªÔ´Õ¾µÄ¹¦ÄÜ¾ÍÍêÉÆÁË¡£</span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc462219419"></a><a
 name="_Toc26097932"></a><a name="_Toc462219417"><span lang=EN-US>2.4.1.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><span
-style='font-family:å®‹ä½“'>è¡¥å……</span><span lang=EN-US>:RTSP</span></a><span
-style='font-family:å®‹ä½“'>å¼€æºé¡¹ç›®</span></h3>
+style='font-family:ËÎÌå'>²¹³ä</span><span lang=EN-US>:RTSP</span></a><span
+style='font-family:ËÎÌå'>¿ªÔ´ÏîÄ¿</span></h3>
 
 <p class=MsoNormal style='text-indent:28.0pt'><span lang=EN-US
-style='font-size:14.0pt'>â€œ</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>æŽ¨é€</span><span lang=EN-US style='font-size:14.0pt'>RTSP/UDP/FLV </span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>åˆ°</span><span lang=EN-US
-style='font-size:14.0pt'>SRSâ€</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>åŠŸèƒ½ç›®å‰ç‰ˆæœ¬</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ä¸­ï¼Œè¿˜æ˜¯å®žéªŒæ€§åŠŸèƒ½ï¼Œä¸æ˜¯ç‰¹åˆ«ç¨³å®šï¼Œæµ‹è¯•</span><span
+style='font-size:14.0pt'>¡°</span><span style='font-size:14.0pt;font-family:
+ËÎÌå'>ÍÆËÍ</span><span lang=EN-US style='font-size:14.0pt'>RTSP/UDP/FLV </span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>µ½</span><span lang=EN-US
+style='font-size:14.0pt'>SRS¡±</span><span style='font-size:14.0pt;font-family:
+ËÎÌå'>¹¦ÄÜÄ¿Ç°°æ±¾</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>ÖÐ£¬»¹ÊÇÊµÑéÐÔ¹¦ÄÜ£¬²»ÊÇÌØ±ðÎÈ¶¨£¬²âÊÔ</span><span
 lang=EN-US style='font-size:14.0pt'>rtsp</span><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>è¿‡ç¨‹ä¸­</span><span lang=EN-US style='font-size:14.0pt'>, </span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>å£°éŸ³æ­£å¸¸ï¼Œè§†é¢‘æœ‰èŠ±å±ï¼Œ</span><span lang=EN-US
+font-family:ËÎÌå'>¹ý³ÌÖÐ</span><span lang=EN-US style='font-size:14.0pt'>, </span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>ÉùÒôÕý³££¬ÊÓÆµÓÐ»¨ÆÁ£¬</span><span lang=EN-US
 style='font-size:14.0pt'>SRS</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>å•†ä¸šç‰ˆåº”è¯¥è¿™äº›åŠŸèƒ½å·²ç»ç¨³å®šï¼Œå› ä¸º</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>åŽŸä½œè€…</span><span lang=EN-US
+ËÎÌå'>ÉÌÒµ°æÓ¦¸ÃÕâÐ©¹¦ÄÜÒÑ¾­ÎÈ¶¨£¬ÒòÎª</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>Ô­×÷Õß</span><span lang=EN-US
 style='font-size:14.0pt'>2016</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>æ˜¥èŠ‚åŽæ›´æ–°å¾ˆæ…¢ï¼ŒçŽ°åœ¨ä¸»è¦åšå•†ä¸šç‰ˆã€‚</span></p>
+ËÎÌå'>´º½Úºó¸üÐÂºÜÂý£¬ÏÖÔÚÖ÷Òª×öÉÌÒµ°æ¡£</span></p>
 
 <p class=MsoNormal style='text-indent:28.0pt'><span lang=EN-US
 style='font-size:14.0pt'>RTSP</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>åè®®ä¸»è¦åœ¨å®‰é˜²ç›‘æŽ§ï¼Œ</span><span lang=EN-US style='font-size:14.0pt'>iptv</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>é¡¹ç›®ä½¿ç”¨ç‰¹åˆ«å¤šã€‚çŽ°åœ¨å¸‚åœºä¸Šç½‘ç»œæ‘„è±¡æœºï¼ˆ</span><span
+ËÎÌå'>Ð­ÒéÖ÷ÒªÔÚ°²·À¼à¿Ø£¬</span><span lang=EN-US style='font-size:14.0pt'>iptv</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>ÏîÄ¿Ê¹ÓÃÌØ±ð¶à¡£ÏÖÔÚÊÐ³¡ÉÏÍøÂçÉãÏó»ú£¨</span><span
 lang=EN-US style='font-size:14.0pt'>IPC</span><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>ï¼‰ä¸­</span><span lang=EN-US style='font-size:14.0pt'>rtsp</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>æ˜¯æ ‡é…ã€‚è€ŒçŽ°åœ¨äº’è”ç½‘æ’­æ”¾ç«¯é€šç”¨çš„åŸºæœ¬æ˜¯</span><span
+font-family:ËÎÌå'>£©ÖÐ</span><span lang=EN-US style='font-size:14.0pt'>rtsp</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>ÊÇ±êÅä¡£¶øÏÖÔÚ»¥ÁªÍø²¥·Å¶ËÍ¨ÓÃµÄ»ù±¾ÊÇ</span><span
 lang=EN-US style='font-size:14.0pt'>rtmp,hls</span><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>ï¼Œç§»åŠ¨ç«¯é€šç”¨çš„ä¸»è¦æ˜¯</span><span lang=EN-US style='font-size:14.0pt'>hls</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ã€‚æœªæ¥</span><span lang=EN-US
+font-family:ËÎÌå'>£¬ÒÆ¶¯¶ËÍ¨ÓÃµÄÖ÷ÒªÊÇ</span><span lang=EN-US style='font-size:14.0pt'>hls</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>¡£Î´À´</span><span lang=EN-US
 style='font-size:14.0pt'>IPC</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>èµ°äº’è”ç½‘è¶Šæ¥è¶Šå¤šã€‚æ‰€ä»¥å¯¹äºŽé€šç”¨åž‹ç›´æ’­å¹³å°æ¥è¯´ï¼Œå¤šåè®®è½¬æ¢æ˜¯éžå¸¸é‡è¦çš„åŠŸèƒ½ã€‚</span></p>
+ËÎÌå'>×ß»¥ÁªÍøÔ½À´Ô½¶à¡£ËùÒÔ¶ÔÓÚÍ¨ÓÃÐÍÖ±²¥Æ½Ì¨À´Ëµ£¬¶àÐ­Òé×ª»»ÊÇ·Ç³£ÖØÒªµÄ¹¦ÄÜ¡£</span></p>
 
 <p class=MsoNormal style='text-indent:28.0pt'><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>å¸¸ç”¨çš„</span><span lang=EN-US style='font-size:14.0pt'>rtsp</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>å¼€æºæµåª’ä½“æœåŠ¡å™¨æœ‰</span><span lang=EN-US
+font-family:ËÎÌå'>³£ÓÃµÄ</span><span lang=EN-US style='font-size:14.0pt'>rtsp</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>¿ªÔ´Á÷Ã½Ìå·þÎñÆ÷ÓÐ</span><span lang=EN-US
 style='font-size:14.0pt'>live555</span><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>ï¼ˆ</span><span lang=EN-US style='font-size:14.0pt;font-family:
+font-family:ËÎÌå'>£¨</span><span lang=EN-US style='font-size:14.0pt;font-family:
 "Microsoft YaHei UI",sans-serif;color:black'>http://www.live555.com</span><span
-style='font-size:14.0pt;font-family:"Microsoft YaHei UI",sans-serif;color:black'>ï¼‰</span><span
+style='font-size:14.0pt;font-family:"Microsoft YaHei UI",sans-serif;color:black'>£©</span><span
 lang=EN-US style='font-size:14.0pt'>,Easydarwin</span><span style='font-size:
-14.0pt;font-family:å®‹ä½“'>ï¼ˆ</span><span lang=EN-US style='font-size:14.0pt;
+14.0pt;font-family:ËÎÌå'>£¨</span><span lang=EN-US style='font-size:14.0pt;
 font-family:"Microsoft YaHei UI",sans-serif;color:black'>http://www.easydarwin.org</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼‰ç­‰ã€‚</span></p>
+style='font-size:14.0pt;font-family:ËÎÌå'>£©µÈ¡£</span></p>
 
 <p class=MsoNormal style='text-indent:28.0pt'><span style='font-size:14.0pt;
-font-family:å®‹ä½“;color:#333333'>ç›®å‰</span><span lang=EN-US style='font-size:14.0pt;
+font-family:ËÎÌå;color:#333333'>Ä¿Ç°</span><span lang=EN-US style='font-size:14.0pt;
 font-family:"Helvetica",sans-serif;color:#333333'>EasyDarwin</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“;color:#333333'>æµåª’ä½“äº‘å¹³å°æ•´å¥—è§£å†³æ–¹æ¡ˆåŒ…æ‹¬æœ‰ï¼š</span><span
+style='font-size:14.0pt;font-family:ËÎÌå;color:#333333'>Á÷Ã½ÌåÔÆÆ½Ì¨ÕûÌ×½â¾ö·½°¸°üÀ¨ÓÐ£º</span><span
 lang=EN-US style='font-size:14.0pt;font-family:"Helvetica",sans-serif;
-color:#333333'>EasyCMS(</span><span style='font-size:14.0pt;font-family:å®‹ä½“;
-color:#333333'>ä¸­å¿ƒç®¡ç†æœåŠ¡ã€è·¨å¹³å°ã€æ”¯æŒåˆ†å¸ƒå¼éƒ¨ç½²</span><span lang=EN-US style='font-size:14.0pt;
+color:#333333'>EasyCMS(</span><span style='font-size:14.0pt;font-family:ËÎÌå;
+color:#333333'>ÖÐÐÄ¹ÜÀí·þÎñ¡¢¿çÆ½Ì¨¡¢Ö§³Ö·Ö²¼Ê½²¿Êð</span><span lang=EN-US style='font-size:14.0pt;
 font-family:"Helvetica",sans-serif;color:#333333'>)</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“;color:#333333'>ï¼Œ</span><span lang=EN-US
+style='font-size:14.0pt;font-family:ËÎÌå;color:#333333'>£¬</span><span lang=EN-US
 style='font-size:14.0pt;font-family:"Helvetica",sans-serif;color:#333333'>EasyDarwin(</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“;color:#333333'>æµåª’ä½“æœåŠ¡ã€è·¨å¹³å°ã€æ”¯æŒåˆ†å¸ƒå¼éƒ¨ç½²</span><span
+style='font-size:14.0pt;font-family:ËÎÌå;color:#333333'>Á÷Ã½Ìå·þÎñ¡¢¿çÆ½Ì¨¡¢Ö§³Ö·Ö²¼Ê½²¿Êð</span><span
 lang=EN-US style='font-size:14.0pt;font-family:"Helvetica",sans-serif;
-color:#333333'>)</span><span style='font-size:14.0pt;font-family:å®‹ä½“;color:#333333'>ï¼Œ</span><span
+color:#333333'>)</span><span style='font-size:14.0pt;font-family:ËÎÌå;color:#333333'>£¬</span><span
 lang=EN-US style='font-size:14.0pt;font-family:"Helvetica",sans-serif;
-color:#333333'>EasyRMS(</span><span style='font-size:14.0pt;font-family:å®‹ä½“;
-color:#333333'>äº‘å½•åƒæœåŠ¡ã€è·¨å¹³å°ã€æ”¯æŒåˆ†å¸ƒå¼éƒ¨ç½²</span><span lang=EN-US style='font-size:14.0pt;
+color:#333333'>EasyRMS(</span><span style='font-size:14.0pt;font-family:ËÎÌå;
+color:#333333'>ÔÆÂ¼Ïñ·þÎñ¡¢¿çÆ½Ì¨¡¢Ö§³Ö·Ö²¼Ê½²¿Êð</span><span lang=EN-US style='font-size:14.0pt;
 font-family:"Helvetica",sans-serif;color:#333333'>)</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“;color:#333333'>ï¼Œ</span><span lang=EN-US
+style='font-size:14.0pt;font-family:ËÎÌå;color:#333333'>£¬</span><span lang=EN-US
 style='font-size:14.0pt;font-family:"Helvetica",sans-serif;color:#333333'>EasyCamera(</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“;color:#333333'>å¼€æºæµåª’ä½“äº‘æ‘„åƒæœºæ–¹æ¡ˆã€æ”¯æŒ</span><span
+style='font-size:14.0pt;font-family:ËÎÌå;color:#333333'>¿ªÔ´Á÷Ã½ÌåÔÆÉãÏñ»ú·½°¸¡¢Ö§³Ö</span><span
 lang=EN-US style='font-size:14.0pt;font-family:"Helvetica",sans-serif;
-color:#333333'>ARM</span><span style='font-size:14.0pt;font-family:å®‹ä½“;
-color:#333333'>ã€</span><span lang=EN-US style='font-size:14.0pt;font-family:
+color:#333333'>ARM</span><span style='font-size:14.0pt;font-family:ËÎÌå;
+color:#333333'>¡¢</span><span lang=EN-US style='font-size:14.0pt;font-family:
 "Helvetica",sans-serif;color:#333333'>Android)</span><span style='font-size:
-14.0pt;font-family:å®‹ä½“;color:#333333'>ï¼Œ</span><span lang=EN-US style='font-size:
+14.0pt;font-family:ËÎÌå;color:#333333'>£¬</span><span lang=EN-US style='font-size:
 14.0pt;font-family:"Helvetica",sans-serif;color:#333333'>EasyNVR(</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“;color:#333333'>å°†æ ‡å‡†</span><span
+style='font-size:14.0pt;font-family:ËÎÌå;color:#333333'>½«±ê×¼</span><span
 lang=EN-US style='font-size:14.0pt;font-family:"Helvetica",sans-serif;
-color:#333333'>RTSP/Onvif</span><span style='font-size:14.0pt;font-family:å®‹ä½“;
-color:#333333'>æ‘„åƒæœºæŽ¥å…¥åˆ°äº‘å¹³å°</span><span lang=EN-US style='font-size:14.0pt;
+color:#333333'>RTSP/Onvif</span><span style='font-size:14.0pt;font-family:ËÎÌå;
+color:#333333'>ÉãÏñ»ú½ÓÈëµ½ÔÆÆ½Ì¨</span><span lang=EN-US style='font-size:14.0pt;
 font-family:"Helvetica",sans-serif;color:#333333'>)</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“;color:#333333'>ï¼Œ</span><span lang=EN-US
+style='font-size:14.0pt;font-family:ËÎÌå;color:#333333'>£¬</span><span lang=EN-US
 style='font-size:14.0pt;font-family:"Helvetica",sans-serif;color:#333333'>EasyPlayer</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“;color:#333333'>ï¼ˆæµåª’ä½“æ’­æ”¾å™¨ï¼‰ï¼Œ</span><span
+style='font-size:14.0pt;font-family:ËÎÌå;color:#333333'>£¨Á÷Ã½Ìå²¥·ÅÆ÷£©£¬</span><span
 lang=EN-US style='font-size:14.0pt;font-family:"Helvetica",sans-serif;
-color:#333333'>EasyClient</span><span style='font-size:14.0pt;font-family:å®‹ä½“;
-color:#333333'>ï¼ˆäº‘å¹³å°å®¢æˆ·ç«¯ï¼‰ï¼Œ</span><span style='font-size:14.0pt;font-family:"Helvetica",sans-serif;
-color:#333333'> </span><span style='font-size:14.0pt;font-family:å®‹ä½“;color:#333333'>ä»¥åŠå‘¨è¾¹ä¼—å¤šå·¥å…·åº“</span><span
+color:#333333'>EasyClient</span><span style='font-size:14.0pt;font-family:ËÎÌå;
+color:#333333'>£¨ÔÆÆ½Ì¨¿Í»§¶Ë£©£¬</span><span style='font-size:14.0pt;font-family:"Helvetica",sans-serif;
+color:#333333'> </span><span style='font-size:14.0pt;font-family:ËÎÌå;color:#333333'>ÒÔ¼°ÖÜ±ßÖÚ¶à¹¤¾ß¿â</span><span
 lang=EN-US style='font-size:14.0pt;font-family:"Helvetica",sans-serif;
 color:#333333'>(EasyHLS / EasyRTSPClient / EasyPusher / EasyAACEncoder)</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“;color:#333333'>ï¼ŒåŽç»­ä¹Ÿå°†ç»§ç»­æ‰©å±•çš„å½•åƒã€å›žæ”¾ç­‰å¤šç§æœåŠ¡å’Œå·¥å…·é›†ï¼Œå„ä¸ªåŠŸèƒ½å•å…ƒæ—¢å¯ä»¥ç‹¬ç«‹ä½¿ç”¨äºŽé¡¹ç›®ï¼Œåˆå¯ä»¥æ•´ä½“ä½¿ç”¨ï¼Œå½¢æˆä¸€ä¸ªå®Œæ•´ã€ç®€å•ã€æ˜“ç”¨ã€é«˜æ•ˆçš„æµåª’ä½“è§£å†³æ–¹æ¡ˆã€‚</span></p>
+style='font-size:14.0pt;font-family:ËÎÌå;color:#333333'>£¬ºóÐøÒ²½«¼ÌÐøÀ©Õ¹µÄÂ¼Ïñ¡¢»Ø·ÅµÈ¶àÖÖ·þÎñºÍ¹¤¾ß¼¯£¬¸÷¸ö¹¦ÄÜµ¥Ôª¼È¿ÉÒÔ¶ÀÁ¢Ê¹ÓÃÓÚÏîÄ¿£¬ÓÖ¿ÉÒÔÕûÌåÊ¹ÓÃ£¬ÐÎ³ÉÒ»¸öÍêÕû¡¢¼òµ¥¡¢Ò×ÓÃ¡¢¸ßÐ§µÄÁ÷Ã½Ìå½â¾ö·½°¸¡£</span></p>
 
-<p class=MsoNormal><span lang=EN-US><img border=0 width=937 height=409 id="å›¾ç‰‡ 8"
+<p class=MsoNormal><span lang=EN-US><img border=0 width=937 height=409 id="Í¼Æ¬ 8"
 src="srs_wiki.files/image001.jpg"></span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097933"><span
@@ -1146,141 +2839,141 @@ lang=EN-US>WIKI</span></a></h3>
 
 <p class=MsoNoSpacing><span lang=EN-US><a
 href="https://github.com/ossrs/srs/wiki/v1_CN_Ingest"><span style='font-size:
-12.0pt;font-family:å®‹ä½“'>https://github.com/ossrs/srs/wiki/v1_CN_Ingest</span></a></span></p>
+12.0pt;font-family:ËÎÌå'>https://github.com/ossrs/srs/wiki/v1_CN_Ingest</span></a></span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US style='font-size:12.0pt;font-family:
-å®‹ä½“'>&nbsp;</span></p>
+ËÎÌå'>&nbsp;</span></p>
 
 <h2 style='margin-left:1.0cm;text-indent:-1.0cm'><a name="_Toc26097934"></a><a
 name="_Toc462219420"><span lang=EN-US>2.5.<span style='font:7.0pt "Times New Roman"'>&nbsp;
-</span></span><span lang=EN-US>RTMP</span></a><span style='font-family:å®‹ä½“'>æµçš„ä½Žå»¶æ—¶é…ç½®</span></h2>
+</span></span><span lang=EN-US>RTMP</span></a><span style='font-family:ËÎÌå'>Á÷µÄµÍÑÓÊ±ÅäÖÃ</span></h2>
 
 <p style='text-indent:28.0pt'><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-style='font-size:14.0pt'>æµçš„å»¶æ—¶ä¸€èˆ¬åœ¨<span lang=EN-US>1-3</span>ç§’ï¼Œæ¯”<span lang=EN-US>HLS</span>çš„å»¶æ—¶å°ï¼Œ<span
-lang=EN-US>hls</span>å»¶æ—¶<span lang=EN-US>10-30</span>ç§’å·¦å³ã€‚</span></p>
+style='font-size:14.0pt'>Á÷µÄÑÓÊ±Ò»°ãÔÚ<span lang=EN-US>1-3</span>Ãë£¬±È<span lang=EN-US>HLS</span>µÄÑÓÊ±Ð¡£¬<span
+lang=EN-US>hls</span>ÑÓÊ±<span lang=EN-US>10-30</span>Ãë×óÓÒ¡£</span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097935"></a><a
 name="_Toc462219421"><span lang=EN-US>2.5.1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><span style='font-family:å®‹ä½“'>ä½Žå»¶æ—¶ç›´æ’­åº”ç”¨</span></a></h3>
+</span></span><span style='font-family:ËÎÌå'>µÍÑÓÊ±Ö±²¥Ó¦ÓÃ</span></a></h3>
 
-<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>ç›´æ’­åº”ç”¨ä¸­ï¼Œ<span
-lang=EN-US>RTMP</span>å’Œ<span lang=EN-US>HLS</span>åŸºæœ¬ä¸Šå¯ä»¥è¦†ç›–æ‰€æœ‰å®¢æˆ·ç«¯è§‚çœ‹ï¼ˆå‚è€ƒï¼š</span><span
+<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>Ö±²¥Ó¦ÓÃÖÐ£¬<span
+lang=EN-US>RTMP</span>ºÍ<span lang=EN-US>HLS</span>»ù±¾ÉÏ¿ÉÒÔ¸²¸ÇËùÓÐ¿Í»§¶Ë¹Û¿´£¨²Î¿¼£º</span><span
 lang=EN-US><a href="https://github.com/ossrs/srs/wiki/v1_CN_DeliveryHLS"><span
 style='font-size:14.0pt'>DeliveryHLS</span></a></span><span style='font-size:
-14.0pt'>ï¼‰ï¼Œ<span lang=EN-US>HLS</span>ä¸»è¦æ˜¯å»¶æ—¶æ¯”è¾ƒå¤§ï¼Œ<span lang=EN-US>RTMP</span>ä¸»è¦ä¼˜åŠ¿åœ¨äºŽå»¶æ—¶ä½Žã€‚</span></p>
+14.0pt'>£©£¬<span lang=EN-US>HLS</span>Ö÷ÒªÊÇÑÓÊ±±È½Ï´ó£¬<span lang=EN-US>RTMP</span>Ö÷ÒªÓÅÊÆÔÚÓÚÑÓÊ±µÍ¡£</span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097936"></a><a
 name="_Toc462219422"><span lang=EN-US>2.5.2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><span style='font-family:å®‹ä½“'>åº”ç”¨åœºæ™¯</span></a></h3>
+</span></span><span style='font-family:ËÎÌå'>Ó¦ÓÃ³¡¾°</span></a></h3>
 
-<p><span style='font-size:14.0pt'>ä½Žå»¶æ—¶åº”ç”¨åœºæ™¯åŒ…æ‹¬ï¼š</span></p>
+<p><span style='font-size:14.0pt'>µÍÑÓÊ±Ó¦ÓÃ³¡¾°°üÀ¨£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>äº’åŠ¨å¼ç›´æ’­ï¼šè­¬å¦‚</span><span lang=EN-US style='font-size:14.0pt'>2013</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>å¹´å¤§è¡Œå…¶é“çš„ç¾Žå¥³ä¸»æ’­ï¼Œæ¸¸æˆç›´æ’­ç­‰ç­‰å„ç§ä¸»æ’­ï¼Œæµåª’ä½“åˆ†å‘ç»™ç”¨æˆ·è§‚çœ‹ã€‚ç”¨æˆ·å¯ä»¥æ–‡å­—èŠå¤©å’Œä¸»æ’­äº’åŠ¨ã€‚</span></li>
+     font-family:ËÎÌå'>»¥¶¯Ê½Ö±²¥£ºÆ©Èç</span><span lang=EN-US style='font-size:14.0pt'>2013</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>Äê´óÐÐÆäµÀµÄÃÀÅ®Ö÷²¥£¬ÓÎÏ·Ö±²¥µÈµÈ¸÷ÖÖÖ÷²¥£¬Á÷Ã½Ìå·Ö·¢¸øÓÃ»§¹Û¿´¡£ÓÃ»§¿ÉÒÔÎÄ×ÖÁÄÌìºÍÖ÷²¥»¥¶¯¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>è§†é¢‘ä¼šè®®ï¼š</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>çš„</span><span lang=EN-US
+     font-family:ËÎÌå'>ÊÓÆµ»áÒé£º</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>µÄ</span><span lang=EN-US
      style='font-size:14.0pt'>DEMO</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>å°±æœ‰è§†é¢‘ä¼šè®®åº”ç”¨ï¼Œæˆ‘ä»¬è¦æ˜¯æœ‰åŒäº‹å‡ºå·®åœ¨å¤–åœ°ï¼Œå°±ç”¨è¿™ä¸ªè§†é¢‘ä¼šè®®å¼€å†…éƒ¨ä¼šè®®ã€‚å…¶å®žä¼šè®®</span><span
+     font-family:ËÎÌå'>¾ÍÓÐÊÓÆµ»áÒéÓ¦ÓÃ£¬ÎÒÃÇÒªÊÇÓÐÍ¬ÊÂ³ö²îÔÚÍâµØ£¬¾ÍÓÃÕâ¸öÊÓÆµ»áÒé¿ªÄÚ²¿»áÒé¡£ÆäÊµ»áÒé</span><span
      lang=EN-US style='font-size:14.0pt'>1</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ç§’å»¶æ—¶æ— æ‰€è°“ï¼Œå› ä¸ºäººå®¶è®²å®Œè¯åŽï¼Œå…¶ä»–äººéœ€è¦æ€è€ƒï¼Œæ€è€ƒçš„å»¶æ—¶ä¹Ÿä¼šåœ¨</span><span lang=EN-US
+     font-family:ËÎÌå'>ÃëÑÓÊ±ÎÞËùÎ½£¬ÒòÎªÈË¼Ò½²Íê»°ºó£¬ÆäËûÈËÐèÒªË¼¿¼£¬Ë¼¿¼µÄÑÓÊ±Ò²»áÔÚ</span><span lang=EN-US
      style='font-size:14.0pt'>1</span><span style='font-size:14.0pt;font-family:
-     å®‹ä½“'>ç§’å·¦å³ã€‚å½“ç„¶å¦‚æžœç”¨è§†é¢‘ä¼šè®®åµæž¶å°±ä¸è¡Œã€‚</span></li>
+     ËÎÌå'>Ãë×óÓÒ¡£µ±È»Èç¹ûÓÃÊÓÆµ»áÒé³³¼Ü¾Í²»ÐÐ¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>å…¶ä»–ï¼šç›‘æŽ§ï¼Œç›´æ’­ä¹Ÿæœ‰äº›åœ°æ–¹éœ€è¦å¯¹å»¶è¿Ÿæœ‰è¦æ±‚ï¼Œäº’è”ç½‘ä¸Š</span><span lang=EN-US
+     font-family:ËÎÌå'>ÆäËû£º¼à¿Ø£¬Ö±²¥Ò²ÓÐÐ©µØ·½ÐèÒª¶ÔÑÓ³ÙÓÐÒªÇó£¬»¥ÁªÍøÉÏ</span><span lang=EN-US
      style='font-size:14.0pt'>RTMP</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>åè®®çš„å»¶è¿ŸåŸºæœ¬ä¸Šèƒ½å¤Ÿæ»¡è¶³è¦æ±‚ã€‚</span></li>
+     font-family:ËÎÌå'>Ð­ÒéµÄÑÓ³Ù»ù±¾ÉÏÄÜ¹»Âú×ãÒªÇó¡£</span></li>
 </ul>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097937"></a><a
 name="_Toc462219423"><span lang=EN-US>2.5.3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><span lang=EN-US>RTMP</span></a><span style='font-family:å®‹ä½“'>å’Œå»¶æ—¶</span></h3>
+</span></span><span lang=EN-US>RTMP</span></a><span style='font-family:ËÎÌå'>ºÍÑÓÊ±</span></h3>
 
 <p><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span style='font-size:
-14.0pt'>çš„ç‰¹ç‚¹å¦‚ä¸‹ï¼š</span></p>
+14.0pt'>µÄÌØµãÈçÏÂ£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
-     14.0pt'>Adobe</span><span style='font-size:14.0pt;font-family:å®‹ä½“'>æ”¯æŒå¾—å¾ˆå¥½ï¼š</span><span
+     14.0pt'>Adobe</span><span style='font-size:14.0pt;font-family:ËÎÌå'>Ö§³ÖµÃºÜºÃ£º</span><span
      lang=EN-US style='font-size:14.0pt'>RTMP</span><span style='font-size:
-     14.0pt;font-family:å®‹ä½“'>å®žé™…ä¸Šæ˜¯çŽ°åœ¨ç¼–ç å™¨è¾“å‡ºçš„å·¥ä¸šæ ‡å‡†åè®®ï¼ŒåŸºæœ¬ä¸Šæ‰€æœ‰çš„ç¼–ç å™¨ï¼ˆæ‘„åƒå¤´ä¹‹ç±»ï¼‰éƒ½æ”¯æŒ</span><span
+     14.0pt;font-family:ËÎÌå'>Êµ¼ÊÉÏÊÇÏÖÔÚ±àÂëÆ÷Êä³öµÄ¹¤Òµ±ê×¼Ð­Òé£¬»ù±¾ÉÏËùÓÐµÄ±àÂëÆ÷£¨ÉãÏñÍ·Ö®Àà£©¶¼Ö§³Ö</span><span
      lang=EN-US style='font-size:14.0pt'>RTMP</span><span style='font-size:
-     14.0pt;font-family:å®‹ä½“'>è¾“å‡ºã€‚åŽŸå› åœ¨äºŽ</span><span lang=EN-US style='font-size:
-     14.0pt'>PC</span><span style='font-size:14.0pt;font-family:å®‹ä½“'>å¸‚åœºå·¨å¤§ï¼Œ</span><span
+     14.0pt;font-family:ËÎÌå'>Êä³ö¡£Ô­ÒòÔÚÓÚ</span><span lang=EN-US style='font-size:
+     14.0pt'>PC</span><span style='font-size:14.0pt;font-family:ËÎÌå'>ÊÐ³¡¾Þ´ó£¬</span><span
      lang=EN-US style='font-size:14.0pt'>PC</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ä¸»è¦æ˜¯</span><span lang=EN-US style='font-size:14.0pt'>Windows</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US
+     font-family:ËÎÌå'>Ö÷ÒªÊÇ</span><span lang=EN-US style='font-size:14.0pt'>Windows</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>£¬</span><span lang=EN-US
      style='font-size:14.0pt'>Windows</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>çš„æµè§ˆå™¨åŸºæœ¬ä¸Šéƒ½æ”¯æŒ</span><span lang=EN-US style='font-size:14.0pt'>flash</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US
+     font-family:ËÎÌå'>µÄä¯ÀÀÆ÷»ù±¾ÉÏ¶¼Ö§³Ö</span><span lang=EN-US style='font-size:14.0pt'>flash</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>£¬</span><span lang=EN-US
      style='font-size:14.0pt'>Flash</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>åˆæ”¯æŒ</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>æ”¯æŒå¾—ç°å¸¸å¥½ã€‚</span></li>
+     font-family:ËÎÌå'>ÓÖÖ§³Ö</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>Ö§³ÖµÃ»Ò³£ºÃ¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>é€‚åˆé•¿æ—¶é—´æ’­æ”¾ï¼šå› ä¸º</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>æ”¯æŒçš„å¾ˆå®Œå–„ï¼Œæ‰€ä»¥èƒ½åšåˆ°</span><span
+     font-family:ËÎÌå'>ÊÊºÏ³¤Ê±¼ä²¥·Å£ºÒòÎª</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>Ö§³ÖµÄºÜÍêÉÆ£¬ËùÒÔÄÜ×öµ½</span><span
      lang=EN-US style='font-size:14.0pt'>flash</span><span style='font-size:
-     14.0pt;font-family:å®‹ä½“'>æ’­æ”¾</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>æµé•¿æ—¶é—´ä¸æ–­æµï¼Œå½“æ—¶æµ‹è¯•æ˜¯</span><span
+     14.0pt;font-family:ËÎÌå'>²¥·Å</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>Á÷³¤Ê±¼ä²»¶ÏÁ÷£¬µ±Ê±²âÊÔÊÇ</span><span
      lang=EN-US style='font-size:14.0pt'>100</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ä¸‡ç§’ï¼Œå³</span><span lang=EN-US style='font-size:14.0pt'>10</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>å¤©å¤šå¯ä»¥è¿žç»­æ’­æ”¾ã€‚</span><span
+     font-family:ËÎÌå'>ÍòÃë£¬¼´</span><span lang=EN-US style='font-size:14.0pt'>10</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>Ìì¶à¿ÉÒÔÁ¬Ðø²¥·Å¡£</span><span
      style='font-size:14.0pt'> </span><span style='font-size:14.0pt;font-family:
-     å®‹ä½“'>å¯¹äºŽå•†ç”¨æµåª’ä½“åº”ç”¨ï¼Œå®¢æˆ·ç«¯çš„ç¨³å®šæ€§å½“ç„¶ä¹Ÿæ˜¯å¿…é¡»çš„ï¼Œå¦åˆ™æœ€ç»ˆç”¨æˆ·çœ‹ä¸äº†è¿˜æ€Žä¹ˆçŽ©ï¼Ÿæˆ‘å°±çŸ¥é“æœ‰ä¸ªæ•™è‚²å®¢æˆ·ï¼Œæœ€åˆä½¿ç”¨æ’­æ”¾å™¨æ’­æ”¾</span><span
+     ËÎÌå'>¶ÔÓÚÉÌÓÃÁ÷Ã½ÌåÓ¦ÓÃ£¬¿Í»§¶ËµÄÎÈ¶¨ÐÔµ±È»Ò²ÊÇ±ØÐëµÄ£¬·ñÔò×îÖÕÓÃ»§¿´²»ÁË»¹ÔõÃ´Íæ£¿ÎÒ¾ÍÖªµÀÓÐ¸ö½ÌÓý¿Í»§£¬×î³õÊ¹ÓÃ²¥·ÅÆ÷²¥·Å</span><span
      lang=EN-US style='font-size:14.0pt'>http</span><span style='font-size:
-     14.0pt;font-family:å®‹ä½“'>æµï¼Œéœ€è¦æ’­æ”¾ä¸åŒçš„</span><span style='font-size:14.0pt'> </span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>æ–‡ä»¶ï¼Œç»“æžœå°±æ€»å‡ºé—®é¢˜ï¼Œå¦‚æžœæ¢æˆæœåŠ¡å™¨ç«¯å°†ä¸åŒçš„æ–‡ä»¶è½¬æ¢æˆ</span><span
+     14.0pt;font-family:ËÎÌå'>Á÷£¬ÐèÒª²¥·Å²»Í¬µÄ</span><span style='font-size:14.0pt'> </span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>ÎÄ¼þ£¬½á¹û¾Í×Ü³öÎÊÌâ£¬Èç¹û»»³É·þÎñÆ÷¶Ë½«²»Í¬µÄÎÄ¼þ×ª»»³É</span><span
      lang=EN-US style='font-size:14.0pt'>RTMP</span><span style='font-size:
-     14.0pt;font-family:å®‹ä½“'>æµï¼Œå®¢æˆ·ç«¯å°±å¯ä»¥ä¸€ç›´æ’­æ”¾ï¼›è¯¥å®¢æˆ·èµ°</span><span lang=EN-US
+     14.0pt;font-family:ËÎÌå'>Á÷£¬¿Í»§¶Ë¾Í¿ÉÒÔÒ»Ö±²¥·Å£»¸Ã¿Í»§×ß</span><span lang=EN-US
      style='font-size:14.0pt'>RTMP</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>æ–¹æ¡ˆåŽï¼Œç»è¿‡</span><span lang=EN-US style='font-size:14.0pt'>CDN</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>åˆ†å‘ï¼Œæ²¡å¬è¯´å®¢æˆ·ç«¯å‡º</span><span
+     font-family:ËÎÌå'>·½°¸ºó£¬¾­¹ý</span><span lang=EN-US style='font-size:14.0pt'>CDN</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>·Ö·¢£¬Ã»ÌýËµ¿Í»§¶Ë³ö</span><span
      style='font-size:14.0pt'> </span><span style='font-size:14.0pt;font-family:
-     å®‹ä½“'>é—®é¢˜äº†ã€‚</span></li>
+     ËÎÌå'>ÎÊÌâÁË¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>å»¶è¿Ÿè¾ƒä½Žï¼šæ¯”èµ·</span><span lang=EN-US style='font-size:14.0pt'>YY</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>çš„é‚£ç§</span><span lang=EN-US
+     font-family:ËÎÌå'>ÑÓ³Ù½ÏµÍ£º±ÈÆð</span><span lang=EN-US style='font-size:14.0pt'>YY</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>µÄÄÇÖÖ</span><span lang=EN-US
      style='font-size:14.0pt'>UDP</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ç§æœ‰åè®®ï¼Œ</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>ç®—å»¶è¿Ÿå¤§çš„ï¼ˆå»¶è¿Ÿåœ¨</span><span lang=EN-US
+     font-family:ËÎÌå'>Ë½ÓÐÐ­Òé£¬</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>ËãÑÓ³Ù´óµÄ£¨ÑÓ³ÙÔÚ</span><span lang=EN-US
      style='font-size:14.0pt'>1-3</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ç§’ï¼‰ï¼Œæ¯”èµ·</span><span lang=EN-US style='font-size:14.0pt'>HTTP</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>æµçš„å»¶æ—¶ï¼ˆä¸€èˆ¬åœ¨</span><span lang=EN-US
+     font-family:ËÎÌå'>Ãë£©£¬±ÈÆð</span><span lang=EN-US style='font-size:14.0pt'>HTTP</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>Á÷µÄÑÓÊ±£¨Ò»°ãÔÚ</span><span lang=EN-US
      style='font-size:14.0pt'>10</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ç§’ä»¥ä¸Šï¼‰</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>ç®—ä½Žå»¶æ—¶ã€‚</span><span
+     font-family:ËÎÌå'>ÃëÒÔÉÏ£©</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>ËãµÍÑÓÊ±¡£</span><span
      style='font-size:14.0pt'> </span><span style='font-size:14.0pt;font-family:
-     å®‹ä½“'>ä¸€èˆ¬çš„ç›´æ’­åº”ç”¨ï¼Œåªè¦ä¸æ˜¯ç”µè¯ç±»å¯¹è¯çš„é‚£ç§è¦æ±‚ï¼Œ</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>å»¶è¿Ÿæ˜¯å¯ä»¥æŽ¥å—çš„ã€‚åœ¨ä¸€èˆ¬çš„è§†é¢‘ä¼šè®®ï¼ˆå‚è€ƒ</span><span
+     ËÎÌå'>Ò»°ãµÄÖ±²¥Ó¦ÓÃ£¬Ö»Òª²»ÊÇµç»°Àà¶Ô»°µÄÄÇÖÖÒªÇó£¬</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>ÑÓ³ÙÊÇ¿ÉÒÔ½ÓÊÜµÄ¡£ÔÚÒ»°ãµÄÊÓÆµ»áÒé£¨²Î¿¼</span><span
      lang=EN-US style='font-size:14.0pt'>SRS</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>çš„è§†é¢‘ä¼šè®®å»¶æ—¶ï¼‰åº”ç”¨ä¸­ï¼Œ</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>å»¶æ—¶ä¹Ÿèƒ½æŽ¥</span><span
+     font-family:ËÎÌå'>µÄÊÓÆµ»áÒéÑÓÊ±£©Ó¦ÓÃÖÐ£¬</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>ÑÓÊ±Ò²ÄÜ½Ó</span><span
      style='font-size:14.0pt'> </span><span style='font-size:14.0pt;font-family:
-     å®‹ä½“'>å—ï¼ŒåŽŸå› æ˜¯åˆ«äººåœ¨è¯´è¯çš„æ—¶å€™æˆ‘ä»¬ä¸€èˆ¬åœ¨å¬ï¼Œå®žé™…ä¸Š</span><span lang=EN-US style='font-size:14.0pt'>1</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>ç§’å»¶æ—¶æ²¡æœ‰å…³ç³»ï¼Œæˆ‘ä»¬ä¹Ÿè¦æ€è€ƒï¼ˆè¯è¯´æœ‰äº›äººçš„</span><span
+     ËÎÌå'>ÊÜ£¬Ô­ÒòÊÇ±ðÈËÔÚËµ»°µÄÊ±ºòÎÒÃÇÒ»°ãÔÚÌý£¬Êµ¼ÊÉÏ</span><span lang=EN-US style='font-size:14.0pt'>1</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>ÃëÑÓÊ±Ã»ÓÐ¹ØÏµ£¬ÎÒÃÇÒ²ÒªË¼¿¼£¨»°ËµÓÐÐ©ÈËµÄ</span><span
      lang=EN-US style='font-size:14.0pt'>CPU</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>å¤„ç†é€Ÿåº¦è¿˜æ²¡æœ‰è¿™ä¹ˆå¿«ï¼‰ã€‚</span></li>
+     font-family:ËÎÌå'>´¦ÀíËÙ¶È»¹Ã»ÓÐÕâÃ´¿ì£©¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>æœ‰ç´¯ç§¯å»¶è¿Ÿï¼šæŠ€æœ¯ä¸€å®šè¦çŸ¥é“å¼±ç‚¹ï¼Œ</span><span lang=EN-US style='font-size:
-     14.0pt'>RTMP</span><span style='font-size:14.0pt;font-family:å®‹ä½“'>æœ‰ä¸ªå¼±ç‚¹å°±æ˜¯ç´¯ç§¯è¯¯å·®ï¼ŒåŽŸå› æ˜¯</span><span
+     font-family:ËÎÌå'>ÓÐÀÛ»ýÑÓ³Ù£º¼¼ÊõÒ»¶¨ÒªÖªµÀÈõµã£¬</span><span lang=EN-US style='font-size:
+     14.0pt'>RTMP</span><span style='font-size:14.0pt;font-family:ËÎÌå'>ÓÐ¸öÈõµã¾ÍÊÇÀÛ»ýÎó²î£¬Ô­ÒòÊÇ</span><span
      lang=EN-US style='font-size:14.0pt'>RTMP</span><span style='font-size:
-     14.0pt;font-family:å®‹ä½“'>åŸºäºŽ</span><span lang=EN-US style='font-size:14.0pt'>TCP</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>ä¸ä¼šä¸¢åŒ…ã€‚æ‰€ä»¥å½“ç½‘ç»œçŠ¶æ€å·®æ—¶ï¼ŒæœåŠ¡å™¨ä¼šå°†åŒ…ç¼“å­˜èµ·</span><span
+     14.0pt;font-family:ËÎÌå'>»ùÓÚ</span><span lang=EN-US style='font-size:14.0pt'>TCP</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>²»»á¶ª°ü¡£ËùÒÔµ±ÍøÂç×´Ì¬²îÊ±£¬·þÎñÆ÷»á½«°ü»º´æÆð</span><span
      style='font-size:14.0pt'> </span><span style='font-size:14.0pt;font-family:
-     å®‹ä½“'>æ¥ï¼Œå¯¼è‡´ç´¯ç§¯çš„å»¶è¿Ÿï¼›å¾…ç½‘ç»œçŠ¶å†µå¥½äº†ï¼Œå°±ä¸€èµ·å‘ç»™å®¢æˆ·ç«¯ã€‚è¿™ä¸ªçš„å¯¹ç­–å°±æ˜¯ï¼Œå½“å®¢æˆ·ç«¯çš„ç¼“å†²åŒºå¾ˆå¤§ï¼Œå°±æ–­å¼€é‡è¿žã€‚å½“ç„¶</span><span
+     ËÎÌå'>À´£¬µ¼ÖÂÀÛ»ýµÄÑÓ³Ù£»´ýÍøÂç×´¿öºÃÁË£¬¾ÍÒ»Æð·¢¸ø¿Í»§¶Ë¡£Õâ¸öµÄ¶Ô²ß¾ÍÊÇ£¬µ±¿Í»§¶ËµÄ»º³åÇøºÜ´ó£¬¾Í¶Ï¿ªÖØÁ¬¡£µ±È»</span><span
      lang=EN-US style='font-size:14.0pt'>SRS</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ä¹Ÿæä¾›é…ç½®ã€‚</span></li>
+     font-family:ËÎÌå'>Ò²Ìá¹©ÅäÖÃ¡£</span></li>
 </ul>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097938"></a><a
 name="_Toc462219424"><span lang=EN-US>2.5.4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><span style='font-family:å®‹ä½“'>ç´¯ç§¯å»¶è¿Ÿ</span></a></h3>
+</span></span><span style='font-family:ËÎÌå'>ÀÛ»ýÑÓ³Ù</span></a></h3>
 
-<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>é™¤äº†<span
-lang=EN-US>GOP-Cache</span>ï¼Œè¿˜æœ‰ä¸€ä¸ªæœ‰å…³ç³»ï¼Œå°±æ˜¯ç´¯ç§¯å»¶è¿Ÿã€‚<span lang=EN-US>SRS</span>å¯ä»¥é…ç½®ç›´æ’­é˜Ÿåˆ—çš„é•¿åº¦ï¼ŒæœåŠ¡å™¨ä¼šå°†æ•°æ®æ”¾åœ¨ç›´æ’­é˜Ÿåˆ—ä¸­ï¼Œå¦‚æžœè¶…è¿‡è¿™ä¸ªé•¿åº¦å°±æ¸…ç©ºåˆ°æœ€åŽä¸€ä¸ª<span
-lang=EN-US>I</span>å¸§ï¼š</span></p>
+<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>³ýÁË<span
+lang=EN-US>GOP-Cache</span>£¬»¹ÓÐÒ»¸öÓÐ¹ØÏµ£¬¾ÍÊÇÀÛ»ýÑÓ³Ù¡£<span lang=EN-US>SRS</span>¿ÉÒÔÅäÖÃÖ±²¥¶ÓÁÐµÄ³¤¶È£¬·þÎñÆ÷»á½«Êý¾Ý·ÅÔÚÖ±²¥¶ÓÁÐÖÐ£¬Èç¹û³¬¹ýÕâ¸ö³¤¶È¾ÍÇå¿Õµ½×îºóÒ»¸ö<span
+lang=EN-US>I</span>Ö¡£º</span></p>
 
 <pre><span lang=EN-US>vhost your_vhost {</span></pre><pre><span lang=EN-US>&nbsp;&nbsp;&nbsp; <span
 class=pl-c># the max live queue length in seconds.</span></span></pre><pre><span
@@ -1290,21 +2983,21 @@ lang=EN-US>&nbsp;&nbsp;&nbsp; <span class=pl-c># default: 30</span></span></pre>
 lang=EN-US>&nbsp;&nbsp;&nbsp; queue_length&nbsp;&nbsp;&nbsp; 10<span
 class=pl-k>;</span></span></pre><pre><span lang=EN-US>}</span></pre>
 
-<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>å½“ç„¶è¿™ä¸ªä¸èƒ½é…ç½®å¤ªå°ï¼Œè­¬å¦‚<span
-lang=EN-US>GOP</span>æ˜¯<span lang=EN-US>1</span>ç§’ï¼Œ<span lang=EN-US>queue_length</span>æ˜¯<span
-lang=EN-US>1</span>ç§’ï¼Œè¿™æ ·ä¼šå¯¼è‡´æœ‰<span lang=EN-US>1</span>ç§’æ•°æ®å°±æ¸…ç©ºï¼Œä¼šå¯¼è‡´è·³è·ƒã€‚</span></p>
+<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>µ±È»Õâ¸ö²»ÄÜÅäÖÃÌ«Ð¡£¬Æ©Èç<span
+lang=EN-US>GOP</span>ÊÇ<span lang=EN-US>1</span>Ãë£¬<span lang=EN-US>queue_length</span>ÊÇ<span
+lang=EN-US>1</span>Ãë£¬ÕâÑù»áµ¼ÖÂÓÐ<span lang=EN-US>1</span>ÃëÊý¾Ý¾ÍÇå¿Õ£¬»áµ¼ÖÂÌøÔ¾¡£</span></p>
 
-<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>æœ‰æ›´å¥½çš„æ–¹æ³•ï¼Ÿæœ‰çš„ã€‚å»¶è¿ŸåŸºæœ¬ä¸Šå°±ç­‰äºŽå®¢æˆ·ç«¯çš„ç¼“å†²åŒºé•¿åº¦ï¼Œå› ä¸ºå»¶è¿Ÿå¤§å¤šç”±äºŽç½‘ç»œå¸¦å®½ä½Žï¼ŒæœåŠ¡å™¨ç¼“å­˜åŽä¸€èµ·å‘ç»™å®¢æˆ·ç«¯ï¼ŒçŽ°è±¡å°±æ˜¯å®¢æˆ·ç«¯çš„ç¼“å†²åŒºå˜å¤§äº†ï¼Œè­¬å¦‚<span
-lang=EN-US>NetStream.BufferLength=5</span>ç§’ï¼Œé‚£ä¹ˆè¯´æ˜Žç¼“å†²åŒºä¸­è‡³å°‘æœ‰<span lang=EN-US>5</span>ç§’æ•°æ®ã€‚</span></p>
+<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>ÓÐ¸üºÃµÄ·½·¨£¿ÓÐµÄ¡£ÑÓ³Ù»ù±¾ÉÏ¾ÍµÈÓÚ¿Í»§¶ËµÄ»º³åÇø³¤¶È£¬ÒòÎªÑÓ³Ù´ó¶àÓÉÓÚÍøÂç´ø¿íµÍ£¬·þÎñÆ÷»º´æºóÒ»Æð·¢¸ø¿Í»§¶Ë£¬ÏÖÏó¾ÍÊÇ¿Í»§¶ËµÄ»º³åÇø±ä´óÁË£¬Æ©Èç<span
+lang=EN-US>NetStream.BufferLength=5</span>Ãë£¬ÄÇÃ´ËµÃ÷»º³åÇøÖÐÖÁÉÙÓÐ<span lang=EN-US>5</span>ÃëÊý¾Ý¡£</span></p>
 
-<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>å¤„ç†ç´¯ç§¯å»¶è¿Ÿçš„æœ€å¥½æ–¹æ³•ï¼Œæ˜¯å®¢æˆ·ç«¯æ£€æµ‹åˆ°ç¼“å†²åŒºæœ‰å¾ˆå¤šæ•°æ®äº†ï¼Œå¦‚æžœå¯ä»¥çš„è¯ï¼Œå°±é‡è¿žæœåŠ¡å™¨ã€‚å½“ç„¶å¦‚æžœç½‘ç»œä¸€ç›´ä¸å¥½ï¼Œé‚£å°±æ²¡æœ‰åŠžæ³•äº†ã€‚</span></p>
+<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>´¦ÀíÀÛ»ýÑÓ³ÙµÄ×îºÃ·½·¨£¬ÊÇ¿Í»§¶Ë¼ì²âµ½»º³åÇøÓÐºÜ¶àÊý¾ÝÁË£¬Èç¹û¿ÉÒÔµÄ»°£¬¾ÍÖØÁ¬·þÎñÆ÷¡£µ±È»Èç¹ûÍøÂçÒ»Ö±²»ºÃ£¬ÄÇ¾ÍÃ»ÓÐ°ì·¨ÁË¡£</span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097939"></a><a
 name="_Toc462219425"><span lang=EN-US>2.5.5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><span style='font-family:å®‹ä½“'>ä½Žå»¶æ—¶é…ç½®</span></a></h3>
+</span></span><span style='font-family:ËÎÌå'>µÍÑÓÊ±ÅäÖÃ</span></a></h3>
 
-<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>è€ƒè™‘<span
-lang=EN-US>GOP-Cache</span>å’Œç´¯ç§¯å»¶è¿Ÿï¼ŒæŽ¨èçš„ä½Žå»¶æ—¶é…ç½®å¦‚ä¸‹ï¼ˆå‚è€ƒ<span lang=EN-US>min.delay.com</span>ï¼‰</span>ï¼š</p>
+<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>¿¼ÂÇ<span
+lang=EN-US>GOP-Cache</span>ºÍÀÛ»ýÑÓ³Ù£¬ÍÆ¼öµÄµÍÑÓÊ±ÅäÖÃÈçÏÂ£¨²Î¿¼<span lang=EN-US>min.delay.com</span>£©</span>£º</p>
 
 <p class=MsoNoSpacing><span class=pl-c><span lang=EN-US># the listen ports,
 split by space.</span></span></p>
@@ -1358,11 +3051,11 @@ queue_length&nbsp;&nbsp;&nbsp; 10<span class=pl-k>;</span></span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>}</span></p>
 
-<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>å½“ç„¶ï¼ŒæœåŠ¡å™¨çš„æ€§èƒ½ä¹Ÿè¦è€ƒè™‘ï¼Œä¸å¯ä»¥è®©ä¸€ä¸ª<span
-lang=EN-US>SRS</span>è¿›ç¨‹è·‘å¤ªé«˜å¸¦å®½ï¼Œä¸€èˆ¬<span lang=EN-US>CPU</span>åœ¨<span lang=EN-US>80%</span>ä»¥ä¸‹ä¸ä¼šå½±å“å»¶è¿Ÿï¼Œè¿žæŽ¥æ•°å‚è€ƒ</span><span
+<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>µ±È»£¬·þÎñÆ÷µÄÐÔÄÜÒ²Òª¿¼ÂÇ£¬²»¿ÉÒÔÈÃÒ»¸ö<span
+lang=EN-US>SRS</span>½ø³ÌÅÜÌ«¸ß´ø¿í£¬Ò»°ã<span lang=EN-US>CPU</span>ÔÚ<span lang=EN-US>80%</span>ÒÔÏÂ²»»áÓ°ÏìÑÓ³Ù£¬Á¬½ÓÊý²Î¿¼</span><span
 lang=EN-US><a href="https://github.com/ossrs/srs/wiki/v1_CN_Performance"><span
-lang=EN-US style='font-size:14.0pt'><span lang=EN-US>æ€§èƒ½</span></span></a></span><span
-style='font-size:14.0pt'>ã€‚</span></p>
+lang=EN-US style='font-size:14.0pt'><span lang=EN-US>ÐÔÄÜ</span></span></a></span><span
+style='font-size:14.0pt'>¡£</span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097940"></a><a
 name="_Toc462219426"><span lang=EN-US>2.5.6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
@@ -1372,173 +3065,173 @@ name="_Toc462219426"><span lang=EN-US>2.5.6.<span style='font:7.0pt "Times New R
 href="https://github.com/ossrs/srs/wiki/v3_CN_SampleRealtime">https://github.com/ossrs/srs/wiki/v3_CN_SampleRealtime</a></span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US style='font-size:12.0pt;font-family:
-å®‹ä½“'>&nbsp;</span></p>
+ËÎÌå'>&nbsp;</span></p>
 
 <h1 style='margin-left:21.25pt;text-indent:-21.25pt'><a name="_Toc26097941"></a><a
 name="_Toc462219427"></a><a name="_Toc456260512"><span lang=EN-US>3.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span>æµ</a>å˜æ¢</h1>
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span>Á÷</a>±ä»»</h1>
 
 <p class=MsoNormal style='text-indent:28.0pt'><span lang=EN-US
 style='font-size:14.0pt'>SRS</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>è¿˜æ”¯æŒå°†æŽ¥å…¥çš„</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>æµè¿›è¡Œå„ç§å˜æ¢ï¼Œè­¬å¦‚å°†</span><span lang=EN-US
+ËÎÌå'>»¹Ö§³Ö½«½ÓÈëµÄ</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>Á÷½øÐÐ¸÷ÖÖ±ä»»£¬Æ©Èç½«</span><span lang=EN-US
 style='font-size:14.0pt'>RTMP</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>æµè½¬ç ã€æµæˆªå›¾ã€è½¬å‘ç»™å…¶ä»–æœåŠ¡å™¨ã€è½¬å°è£…æˆ</span><span lang=EN-US style='font-size:14.0pt'>HTTP-FLV</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>æµã€è½¬å°è£…æˆ</span><span lang=EN-US
+ËÎÌå'>Á÷×ªÂë¡¢Á÷½ØÍ¼¡¢×ª·¢¸øÆäËû·þÎñÆ÷¡¢×ª·â×°³É</span><span lang=EN-US style='font-size:14.0pt'>HTTP-FLV</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>Á÷¡¢×ª·â×°³É</span><span lang=EN-US
 style='font-size:14.0pt'>HLS</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ã€è½¬å°è£…æˆ</span><span lang=EN-US style='font-size:14.0pt'>HDS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ã€å½•åˆ¶æˆ</span><span lang=EN-US
+ËÎÌå'>¡¢×ª·â×°³É</span><span lang=EN-US style='font-size:14.0pt'>HDS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>¡¢Â¼ÖÆ³É</span><span lang=EN-US
 style='font-size:14.0pt'>FLV</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ç­‰ã€‚</span></p>
+ËÎÌå'>µÈ¡£</span></p>
 
 <h2 style='margin-left:1.0cm;text-indent:-1.0cm'><a name="_Toc26097942"></a><a
 name="_Toc462219428"></a><a name="_Toc456260513"><span lang=EN-US>3.1.<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-style='font-family:å®‹ä½“'>å°†</span><span lang=EN-US>RTMP</span></a><span
-style='font-family:å®‹ä½“'>æµè½¬ç </span></h2>
+style='font-family:ËÎÌå'>½«</span><span lang=EN-US>RTMP</span></a><span
+style='font-family:ËÎÌå'>Á÷×ªÂë</span></h2>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
 style='font-size:14.0pt'>SRS</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>é€šè¿‡</span><span lang=EN-US style='font-size:14.0pt'>FFMPEG</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>å¯¹</span><span lang=EN-US
+ËÎÌå'>Í¨¹ý</span><span lang=EN-US style='font-size:14.0pt'>FFMPEG</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>¶Ô</span><span lang=EN-US
 style='font-size:14.0pt'>RTMP</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ç›´æ’­æµè½¬ç ï¼Œ</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>åœ¨æ”¶åˆ°ç¼–ç å™¨æŽ¨é€çš„ç›´æ’­æµåŽï¼Œå¯ä»¥å¯¹ç›´æ’­æµè¿›è¡Œè½¬ç ï¼Œè¾“å‡º</span><span
+ËÎÌå'>Ö±²¥Á÷×ªÂë£¬</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>ÔÚÊÕµ½±àÂëÆ÷ÍÆËÍµÄÖ±²¥Á÷ºó£¬¿ÉÒÔ¶ÔÖ±²¥Á÷½øÐÐ×ªÂë£¬Êä³ö</span><span
 lang=EN-US style='font-size:14.0pt'>RTMP</span><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>æµåˆ°æœåŠ¡å™¨ï¼ˆä¹Ÿå¯ä»¥åˆ°</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>è‡ªå·±ï¼‰ã€‚å¦‚ä½¿ç”¨è¯¥åŠŸèƒ½å°†ç›´æ’­æµè½¬æ¢å¤šç çŽ‡æµï¼Œæˆ–è€…ç»™æµæ·»åŠ æ°´å°ç­‰ã€‚</span></p>
+font-family:ËÎÌå'>Á÷µ½·þÎñÆ÷£¨Ò²¿ÉÒÔµ½</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>×Ô¼º£©¡£ÈçÊ¹ÓÃ¸Ã¹¦ÄÜ½«Ö±²¥Á÷×ª»»¶àÂëÂÊÁ÷£¬»òÕß¸øÁ÷Ìí¼ÓË®Ó¡µÈ¡£</span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097943"></a><a
 name="_Toc462219429"><span lang=EN-US>3.1.1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><span style='font-family:å®‹ä½“'>åº”ç”¨åœºæ™¯</span></a></h3>
+</span></span><span style='font-family:ËÎÌå'>Ó¦ÓÃ³¡¾°</span></a></h3>
 
-<p><span style='font-size:14.0pt'>è½¬ç çš„é‡è¦åº”ç”¨åœºæ™¯åŒ…æ‹¬ï¼š</span></p>
+<p><span style='font-size:14.0pt'>×ªÂëµÄÖØÒªÓ¦ÓÃ³¡¾°°üÀ¨£º</span></p>
 
 <ol start=1 type=1>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>æŽ¨é€ä¸€è·¯é«˜ç çŽ‡ï¼Œè½¬å¤šè·¯è¾“å‡ºã€‚è­¬å¦‚ï¼šæ¸¸æˆç›´æ’­ä¸­ï¼ŒæŽ¨é€ä¸€è·¯</span><span lang=EN-US
+     font-family:ËÎÌå'>ÍÆËÍÒ»Â·¸ßÂëÂÊ£¬×ª¶àÂ·Êä³ö¡£Æ©Èç£ºÓÎÏ·Ö±²¥ÖÐ£¬ÍÆËÍÒ»Â·</span><span lang=EN-US
      style='font-size:14.0pt'>1080p</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>æµåˆ°</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US
+     font-family:ËÎÌå'>Á÷µ½</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>£¬</span><span lang=EN-US
      style='font-size:14.0pt'>SRS</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>å¯ä»¥è½¬ç è¾“å‡º</span><span lang=EN-US style='font-size:14.0pt'>1080p/720p/576p</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>å¤šè·¯ï¼Œä½Žç çŽ‡å¯ä»¥ç»™ç§»åŠ¨è®¾å¤‡è§‚çœ‹ã€‚è¿™æ ·èŠ‚çœäº†æŽ¨æµå¸¦å®½ï¼ˆä¸€èˆ¬æºç«™ä¸º</span><span
+     font-family:ËÎÌå'>¿ÉÒÔ×ªÂëÊä³ö</span><span lang=EN-US style='font-size:14.0pt'>1080p/720p/576p</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>¶àÂ·£¬µÍÂëÂÊ¿ÉÒÔ¸øÒÆ¶¯Éè±¸¹Û¿´¡£ÕâÑù½ÚÊ¡ÁËÍÆÁ÷´ø¿í£¨Ò»°ãÔ´Õ¾Îª</span><span
      lang=EN-US style='font-size:14.0pt'>BGP</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>å¸¦å®½ï¼Œå¾ˆè´µï¼‰ï¼Œä¹Ÿå‡è½»äº†å®¢æˆ·ç«¯åŽ‹åŠ›ï¼ˆè­¬å¦‚å®¢æˆ·ç«¯è¾¹çŽ©æ¸¸æˆè¾¹ç›´æ’­ï¼‰ã€‚</span></li>
+     font-family:ËÎÌå'>´ø¿í£¬ºÜ¹ó£©£¬Ò²¼õÇáÁË¿Í»§¶ËÑ¹Á¦£¨Æ©Èç¿Í»§¶Ë±ßÍæÓÎÏ·±ßÖ±²¥£©¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>æ”¯æŒå¤šå±è¾“å‡ºã€‚è­¬å¦‚ï¼šç½‘é¡µæŽ¨æµï¼ˆä¸»æ’­ï¼‰ç¼–ç ä¸º</span><span lang=EN-US
+     font-family:ËÎÌå'>Ö§³Ö¶àÆÁÊä³ö¡£Æ©Èç£ºÍøÒ³ÍÆÁ÷£¨Ö÷²¥£©±àÂëÎª</span><span lang=EN-US
      style='font-size:14.0pt'>vp6/mp3</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>æˆ–</span><span lang=EN-US style='font-size:14.0pt'>speex</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼ŒæŽ¨æµåˆ°</span><span lang=EN-US
+     font-family:ËÎÌå'>»ò</span><span lang=EN-US style='font-size:14.0pt'>speex</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>£¬ÍÆÁ÷µ½</span><span lang=EN-US
      style='font-size:14.0pt'>SRS</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>åŽæ— æ³•æ”¯æŒ</span><span lang=EN-US style='font-size:14.0pt'>HLS</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼ˆè¦æ±‚</span><span lang=EN-US
+     font-family:ËÎÌå'>ºóÎÞ·¨Ö§³Ö</span><span lang=EN-US style='font-size:14.0pt'>HLS</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>£¨ÒªÇó</span><span lang=EN-US
      style='font-size:14.0pt'>h264+aac</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ï¼‰ï¼Œå¯ä»¥è½¬ç æˆ</span><span lang=EN-US style='font-size:14.0pt'>h264+aac</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>åŽåˆ‡ç‰‡æˆ</span><span lang=EN-US
+     font-family:ËÎÌå'>£©£¬¿ÉÒÔ×ªÂë³É</span><span lang=EN-US style='font-size:14.0pt'>h264+aac</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>ºóÇÐÆ¬³É</span><span lang=EN-US
      style='font-size:14.0pt'>HLS</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>æˆ–è€…æŽ¨é€åˆ°å…¶ä»–æœåŠ¡å™¨å†åˆ†å‘ã€‚</span></li>
+     font-family:ËÎÌå'>»òÕßÍÆËÍµ½ÆäËû·þÎñÆ÷ÔÙ·Ö·¢¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>åŠ æ°´å°ã€‚é€‚ç”¨äºŽéœ€è¦å¯¹æµè¿›è¡ŒåŠ æ°´å°çš„æƒ…å†µï¼Œè­¬å¦‚æ‰“ä¸Šè‡ªå·±çš„</span><span lang=EN-US
+     font-family:ËÎÌå'>¼ÓË®Ó¡¡£ÊÊÓÃÓÚÐèÒª¶ÔÁ÷½øÐÐ¼ÓË®Ó¡µÄÇé¿ö£¬Æ©Èç´òÉÏ×Ô¼ºµÄ</span><span lang=EN-US
      style='font-size:14.0pt'>logo</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ã€‚</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>æ”¯æŒæ–‡å­—æ°´å°å’Œå›¾ç‰‡æ°´å°ï¼Œä¹Ÿå¯ä»¥æ”¯æŒè§†é¢‘ä½œä¸ºæ°´å°ï¼Œæˆ–è€…å°†ä¸¤è·¯æµå åŠ ï¼ˆå‚è€ƒ</span><span
+     font-family:ËÎÌå'>¡£</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>Ö§³ÖÎÄ×ÖË®Ó¡ºÍÍ¼Æ¬Ë®Ó¡£¬Ò²¿ÉÒÔÖ§³ÖÊÓÆµ×÷ÎªË®Ó¡£¬»òÕß½«Á½Â·Á÷µþ¼Ó£¨²Î¿¼</span><span
      lang=EN-US style='font-size:14.0pt'>ffmpeg</span><span style='font-size:
-     14.0pt;font-family:å®‹ä½“'>çš„ç”¨æ³•ï¼‰ã€‚</span></li>
+     14.0pt;font-family:ËÎÌå'>µÄÓÃ·¨£©¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>æˆªå›¾ã€‚</span><span style='font-size:14.0pt'> </span></li>
+     font-family:ËÎÌå'>½ØÍ¼¡£</span><span style='font-size:14.0pt'> </span></li>
  <li class=MsoNormal style='text-align:left'><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>å…¶ä»–æ»¤é•œï¼š</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>æ”¯æŒæ‰€æœ‰</span><span lang=EN-US
+     font-family:ËÎÌå'>ÆäËûÂË¾µ£º</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>Ö§³ÖËùÓÐ</span><span lang=EN-US
      style='font-size:14.0pt'>ffmpeg</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>çš„æ»¤é•œã€‚</span></li>
+     font-family:ËÎÌå'>µÄÂË¾µ¡£</span></li>
 </ol>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097944"></a><a
 name="_Toc462219430"><span lang=EN-US>3.1.2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><span style='font-family:å®‹ä½“'>å·¥ä½œæµç¨‹</span></a></h3>
+</span></span><span style='font-family:ËÎÌå'>¹¤×÷Á÷³Ì</span></a></h3>
 
 <p><span lang=EN-US style='font-size:14.0pt'>SRS</span><span style='font-size:
-14.0pt'>è½¬ç çš„ä¸»è¦æµç¨‹åŒ…æ‹¬ï¼š</span></p>
+14.0pt'>×ªÂëµÄÖ÷ÒªÁ÷³Ì°üÀ¨£º</span></p>
 
 <p class=MsoNormal align=left style='margin-left:36.0pt;text-align:left;
 text-indent:-18.0pt'><span lang=EN-US style='font-size:14.0pt'>1.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ç¼–ç å™¨æŽ¨é€</span><span lang=EN-US
+style='font-size:14.0pt;font-family:ËÎÌå'>±àÂëÆ÷ÍÆËÍ</span><span lang=EN-US
 style='font-size:14.0pt'>RTMP</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>æµåˆ°</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>çš„</span><span lang=EN-US
+ËÎÌå'>Á÷µ½</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>µÄ</span><span lang=EN-US
 style='font-size:14.0pt'>vhost</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ã€‚</span></p>
+ËÎÌå'>¡£</span></p>
 
 <p class=MsoNormal align=left style='margin-left:36.0pt;text-align:left;
 text-indent:-18.0pt'><span lang=EN-US style='font-size:14.0pt'>2.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
 lang=EN-US style='font-size:14.0pt'>SRS</span><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>çš„</span><span lang=EN-US style='font-size:14.0pt'>vhost</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>è‹¥é…ç½®äº†è½¬ç ï¼Œåˆ™è¿›è¡Œè½¬ç ã€‚</span></p>
+font-family:ËÎÌå'>µÄ</span><span lang=EN-US style='font-size:14.0pt'>vhost</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>ÈôÅäÖÃÁË×ªÂë£¬Ôò½øÐÐ×ªÂë¡£</span></p>
 
 <p class=MsoNormal align=left style='margin-left:36.0pt;text-align:left;
 text-indent:-18.0pt'><span lang=EN-US style='font-size:14.0pt'>3.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>è½¬ç åŽï¼ŒæŒ‰ç…§é…ç½®ï¼ŒæŽ¨é€åˆ°</span><span lang=EN-US
+style='font-size:14.0pt;font-family:ËÎÌå'>×ªÂëºó£¬°´ÕÕÅäÖÃ£¬ÍÆËÍµ½</span><span lang=EN-US
 style='font-size:14.0pt'>SRS</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>æœ¬èº«æˆ–è€…å…¶ä»–</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>æœåŠ¡å™¨ã€‚</span></p>
+ËÎÌå'>±¾Éí»òÕßÆäËû</span><span lang=EN-US style='font-size:14.0pt'>RTMP</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>·þÎñÆ÷¡£</span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097945"></a><a
 name="_Toc462219431"><span lang=EN-US>3.1.3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><span style='font-family:å®‹ä½“'>é…ç½®</span></a></h3>
+</span></span><span style='font-family:ËÎÌå'>ÅäÖÃ</span></a></h3>
 
 <p><span lang=EN-US style='font-size:14.0pt'>SRS</span><span style='font-size:
-14.0pt'>å¯ä»¥å¯¹<span lang=EN-US>vhost</span>çš„æ‰€æœ‰çš„æµè½¬ç ï¼Œæˆ–è€…å¯¹æŸäº›<span lang=EN-US>app</span>çš„æµè½¬ç ï¼Œæˆ–è€…å¯¹æŸäº›æµè½¬ç ã€‚</span></p>
+14.0pt'>¿ÉÒÔ¶Ô<span lang=EN-US>vhost</span>µÄËùÓÐµÄÁ÷×ªÂë£¬»òÕß¶ÔÄ³Ð©<span lang=EN-US>app</span>µÄÁ÷×ªÂë£¬»òÕß¶ÔÄ³Ð©Á÷×ªÂë¡£</span></p>
 
-<p><span style='font-size:14.0pt'>å¯¹<span lang=EN-US>app</span>æˆ–æµè½¬ç æ—¶ï¼Œåªè¦åœ¨<span
-lang=EN-US>transcode</span>åŽé¢åŠ <span lang=EN-US>app</span>å’Œ<span lang=EN-US>stream</span>å°±å¯ä»¥ã€‚è­¬å¦‚ï¼š</span></p>
+<p><span style='font-size:14.0pt'>¶Ô<span lang=EN-US>app</span>»òÁ÷×ªÂëÊ±£¬Ö»ÒªÔÚ<span
+lang=EN-US>transcode</span>ºóÃæ¼Ó<span lang=EN-US>app</span>ºÍ<span lang=EN-US>stream</span>¾Í¿ÉÒÔ¡£Æ©Èç£º</span></p>
 
 <pre><span lang=EN-US>listen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1935<span
 class=pl-k>;</span></span></pre><pre><span lang=EN-US>vhost __defaultVhost__ {</span></pre><pre><span
 lang=EN-US>&nbsp;&nbsp;&nbsp; <span class=pl-c># </span></span><span
-class=pl-c>å¯¹<span lang=EN-US>app</span>ä¸º<span lang=EN-US>live</span>çš„æ‰€æœ‰æµè½¬ç </span></pre><pre><span
+class=pl-c>¶Ô<span lang=EN-US>app</span>Îª<span lang=EN-US>live</span>µÄËùÓÐÁ÷×ªÂë</span></pre><pre><span
 lang=EN-US>&nbsp;&nbsp;&nbsp; transcode live{</span></pre><pre><span
 lang=EN-US>&nbsp;&nbsp;&nbsp; }</span></pre><pre><span lang=EN-US>}</span></pre>
 
-<p><span style='font-size:14.0pt'>ä»¥åŠå¯¹æŒ‡å®šçš„æµè½¬ç ï¼š</span></p>
+<p><span style='font-size:14.0pt'>ÒÔ¼°¶ÔÖ¸¶¨µÄÁ÷×ªÂë£º</span></p>
 
 <pre><span lang=EN-US>listen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1935<span
 class=pl-k>;</span></span></pre><pre><span lang=EN-US>vhost __defaultVhost__ {</span></pre><pre><span
 lang=EN-US>&nbsp;&nbsp;&nbsp; <span class=pl-c># </span></span><span
-class=pl-c>å¯¹<span lang=EN-US>app</span>ä¸º<span lang=EN-US>live</span>å¹¶ä¸”æµåç§°ä¸º<span
-lang=EN-US>livestream</span>çš„æµè½¬ç </span></pre><pre><span lang=EN-US>&nbsp;&nbsp;&nbsp; transcode live/livestream{</span></pre><pre><span
+class=pl-c>¶Ô<span lang=EN-US>app</span>Îª<span lang=EN-US>live</span>²¢ÇÒÁ÷Ãû³ÆÎª<span
+lang=EN-US>livestream</span>µÄÁ÷×ªÂë</span></pre><pre><span lang=EN-US>&nbsp;&nbsp;&nbsp; transcode live/livestream{</span></pre><pre><span
 lang=EN-US>&nbsp;&nbsp;&nbsp; }</span></pre><pre><span lang=EN-US>}</span></pre>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097946"></a><a
 name="_Toc462219432"><span lang=EN-US>3.1.4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-</span></span><span style='font-family:å®‹ä½“'>è½¬ç è§„åˆ™</span></a></h3>
+</span></span><span style='font-family:ËÎÌå'>×ªÂë¹æÔò</span></a></h3>
 
 <p style='text-indent:28.0pt'><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt'>çš„è½¬ç å‚æ•°å…¨æ˜¯<span lang=EN-US>FFMPEG</span>çš„å‚æ•°ï¼Œæœ‰äº›å‚æ•°<span
-lang=EN-US>SRS</span>åšäº†è‡ªå®šä¹‰ï¼Œè§ä¸‹è¡¨ã€‚</span></p>
+style='font-size:14.0pt'>µÄ×ªÂë²ÎÊýÈ«ÊÇ<span lang=EN-US>FFMPEG</span>µÄ²ÎÊý£¬ÓÐÐ©²ÎÊý<span
+lang=EN-US>SRS</span>×öÁË×Ô¶¨Òå£¬¼ûÏÂ±í¡£</span></p>
 
 <table class=MsoNormalTable border=0 cellpadding=0 style='background:#E5E5E5'>
  <thead>
   <tr>
    <td style='padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   lang=EN-US>SRS</span></b><b><span style='font-family:å®‹ä½“;color:black'>å‚æ•°</span></b></p>
+   lang=EN-US>SRS</span></b><b><span style='font-family:ËÎÌå;color:black'>²ÎÊý</span></b></p>
    </td>
    <td style='padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
    lang=EN-US style='color:black'>FFMPEG</span></b><b><span style='font-family:
-   å®‹ä½“;color:black'>å‚æ•°</span></b></p>
+   ËÎÌå;color:black'>²ÎÊý</span></b></p>
    </td>
    <td style='padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   style='font-family:å®‹ä½“;color:black'>å®žä¾‹</span></b></p>
+   style='font-family:ËÎÌå;color:black'>ÊµÀý</span></b></p>
    </td>
    <td style='padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   style='font-family:å®‹ä½“;color:black'>è¯´æ˜Ž</span></b></p>
+   style='font-family:ËÎÌå;color:black'>ËµÃ÷</span></b></p>
    </td>
   </tr>
  </thead>
@@ -1554,7 +3247,7 @@ lang=EN-US>SRS</span>åšäº†è‡ªå®šä¹‰ï¼Œè§ä¸‹è¡¨ã€‚</span></p>
   libx264 ...</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æŒ‡å®šè§†é¢‘ç¼–ç å™¨</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>Ö¸¶¨ÊÓÆµ±àÂëÆ÷</span></p>
   </td>
  </tr>
  <tr>
@@ -1569,7 +3262,7 @@ lang=EN-US>SRS</span>åšäº†è‡ªå®šä¹‰ï¼Œè§ä¸‹è¡¨ã€‚</span></p>
   500000 ...</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>è¾“å‡ºçš„è§†é¢‘ç çŽ‡</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>Êä³öµÄÊÓÆµÂëÂÊ</span></p>
   </td>
  </tr>
  <tr>
@@ -1583,7 +3276,7 @@ lang=EN-US>SRS</span>åšäº†è‡ªå®šä¹‰ï¼Œè§ä¸‹è¡¨ã€‚</span></p>
   <p class=MsoNormal><span lang=EN-US style='color:black'>ffmpeg ... -r 25 ...</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>è¾“å‡ºçš„è§†é¢‘å¸§çŽ‡</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>Êä³öµÄÊÓÆµÖ¡ÂÊ</span></p>
   </td>
  </tr>
  <tr>
@@ -1598,9 +3291,9 @@ lang=EN-US>SRS</span>åšäº†è‡ªå®šä¹‰ï¼Œè§ä¸‹è¡¨ã€‚</span></p>
   -aspect 400:300 ...</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>è¾“å‡ºçš„è§†é¢‘å®½åº¦</span><span
-  lang=EN-US style='color:black'>x</span><span style='font-family:å®‹ä½“;
-  color:black'>é«˜åº¦ï¼Œä»¥åŠå®½é«˜æ¯”</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>Êä³öµÄÊÓÆµ¿í¶È</span><span
+  lang=EN-US style='color:black'>x</span><span style='font-family:ËÎÌå;
+  color:black'>¸ß¶È£¬ÒÔ¼°¿í¸ß±È</span></p>
   </td>
  </tr>
  <tr>
@@ -1615,7 +3308,7 @@ lang=EN-US>SRS</span>åšäº†è‡ªå®šä¹‰ï¼Œè§ä¸‹è¡¨ã€‚</span></p>
   ...</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>ç¼–ç çº¿ç¨‹æ•°</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>±àÂëÏß³ÌÊý</span></p>
   </td>
  </tr>
  <tr>
@@ -1630,9 +3323,9 @@ lang=EN-US>SRS</span>åšäº†è‡ªå®šä¹‰ï¼Œè§ä¸‹è¡¨ã€‚</span></p>
   high ...</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>ç¼–ç </span><span
-  lang=EN-US style='color:black'>x264</span><span style='font-family:å®‹ä½“;
-  color:black'>çš„</span><span lang=EN-US style='color:black'>profile</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>±àÂë</span><span
+  lang=EN-US style='color:black'>x264</span><span style='font-family:ËÎÌå;
+  color:black'>µÄ</span><span lang=EN-US style='color:black'>profile</span></p>
   </td>
  </tr>
  <tr>
@@ -1647,9 +3340,9 @@ lang=EN-US>SRS</span>åšäº†è‡ªå®šä¹‰ï¼Œè§ä¸‹è¡¨ã€‚</span></p>
   medium ...</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>ç¼–ç </span><span
-  lang=EN-US style='color:black'>x264</span><span style='font-family:å®‹ä½“;
-  color:black'>çš„</span><span lang=EN-US style='color:black'>preset</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>±àÂë</span><span
+  lang=EN-US style='color:black'>x264</span><span style='font-family:ËÎÌå;
+  color:black'>µÄ</span><span lang=EN-US style='color:black'>preset</span></p>
   </td>
  </tr>
  <tr>
@@ -1664,7 +3357,7 @@ lang=EN-US>SRS</span>åšäº†è‡ªå®šä¹‰ï¼Œè§ä¸‹è¡¨ã€‚</span></p>
   libfdk_aac ...</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>éŸ³é¢‘ç¼–ç å™¨</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÒôÆµ±àÂëÆ÷</span></p>
   </td>
  </tr>
  <tr>
@@ -1679,11 +3372,11 @@ lang=EN-US>SRS</span>åšäº†è‡ªå®šä¹‰ï¼Œè§ä¸‹è¡¨ã€‚</span></p>
   ...</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>éŸ³é¢‘è¾“å‡ºç çŽ‡ã€‚</span><span
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÒôÆµÊä³öÂëÂÊ¡£</span><span
   lang=EN-US style='color:black'>libaacplus</span><span style='font-family:
-  å®‹ä½“;color:black'>ï¼š</span><span lang=EN-US style='color:black'>16-72k</span><span
-  style='font-family:å®‹ä½“;color:black'>ã€‚</span><span lang=EN-US style='color:
-  black'>libfdk_aac</span><span style='font-family:å®‹ä½“;color:black'>æ²¡æœ‰é™åˆ¶ã€‚</span></p>
+  ËÎÌå;color:black'>£º</span><span lang=EN-US style='color:black'>16-72k</span><span
+  style='font-family:ËÎÌå;color:black'>¡£</span><span lang=EN-US style='color:
+  black'>libfdk_aac</span><span style='font-family:ËÎÌå;color:black'>Ã»ÓÐÏÞÖÆ¡£</span></p>
   </td>
  </tr>
  <tr>
@@ -1698,7 +3391,7 @@ lang=EN-US>SRS</span>åšäº†è‡ªå®šä¹‰ï¼Œè§ä¸‹è¡¨ã€‚</span></p>
   ...</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>éŸ³é¢‘é‡‡æ ·çŽ‡</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÒôÆµ²ÉÑùÂÊ</span></p>
   </td>
  </tr>
  <tr>
@@ -1712,104 +3405,104 @@ lang=EN-US>SRS</span>åšäº†è‡ªå®šä¹‰ï¼Œè§ä¸‹è¡¨ã€‚</span></p>
   <p class=MsoNormal><span lang=EN-US style='color:black'>ffmpeg ... -ac 2 ...</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>éŸ³é¢‘å£°é“</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÒôÆµÉùµÀ</span></p>
   </td>
  </tr>
 </table>
 
-<p><span style='font-size:14.0pt;color:black'>å¦å¤–ï¼Œè¿˜æœ‰ä¸‰ä¸ªæ˜¯å¯ä»¥åŠ å…¶ä»–</span><span
-lang=EN-US style='font-size:14.0pt'>ffmpeg</span><span style='font-size:14.0pt'>å‚æ•°ï¼š</span></p>
+<p><span style='font-size:14.0pt;color:black'>ÁíÍâ£¬»¹ÓÐÈý¸öÊÇ¿ÉÒÔ¼ÓÆäËû</span><span
+lang=EN-US style='font-size:14.0pt'>ffmpeg</span><span style='font-size:14.0pt'>²ÎÊý£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
-     14.0pt'>vfilter</span><span style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼šæ·»åŠ åœ¨</span><span
+     14.0pt'>vfilter</span><span style='font-size:14.0pt;font-family:ËÎÌå'>£ºÌí¼ÓÔÚ</span><span
      lang=EN-US style='font-size:14.0pt'>vcodec</span><span style='font-size:
-     14.0pt;font-family:å®‹ä½“'>ä¹‹å‰çš„æ»¤é•œå‚æ•°ã€‚</span></li>
+     14.0pt;font-family:ËÎÌå'>Ö®Ç°µÄÂË¾µ²ÎÊý¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
-     14.0pt'>vparams</span><span style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼šæ·»åŠ åœ¨</span><span
+     14.0pt'>vparams</span><span style='font-size:14.0pt;font-family:ËÎÌå'>£ºÌí¼ÓÔÚ</span><span
      lang=EN-US style='font-size:14.0pt'>vcodec</span><span style='font-size:
-     14.0pt;font-family:å®‹ä½“'>ä¹‹åŽï¼Œ</span><span lang=EN-US style='font-size:14.0pt'>acodec</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>ä¹‹å‰çš„è§†é¢‘ç¼–ç å‚æ•°ã€‚</span></li>
+     14.0pt;font-family:ËÎÌå'>Ö®ºó£¬</span><span lang=EN-US style='font-size:14.0pt'>acodec</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>Ö®Ç°µÄÊÓÆµ±àÂë²ÎÊý¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
-     14.0pt'>aparams</span><span style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼šæ·»åŠ åœ¨</span><span
+     14.0pt'>aparams</span><span style='font-size:14.0pt;font-family:ËÎÌå'>£ºÌí¼ÓÔÚ</span><span
      lang=EN-US style='font-size:14.0pt'>acodec</span><span style='font-size:
-     14.0pt;font-family:å®‹ä½“'>ä¹‹åŽï¼Œ</span><span lang=EN-US style='font-size:14.0pt'>-y</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>ä¹‹å‰çš„éŸ³é¢‘ç¼–ç å‚æ•°ã€‚</span></li>
+     14.0pt;font-family:ËÎÌå'>Ö®ºó£¬</span><span lang=EN-US style='font-size:14.0pt'>-y</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>Ö®Ç°µÄÒôÆµ±àÂë²ÎÊý¡£</span></li>
 </ul>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>çš„</span><span lang=EN-US
+style='font-size:14.0pt;font-family:ËÎÌå'>µÄ</span><span lang=EN-US
 style='font-size:14.0pt'>ffmpeg</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>è½¬ç å™¨å¯ä»¥ä½¿ç”¨</span><span lang=EN-US style='font-size:14.0pt'>ffmpeg</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>æ‰€æœ‰åŠŸèƒ½å¦‚</span><span lang=EN-US
+ËÎÌå'>×ªÂëÆ÷¿ÉÒÔÊ¹ÓÃ</span><span lang=EN-US style='font-size:14.0pt'>ffmpeg</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>ËùÓÐ¹¦ÄÜÈç</span><span lang=EN-US
 style='font-size:14.0pt'>:</span></p>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
 style='font-size:14.0pt'>1 </span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ä¸è½¬ç åªå¤åˆ¶æµï¼šå¯ä»¥é…ç½®</span><span lang=EN-US style='font-size:14.0pt'>vcodec/acodec
-copy</span><span style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼Œå®žçŽ°ä¸è½¬ç ã€‚è­¬å¦‚ï¼Œè§†é¢‘ä¸º</span><span
+ËÎÌå'>²»×ªÂëÖ»¸´ÖÆÁ÷£º¿ÉÒÔÅäÖÃ</span><span lang=EN-US style='font-size:14.0pt'>vcodec/acodec
+copy</span><span style='font-size:14.0pt;font-family:ËÎÌå'>£¬ÊµÏÖ²»×ªÂë¡£Æ©Èç£¬ÊÓÆµÎª</span><span
 lang=EN-US style='font-size:14.0pt'>h264</span><span style='font-size:14.0pt;
-font-family:å®‹ä½“'>ç¼–ç ï¼Œä½†æ˜¯éŸ³é¢‘æ˜¯</span><span lang=EN-US style='font-size:14.0pt'>mp3/speex</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ï¼Œéœ€è¦è½¬ç éŸ³é¢‘ä¸º</span><span lang=EN-US
+font-family:ËÎÌå'>±àÂë£¬µ«ÊÇÒôÆµÊÇ</span><span lang=EN-US style='font-size:14.0pt'>mp3/speex</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>£¬ÐèÒª×ªÂëÒôÆµÎª</span><span lang=EN-US
 style='font-size:14.0pt'>aac</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ï¼Œç„¶åŽåˆ‡ç‰‡ä¸º</span><span lang=EN-US style='font-size:14.0pt'>HLS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>è¾“å‡ºã€‚</span></p>
+ËÎÌå'>£¬È»ºóÇÐÆ¬Îª</span><span lang=EN-US style='font-size:14.0pt'>HLS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>Êä³ö¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:28.0pt'><span lang=EN-US
 style='font-size:14.0pt'>2 </span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ç¦ç”¨è§†é¢‘æˆ–è€…éŸ³é¢‘ï¼šå¯ä»¥ç¦ç”¨è§†é¢‘æˆ–è€…éŸ³é¢‘ï¼Œåªè¾“å‡ºéŸ³é¢‘æˆ–è§†é¢‘ã€‚è­¬å¦‚ï¼Œç”µå°å¯ä»¥ä¸¢å¼ƒè§†é¢‘ï¼Œå¯¹éŸ³é¢‘è½¬ç ä¸º</span><span lang=EN-US
+ËÎÌå'>½ûÓÃÊÓÆµ»òÕßÒôÆµ£º¿ÉÒÔ½ûÓÃÊÓÆµ»òÕßÒôÆµ£¬Ö»Êä³öÒôÆµ»òÊÓÆµ¡£Æ©Èç£¬µçÌ¨¿ÉÒÔ¶ªÆúÊÓÆµ£¬¶ÔÒôÆµ×ªÂëÎª</span><span lang=EN-US
 style='font-size:14.0pt'>aac</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>åŽè¾“å‡º</span><span lang=EN-US style='font-size:14.0pt'>HLS</span><span
-style='font-size:14.0pt;font-family:å®‹ä½“'>ã€‚è¯¥é…ç½®åªè¾“å‡ºçº¯éŸ³é¢‘ï¼Œç¼–ç ä¸º</span><span lang=EN-US
+ËÎÌå'>ºóÊä³ö</span><span lang=EN-US style='font-size:14.0pt'>HLS</span><span
+style='font-size:14.0pt;font-family:ËÎÌå'>¡£¸ÃÅäÖÃÖ»Êä³ö´¿ÒôÆµ£¬±àÂëÎª</span><span lang=EN-US
 style='font-size:14.0pt'>aac</span><span style='font-size:14.0pt;font-family:
-å®‹ä½“'>ã€‚</span></p>
+ËÎÌå'>¡£</span></p>
 
 <p style='text-indent:28.0pt'><span lang=EN-US style='font-size:14.0pt'>conf/full.conf</span><span
-style='font-size:14.0pt'>ä¸­æœ‰å¾ˆå¤š<span lang=EN-US>FFMPEG</span>è½¬ç é…ç½®çš„å®žä¾‹ï¼Œä¹Ÿå¯ä»¥å‚è€ƒ<span
-lang=EN-US>ffmpeg</span>çš„å‘½ä»¤è¡Œã€‚</span></p>
+style='font-size:14.0pt'>ÖÐÓÐºÜ¶à<span lang=EN-US>FFMPEG</span>×ªÂëÅäÖÃµÄÊµÀý£¬Ò²¿ÉÒÔ²Î¿¼<span
+lang=EN-US>ffmpeg</span>µÄÃüÁîÐÐ¡£</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
      14.0pt'>mirror.transcode.srs.com </span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>å°†è§†é¢‘æµä¸ŠåŠæˆªï¼Œç¿»è½¬åˆ°ä¸‹åŠæˆªï¼Œçœ‹èµ·æ¥åƒä¸ªé•œå­ã€‚</span></li>
+     font-family:ËÎÌå'>½«ÊÓÆµÁ÷ÉÏ°ë½Ø£¬·­×ªµ½ÏÂ°ë½Ø£¬¿´ÆðÀ´Ïñ¸ö¾µ×Ó¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
      14.0pt'>drawtext.transcode.srs.com </span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>åŠ æ–‡å­—æ°´å°ã€‚</span></li>
+     font-family:ËÎÌå'>¼ÓÎÄ×ÖË®Ó¡¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
      14.0pt'>crop.transcode.srs.com </span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>å‰ªè£è§†é¢‘ã€‚</span></li>
+     font-family:ËÎÌå'>¼ô²ÃÊÓÆµ¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
      14.0pt'>logo.transcode.srs.com </span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>æ·»åŠ å›¾ç‰‡</span><span lang=EN-US style='font-size:14.0pt'>logo</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>ã€‚</span></li>
+     font-family:ËÎÌå'>Ìí¼ÓÍ¼Æ¬</span><span lang=EN-US style='font-size:14.0pt'>logo</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
      14.0pt'>audio.transcode.srs.com </span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>åªå¯¹éŸ³é¢‘è½¬ç ã€‚</span></li>
+     font-family:ËÎÌå'>Ö»¶ÔÒôÆµ×ªÂë¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
      14.0pt'>copy.transcode.srs.com </span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ä¸è½¬ç åªè½¬å°è£…ï¼Œç±»ä¼¼äºŽ</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>çš„</span><span lang=EN-US
+     font-family:ËÎÌå'>²»×ªÂëÖ»×ª·â×°£¬ÀàËÆÓÚ</span><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>µÄ</span><span lang=EN-US
      style='font-size:14.0pt'>Forward</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ã€‚</span></li>
+     font-family:ËÎÌå'>¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
      14.0pt'>all.transcode.srs.com </span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>è½¬ç å‚æ•°çš„è¯¦ç»†è¯´æ˜Žã€‚</span></li>
+     font-family:ËÎÌå'>×ªÂë²ÎÊýµÄÏêÏ¸ËµÃ÷¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
      14.0pt'>ffempty.transcode.srs.com </span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ä¸€ä¸ª</span><span lang=EN-US style='font-size:14.0pt'>ffmpeg</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>çš„</span><span lang=EN-US
+     font-family:ËÎÌå'>Ò»¸ö</span><span lang=EN-US style='font-size:14.0pt'>ffmpeg</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>µÄ</span><span lang=EN-US
      style='font-size:14.0pt'>mock</span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>ï¼Œä¸è½¬ç åªæ‰“å°å‚æ•°ã€‚</span></li>
+     font-family:ËÎÌå'>£¬²»×ªÂëÖ»´òÓ¡²ÎÊý¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
      14.0pt'>app.transcode.srs.com </span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>å¯¹æŒ‡å®šçš„</span><span lang=EN-US style='font-size:14.0pt'>app</span><span
-     style='font-size:14.0pt;font-family:å®‹ä½“'>çš„æµè½¬ç ã€‚</span></li>
+     font-family:ËÎÌå'>¶ÔÖ¸¶¨µÄ</span><span lang=EN-US style='font-size:14.0pt'>app</span><span
+     style='font-size:14.0pt;font-family:ËÎÌå'>µÄÁ÷×ªÂë¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
      14.0pt'>stream.transcode.srs.com </span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>å¯¹æŒ‡å®šçš„æµè½¬ç ã€‚</span></li>
+     font-family:ËÎÌå'>¶ÔÖ¸¶¨µÄÁ÷×ªÂë¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
      14.0pt'>vn.transcode.srs.com </span><span style='font-size:14.0pt;
-     font-family:å®‹ä½“'>åªè¾“å‡ºéŸ³é¢‘ï¼Œç¦æ­¢è§†é¢‘è¾“å‡ºã€‚</span></li>
+     font-family:ËÎÌå'>Ö»Êä³öÒôÆµ£¬½ûÖ¹ÊÓÆµÊä³ö¡£</span></li>
 </ul>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097947"></a><a
@@ -1817,36 +3510,36 @@ name="_Toc462219433"><span lang=EN-US>3.1.5.<span style='font:7.0pt "Times New R
 </span></span><span lang=EN-US>Transcode on ARM cpu</span></a></h3>
 
 <p style='text-indent:28.0pt'><span lang=EN-US style='font-size:14.0pt'>SRS</span><span
-style='font-size:14.0pt'>å¯ä»¥åœ¨<span lang=EN-US>ARM</span>ä¸‹è°ƒç”¨ç³»ç»Ÿçš„<span lang=EN-US>ffmpeg</span>è½¬ç ï¼Œå‚è€ƒï¼š</span><span
+style='font-size:14.0pt'>¿ÉÒÔÔÚ<span lang=EN-US>ARM</span>ÏÂµ÷ÓÃÏµÍ³µÄ<span lang=EN-US>ffmpeg</span>×ªÂë£¬²Î¿¼£º</span><span
 lang=EN-US><a href="https://github.com/ossrs/srs/wiki/v1_CN_ARMTranscode"><span
 style='font-size:14.0pt'>Raspberry pi </span><span lang=EN-US style='font-size:
-14.0pt'><span lang=EN-US>è½¬ç </span></span></a></span></p>
+14.0pt'><span lang=EN-US>×ªÂë</span></span></a></span></p>
 
-<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>æ³¨æ„ï¼šä½¿ç”¨è‡ªå·±çš„å·¥å…·æ—¶ï¼Œéœ€è¦ç¦ç”¨<span
-lang=EN-US>ffmpeg</span>ï¼Œä½†æ˜¯æ‰“å¼€<span lang=EN-US>transcode</span>é€‰é¡¹ï¼š<code><span
-lang=EN-US>--with-transcode --without-ffmpeg</span></code>ï¼Œè¿™æ ·å°±ä¸ä¼šç¼–è¯‘<span
-lang=EN-US>ffmpeg</span>ï¼Œä½†æ˜¯ç¼–è¯‘äº†ç›´æ’­è½¬ç åŠŸèƒ½ã€‚å‚è€ƒ</span></p>
+<p style='text-indent:28.0pt'><span style='font-size:14.0pt'>×¢Òâ£ºÊ¹ÓÃ×Ô¼ºµÄ¹¤¾ßÊ±£¬ÐèÒª½ûÓÃ<span
+lang=EN-US>ffmpeg</span>£¬µ«ÊÇ´ò¿ª<span lang=EN-US>transcode</span>Ñ¡Ïî£º<code><span
+lang=EN-US>--with-transcode --without-ffmpeg</span></code>£¬ÕâÑù¾Í²»»á±àÒë<span
+lang=EN-US>ffmpeg</span>£¬µ«ÊÇ±àÒëÁËÖ±²¥×ªÂë¹¦ÄÜ¡£²Î¿¼</span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097948"></a><a
 name="_Toc462219434"><span lang=EN-US>3.1.6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
 </span></span><span lang=EN-US>FFMPEG Transcode the Stream by Flash encoder</span></a></h3>
 
-<p><span lang=EN-US>flash</span>å¯ä»¥å½“ä½œç¼–ç å™¨æŽ¨æµï¼Œå‚è€ƒæ¼”ç¤ºä¸­çš„ç¼–ç å™¨æˆ–è€…è§†é¢‘ä¼šè®®ã€‚<span lang=EN-US>flash</span>åªæ”¯æŒ<span
-lang=EN-US>speex/nellymoser/pcma/pcmu</span>ï¼Œä½†<span lang=EN-US>flash</span>ä¼šæœ‰ä¸€ä¸ªç‰¹æ€§ï¼Œæ²¡æœ‰å£°éŸ³æ—¶å°±æ²¡æœ‰éŸ³é¢‘åŒ…ã€‚<span
-lang=EN-US>FFMPEG</span>ä¼šä¾èµ–äºŽè¿™äº›éŸ³é¢‘åŒ…ï¼Œå¦‚æžœæ²¡æœ‰ä¼šè®¤ä¸ºæ²¡æœ‰éŸ³é¢‘ã€‚</p>
+<p><span lang=EN-US>flash</span>¿ÉÒÔµ±×÷±àÂëÆ÷ÍÆÁ÷£¬²Î¿¼ÑÝÊ¾ÖÐµÄ±àÂëÆ÷»òÕßÊÓÆµ»áÒé¡£<span lang=EN-US>flash</span>Ö»Ö§³Ö<span
+lang=EN-US>speex/nellymoser/pcma/pcmu</span>£¬µ«<span lang=EN-US>flash</span>»áÓÐÒ»¸öÌØÐÔ£¬Ã»ÓÐÉùÒôÊ±¾ÍÃ»ÓÐÒôÆµ°ü¡£<span
+lang=EN-US>FFMPEG</span>»áÒÀÀµÓÚÕâÐ©ÒôÆµ°ü£¬Èç¹ûÃ»ÓÐ»áÈÏÎªÃ»ÓÐÒôÆµ¡£</p>
 
-<p>æ‰€ä»¥<span lang=EN-US>FFMPEG</span>ç”¨æ¥è½¬ç <span lang=EN-US>flash</span>æŽ¨ä¸Šæ¥çš„<span
-lang=EN-US>RTMP</span>æµæ—¶ï¼Œå¯èƒ½ä¼šæœ‰ä¸€ä¸ªé—®é¢˜ï¼š<span lang=EN-US>ffmpeg</span>è®¤ä¸ºæ²¡æœ‰éŸ³é¢‘ã€‚</p>
+<p>ËùÒÔ<span lang=EN-US>FFMPEG</span>ÓÃÀ´×ªÂë<span lang=EN-US>flash</span>ÍÆÉÏÀ´µÄ<span
+lang=EN-US>RTMP</span>Á÷Ê±£¬¿ÉÄÜ»áÓÐÒ»¸öÎÊÌâ£º<span lang=EN-US>ffmpeg</span>ÈÏÎªÃ»ÓÐÒôÆµ¡£</p>
 
-<p>å¦å¤–ï¼Œ<span lang=EN-US>FFMPEG</span>å–<span lang=EN-US>flash</span>çš„æµçš„æ—¶é—´ä¼šå¾ˆé•¿ï¼Œä¹Ÿå¯èƒ½æ˜¯åœ¨ç­‰å¾…è¿™äº›éŸ³é¢‘åŒ…ã€‚</p>
+<p>ÁíÍâ£¬<span lang=EN-US>FFMPEG</span>È¡<span lang=EN-US>flash</span>µÄÁ÷µÄÊ±¼ä»áºÜ³¤£¬Ò²¿ÉÄÜÊÇÔÚµÈ´ýÕâÐ©ÒôÆµ°ü¡£</p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097949"><span
 lang=EN-US>3.1.7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><span
-style='font-family:å®‹ä½“'>è¡¥å……</span><span lang=EN-US>:</span></a><span
-style='font-family:å®‹ä½“'>æµ‹è¯•æ•ˆæžœå›¾</span></h3>
+style='font-family:ËÎÌå'>²¹³ä</span><span lang=EN-US>:</span></a><span
+style='font-family:ËÎÌå'>²âÊÔÐ§¹ûÍ¼</span></h3>
 
 <p class=MsoNormal><span lang=EN-US><img border=0 width=1106 height=586
-id="å›¾ç‰‡ 4" src="srs_wiki.files/image002.jpg"></span></p>
+id="Í¼Æ¬ 4" src="srs_wiki.files/image002.jpg"></span></p>
 
 <h3 style='margin-left:35.45pt;text-indent:-35.45pt'><a name="_Toc26097950"></a><a
 name="_Toc462219435"><span lang=EN-US>3.1.8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
@@ -1858,19 +3551,19 @@ href="https://github.com/ossrs/srs/wiki/v1_CN_SampleFFMPEG">https://github.com/o
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
 <h2><a name="_Toc26097951"></a><a name="_Toc462219436"></a><a
-name="_Toc456260514"><span style='font-family:å®‹ä½“'>æµæˆªå›¾</span></a></h2>
+name="_Toc456260514"><span style='font-family:ËÎÌå'>Á÷½ØÍ¼</span></a></h2>
 
-<p><span lang=EN-US>&nbsp;</span>ä½¿ç”¨<span lang=EN-US>SRS</span>å®žçŽ°æˆªå›¾æœ‰ä»¥ä¸‹å‡ ç§æ–¹å¼å¯ä»¥å®žçŽ°ï¼š</p>
+<p><span lang=EN-US>&nbsp;</span>Ê¹ÓÃ<span lang=EN-US>SRS</span>ÊµÏÖ½ØÍ¼ÓÐÒÔÏÂ¼¸ÖÖ·½Ê½¿ÉÒÔÊµÏÖ£º</p>
 
 <ol start=1 type=1>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
-     12.0pt;font-family:å®‹ä½“'>HttpCallback</span><span style='font-size:12.0pt;
-     font-family:å®‹ä½“'>ï¼šä½¿ç”¨<span lang=EN-US>HTTP</span>å›žè°ƒï¼Œæ”¶åˆ°<span lang=EN-US>on_publish</span>äº‹ä»¶åŽå¼€å¯<span
-     lang=EN-US>ffmpeg</span>è¿›ç¨‹æˆªå›¾ï¼Œæ”¶åˆ°<span lang=EN-US>on_unpublish</span>äº‹ä»¶åŽåœæ­¢<span
-     lang=EN-US>ffmpeg</span>è¿›ç¨‹ã€‚</span></li>
+     12.0pt;font-family:ËÎÌå'>HttpCallback</span><span style='font-size:12.0pt;
+     font-family:ËÎÌå'>£ºÊ¹ÓÃ<span lang=EN-US>HTTP</span>»Øµ÷£¬ÊÕµ½<span lang=EN-US>on_publish</span>ÊÂ¼þºó¿ªÆô<span
+     lang=EN-US>ffmpeg</span>½ø³Ì½ØÍ¼£¬ÊÕµ½<span lang=EN-US>on_unpublish</span>ÊÂ¼þºóÍ£Ö¹<span
+     lang=EN-US>ffmpeg</span>½ø³Ì¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-size:
-     12.0pt;font-family:å®‹ä½“'>Transcoder</span><span style='font-size:12.0pt;
-     font-family:å®‹ä½“'>ï¼šè½¬ç å¯ä»¥é…ç½®ä¸ºæˆªå›¾ï¼Œå®žé™…ä¸Šæ˜¯é€šè¿‡<span lang=EN-US>ffmpeg</span>å‘½ä»¤å°†ç›´æ’­æµæŒ‰ä¸€å¸§æ•°æ®è½¬æ¢ä¸ºå›¾ç‰‡ã€‚</span></li>
+     12.0pt;font-family:ËÎÌå'>Transcoder</span><span style='font-size:12.0pt;
+     font-family:ËÎÌå'>£º×ªÂë¿ÉÒÔÅäÖÃÎª½ØÍ¼£¬Êµ¼ÊÉÏÊÇÍ¨¹ý<span lang=EN-US>ffmpeg</span>ÃüÁî½«Ö±²¥Á÷°´Ò»Ö¡Êý¾Ý×ª»»ÎªÍ¼Æ¬¡£</span></li>
 </ol>
 
 <h3><a name="_Toc26097952"></a><a name="_Toc462219437"><span lang=EN-US>WIKI</span></a></h3>
@@ -1881,53 +3574,53 @@ href="https://github.com/ossrs/srs/wiki/v3_CN_Snapshot">https://github.com/ossrs
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>&nbsp;</span></p>
 
 <h3><a name="_Toc26097953"></a><a name="_Toc462219438"><span style='font-family:
-å®‹ä½“'>è¡¥å……</span><span lang=EN-US>:</span></a><span style='font-family:å®‹ä½“'>æµ‹è¯•æ•ˆæžœå›¾</span></h3>
+ËÎÌå'>²¹³ä</span><span lang=EN-US>:</span></a><span style='font-family:ËÎÌå'>²âÊÔÐ§¹ûÍ¼</span></h3>
 
 <p class=MsoNormal align=left style='margin-left:18.0pt;text-align:left'><span
-lang=EN-US><img border=0 width=959 height=428 id="å›¾ç‰‡ 1"
+lang=EN-US><img border=0 width=959 height=428 id="Í¼Æ¬ 1"
 src="srs_wiki.files/image003.jpg"></span></p>
 
 <h3><a name="_Toc26097954"></a><a name="_Toc462219439"></a><a
-name="_Toc456260515"><span style='font-family:å®‹ä½“'>è½¬å‘ç»™å…¶ä»–æœåŠ¡å™¨</span></a><span
+name="_Toc456260515"><span style='font-family:ËÎÌå'>×ª·¢¸øÆäËû·þÎñÆ÷</span></a><span
 class=MsoHyperlink><span lang=EN-US style='color:windowtext;text-decoration:
 none'>(Forward)</span></span></h3>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp; &nbsp;SRS</span><span
-style='font-family:å®‹ä½“'>å¯ä»¥å°†é€åˆ°</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>çš„æµè½¬å‘ç»™å…¶ä»–</span><span lang=EN-US>RTMP</span><span
-style='font-family:å®‹ä½“'>æœåŠ¡å™¨ï¼Œå®žçŽ°ç®€å•é›†ç¾¤</span><span lang=EN-US>/</span><span
-style='font-family:å®‹ä½“'>çƒ­å¤‡åŠŸèƒ½ï¼Œä¹Ÿå¯ä»¥å®žçŽ°ä¸€è·¯æµçƒ­å¤‡ï¼ˆè­¬å¦‚ç¼–ç å™¨ç”±äºŽå¸¦å®½é™åˆ¶ï¼Œåªèƒ½é€ä¸€è·¯æµåˆ°</span><span
-lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨ï¼Œè¦æ±‚</span><span
-lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨èƒ½å°†è¿™è·¯æµä¹Ÿè½¬å‘ç»™å…¶ä»–</span><span
-lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>å¤‡ç”¨æœåŠ¡å™¨ï¼Œå®žçŽ°ä¸»å¤‡å®¹é”™é›†ç¾¤ï¼‰ã€‚</span></p>
+style='font-family:ËÎÌå'>¿ÉÒÔ½«ËÍµ½</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>µÄÁ÷×ª·¢¸øÆäËû</span><span lang=EN-US>RTMP</span><span
+style='font-family:ËÎÌå'>·þÎñÆ÷£¬ÊµÏÖ¼òµ¥¼¯Èº</span><span lang=EN-US>/</span><span
+style='font-family:ËÎÌå'>ÈÈ±¸¹¦ÄÜ£¬Ò²¿ÉÒÔÊµÏÖÒ»Â·Á÷ÈÈ±¸£¨Æ©Èç±àÂëÆ÷ÓÉÓÚ´ø¿íÏÞÖÆ£¬Ö»ÄÜËÍÒ»Â·Á÷µ½</span><span
+lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>·þÎñÆ÷£¬ÒªÇó</span><span
+lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>·þÎñÆ÷ÄÜ½«ÕâÂ·Á÷Ò²×ª·¢¸øÆäËû</span><span
+lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>±¸ÓÃ·þÎñÆ÷£¬ÊµÏÖÖ÷±¸ÈÝ´í¼¯Èº£©¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US>Forward</span><span
-style='font-family:å®‹ä½“'>å°±æ˜¯</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>å°†æµæ‹·è´è¾“å‡ºç»™å…¶ä»–çš„</span><span lang=EN-US>RTMP</span><span
-style='font-family:å®‹ä½“'>æœåŠ¡å™¨ï¼Œä»¥</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>è½¬å‘ç»™</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>ä¸ºä¾‹ï¼š</span></p>
+style='font-family:ËÎÌå'>¾ÍÊÇ</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>½«Á÷¿½±´Êä³ö¸øÆäËûµÄ</span><span lang=EN-US>RTMP</span><span
+style='font-family:ËÎÌå'>·þÎñÆ÷£¬ÒÔ</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>×ª·¢¸ø</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>ÎªÀý£º</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>ä¸»</span><span
-lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>ï¼š</span><span lang=EN-US>Master,
-</span><span style='font-family:å®‹ä½“'>ç¼–ç å™¨æŽ¨æµåˆ°ä¸»</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>ï¼Œä¸»</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>å°†æµå¤„ç†çš„åŒæ—¶ï¼Œå°†æµè½¬å‘åˆ°å¤‡</span><span lang=EN-US>SRS</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>Ö÷</span><span
+lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>£º</span><span lang=EN-US>Master,
+</span><span style='font-family:ËÎÌå'>±àÂëÆ÷ÍÆÁ÷µ½Ö÷</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>£¬Ö÷</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>½«Á÷´¦ÀíµÄÍ¬Ê±£¬½«Á÷×ª·¢µ½±¸</span><span lang=EN-US>SRS</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>å¤‡</span><span
-lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>ï¼š</span><span lang=EN-US>Slave,
-</span><span style='font-family:å®‹ä½“'>ä¸»</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>è½¬å‘æµåˆ°å¤‡</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>ï¼Œå°±åƒç¼–ç å™¨æŽ¨é€æµåˆ°å¤‡ç”¨</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>ä¸€æ ·ã€‚</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>±¸</span><span
+lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>£º</span><span lang=EN-US>Slave,
+</span><span style='font-family:ËÎÌå'>Ö÷</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>×ª·¢Á÷µ½±¸</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>£¬¾ÍÏñ±àÂëÆ÷ÍÆËÍÁ÷µ½±¸ÓÃ</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>Ò»Ñù¡£</span></p>
 
-<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>è¯¥åŠŸèƒ½ä¼šåœ¨é›†ç¾¤ä¸Ž</span><span
-lang=EN-US>CDN</span><span style='font-family:å®‹ä½“'>ç›¸å…³åŠŸèƒ½ç« èŠ‚åšè¯¦ç»†çš„ä»‹ç»</span></p>
+<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>¸Ã¹¦ÄÜ»áÔÚ¼¯ÈºÓë</span><span
+lang=EN-US>CDN</span><span style='font-family:ËÎÌå'>Ïà¹Ø¹¦ÄÜÕÂ½Ú×öÏêÏ¸µÄ½éÉÜ</span></p>
 
-<p><span lang=EN-US>forward</span>ä¹Ÿå¯ä»¥ç”¨ä½œæ­å»ºå°åž‹é›†ç¾¤ã€‚æž¶æž„å›¾å¦‚ä¸‹ï¼š</p>
+<p><span lang=EN-US>forward</span>Ò²¿ÉÒÔÓÃ×÷´î½¨Ð¡ÐÍ¼¯Èº¡£¼Ü¹¹Í¼ÈçÏÂ£º</p>
 
 <pre><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img
-border=0 width=745 height=411 id="å›¾ç‰‡ 9" src="srs_wiki.files/image004.png"></span></pre>
+border=0 width=745 height=411 id="Í¼Æ¬ 9" src="srs_wiki.files/image004.png"></span></pre>
 
 <h4><a name="_Toc462219440"><span lang=EN-US>WIKI</span></a><span lang=EN-US> </span></h4>
 
@@ -1937,276 +3630,276 @@ href="https://github.com/ossrs/srs/wiki/v3_CN_SampleForward">https://github.com/
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
 <h3><a name="_Toc26097955"></a><a name="_Toc462219441"></a><a
-name="_Toc456260516"><span style='font-family:å®‹ä½“'>è½¬å°è£…æˆ</span><span lang=EN-US>HTTP</span></a><span
-style='font-family:å®‹ä½“'>ç›´æ’­æµ</span></h3>
+name="_Toc456260516"><span style='font-family:ËÎÌå'>×ª·â×°³É</span><span lang=EN-US>HTTP</span></a><span
+style='font-family:ËÎÌå'>Ö±²¥Á÷</span></h3>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
-lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>æ”¯æŒå°†</span><span lang=EN-US>RTMP</span><span
-style='font-family:å®‹ä½“'>æµè½¬å°è£…ä¸º</span><span lang=EN-US>HTTP</span><span
-style='font-family:å®‹ä½“'>æµï¼Œ</span><span lang=EN-US>HTTP</span><span
-style='font-family:å®‹ä½“'>æµæ ¼å¼å¯ä»¥</span><span lang=EN-US>flv, ts,mp3,aac</span><span
-style='font-family:å®‹ä½“'>ç­‰ã€‚</span></p>
+lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>Ö§³Ö½«</span><span lang=EN-US>RTMP</span><span
+style='font-family:ËÎÌå'>Á÷×ª·â×°Îª</span><span lang=EN-US>HTTP</span><span
+style='font-family:ËÎÌå'>Á÷£¬</span><span lang=EN-US>HTTP</span><span
+style='font-family:ËÎÌå'>Á÷¸ñÊ½¿ÉÒÔ</span><span lang=EN-US>flv, ts,mp3,aac</span><span
+style='font-family:ËÎÌå'>µÈ¡£</span></p>
 
 <h4><a name="_Toc462219442"><span lang=EN-US>HTTP TS Live Stream</span></a></h4>
 
-<p><span lang=EN-US>SRS</span>æ”¯æŒå°†<span lang=EN-US>RTMP</span>æµè½¬å°è£…ä¸º<span
-lang=EN-US>HTTP ts</span>æµï¼Œå³åœ¨<span lang=EN-US>publish</span>å‘å¸ƒ<span lang=EN-US>RTMP</span>æµæ—¶ï¼Œåœ¨<span
-lang=EN-US>SRS</span>çš„<span lang=EN-US>http</span>æ¨¡å—ä¸­æŒ‚è½½ä¸€ä¸ªå¯¹åº”çš„<span lang=EN-US>http</span>åœ°å€ï¼ˆæ ¹æ®é…ç½®ï¼‰ï¼Œç”¨æˆ·åœ¨è®¿é—®è¿™ä¸ª<span
-lang=EN-US>http ts</span>æ–‡ä»¶æ—¶ï¼Œä»Ž<span lang=EN-US>rtmp</span>æµè½¬å°è£…ä¸º<span
-lang=EN-US>ts</span>åˆ†å‘ç»™ç”¨æˆ·ã€‚</p>
+<p><span lang=EN-US>SRS</span>Ö§³Ö½«<span lang=EN-US>RTMP</span>Á÷×ª·â×°Îª<span
+lang=EN-US>HTTP ts</span>Á÷£¬¼´ÔÚ<span lang=EN-US>publish</span>·¢²¼<span lang=EN-US>RTMP</span>Á÷Ê±£¬ÔÚ<span
+lang=EN-US>SRS</span>µÄ<span lang=EN-US>http</span>Ä£¿éÖÐ¹ÒÔØÒ»¸ö¶ÔÓ¦µÄ<span lang=EN-US>http</span>µØÖ·£¨¸ù¾ÝÅäÖÃ£©£¬ÓÃ»§ÔÚ·ÃÎÊÕâ¸ö<span
+lang=EN-US>http ts</span>ÎÄ¼þÊ±£¬´Ó<span lang=EN-US>rtmp</span>Á÷×ª·â×°Îª<span
+lang=EN-US>ts</span>·Ö·¢¸øÓÃ»§¡£</p>
 
 <h4><a name="_Toc462219443"><span lang=EN-US>HTTP Mp3 Live Stream</span></a></h4>
 
-<p><span lang=EN-US>SRS</span>æ”¯æŒå°†<span lang=EN-US>rtmp</span>æµä¸­çš„è§†é¢‘ä¸¢å¼ƒï¼Œå°†éŸ³é¢‘æµè½¬å°è£…ä¸º<span
-lang=EN-US>mp3</span>æ ¼å¼ï¼Œåœ¨<span lang=EN-US>SRS</span>çš„<span lang=EN-US>http</span>æ¨¡å—ä¸­æŒ‚è½½å¯¹åº”çš„<span
-lang=EN-US>http</span>åœ°å€ï¼ˆæ ¹æ®é…ç½®ï¼‰ï¼Œç”¨æˆ·åœ¨è®¿é—®è¿™ä¸ª<span lang=EN-US>http mp3</span>æ–‡ä»¶æ—¶ï¼Œä»Ž<span
-lang=EN-US>rtmp</span>è½¬å°è£…ä¸º<span lang=EN-US>mp3</span>åˆ†å‘ç»™ç”¨æˆ·ã€‚</p>
+<p><span lang=EN-US>SRS</span>Ö§³Ö½«<span lang=EN-US>rtmp</span>Á÷ÖÐµÄÊÓÆµ¶ªÆú£¬½«ÒôÆµÁ÷×ª·â×°Îª<span
+lang=EN-US>mp3</span>¸ñÊ½£¬ÔÚ<span lang=EN-US>SRS</span>µÄ<span lang=EN-US>http</span>Ä£¿éÖÐ¹ÒÔØ¶ÔÓ¦µÄ<span
+lang=EN-US>http</span>µØÖ·£¨¸ù¾ÝÅäÖÃ£©£¬ÓÃ»§ÔÚ·ÃÎÊÕâ¸ö<span lang=EN-US>http mp3</span>ÎÄ¼þÊ±£¬´Ó<span
+lang=EN-US>rtmp</span>×ª·â×°Îª<span lang=EN-US>mp3</span>·Ö·¢¸øÓÃ»§¡£</p>
 
 <h4><a name="_Toc462219444"><span lang=EN-US>HTTP Aac Live Stream</span></a></h4>
 
-<p><span lang=EN-US>SRS</span>æ”¯æŒå°†<span lang=EN-US>rtmp</span>æµä¸­çš„è§†é¢‘ä¸¢å¼ƒï¼Œå°†éŸ³é¢‘æµè½¬å°è£…ä¸º<span
-lang=EN-US>aac</span>æ ¼å¼ï¼Œåœ¨<span lang=EN-US>SRS</span>çš„<span lang=EN-US>http</span>æ¨¡å—ä¸­æŒ‚è½½å¯¹åº”çš„<span
-lang=EN-US>http</span>åœ°å€ï¼ˆæ ¹æ®é…ç½®ï¼‰ï¼Œç”¨æˆ·åœ¨è®¿é—®è¿™ä¸ª<span lang=EN-US>http aac</span>æ–‡ä»¶æ—¶ï¼Œä»Ž<span
-lang=EN-US>rtmp</span>è½¬å°è£…ä¸º<span lang=EN-US>aac</span>åˆ†å‘ç»™ç”¨æˆ·ã€‚</p>
+<p><span lang=EN-US>SRS</span>Ö§³Ö½«<span lang=EN-US>rtmp</span>Á÷ÖÐµÄÊÓÆµ¶ªÆú£¬½«ÒôÆµÁ÷×ª·â×°Îª<span
+lang=EN-US>aac</span>¸ñÊ½£¬ÔÚ<span lang=EN-US>SRS</span>µÄ<span lang=EN-US>http</span>Ä£¿éÖÐ¹ÒÔØ¶ÔÓ¦µÄ<span
+lang=EN-US>http</span>µØÖ·£¨¸ù¾ÝÅäÖÃ£©£¬ÓÃ»§ÔÚ·ÃÎÊÕâ¸ö<span lang=EN-US>http aac</span>ÎÄ¼þÊ±£¬´Ó<span
+lang=EN-US>rtmp</span>×ª·â×°Îª<span lang=EN-US>aac</span>·Ö·¢¸øÓÃ»§¡£</p>
 
 <h4><a name="_Toc462219445"><span lang=EN-US>HTTP FLV Live Stream</span></a></h4>
 
-<p><span lang=EN-US>SRS</span>æ”¯æŒå°†<span lang=EN-US>RTMP</span>æµè½¬å°è£…ä¸º<span
-lang=EN-US>HTTP flv</span>æµï¼Œå³åœ¨<span lang=EN-US>publish</span>å‘å¸ƒ<span
-lang=EN-US>RTMP</span>æµæ—¶ï¼Œåœ¨<span lang=EN-US>SRS</span>çš„<span lang=EN-US>http</span>æ¨¡å—ä¸­æŒ‚è½½ä¸€ä¸ªå¯¹åº”çš„<span
-lang=EN-US>http</span>åœ°å€ï¼ˆæ ¹æ®é…ç½®ï¼‰ï¼Œç”¨æˆ·åœ¨è®¿é—®è¿™ä¸ª<span lang=EN-US>http flv</span>æ–‡ä»¶æ—¶ï¼Œä»Ž<span
-lang=EN-US>rtmp</span>æµè½¬å°è£…ä¸º<span lang=EN-US>flv</span>åˆ†å‘ç»™ç”¨æˆ·</p>
+<p><span lang=EN-US>SRS</span>Ö§³Ö½«<span lang=EN-US>RTMP</span>Á÷×ª·â×°Îª<span
+lang=EN-US>HTTP flv</span>Á÷£¬¼´ÔÚ<span lang=EN-US>publish</span>·¢²¼<span
+lang=EN-US>RTMP</span>Á÷Ê±£¬ÔÚ<span lang=EN-US>SRS</span>µÄ<span lang=EN-US>http</span>Ä£¿éÖÐ¹ÒÔØÒ»¸ö¶ÔÓ¦µÄ<span
+lang=EN-US>http</span>µØÖ·£¨¸ù¾ÝÅäÖÃ£©£¬ÓÃ»§ÔÚ·ÃÎÊÕâ¸ö<span lang=EN-US>http flv</span>ÎÄ¼þÊ±£¬´Ó<span
+lang=EN-US>rtmp</span>Á÷×ª·â×°Îª<span lang=EN-US>flv</span>·Ö·¢¸øÓÃ»§</p>
 
 <h5><span lang=EN-US>What is HTTP FLV</span></h5>
 
-<p>æ‰€æœ‰çš„<span lang=EN-US>HTTP FLV</span>æµéƒ½æ˜¯ä¸€ä¸ª<span lang=EN-US>HTTP FLV</span>åœ°å€ï¼Œè­¬å¦‚ï¼š<code><span
-lang=EN-US>http://ossrs.net:8081/live/livestream.flv</span></code>ï¼Œä½†æ˜¯ï¼Œæµçš„å½¢å¼å´è‡³å°‘æœ‰ä¸‰ç§ï¼š</p>
+<p>ËùÓÐµÄ<span lang=EN-US>HTTP FLV</span>Á÷¶¼ÊÇÒ»¸ö<span lang=EN-US>HTTP FLV</span>µØÖ·£¬Æ©Èç£º<code><span
+lang=EN-US>http://ossrs.net:8081/live/livestream.flv</span></code>£¬µ«ÊÇ£¬Á÷µÄÐÎÊ½È´ÖÁÉÙÓÐÈýÖÖ£º</p>
 
 <ol start=1 type=1>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>FLV</span><span
-     style='font-family:å®‹ä½“'>æ–‡ä»¶ï¼Œæ¸è¿›å¼</span><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>æµã€‚æ”¾ä¸€ä¸ªæ–‡ä»¶åˆ°</span><span lang=EN-US>nginx</span><span
-     style='font-family:å®‹ä½“'>ç›®å½•ï¼Œå¯ä»¥è®¿é—®ä¸‹è½½åœ¨æ’­æ”¾å™¨æ’­æ”¾ï¼Œè¿™æ˜¯</span><span lang=EN-US>HTTP FLV</span><span
-     style='font-family:å®‹ä½“'>æ–‡ä»¶ï¼Œä¹Ÿå°±æ˜¯æ¸è¿›å¼ä¸‹è½½æµã€‚æ‰€è°“æ¸è¿›å¼ä¸‹è½½ï¼Œä¹Ÿå°±æ˜¯ç”¨æˆ·è§‚çœ‹æ—¶æ— æ³•ä»Žæœªä¸‹è½½çš„åœ°æ–¹å¼€å§‹çœ‹ã€‚</span></li>
+     style='font-family:ËÎÌå'>ÎÄ¼þ£¬½¥½øÊ½</span><span lang=EN-US>HTTP</span><span
+     style='font-family:ËÎÌå'>Á÷¡£·ÅÒ»¸öÎÄ¼þµ½</span><span lang=EN-US>nginx</span><span
+     style='font-family:ËÎÌå'>Ä¿Â¼£¬¿ÉÒÔ·ÃÎÊÏÂÔØÔÚ²¥·ÅÆ÷²¥·Å£¬ÕâÊÇ</span><span lang=EN-US>HTTP FLV</span><span
+     style='font-family:ËÎÌå'>ÎÄ¼þ£¬Ò²¾ÍÊÇ½¥½øÊ½ÏÂÔØÁ÷¡£ËùÎ½½¥½øÊ½ÏÂÔØ£¬Ò²¾ÍÊÇÓÃ»§¹Û¿´Ê±ÎÞ·¨´ÓÎ´ÏÂÔØµÄµØ·½¿ªÊ¼¿´¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>FLV</span><span
-     style='font-family:å®‹ä½“'>ä¼ªæµã€‚ä¸€èˆ¬è¯´çš„</span><span lang=EN-US>HTTP FLV</span><span
-     style='font-family:å®‹ä½“'>ï¼Œæ¯”ä¸Šé¢çš„æ¸è¿›å¼æµé«˜çº§ä¸€ç‚¹ï¼Œè­¬å¦‚ï¼Œä¸€ä¸ª</span><span lang=EN-US>120</span><span
-     style='font-family:å®‹ä½“'>åˆ†é’Ÿçš„ç”µå½±ï¼Œä½œä¸ºæ¸è¿›å¼æµæ’­æ”¾æ—¶ï¼Œç”¨æˆ·éœ€è¦ä»Ž</span><span lang=EN-US>60</span><span
-     style='font-family:å®‹ä½“'>åˆ†é’Ÿå¼€å§‹çœ‹ï¼Œå¦‚ä½•æ”¯æŒå‘¢ï¼Ÿå› ä¸º</span><span lang=EN-US>nginx</span><span
-     style='font-family:å®‹ä½“'>æ˜¯å½“åšæ–‡ä»¶</span> <span style='font-family:å®‹ä½“'>ä¸‹è½½çš„ï¼Œæ— æ³•ç›´æŽ¥è·³è½¬åˆ°ç¬¬</span><span
-     lang=EN-US>60</span><span style='font-family:å®‹ä½“'>åˆ†é’Ÿï¼ˆ</span><span
-     lang=EN-US>nginx</span><span style='font-family:å®‹ä½“'>ä¹Ÿä¸çŸ¥é“</span><span
-     lang=EN-US>60</span><span style='font-family:å®‹ä½“'>åˆ†é’Ÿå¯¹åº”çš„å­—èŠ‚åç§»æ˜¯å¤šå°‘å‘€ï¼‰ã€‚åŽæ¥æœ‰äººå°±æ”¯æŒè¿™ç§è·³ç€æ’­æ”¾ï¼Œé€šè¿‡æŒ‡å®šæ—¶é—´æœåŠ¡å™¨ä»ŽæŒ‡å®šçš„ä½ç½®</span>
-     <span style='font-family:å®‹ä½“'>å¼€å§‹ç»™æµï¼Œè¿™ç§æ”¯æŒ</span><span lang=EN-US>flv?start=</span><span
-     style='font-family:å®‹ä½“'>ï¼Œå°±æ˜¯</span><span lang=EN-US>http flv</span><span
-     style='font-family:å®‹ä½“'>çš„ä¼ªæµï¼Œæœ¬è´¨ä¸Šè¿˜æ˜¯ç‚¹æ’­æµã€‚</span></li>
+     style='font-family:ËÎÌå'>Î±Á÷¡£Ò»°ãËµµÄ</span><span lang=EN-US>HTTP FLV</span><span
+     style='font-family:ËÎÌå'>£¬±ÈÉÏÃæµÄ½¥½øÊ½Á÷¸ß¼¶Ò»µã£¬Æ©Èç£¬Ò»¸ö</span><span lang=EN-US>120</span><span
+     style='font-family:ËÎÌå'>·ÖÖÓµÄµçÓ°£¬×÷Îª½¥½øÊ½Á÷²¥·ÅÊ±£¬ÓÃ»§ÐèÒª´Ó</span><span lang=EN-US>60</span><span
+     style='font-family:ËÎÌå'>·ÖÖÓ¿ªÊ¼¿´£¬ÈçºÎÖ§³ÖÄØ£¿ÒòÎª</span><span lang=EN-US>nginx</span><span
+     style='font-family:ËÎÌå'>ÊÇµ±×öÎÄ¼þ</span> <span style='font-family:ËÎÌå'>ÏÂÔØµÄ£¬ÎÞ·¨Ö±½ÓÌø×ªµ½µÚ</span><span
+     lang=EN-US>60</span><span style='font-family:ËÎÌå'>·ÖÖÓ£¨</span><span
+     lang=EN-US>nginx</span><span style='font-family:ËÎÌå'>Ò²²»ÖªµÀ</span><span
+     lang=EN-US>60</span><span style='font-family:ËÎÌå'>·ÖÖÓ¶ÔÓ¦µÄ×Ö½ÚÆ«ÒÆÊÇ¶àÉÙÑ½£©¡£ºóÀ´ÓÐÈË¾ÍÖ§³ÖÕâÖÖÌø×Å²¥·Å£¬Í¨¹ýÖ¸¶¨Ê±¼ä·þÎñÆ÷´ÓÖ¸¶¨µÄÎ»ÖÃ</span>
+     <span style='font-family:ËÎÌå'>¿ªÊ¼¸øÁ÷£¬ÕâÖÖÖ§³Ö</span><span lang=EN-US>flv?start=</span><span
+     style='font-family:ËÎÌå'>£¬¾ÍÊÇ</span><span lang=EN-US>http flv</span><span
+     style='font-family:ËÎÌå'>µÄÎ±Á÷£¬±¾ÖÊÉÏ»¹ÊÇµã²¥Á÷¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>FLV</span><span
-     style='font-family:å®‹ä½“'>ç›´æ’­æµã€‚</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>æ‰€æŒ‡çš„</span><span lang=EN-US>HTTP FLV</span><span
-     style='font-family:å®‹ä½“'>æµï¼Œæ˜¯ä¸¥æ ¼æ„ä¹‰ä¸Šçš„ç›´æ’­æµï¼Œæœ‰</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>çš„æ‰€æœ‰ç‰¹å¾ï¼Œè­¬å¦‚é›†ç¾¤ã€ä½Žå»¶è¿Ÿã€çƒ­å¤‡ã€</span><span lang=EN-US>GOP cache</span><span
-     style='font-family:å®‹ä½“'>ï¼Œè€Œä¸”æœ‰</span><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>çš„ä¼˜åŠ¿ï¼Œè­¬å¦‚</span><span lang=EN-US>302</span><span
-     style='font-family:å®‹ä½“'>ã€ç©¿å¢™ã€é€šç”¨ã€‚ç”±äºŽ</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>å†…éƒ¨å®žçŽ°äº†</span><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>æœåŠ¡å™¨ï¼Œæ‰€ä»¥</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>æ˜¯åœ¨è¾¹ç¼˜å°†</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>æµè½¬æ¢æˆ</span><span lang=EN-US>HTTP </span><span
-     style='font-family:å®‹ä½“'>æµï¼Œ</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>é›†ç¾¤å†…éƒ¨è¿˜æ˜¯ä½¿ç”¨</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>åˆ†å‘ã€‚å½“å‰å”¯ä¸€å°†</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>åè®®éƒ½è§£æžçš„æœåŠ¡å™¨ï¼Œç›®å‰åªæœ‰</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN-US>nginx-rtmp</span><span
-     style='font-family:å®‹ä½“'>ï¼Œå¯æƒœ</span><span lang=EN-US>nginx- rtmp</span><span
-     style='font-family:å®‹ä½“'>æ²¡æœ‰å®žçŽ°è¿™ä¸ªæµã€‚</span></li>
+     style='font-family:ËÎÌå'>Ö±²¥Á÷¡£</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>ËùÖ¸µÄ</span><span lang=EN-US>HTTP FLV</span><span
+     style='font-family:ËÎÌå'>Á÷£¬ÊÇÑÏ¸ñÒâÒåÉÏµÄÖ±²¥Á÷£¬ÓÐ</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>µÄËùÓÐÌØÕ÷£¬Æ©Èç¼¯Èº¡¢µÍÑÓ³Ù¡¢ÈÈ±¸¡¢</span><span lang=EN-US>GOP cache</span><span
+     style='font-family:ËÎÌå'>£¬¶øÇÒÓÐ</span><span lang=EN-US>HTTP</span><span
+     style='font-family:ËÎÌå'>µÄÓÅÊÆ£¬Æ©Èç</span><span lang=EN-US>302</span><span
+     style='font-family:ËÎÌå'>¡¢´©Ç½¡¢Í¨ÓÃ¡£ÓÉÓÚ</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>ÄÚ²¿ÊµÏÖÁË</span><span lang=EN-US>HTTP</span><span
+     style='font-family:ËÎÌå'>·þÎñÆ÷£¬ËùÒÔ</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>ÊÇÔÚ±ßÔµ½«</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>Á÷×ª»»³É</span><span lang=EN-US>HTTP </span><span
+     style='font-family:ËÎÌå'>Á÷£¬</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>¼¯ÈºÄÚ²¿»¹ÊÇÊ¹ÓÃ</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>·Ö·¢¡£µ±Ç°Î¨Ò»½«</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>ºÍ</span><span lang=EN-US>HTTP</span><span
+     style='font-family:ËÎÌå'>Ð­Òé¶¼½âÎöµÄ·þÎñÆ÷£¬Ä¿Ç°Ö»ÓÐ</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>ºÍ</span><span lang=EN-US>nginx-rtmp</span><span
+     style='font-family:ËÎÌå'>£¬¿ÉÏ§</span><span lang=EN-US>nginx- rtmp</span><span
+     style='font-family:ËÎÌå'>Ã»ÓÐÊµÏÖÕâ¸öÁ÷¡£</span></li>
 </ol>
 
-<p>ç”¨ä¸€å¥è¯æ¦‚æ‹¬ï¼Œ<span lang=EN-US>SRS</span>çš„<span lang=EN-US>HTTP FLV</span>å°±æ˜¯å¢žå¼ºçš„<span
-lang=EN-US>RTMP</span>ï¼ŒçœŸæ­£çš„å®žæ—¶æµåª’ä½“åˆ†å‘ã€‚</p>
+<p>ÓÃÒ»¾ä»°¸ÅÀ¨£¬<span lang=EN-US>SRS</span>µÄ<span lang=EN-US>HTTP FLV</span>¾ÍÊÇÔöÇ¿µÄ<span
+lang=EN-US>RTMP</span>£¬ÕæÕýµÄÊµÊ±Á÷Ã½Ìå·Ö·¢¡£</p>
 
 <h5><span lang=EN-US>Confuse HTTP FLV</span></h5>
 
-<p><span lang=EN-US>SRS</span>çš„<span lang=EN-US>HTTP FLV</span>å®¹æ˜“å’Œä¸‹é¢çš„å‡ ç§åˆ†å‘æ–¹å¼æ··æ·†ï¼š</p>
+<p><span lang=EN-US>SRS</span>µÄ<span lang=EN-US>HTTP FLV</span>ÈÝÒ×ºÍÏÂÃæµÄ¼¸ÖÖ·Ö·¢·½Ê½»ìÏý£º</p>
 
 <ol start=1 type=1>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>RTMPT</span><span
-     style='font-family:å®‹ä½“'>ï¼šè¿™ä¸ªå®žé™…ä¸Šæ˜¯æœ€æŽ¥è¿‘</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>HTTP FLV</span><span
-     style='font-family:å®‹ä½“'>çš„æ¦‚å¿µçš„ã€‚ä½†æ˜¯ä»Žæœ¬è´¨ä¸Šæ¥è®²ï¼Œ</span><span lang=EN-US>rtmpt</span><span
-     style='font-family:å®‹ä½“'>æ˜¯åŸºäºŽ</span><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>ï¼Œæ‰€ä»¥è¿˜æ˜¯</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>è€Œä¸æ˜¯</span><span lang=EN-US>FLV</span><span
-     style='font-family:å®‹ä½“'>ã€‚</span></li>
+     style='font-family:ËÎÌå'>£ºÕâ¸öÊµ¼ÊÉÏÊÇ×î½Ó½ü</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>HTTP FLV</span><span
+     style='font-family:ËÎÌå'>µÄ¸ÅÄîµÄ¡£µ«ÊÇ´Ó±¾ÖÊÉÏÀ´½²£¬</span><span lang=EN-US>rtmpt</span><span
+     style='font-family:ËÎÌå'>ÊÇ»ùÓÚ</span><span lang=EN-US>HTTP</span><span
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>£¬ËùÒÔ»¹ÊÇ</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>¶ø²»ÊÇ</span><span lang=EN-US>FLV</span><span
+     style='font-family:ËÎÌå'>¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>HDL/HFL</span><span
-     style='font-family:å®‹ä½“'>ï¼šå›½å†…ä¸€äº›åŽ‚å®¶çš„</span><span lang=EN-US>HXX</span><span
-     style='font-family:å®‹ä½“'>æµï¼Œå°±æ˜¯</span><span lang=EN-US>FLV</span><span
-     style='font-family:å®‹ä½“'>æµï¼Œä¸»è¦å’Œ</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>çš„åŒºåˆ«åœ¨äºŽæœåŠ¡å™¨é›†ç¾¤å†…éƒ¨</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>è¿˜æ˜¯èµ°</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>ï¼Œæ‰€ä»¥å»¶è¿Ÿå¯èƒ½ä¼šæœ‰å¾ˆå¤§å·®å¼‚ã€‚</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>HTTP FLV</span><span
-     style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>å»¶è¿Ÿä¸€æ ·ï¼Œ</span><span lang=EN-US>0.8-3</span><span
-     style='font-family:å®‹ä½“'>ç§’ã€‚</span></li>
+     style='font-family:ËÎÌå'>£º¹úÄÚÒ»Ð©³§¼ÒµÄ</span><span lang=EN-US>HXX</span><span
+     style='font-family:ËÎÌå'>Á÷£¬¾ÍÊÇ</span><span lang=EN-US>FLV</span><span
+     style='font-family:ËÎÌå'>Á÷£¬Ö÷ÒªºÍ</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>µÄÇø±ðÔÚÓÚ·þÎñÆ÷¼¯ÈºÄÚ²¿</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>»¹ÊÇ×ß</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>£¬ËùÒÔÑÓ³Ù¿ÉÄÜ»áÓÐºÜ´ó²îÒì¡£</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>HTTP FLV</span><span
+     style='font-family:ËÎÌå'>ºÍ</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>ÑÓ³ÙÒ»Ñù£¬</span><span lang=EN-US>0.8-3</span><span
+     style='font-family:ËÎÌå'>Ãë¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>HDS</span><span
-     style='font-family:å®‹ä½“'>ï¼šè¿™ä¸ªå·®çš„å¤ªè¿œäº†ï¼Œä¸æ˜¯ä¸€ä¸ªä¸œè¥¿ã€‚</span><span lang=EN-US>HDS</span><span
-     style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>åƒï¼Œä½†æ˜¯</span><span lang=EN-US>HTTP FLV</span><span
-     style='font-family:å®‹ä½“'>å’Œä»–ä»¬ä¸¤ä¸ªéƒ½å®Œå…¨ä¸åƒã€‚</span></li>
+     style='font-family:ËÎÌå'>£ºÕâ¸ö²îµÄÌ«Ô¶ÁË£¬²»ÊÇÒ»¸ö¶«Î÷¡£</span><span lang=EN-US>HDS</span><span
+     style='font-family:ËÎÌå'>ºÍ</span><span lang=EN-US>HLS</span><span
+     style='font-family:ËÎÌå'>Ïñ£¬µ«ÊÇ</span><span lang=EN-US>HTTP FLV</span><span
+     style='font-family:ËÎÌå'>ºÍËûÃÇÁ½¸ö¶¼ÍêÈ«²»Ïñ¡£</span></li>
 </ol>
 
 <h5><span lang=EN-US>Why HTTP FLV</span></h5>
 
-<p>ä¸ºä½•è¦æ•´ä¸ª<span lang=EN-US>HTTP FLV</span>å‡ºæ¥å‘¢ï¼Ÿå½“ä¸‹<span lang=EN-US>HTTP FLV</span>æµæ­£å¤§è¡Œå…¶é“ã€‚ä¸»è¦çš„ä¼˜åŠ¿åœ¨äºŽï¼š</p>
+<p>ÎªºÎÒªÕû¸ö<span lang=EN-US>HTTP FLV</span>³öÀ´ÄØ£¿µ±ÏÂ<span lang=EN-US>HTTP FLV</span>Á÷Õý´óÐÐÆäµÀ¡£Ö÷ÒªµÄÓÅÊÆÔÚÓÚ£º</p>
 
 <ol start=1 type=1>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>äº’è”ç½‘æµåª’ä½“å®žæ—¶é¢†åŸŸï¼Œè¿˜æ˜¯</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>ã€‚</span><span
-     lang=EN-US>HTTP-FLV</span><span style='font-family:å®‹ä½“'>å’Œ</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>çš„å»¶è¿Ÿä¸€æ ·ï¼Œå› æ­¤å¯ä»¥æ»¡è¶³å»¶è¿Ÿçš„è¦æ±‚ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ç©¿å¢™ï¼šå¾ˆå¤šé˜²ç«å¢™ä¼šå¢™æŽ‰</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>ï¼Œä½†æ˜¯ä¸ä¼šå¢™</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>ï¼Œå› æ­¤</span><span
-     lang=EN-US>HTTP FLV</span><span style='font-family:å®‹ä½“'>å‡ºçŽ°å¥‡æ€ªé—®é¢˜çš„æ¦‚çŽ‡å¾ˆå°ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>è°ƒåº¦ï¼š</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>ä¹Ÿæœ‰ä¸ª</span><span
-     lang=EN-US>302</span><span style='font-family:å®‹ä½“'>ï¼Œå¯æƒœæ˜¯æ’­æ”¾å™¨</span><span
-     lang=EN-US>as</span><span style='font-family:å®‹ä½“'>ä¸­æ”¯æŒçš„ï¼Œ</span><span
-     lang=EN-US>HTTP FLV</span><span style='font-family:å®‹ä½“'>æµå°±æ”¯æŒ</span><span
-     lang=EN-US>302</span><span style='font-family:å®‹ä½“'>æ–¹ä¾¿</span><span
-     lang=EN-US>CDN</span><span style='font-family:å®‹ä½“'>çº æ­£</span><span
-     lang=EN-US>DNS</span><span style='font-family:å®‹ä½“'>çš„é”™è¯¯ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å®¹é”™ï¼š</span><span
-     lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>çš„</span><span
-     lang=EN-US>HTTP FLV</span><span style='font-family:å®‹ä½“'>å›žæºæ—¶å¯ä»¥å›žå¤šä¸ªï¼Œå’Œ</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>ä¸€æ ·ï¼Œå¯ä»¥æ”¯æŒå¤šçº§çƒ­å¤‡ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>é€šç”¨ï¼š</span><span
-     lang=EN-US>Flash</span><span style='font-family:å®‹ä½“'>å¯ä»¥æ’­</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>ï¼Œä¹Ÿå¯ä»¥æ’­</span><span
-     lang=EN-US>HTTP FLV</span><span style='font-family:å®‹ä½“'>ã€‚è‡ªå·±åšçš„</span><span
-     lang=EN-US>APP</span><span style='font-family:å®‹ä½“'>ï¼Œä¹Ÿéƒ½èƒ½æ”¯æŒã€‚ä¸»æµæ’­æ”¾å™¨ä¹Ÿéƒ½æ”¯æŒ</span><span
-     lang=EN-US>http flv</span><span style='font-family:å®‹ä½“'>çš„æ’­æ”¾ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ç®€å•ï¼š</span><span
-     lang=EN-US>FLV</span><span style='font-family:å®‹ä½“'>æ˜¯æœ€ç®€å•çš„æµåª’ä½“å°è£…ï¼Œ</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>æ˜¯æœ€å¹¿æ³›çš„åè®®ï¼Œè¿™ä¸¤ä¸ªåˆ°ä¸€èµ·ç»´æŠ¤æ€§å¾ˆé«˜ï¼Œæ¯”</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>ç®€å•å¤šäº†ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>»¥ÁªÍøÁ÷Ã½ÌåÊµÊ±ÁìÓò£¬»¹ÊÇ</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>¡£</span><span
+     lang=EN-US>HTTP-FLV</span><span style='font-family:ËÎÌå'>ºÍ</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>µÄÑÓ³ÙÒ»Ñù£¬Òò´Ë¿ÉÒÔÂú×ãÑÓ³ÙµÄÒªÇó¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>´©Ç½£ººÜ¶à·À»ðÇ½»áÇ½µô</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>£¬µ«ÊÇ²»»áÇ½</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>£¬Òò´Ë</span><span
+     lang=EN-US>HTTP FLV</span><span style='font-family:ËÎÌå'>³öÏÖÆæ¹ÖÎÊÌâµÄ¸ÅÂÊºÜÐ¡¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>µ÷¶È£º</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>Ò²ÓÐ¸ö</span><span
+     lang=EN-US>302</span><span style='font-family:ËÎÌå'>£¬¿ÉÏ§ÊÇ²¥·ÅÆ÷</span><span
+     lang=EN-US>as</span><span style='font-family:ËÎÌå'>ÖÐÖ§³ÖµÄ£¬</span><span
+     lang=EN-US>HTTP FLV</span><span style='font-family:ËÎÌå'>Á÷¾ÍÖ§³Ö</span><span
+     lang=EN-US>302</span><span style='font-family:ËÎÌå'>·½±ã</span><span
+     lang=EN-US>CDN</span><span style='font-family:ËÎÌå'>¾ÀÕý</span><span
+     lang=EN-US>DNS</span><span style='font-family:ËÎÌå'>µÄ´íÎó¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÈÝ´í£º</span><span
+     lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>µÄ</span><span
+     lang=EN-US>HTTP FLV</span><span style='font-family:ËÎÌå'>»ØÔ´Ê±¿ÉÒÔ»Ø¶à¸ö£¬ºÍ</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>Ò»Ñù£¬¿ÉÒÔÖ§³Ö¶à¼¶ÈÈ±¸¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Í¨ÓÃ£º</span><span
+     lang=EN-US>Flash</span><span style='font-family:ËÎÌå'>¿ÉÒÔ²¥</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>£¬Ò²¿ÉÒÔ²¥</span><span
+     lang=EN-US>HTTP FLV</span><span style='font-family:ËÎÌå'>¡£×Ô¼º×öµÄ</span><span
+     lang=EN-US>APP</span><span style='font-family:ËÎÌå'>£¬Ò²¶¼ÄÜÖ§³Ö¡£Ö÷Á÷²¥·ÅÆ÷Ò²¶¼Ö§³Ö</span><span
+     lang=EN-US>http flv</span><span style='font-family:ËÎÌå'>µÄ²¥·Å¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>¼òµ¥£º</span><span
+     lang=EN-US>FLV</span><span style='font-family:ËÎÌå'>ÊÇ×î¼òµ¥µÄÁ÷Ã½Ìå·â×°£¬</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>ÊÇ×î¹ã·ºµÄÐ­Òé£¬ÕâÁ½¸öµ½Ò»ÆðÎ¬»¤ÐÔºÜ¸ß£¬±È</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>¼òµ¥¶àÁË¡£</span></li>
 </ol>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US>Srs</span><span
-style='font-family:å®‹ä½“'>é™¤äº†æ”¯æŒ</span><span lang=EN-US>http-flv</span><span
-style='font-family:å®‹ä½“'>ç›´æ’­æµå¤–ï¼ŒçŽ°å¯ä»¥æ”¯æŒ</span><span lang=EN-US>HTTP TS Live Stream</span><span
-style='font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US>HTTP Mp3 Live Stream</span><span
-style='font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US>HTTP Aac Live Stream</span></p>
+style='font-family:ËÎÌå'>³ýÁËÖ§³Ö</span><span lang=EN-US>http-flv</span><span
+style='font-family:ËÎÌå'>Ö±²¥Á÷Íâ£¬ÏÖ¿ÉÒÔÖ§³Ö</span><span lang=EN-US>HTTP TS Live Stream</span><span
+style='font-family:ËÎÌå'>£¬</span><span lang=EN-US>HTTP Mp3 Live Stream</span><span
+style='font-family:ËÎÌå'>£¬</span><span lang=EN-US>HTTP Aac Live Stream</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>å¤‡æ³¨ï¼šè‹¥éœ€è¦åŒæ—¶åˆ†å‘ä¸åŒçš„</span><span
-lang=EN-US>http live stream</span><span style='font-family:å®‹ä½“'>ï¼Œå¯ä»¥ä½¿ç”¨</span><span
-lang=EN-US>forward</span><span style='font-family:å®‹ä½“'>åˆ°å…¶ä»–</span><span
-lang=EN-US>vhost</span><span style='font-family:å®‹ä½“'>ï¼Œä¸åŒçš„</span><span
-lang=EN-US>vhost</span><span style='font-family:å®‹ä½“'>é…ç½®ä¸åŒçš„</span><span
-lang=EN-US>http live stream</span><span style='font-family:å®‹ä½“'>ã€‚</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>±¸×¢£ºÈôÐèÒªÍ¬Ê±·Ö·¢²»Í¬µÄ</span><span
+lang=EN-US>http live stream</span><span style='font-family:ËÎÌå'>£¬¿ÉÒÔÊ¹ÓÃ</span><span
+lang=EN-US>forward</span><span style='font-family:ËÎÌå'>µ½ÆäËû</span><span
+lang=EN-US>vhost</span><span style='font-family:ËÎÌå'>£¬²»Í¬µÄ</span><span
+lang=EN-US>vhost</span><span style='font-family:ËÎÌå'>ÅäÖÃ²»Í¬µÄ</span><span
+lang=EN-US>http live stream</span><span style='font-family:ËÎÌå'>¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US>HSTRS(http
-stream trigger rtmp source)</span><span style='font-family:å®‹ä½“'>ç”±</span><span
-lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>æµè§¦å‘çš„</span><span lang=EN-US>RTMP</span><span
-style='font-family:å®‹ä½“'>å›žæºï¼Œè¯¥åŠŸèƒ½å¯ä»¥ç”¨äºŽæž„å»º</span><span lang=EN-US>HTTP-FLV</span><span
-style='font-family:å®‹ä½“'>é›†ç¾¤ï¼Œå³</span><span lang=EN-US>HTTP-FLV</span><span
-style='font-family:å®‹ä½“'>æµçš„åˆå¹¶å›žæºï¼Œä»¥åŠ</span><span lang=EN-US>HTTP-FLV</span><span
-style='font-family:å®‹ä½“'>åœ¨æ²¡æœ‰æµæ—¶çš„ç­‰å¾…</span><span lang=EN-US>standby</span><span
-style='font-family:å®‹ä½“'>ã€‚</span></p>
+stream trigger rtmp source)</span><span style='font-family:ËÎÌå'>ÓÉ</span><span
+lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>Á÷´¥·¢µÄ</span><span lang=EN-US>RTMP</span><span
+style='font-family:ËÎÌå'>»ØÔ´£¬¸Ã¹¦ÄÜ¿ÉÒÔÓÃÓÚ¹¹½¨</span><span lang=EN-US>HTTP-FLV</span><span
+style='font-family:ËÎÌå'>¼¯Èº£¬¼´</span><span lang=EN-US>HTTP-FLV</span><span
+style='font-family:ËÎÌå'>Á÷µÄºÏ²¢»ØÔ´£¬ÒÔ¼°</span><span lang=EN-US>HTTP-FLV</span><span
+style='font-family:ËÎÌå'>ÔÚÃ»ÓÐÁ÷Ê±µÄµÈ´ý</span><span lang=EN-US>standby</span><span
+style='font-family:ËÎÌå'>¡£</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>HSTRS</span><span style='font-family:
-å®‹ä½“'>éœ€è¦å¼€å¯é…ç½®é¡¹</span><span lang=EN-US>http_remux</span><span style='font-family:
-å®‹ä½“'>çš„</span><span lang=EN-US>hstrs</span><span style='font-family:å®‹ä½“'>ï¼Œé»˜è®¤æ˜¯å¼€å¯çš„</span></p>
+ËÎÌå'>ÐèÒª¿ªÆôÅäÖÃÏî</span><span lang=EN-US>http_remux</span><span style='font-family:
+ËÎÌå'>µÄ</span><span lang=EN-US>hstrs</span><span style='font-family:ËÎÌå'>£¬Ä¬ÈÏÊÇ¿ªÆôµÄ</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>&nbsp;</span></p>
 
-<h4><a name="_Toc462219446"><span style='font-family:å®‹ä½“'>ç‚¹æ’­</span><span
-lang=EN-US>FLV</span></a><span style='font-family:å®‹ä½“'>æµ</span></h4>
+<h4><a name="_Toc462219446"><span style='font-family:ËÎÌå'>µã²¥</span><span
+lang=EN-US>FLV</span></a><span style='font-family:ËÎÌå'>Á÷</span></h4>
 
 <h5><span lang=EN-US>HTTP VOD</span></h5>
 
-<p>æŽ¨èä»¥ä¸‹çš„æ–¹å¼ï¼š</p>
+<p>ÍÆ¼öÒÔÏÂµÄ·½Ê½£º</p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ç‚¹æ’­å»ºè®®ç”¨</span><span
-     lang=EN-US>http</span><span style='font-family:å®‹ä½“'>åˆ†å‘ï¼Œ</span><span
-     lang=EN-US>http</span><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨ä¸€å¤§å †ã€‚</span><span
-     lang=EN-US> SRS</span><span style='font-family:å®‹ä½“'>èƒ½å°†ç›´æ’­æµå½•åˆ¶ä¸º</span><span
-     lang=EN-US>flv</span><span style='font-family:å®‹ä½“'>æ–‡ä»¶ï¼Œå¹¶ä¸”æä¾›äº†ä¸€äº›å·¥å…·æ¥æ”¯æŒ</span><span
-     lang=EN-US>flv</span><span style='font-family:å®‹ä½“'>ç‚¹æ’­æµï¼Œ</span> <span
-     style='font-family:å®‹ä½“'>ä½†æ˜¯åº”è¯¥ä½¿ç”¨å…¶ä»–çš„</span><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>æœåŠ¡å™¨åˆ†å‘</span><span lang=EN-US>flv</span><span
-     style='font-family:å®‹ä½“'>æ–‡ä»¶ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ€»ä¹‹ï¼Œ</span><span
-     lang=EN-US>srs</span><span style='font-family:å®‹ä½“'>ä¸æ”¯æŒç‚¹æ’­ï¼Œåªæ”¯æŒç›´æ’­ã€‚è¿™æ˜¯å®˜æ–¹å›žç­”ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>µã²¥½¨ÒéÓÃ</span><span
+     lang=EN-US>http</span><span style='font-family:ËÎÌå'>·Ö·¢£¬</span><span
+     lang=EN-US>http</span><span style='font-family:ËÎÌå'>·þÎñÆ÷Ò»´ó¶Ñ¡£</span><span
+     lang=EN-US> SRS</span><span style='font-family:ËÎÌå'>ÄÜ½«Ö±²¥Á÷Â¼ÖÆÎª</span><span
+     lang=EN-US>flv</span><span style='font-family:ËÎÌå'>ÎÄ¼þ£¬²¢ÇÒÌá¹©ÁËÒ»Ð©¹¤¾ßÀ´Ö§³Ö</span><span
+     lang=EN-US>flv</span><span style='font-family:ËÎÌå'>µã²¥Á÷£¬</span> <span
+     style='font-family:ËÎÌå'>µ«ÊÇÓ¦¸ÃÊ¹ÓÃÆäËûµÄ</span><span lang=EN-US>HTTP</span><span
+     style='font-family:ËÎÌå'>·þÎñÆ÷·Ö·¢</span><span lang=EN-US>flv</span><span
+     style='font-family:ËÎÌå'>ÎÄ¼þ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>×ÜÖ®£¬</span><span
+     lang=EN-US>srs</span><span style='font-family:ËÎÌå'>²»Ö§³Öµã²¥£¬Ö»Ö§³ÖÖ±²¥¡£ÕâÊÇ¹Ù·½»Ø´ð¡£</span></li>
 </ul>
 
-<p>ç‚¹æ’­<span lang=EN-US>FLV</span>æµçš„ä¸»è¦æµç¨‹æ˜¯ï¼š</p>
+<p>µã²¥<span lang=EN-US>FLV</span>Á÷µÄÖ÷ÒªÁ÷³ÌÊÇ£º</p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨å½•åˆ¶ç›´æ’­ä¸º</span><span
-     lang=EN-US>FLV</span><span style='font-family:å®‹ä½“'>æ–‡ä»¶ï¼Œæˆ–è€…ä¸Šä¼ </span><span
-     lang=EN-US>FLV</span><span style='font-family:å®‹ä½“'>ç‚¹æ’­æ–‡ä»¶èµ„æºï¼Œåˆ°</span><span
-     lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>çš„</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>æ ¹ç›®å½•ï¼š</span><code><span
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>·þÎñÆ÷Â¼ÖÆÖ±²¥Îª</span><span
+     lang=EN-US>FLV</span><span style='font-family:ËÎÌå'>ÎÄ¼þ£¬»òÕßÉÏ´«</span><span
+     lang=EN-US>FLV</span><span style='font-family:ËÎÌå'>µã²¥ÎÄ¼þ×ÊÔ´£¬µ½</span><span
+     lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>µÄ</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>¸ùÄ¿Â¼£º</span><code><span
      lang=EN-US style='font-size:12.0pt'>objs/nginx/html</span></code><span
      lang=EN-US> </span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>æœåŠ¡å™¨å¿…é¡»è¦æ”¯æŒ</span><span lang=EN-US>flv</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>start=offset</span><span
-     style='font-family:å®‹ä½“'>ï¼Œè­¬å¦‚</span><span lang=EN-US>nginx</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>flv</span><span
-     style='font-family:å®‹ä½“'>æ¨¡å—ï¼Œæˆ–è€…</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>çš„å®žéªŒæ€§</span><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>æœåŠ¡å™¨ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ä½¿ç”¨</span><code><span
+     style='font-family:ËÎÌå'>·þÎñÆ÷±ØÐëÒªÖ§³Ö</span><span lang=EN-US>flv</span><span
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>start=offset</span><span
+     style='font-family:ËÎÌå'>£¬Æ©Èç</span><span lang=EN-US>nginx</span><span
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>flv</span><span
+     style='font-family:ËÎÌå'>Ä£¿é£¬»òÕß</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>µÄÊµÑéÐÔ</span><span lang=EN-US>HTTP</span><span
+     style='font-family:ËÎÌå'>·þÎñÆ÷¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ê¹ÓÃ</span><code><span
      lang=EN-US style='font-size:12.0pt'>research/librtmp/objs/srs_flv_injecter</span></code><span
-     style='font-family:å®‹ä½“'>å°†</span><span lang=EN-US>FLV</span><span
-     style='font-family:å®‹ä½“'>çš„æ—¶é—´å’Œå¯¹äºŽçš„</span><span lang=EN-US>offset</span><span
-     style='font-family:å®‹ä½“'>ï¼ˆæ–‡ä»¶åç§»é‡ï¼‰å†™å…¥</span><span lang=EN-US>FLV</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>metadata</span><span
-     style='font-family:å®‹ä½“'>ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ’­æ”¾å™¨è¯·æ±‚</span><span
-     lang=EN-US>FLV</span><span style='font-family:å®‹ä½“'>æ–‡ä»¶ï¼Œè­¬å¦‚ï¼š</span><code><span
+     style='font-family:ËÎÌå'>½«</span><span lang=EN-US>FLV</span><span
+     style='font-family:ËÎÌå'>µÄÊ±¼äºÍ¶ÔÓÚµÄ</span><span lang=EN-US>offset</span><span
+     style='font-family:ËÎÌå'>£¨ÎÄ¼þÆ«ÒÆÁ¿£©Ð´Èë</span><span lang=EN-US>FLV</span><span
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>metadata</span><span
+     style='font-family:ËÎÌå'>¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>²¥·ÅÆ÷ÇëÇó</span><span
+     lang=EN-US>FLV</span><span style='font-family:ËÎÌå'>ÎÄ¼þ£¬Æ©Èç£º</span><code><span
      lang=EN-US style='font-size:12.0pt'>http://192.168.1.170:8080/sample.flv</span></code><span
      lang=EN-US> </span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ç”¨æˆ·ç‚¹å‡»è¿›åº¦æ¡è¿›è¡Œ</span><span
-     lang=EN-US>SEEK</span><span style='font-family:å®‹ä½“'>ï¼Œè­¬å¦‚</span><span
-     lang=EN-US>SEEK</span><span style='font-family:å®‹ä½“'>åˆ°</span><span
-     lang=EN-US>300</span><span style='font-family:å®‹ä½“'>ç§’ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ’­æ”¾å™¨æ ¹æ®</span><span
-     lang=EN-US>inject</span><span style='font-family:å®‹ä½“'>çš„æ—¶é—´å’Œ</span><span
-     lang=EN-US>offset</span><span style='font-family:å®‹ä½“'>å¯¹åº”å…³ç³»æ‰¾å‡ºå‡†ç¡®çš„å…³é”®å¸§çš„</span><span
-     lang=EN-US>offset</span><span style='font-family:å®‹ä½“'>ã€‚è­¬å¦‚ï¼š</span><span
-     lang=EN-US>300</span><span style='font-family:å®‹ä½“'>ç§’åç§»æ˜¯</span><code><span
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÓÃ»§µã»÷½ø¶ÈÌõ½øÐÐ</span><span
+     lang=EN-US>SEEK</span><span style='font-family:ËÎÌå'>£¬Æ©Èç</span><span
+     lang=EN-US>SEEK</span><span style='font-family:ËÎÌå'>µ½</span><span
+     lang=EN-US>300</span><span style='font-family:ËÎÌå'>Ãë¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>²¥·ÅÆ÷¸ù¾Ý</span><span
+     lang=EN-US>inject</span><span style='font-family:ËÎÌå'>µÄÊ±¼äºÍ</span><span
+     lang=EN-US>offset</span><span style='font-family:ËÎÌå'>¶ÔÓ¦¹ØÏµÕÒ³ö×¼È·µÄ¹Ø¼üÖ¡µÄ</span><span
+     lang=EN-US>offset</span><span style='font-family:ËÎÌå'>¡£Æ©Èç£º</span><span
+     lang=EN-US>300</span><span style='font-family:ËÎÌå'>ÃëÆ«ÒÆÊÇ</span><code><span
      lang=EN-US style='font-size:12.0pt'>6638860</span></code><span lang=EN-US>
      </span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ ¹æ®</span><span
-     lang=EN-US>offset</span><span style='font-family:å®‹ä½“'>å‘èµ·æ–°è¯·æ±‚ï¼š</span><code><span
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>¸ù¾Ý</span><span
+     lang=EN-US>offset</span><span style='font-family:ËÎÌå'>·¢ÆðÐÂÇëÇó£º</span><code><span
      lang=EN-US style='font-size:12.0pt'>http://192.168.1.170:8080/sample.flv?start=6638860</span></code><span
      lang=EN-US> </span></li>
 </ul>
 
-<p>å¤‡æ³¨ï¼š<span lang=EN-US>SRS</span>è¿˜ä¸æ”¯æŒé™é€Ÿï¼Œä¼šä»¥æœ€å¿«çš„é€Ÿåº¦å°†æ–‡ä»¶å‘ç»™å®¢æˆ·ç«¯ã€‚ å¤‡æ³¨ï¼š<span lang=EN-US>SRS</span>è¿˜æä¾›äº†æŸ¥çœ‹<span
-lang=EN-US>FLV</span>æ–‡ä»¶å†…å®¹çš„å·¥å…·<code><span lang=EN-US>research/librtmp/objs/srs_flv_parser</span></code>ï¼Œå¯ä»¥çœ‹åˆ°<span
-lang=EN-US>metadata</span>å’Œæ¯ä¸ª<span lang=EN-US>tag</span>ä¿¡æ¯ã€‚</p>
+<p>±¸×¢£º<span lang=EN-US>SRS</span>»¹²»Ö§³ÖÏÞËÙ£¬»áÒÔ×î¿ìµÄËÙ¶È½«ÎÄ¼þ·¢¸ø¿Í»§¶Ë¡£ ±¸×¢£º<span lang=EN-US>SRS</span>»¹Ìá¹©ÁË²é¿´<span
+lang=EN-US>FLV</span>ÎÄ¼þÄÚÈÝµÄ¹¤¾ß<code><span lang=EN-US>research/librtmp/objs/srs_flv_parser</span></code>£¬¿ÉÒÔ¿´µ½<span
+lang=EN-US>metadata</span>ºÍÃ¿¸ö<span lang=EN-US>tag</span>ÐÅÏ¢¡£</p>
 
 <h4><a name="_Toc462219447"><span lang=EN-US>SRS Embeded HTTP server</span></a></h4>
 
-<p class=MsoNoSpacing><span lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>æ”¯æŒ</span><span
-lang=EN-US>http-api</span><span style='font-family:å®‹ä½“'>ï¼Œå› æ­¤ä¹Ÿèƒ½è§£æž</span><span
-lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>åè®®ï¼ˆç›®å‰æ˜¯éƒ¨åˆ†æ”¯æŒï¼‰ï¼Œæ‰€ä»¥ä¹Ÿå®žçŽ°äº†ä¸€ä¸ªç®€å•çš„</span><span
-lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨ã€‚</span></p>
+<p class=MsoNoSpacing><span lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>Ö§³Ö</span><span
+lang=EN-US>http-api</span><span style='font-family:ËÎÌå'>£¬Òò´ËÒ²ÄÜ½âÎö</span><span
+lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>Ð­Òé£¨Ä¿Ç°ÊÇ²¿·ÖÖ§³Ö£©£¬ËùÒÔÒ²ÊµÏÖÁËÒ»¸ö¼òµ¥µÄ</span><span
+lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>·þÎñÆ÷¡£</span></p>
 
-<p class=MsoNoSpacing><span lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>çš„</span><span
-lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨å·²ç»é‡å†™ï¼Œç¨³å®šå¯ä»¥å•†ç”¨ã€‚</span></p>
+<p class=MsoNoSpacing><span lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>µÄ</span><span
+lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>·þÎñÆ÷ÒÑ¾­ÖØÐ´£¬ÎÈ¶¨¿ÉÒÔÉÌÓÃ¡£</span></p>
 
-<p class=MsoNoSpacing><span style='font-family:å®‹ä½“'>å¯¹äºŽä¸€äº›åµŒå…¥å¼è®¾å¤‡ï¼Œå¹¶å‘ä¹Ÿä¸é«˜æ—¶ï¼Œå¯ä»¥è€ƒè™‘ä½¿ç”¨</span><span
-lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>HTTP</span><span
-style='font-family:å®‹ä½“'>æœåŠ¡å™¨åˆ†å‘</span><span lang=EN-US>HLS</span><span
-style='font-family:å®‹ä½“'>ï¼Œè¿™æ ·æ¯”è¾ƒç®€å•ã€‚</span></p>
+<p class=MsoNoSpacing><span style='font-family:ËÎÌå'>¶ÔÓÚÒ»Ð©Ç¶ÈëÊ½Éè±¸£¬²¢·¢Ò²²»¸ßÊ±£¬¿ÉÒÔ¿¼ÂÇÊ¹ÓÃ</span><span
+lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>HTTP</span><span
+style='font-family:ËÎÌå'>·þÎñÆ÷·Ö·¢</span><span lang=EN-US>HLS</span><span
+style='font-family:ËÎÌå'>£¬ÕâÑù±È½Ï¼òµ¥¡£</span></p>
 
 <h4><a name="_Toc462219448"><span lang=EN-US>Wiki</span></a></h4>
 
@@ -2214,78 +3907,78 @@ style='font-family:å®‹ä½“'>ï¼Œè¿™æ ·æ¯”è¾ƒç®€å•ã€‚</span></p>
 href="https://github.com/ossrs/srs/wiki/v2_CN_DeliveryHttpStream">https://github.com/ossrs/srs/wiki/v2_CN_DeliveryHttpStream</a></span></p>
 
 <h3><a name="_Toc26097956"></a><a name="_Toc462219449"></a><a
-name="_Toc456260517"><span style='font-family:å®‹ä½“'>è½¬å°è£…æˆ</span><span lang=EN-US>HLS</span></a></h3>
+name="_Toc456260517"><span style='font-family:ËÎÌå'>×ª·â×°³É</span><span lang=EN-US>HLS</span></a></h3>
 
-<p class=MsoNoSpacing><span lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>æ”¯æŒ</span><span
-lang=EN-US>HLS/RTMP</span><span style='font-family:å®‹ä½“'>ä¸¤ç§æˆç†Ÿè€Œä¸”å¹¿æ³›åº”ç”¨çš„æµåª’ä½“åˆ†å‘æ–¹å¼ã€‚</span></p>
+<p class=MsoNoSpacing><span lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>Ö§³Ö</span><span
+lang=EN-US>HLS/RTMP</span><span style='font-family:ËÎÌå'>Á½ÖÖ³ÉÊì¶øÇÒ¹ã·ºÓ¦ÓÃµÄÁ÷Ã½Ìå·Ö·¢·½Ê½¡£</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>RTMP</span><span style='font-family:
-å®‹ä½“'>æŒ‡</span><span lang=EN-US>Adobe</span><span style='font-family:å®‹ä½“'>çš„</span><span
-lang=EN-US>RTMP(Realtime Message Protocol)</span><span style='font-family:å®‹ä½“'>ï¼Œå¹¿æ³›åº”ç”¨äºŽä½Žå»¶æ—¶ç›´æ’­ï¼Œä¹Ÿæ˜¯ç¼–ç å™¨å’ŒæœåŠ¡å™¨å¯¹æŽ¥çš„å®žé™…æ ‡å‡†åè®®ï¼Œåœ¨</span><span
-lang=EN-US>PC</span><span style='font-family:å®‹ä½“'>ï¼ˆ</span><span lang=EN-US>Flash</span><span
-style='font-family:å®‹ä½“'>ï¼‰ä¸Šæœ‰æœ€ä½³è§‚çœ‹ä½“éªŒå’Œæœ€ä½³ç¨³å®šæ€§ã€‚</span></p>
+ËÎÌå'>Ö¸</span><span lang=EN-US>Adobe</span><span style='font-family:ËÎÌå'>µÄ</span><span
+lang=EN-US>RTMP(Realtime Message Protocol)</span><span style='font-family:ËÎÌå'>£¬¹ã·ºÓ¦ÓÃÓÚµÍÑÓÊ±Ö±²¥£¬Ò²ÊÇ±àÂëÆ÷ºÍ·þÎñÆ÷¶Ô½ÓµÄÊµ¼Ê±ê×¼Ð­Òé£¬ÔÚ</span><span
+lang=EN-US>PC</span><span style='font-family:ËÎÌå'>£¨</span><span lang=EN-US>Flash</span><span
+style='font-family:ËÎÌå'>£©ÉÏÓÐ×î¼Ñ¹Û¿´ÌåÑéºÍ×î¼ÑÎÈ¶¨ÐÔ¡£</span></p>
 
-<p class=MsoNoSpacing><span lang=EN-US>HLS</span><span style='font-family:å®‹ä½“'>æŒ‡</span><span
-lang=EN-US>Apple</span><span style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>HLS(Http
-Live Streaming)</span><span style='font-family:å®‹ä½“'>ï¼Œæœ¬èº«å°±æ˜¯</span><span
-lang=EN-US>Live</span><span style='font-family:å®‹ä½“'>ï¼ˆç›´æ’­ï¼‰çš„ï¼Œä¸è¿‡</span><span
-lang=EN-US>Vod</span><span style='font-family:å®‹ä½“'>ï¼ˆç‚¹æ’­ï¼‰ä¹Ÿèƒ½æ”¯æŒã€‚</span><span
-lang=EN-US>HLS</span><span style='font-family:å®‹ä½“'>æ˜¯</span><span lang=EN-US>Apple</span><span
-style='font-family:å®‹ä½“'>å¹³å°çš„æ ‡å‡†æµåª’ä½“åè®®ï¼Œå’Œ</span><span lang=EN-US>RTMP</span><span
-style='font-family:å®‹ä½“'>åœ¨</span><span lang=EN-US>PC</span><span
-style='font-family:å®‹ä½“'>ä¸Šä¸€æ ·æ”¯æŒå¾—å¤©è¡£æ— ç¼ã€‚</span></p>
+<p class=MsoNoSpacing><span lang=EN-US>HLS</span><span style='font-family:ËÎÌå'>Ö¸</span><span
+lang=EN-US>Apple</span><span style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>HLS(Http
+Live Streaming)</span><span style='font-family:ËÎÌå'>£¬±¾Éí¾ÍÊÇ</span><span
+lang=EN-US>Live</span><span style='font-family:ËÎÌå'>£¨Ö±²¥£©µÄ£¬²»¹ý</span><span
+lang=EN-US>Vod</span><span style='font-family:ËÎÌå'>£¨µã²¥£©Ò²ÄÜÖ§³Ö¡£</span><span
+lang=EN-US>HLS</span><span style='font-family:ËÎÌå'>ÊÇ</span><span lang=EN-US>Apple</span><span
+style='font-family:ËÎÌå'>Æ½Ì¨µÄ±ê×¼Á÷Ã½ÌåÐ­Òé£¬ºÍ</span><span lang=EN-US>RTMP</span><span
+style='font-family:ËÎÌå'>ÔÚ</span><span lang=EN-US>PC</span><span
+style='font-family:ËÎÌå'>ÉÏÒ»ÑùÖ§³ÖµÃÌìÒÂÎÞ·ì¡£</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-family:å®‹ä½“'>HLS</span><span style='font-family:å®‹ä½“'>ä¸»è¦çš„åº”ç”¨åœºæ™¯åŒ…æ‹¬ï¼š</span></p>
+style='font-family:ËÎÌå'>HLS</span><span style='font-family:ËÎÌå'>Ö÷ÒªµÄÓ¦ÓÃ³¡¾°°üÀ¨£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>è·¨å¹³å°ï¼š<span
-     lang=EN-US>PC</span>ä¸»è¦çš„ç›´æ’­æ–¹æ¡ˆæ˜¯<span lang=EN-US>RTMP</span>ï¼Œä¹Ÿæœ‰ä¸€äº›åº“èƒ½æ’­æ”¾<span
-     lang=EN-US>HLS</span>ï¼Œè­¬å¦‚<span lang=EN-US>jwplayer</span>ï¼ŒåŸºäºŽ<span
-     lang=EN-US>osmf</span>çš„<span lang=EN-US>hls</span>æ’ä»¶ä¹Ÿä¸€å¤§å †ã€‚æ‰€ä»¥å®žé™…ä¸Šå¦‚æžœé€‰ä¸€ç§åè®®èƒ½è·¨<span
-     lang=EN-US>PC/Android/IOS</span>ï¼Œé‚£å°±æ˜¯<span lang=EN-US>HLS</span>ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>¿çÆ½Ì¨£º<span
+     lang=EN-US>PC</span>Ö÷ÒªµÄÖ±²¥·½°¸ÊÇ<span lang=EN-US>RTMP</span>£¬Ò²ÓÐÒ»Ð©¿âÄÜ²¥·Å<span
+     lang=EN-US>HLS</span>£¬Æ©Èç<span lang=EN-US>jwplayer</span>£¬»ùÓÚ<span
+     lang=EN-US>osmf</span>µÄ<span lang=EN-US>hls</span>²å¼þÒ²Ò»´ó¶Ñ¡£ËùÒÔÊµ¼ÊÉÏÈç¹ûÑ¡Ò»ÖÖÐ­ÒéÄÜ¿ç<span
+     lang=EN-US>PC/Android/IOS</span>£¬ÄÇ¾ÍÊÇ<span lang=EN-US>HLS</span>¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-family:
-     å®‹ä½“'>IOS</span><span style='font-family:å®‹ä½“'>ä¸Šè‹›åˆ»çš„ç¨³å®šæ€§è¦æ±‚ï¼š<span lang=EN-US>IOS</span>ä¸Šæœ€ç¨³å®šçš„å½“ç„¶æ˜¯<span
-     lang=EN-US>HLS</span>ï¼Œç¨³å®šæ€§ä¸å·®äºŽ<span lang=EN-US>RTMP</span>åœ¨<span lang=EN-US>PC-flash</span>ä¸Šçš„è¡¨çŽ°ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å‹å¥½çš„<span
-     lang=EN-US>CDN</span>åˆ†å‘æ–¹å¼ï¼šç›®å‰<span lang=EN-US>CDN</span>å¯¹äºŽ<span lang=EN-US>RTMP</span>ä¹Ÿæ˜¯åŸºæœ¬åè®®ï¼Œä½†æ˜¯<span
-     lang=EN-US>HLS</span>åˆ†å‘çš„åŸºç¡€æ˜¯<span lang=EN-US>HTTP</span>ï¼Œæ‰€ä»¥<span
-     lang=EN-US>CDN</span>çš„æŽ¥å…¥å’Œåˆ†å‘ä¼šæ¯”<span lang=EN-US>RTMP</span>æ›´åŠ å®Œå–„ã€‚èƒ½åœ¨å„ç§<span
-     lang=EN-US>CDN</span>ä¹‹é—´åˆ‡æ¢ï¼Œ<span lang=EN-US>RTMP</span>ä¹Ÿèƒ½ï¼Œåªæ˜¯å¯èƒ½éœ€è¦å¯¹æŽ¥æµ‹è¯•ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ç®€å•ï¼š<span
-     lang=EN-US>HLS</span>ä½œä¸ºæµåª’ä½“åè®®éžå¸¸ç®€å•ï¼Œ<span lang=EN-US>apple</span>æ”¯æŒå¾—ä¹Ÿå¾ˆå®Œå–„ã€‚<span
-     lang=EN-US>Android</span>å¯¹<span lang=EN-US>HLS</span>çš„æ”¯æŒä¹Ÿä¼šè¶Šæ¥è¶Šå®Œå–„ã€‚è‡³äºŽ<span
-     lang=EN-US>DASH/HDS</span>ï¼Œå¥½åƒæ²¡æœ‰ä»€ä¹ˆç‰¹åˆ«çš„ç†ç”±ï¼Œå°±åƒ<span lang=EN-US>linux</span>å·²ç»å¤§è¡Œå…¶é“è€Œä¸”å¼€æ”¾ï¼Œå…¶ä»–çš„ç³»ç»Ÿå¾ˆéš¾å†å¹¿æ³›åº”ç”¨ã€‚</span></li>
+     ËÎÌå'>IOS</span><span style='font-family:ËÎÌå'>ÉÏ¿Á¿ÌµÄÎÈ¶¨ÐÔÒªÇó£º<span lang=EN-US>IOS</span>ÉÏ×îÎÈ¶¨µÄµ±È»ÊÇ<span
+     lang=EN-US>HLS</span>£¬ÎÈ¶¨ÐÔ²»²îÓÚ<span lang=EN-US>RTMP</span>ÔÚ<span lang=EN-US>PC-flash</span>ÉÏµÄ±íÏÖ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÓÑºÃµÄ<span
+     lang=EN-US>CDN</span>·Ö·¢·½Ê½£ºÄ¿Ç°<span lang=EN-US>CDN</span>¶ÔÓÚ<span lang=EN-US>RTMP</span>Ò²ÊÇ»ù±¾Ð­Òé£¬µ«ÊÇ<span
+     lang=EN-US>HLS</span>·Ö·¢µÄ»ù´¡ÊÇ<span lang=EN-US>HTTP</span>£¬ËùÒÔ<span
+     lang=EN-US>CDN</span>µÄ½ÓÈëºÍ·Ö·¢»á±È<span lang=EN-US>RTMP</span>¸ü¼ÓÍêÉÆ¡£ÄÜÔÚ¸÷ÖÖ<span
+     lang=EN-US>CDN</span>Ö®¼äÇÐ»»£¬<span lang=EN-US>RTMP</span>Ò²ÄÜ£¬Ö»ÊÇ¿ÉÄÜÐèÒª¶Ô½Ó²âÊÔ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>¼òµ¥£º<span
+     lang=EN-US>HLS</span>×÷ÎªÁ÷Ã½ÌåÐ­Òé·Ç³£¼òµ¥£¬<span lang=EN-US>apple</span>Ö§³ÖµÃÒ²ºÜÍêÉÆ¡£<span
+     lang=EN-US>Android</span>¶Ô<span lang=EN-US>HLS</span>µÄÖ§³ÖÒ²»áÔ½À´Ô½ÍêÉÆ¡£ÖÁÓÚ<span
+     lang=EN-US>DASH/HDS</span>£¬ºÃÏñÃ»ÓÐÊ²Ã´ÌØ±ðµÄÀíÓÉ£¬¾ÍÏñ<span lang=EN-US>linux</span>ÒÑ¾­´óÐÐÆäµÀ¶øÇÒ¿ª·Å£¬ÆäËûµÄÏµÍ³ºÜÄÑÔÙ¹ã·ºÓ¦ÓÃ¡£</span></li>
 </ul>
 
 <p class=MsoNormal align=left style='text-align:left'><span style='font-family:
-å®‹ä½“'>æ€»ä¹‹ï¼Œ<span lang=EN-US>SRS</span>æ”¯æŒ<span lang=EN-US>HLS</span>ä¸»è¦æ˜¯ä½œä¸ºè¾“å‡ºçš„åˆ†å‘åè®®ï¼Œç›´æ’­ä»¥<span
-lang=EN-US>RTMP+HLS</span>åˆ†å‘ï¼Œæ»¡æ€»å„ç§åº”ç”¨åœºæ™¯ã€‚ç‚¹æ’­ä»¥<span lang=EN-US>HLS</span>ä¸ºä¸»ã€‚</span></p>
+ËÎÌå'>×ÜÖ®£¬<span lang=EN-US>SRS</span>Ö§³Ö<span lang=EN-US>HLS</span>Ö÷ÒªÊÇ×÷ÎªÊä³öµÄ·Ö·¢Ð­Òé£¬Ö±²¥ÒÔ<span
+lang=EN-US>RTMP+HLS</span>·Ö·¢£¬Âú×Ü¸÷ÖÖÓ¦ÓÃ³¡¾°¡£µã²¥ÒÔ<span lang=EN-US>HLS</span>ÎªÖ÷¡£</span></p>
 
-<h4><a name="_Toc462219450"><span style='font-family:å®‹ä½“'>å„ç§åˆ†å‘æµåè®®ä»‹ç»</span></a></h4>
+<h4><a name="_Toc462219450"><span style='font-family:ËÎÌå'>¸÷ÖÖ·Ö·¢Á÷Ð­Òé½éÉÜ</span></a></h4>
 
 <table class=MsoNormalTable border=0 cellpadding=0 style='background:#E5E5E5'>
  <thead>
   <tr>
    <td width=48 style='width:35.95pt;background:#8DB3E2;padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   style='font-family:å®‹ä½“'>åˆ†å‘</span></b></p>
+   style='font-family:ËÎÌå'>·Ö·¢</span></b></p>
    </td>
    <td width=69 style='width:51.75pt;background:#8DB3E2;padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   style='font-family:å®‹ä½“;color:black'>å¹³å°</span></b></p>
+   style='font-family:ËÎÌå;color:black'>Æ½Ì¨</span></b></p>
    </td>
    <td style='background:#8DB3E2;padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   style='font-family:å®‹ä½“;color:black'>åè®®</span></b></p>
+   style='font-family:ËÎÌå;color:black'>Ð­Òé</span></b></p>
    </td>
    <td style='background:#8DB3E2;padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   style='font-family:å®‹ä½“;color:black'>å…¬å¸</span></b></p>
+   style='font-family:ËÎÌå;color:black'>¹«Ë¾</span></b></p>
    </td>
    <td style='background:#8DB3E2;padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   style='font-family:å®‹ä½“;color:black'>è¯´æ˜Ž</span></b></p>
+   style='font-family:ËÎÌå;color:black'>ËµÃ÷</span></b></p>
    </td>
   </tr>
  </thead>
@@ -2303,36 +3996,36 @@ lang=EN-US>RTMP+HLS</span>åˆ†å‘ï¼Œæ»¡æ€»å„ç§åº”ç”¨åœºæ™¯ã€‚ç‚¹æ’­ä»¥<span lan
   <p class=MsoNormal><span lang=EN-US style='color:black'>Adobe</span></p>
   </td>
   <td style='background:#8DB3E2;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>ä¸»æµçš„ä½Žå»¶æ—¶åˆ†å‘æ–¹å¼ï¼Œ</span><span
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>Ö÷Á÷µÄµÍÑÓÊ±·Ö·¢·½Ê½£¬</span><span
   lang=EN-US style='color:black'><br>
-  Adobe</span><span style='font-family:å®‹ä½“;color:black'>å¯¹</span><span
-  lang=EN-US style='color:black'>RTMP</span><span style='font-family:å®‹ä½“;
-  color:black'>æ˜¯</span><span lang=EN-US style='color:black'>Flash</span><span
-  style='font-family:å®‹ä½“;color:black'>åŽŸç”Ÿæ”¯æŒæ–¹å¼ï¼Œ</span><span lang=EN-US
+  Adobe</span><span style='font-family:ËÎÌå;color:black'>¶Ô</span><span
+  lang=EN-US style='color:black'>RTMP</span><span style='font-family:ËÎÌå;
+  color:black'>ÊÇ</span><span lang=EN-US style='color:black'>Flash</span><span
+  style='font-family:ËÎÌå;color:black'>Ô­ÉúÖ§³Ö·½Ê½£¬</span><span lang=EN-US
   style='color:black'><br>
-  FMS</span><span style='font-family:å®‹ä½“;color:black'>ï¼ˆ</span><span lang=EN-US
-  style='color:black'>Adobe Media Server</span><span style='font-family:å®‹ä½“;
-  color:black'>å‰èº«ï¼‰ï¼Œ</span><span lang=EN-US style='color:black'><br>
-  </span><span style='font-family:å®‹ä½“;color:black'>å°±æ˜¯</span><span lang=EN-US
-  style='color:black'>Flash Media Server</span><span style='font-family:å®‹ä½“;
-  color:black'>çš„ç®€å†™ï¼Œå¯è§</span><span lang=EN-US style='color:black'>Flash</span><span
-  style='font-family:å®‹ä½“;color:black'>æ’­æ”¾</span><span lang=EN-US
-  style='color:black'>RTMP</span><span style='font-family:å®‹ä½“;color:black'>æ˜¯å¤šä¹ˆ</span><span
-  lang=EN-US style='color:black'>â€œ</span><span style='font-family:å®‹ä½“;
-  color:black'>åŽŸç”Ÿ</span><span lang=EN-US style='color:black'>â€</span><span
-  style='font-family:å®‹ä½“;color:black'>ï¼Œ</span><span lang=EN-US style='color:
+  FMS</span><span style='font-family:ËÎÌå;color:black'>£¨</span><span lang=EN-US
+  style='color:black'>Adobe Media Server</span><span style='font-family:ËÎÌå;
+  color:black'>Ç°Éí£©£¬</span><span lang=EN-US style='color:black'><br>
+  </span><span style='font-family:ËÎÌå;color:black'>¾ÍÊÇ</span><span lang=EN-US
+  style='color:black'>Flash Media Server</span><span style='font-family:ËÎÌå;
+  color:black'>µÄ¼òÐ´£¬¿É¼û</span><span lang=EN-US style='color:black'>Flash</span><span
+  style='font-family:ËÎÌå;color:black'>²¥·Å</span><span lang=EN-US
+  style='color:black'>RTMP</span><span style='font-family:ËÎÌå;color:black'>ÊÇ¶àÃ´</span><span
+  lang=EN-US style='color:black'>¡°</span><span style='font-family:ËÎÌå;
+  color:black'>Ô­Éú</span><span lang=EN-US style='color:black'>¡±</span><span
+  style='font-family:ËÎÌå;color:black'>£¬</span><span lang=EN-US style='color:
   black'><br>
-  </span><span style='font-family:å®‹ä½“;color:black'>å°±åƒæµè§ˆå™¨æ‰“å¼€</span><span
-  lang=EN-US style='color:black'>http</span><span style='font-family:å®‹ä½“;
-  color:black'>ç½‘é¡µä¸€æ ·</span><span lang=EN-US style='color:black'>â€œ</span><span
-  style='font-family:å®‹ä½“;color:black'>åŽŸç”Ÿ</span><span lang=EN-US
-  style='color:black'>â€</span><span style='font-family:å®‹ä½“;color:black'>ï¼Œ</span><span
+  </span><span style='font-family:ËÎÌå;color:black'>¾ÍÏñä¯ÀÀÆ÷´ò¿ª</span><span
+  lang=EN-US style='color:black'>http</span><span style='font-family:ËÎÌå;
+  color:black'>ÍøÒ³Ò»Ñù</span><span lang=EN-US style='color:black'>¡°</span><span
+  style='font-family:ËÎÌå;color:black'>Ô­Éú</span><span lang=EN-US
+  style='color:black'>¡±</span><span style='font-family:ËÎÌå;color:black'>£¬</span><span
   lang=EN-US style='color:black'><br>
-  </span><span style='font-family:å®‹ä½“;color:black'>ç»æµ‹è¯•ï¼Œ</span><span lang=EN-US
-  style='color:black'>Flash</span><span style='font-family:å®‹ä½“;color:black'>æ’­æ”¾</span><span
-  lang=EN-US style='color:black'>RTMP</span><span style='font-family:å®‹ä½“;
-  color:black'>æµå¯ä»¥</span><span lang=EN-US style='color:black'>10</span><span
-  style='font-family:å®‹ä½“;color:black'>å¤©ä»¥ä¸Šä¸é—´æ–­æ’­æ”¾ã€‚</span></p>
+  </span><span style='font-family:ËÎÌå;color:black'>¾­²âÊÔ£¬</span><span lang=EN-US
+  style='color:black'>Flash</span><span style='font-family:ËÎÌå;color:black'>²¥·Å</span><span
+  lang=EN-US style='color:black'>RTMP</span><span style='font-family:ËÎÌå;
+  color:black'>Á÷¿ÉÒÔ</span><span lang=EN-US style='color:black'>10</span><span
+  style='font-family:ËÎÌå;color:black'>ÌìÒÔÉÏ²»¼ä¶Ï²¥·Å¡£</span></p>
   </td>
  </tr>
  <tr>
@@ -2351,29 +4044,29 @@ lang=EN-US>RTMP+HLS</span>åˆ†å‘ï¼Œæ»¡æ€»å„ç§åº”ç”¨åœºæ™¯ã€‚ç‚¹æ’­ä»¥<span lan
   Google</span></p>
   </td>
   <td style='background:#8DB3E2;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>å»¶æ—¶ä¸€ä¸ªåˆ‡ç‰‡ä»¥ä¸Šï¼ˆä¸€èˆ¬</span><span
-  lang=EN-US style='color:black'>10</span><span style='font-family:å®‹ä½“;
-  color:black'>ç§’ä»¥ä¸Šï¼‰ï¼Œ</span><span lang=EN-US style='color:black'><br>
-  Apple</span><span style='font-family:å®‹ä½“;color:black'>å¹³å°ä¸Š</span><span
-  lang=EN-US style='color:black'>HLS</span><span style='font-family:å®‹ä½“;
-  color:black'>çš„æ•ˆæžœæ¯”</span><span lang=EN-US style='color:black'>PC</span><span
-  style='font-family:å®‹ä½“;color:black'>çš„</span><span lang=EN-US style='color:
-  black'>RTMP</span><span style='font-family:å®‹ä½“;color:black'>è¿˜è¦å¥½ï¼Œ</span><span
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÑÓÊ±Ò»¸öÇÐÆ¬ÒÔÉÏ£¨Ò»°ã</span><span
+  lang=EN-US style='color:black'>10</span><span style='font-family:ËÎÌå;
+  color:black'>ÃëÒÔÉÏ£©£¬</span><span lang=EN-US style='color:black'><br>
+  Apple</span><span style='font-family:ËÎÌå;color:black'>Æ½Ì¨ÉÏ</span><span
+  lang=EN-US style='color:black'>HLS</span><span style='font-family:ËÎÌå;
+  color:black'>µÄÐ§¹û±È</span><span lang=EN-US style='color:black'>PC</span><span
+  style='font-family:ËÎÌå;color:black'>µÄ</span><span lang=EN-US style='color:
+  black'>RTMP</span><span style='font-family:ËÎÌå;color:black'>»¹ÒªºÃ£¬</span><span
   lang=EN-US style='color:black'><br>
-  </span><span style='font-family:å®‹ä½“;color:black'>è€Œä¸”</span><span lang=EN-US
-  style='color:black'>Apple</span><span style='font-family:å®‹ä½“;color:black'>æ‰€æœ‰è®¾å¤‡éƒ½æ”¯æŒï¼Œ</span><span
+  </span><span style='font-family:ËÎÌå;color:black'>¶øÇÒ</span><span lang=EN-US
+  style='color:black'>Apple</span><span style='font-family:ËÎÌå;color:black'>ËùÓÐÉè±¸¶¼Ö§³Ö£¬</span><span
   lang=EN-US style='color:black'><br>
-  Android</span><span style='font-family:å®‹ä½“;color:black'>æœ€åˆä¸æ”¯æŒ</span><span
-  lang=EN-US style='color:black'>HLS</span><span style='font-family:å®‹ä½“;
-  color:black'>ï¼ŒåŽæ¥ä¹Ÿæ”¯æŒäº†ï¼Œ</span><span lang=EN-US style='color:black'><br>
-  </span><span style='font-family:å®‹ä½“;color:black'>ä½†æµ‹è¯•å‘çŽ°æ”¯æŒå¾—è¿˜ä¸å¦‚</span><span
-  lang=EN-US style='color:black'>Apple</span><span style='font-family:å®‹ä½“;
-  color:black'>ï¼Œ</span><span lang=EN-US style='color:black'><br>
-  </span><span style='font-family:å®‹ä½“;color:black'>ä¸è¿‡è§‚çœ‹æ˜¯æ²¡æœ‰é—®é¢˜ï¼Œç¨³å®šæ€§ç¨å·®ï¼Œ</span><span
+  Android</span><span style='font-family:ËÎÌå;color:black'>×î³õ²»Ö§³Ö</span><span
+  lang=EN-US style='color:black'>HLS</span><span style='font-family:ËÎÌå;
+  color:black'>£¬ºóÀ´Ò²Ö§³ÖÁË£¬</span><span lang=EN-US style='color:black'><br>
+  </span><span style='font-family:ËÎÌå;color:black'>µ«²âÊÔ·¢ÏÖÖ§³ÖµÃ»¹²»Èç</span><span
+  lang=EN-US style='color:black'>Apple</span><span style='font-family:ËÎÌå;
+  color:black'>£¬</span><span lang=EN-US style='color:black'><br>
+  </span><span style='font-family:ËÎÌå;color:black'>²»¹ý¹Û¿´ÊÇÃ»ÓÐÎÊÌâ£¬ÎÈ¶¨ÐÔÉÔ²î£¬</span><span
   lang=EN-US style='color:black'><br>
-  </span><span style='font-family:å®‹ä½“;color:black'>æ‰€ä»¥æœ‰äº›å…¬å¸ä¸“é—¨åš</span><span
-  lang=EN-US style='color:black'>Android</span><span style='font-family:å®‹ä½“;
-  color:black'>ä¸Šçš„æµåª’ä½“æ’­æ”¾å™¨ã€‚</span></p>
+  </span><span style='font-family:ËÎÌå;color:black'>ËùÒÔÓÐÐ©¹«Ë¾×¨ÃÅ×ö</span><span
+  lang=EN-US style='color:black'>Android</span><span style='font-family:ËÎÌå;
+  color:black'>ÉÏµÄÁ÷Ã½Ìå²¥·ÅÆ÷¡£</span></p>
   </td>
  </tr>
  <tr>
@@ -2391,14 +4084,14 @@ lang=EN-US>RTMP+HLS</span>åˆ†å‘ï¼Œæ»¡æ€»å„ç§åº”ç”¨åœºæ™¯ã€‚ç‚¹æ’­ä»¥<span lan
   </td>
   <td style='background:#8DB3E2;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span lang=EN-US style='color:black'>Adobe</span><span
-  style='font-family:å®‹ä½“;color:black'>è‡ªå·±çš„</span><span lang=EN-US
-  style='color:black'>HLS</span><span style='font-family:å®‹ä½“;color:black'>ï¼Œ</span><span
+  style='font-family:ËÎÌå;color:black'>×Ô¼ºµÄ</span><span lang=EN-US
+  style='color:black'>HLS</span><span style='font-family:ËÎÌå;color:black'>£¬</span><span
   lang=EN-US style='color:black'><br>
-  </span><span style='font-family:å®‹ä½“;color:black'>åè®®æ–¹é¢åšå¾—æ˜¯å¤æ‚è€Œä¸”æ²¡æœ‰ä»€ä¹ˆå¥½å¤„ï¼Œ</span><span
+  </span><span style='font-family:ËÎÌå;color:black'>Ð­Òé·½Ãæ×öµÃÊÇ¸´ÔÓ¶øÇÒÃ»ÓÐÊ²Ã´ºÃ´¦£¬</span><span
   lang=EN-US style='color:black'><br>
-  </span><span style='font-family:å®‹ä½“;color:black'>å›½å†…æ²¡æœ‰ä»€ä¹ˆåº”ç”¨ï¼Œä¼ è¯´å›½å¤–æœ‰ï¼Œ</span><span
+  </span><span style='font-family:ËÎÌå;color:black'>¹úÄÚÃ»ÓÐÊ²Ã´Ó¦ÓÃ£¬´«Ëµ¹úÍâÓÐ£¬</span><span
   lang=EN-US style='color:black'><br>
-  SRS2.0</span><span style='font-family:å®‹ä½“;color:black'>ä»¥åŽå·²ç»æ”¯æŒã€‚</span></p>
+  SRS2.0</span><span style='font-family:ËÎÌå;color:black'>ÒÔºóÒÑ¾­Ö§³Ö¡£</span></p>
   </td>
  </tr>
  <tr>
@@ -2417,16 +4110,16 @@ lang=EN-US>RTMP+HLS</span>åˆ†å‘ï¼Œæ»¡æ€»å„ç§åº”ç”¨åœºæ™¯ã€‚ç‚¹æ’­ä»¥<span lan
   </td>
   <td style='background:#8DB3E2;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span lang=EN-US style='color:black'>Dynamic Adaptive
-  Streaming over HTTP (DASH)</span><span style='font-family:å®‹ä½“;color:black'>ï¼Œ</span><span
+  Streaming over HTTP (DASH)</span><span style='font-family:ËÎÌå;color:black'>£¬</span><span
   lang=EN-US style='color:black'><br>
-  </span><span style='font-family:å®‹ä½“;color:black'>ä¸€äº›å…¬å¸æå‡ºçš„</span><span
-  lang=EN-US style='color:black'>HLS</span><span style='font-family:å®‹ä½“;
-  color:black'>ï¼Œ</span><span lang=EN-US style='color:black'><br>
-  </span><span style='font-family:å®‹ä½“;color:black'>å›½å†…è¿˜æ²¡æœ‰åº”ç”¨ï¼Œå›½å¤–æ®è¯´æœ‰ç”¨äº†ï¼Œ</span><span
+  </span><span style='font-family:ËÎÌå;color:black'>Ò»Ð©¹«Ë¾Ìá³öµÄ</span><span
+  lang=EN-US style='color:black'>HLS</span><span style='font-family:ËÎÌå;
+  color:black'>£¬</span><span lang=EN-US style='color:black'><br>
+  </span><span style='font-family:ËÎÌå;color:black'>¹úÄÚ»¹Ã»ÓÐÓ¦ÓÃ£¬¹úÍâ¾ÝËµÓÐÓÃÁË£¬</span><span
   lang=EN-US style='color:black'><br>
-  nginx-rtmp</span><span style='font-family:å®‹ä½“;color:black'>å¥½åƒå·²ç»æ”¯æŒäº†ï¼Œ</span><span
+  nginx-rtmp</span><span style='font-family:ËÎÌå;color:black'>ºÃÏñÒÑ¾­Ö§³ÖÁË£¬</span><span
   lang=EN-US style='color:black'><br>
-  </span><span style='font-family:å®‹ä½“;color:black'>æ˜Žæ˜¾è¿™ä¸ªè¿˜ä¸æˆç†Ÿã€‚</span></p>
+  </span><span style='font-family:ËÎÌå;color:black'>Ã÷ÏÔÕâ¸ö»¹²»³ÉÊì¡£</span></p>
   </td>
  </tr>
 </table>
@@ -2434,14 +4127,14 @@ lang=EN-US>RTMP+HLS</span>åˆ†å‘ï¼Œæ»¡æ€»å„ç§åº”ç”¨åœºæ™¯ã€‚ç‚¹æ’­ä»¥<span lan
 <h4><a name="_Toc462219451"><span lang=EN-US>HLS Introduction</span></a></h4>
 
 <p><span lang=EN-US style='font-size:10.5pt'>HLS</span><span style='font-size:
-10.5pt'>æ˜¯æä¾›ä¸€ä¸ª<span lang=EN-US>m3u8</span>åœ°å€ï¼Œ<span lang=EN-US>Apple</span>çš„<span
-lang=EN-US>Safari</span>æµè§ˆå™¨ç›´æŽ¥å°±èƒ½æ‰“å¼€<span lang=EN-US>m3u8</span>åœ°å€ï¼Œè­¬å¦‚ï¼š</span></p>
+10.5pt'>ÊÇÌá¹©Ò»¸ö<span lang=EN-US>m3u8</span>µØÖ·£¬<span lang=EN-US>Apple</span>µÄ<span
+lang=EN-US>Safari</span>ä¯ÀÀÆ÷Ö±½Ó¾ÍÄÜ´ò¿ª<span lang=EN-US>m3u8</span>µØÖ·£¬Æ©Èç£º</span></p>
 
 <pre><span lang=EN-US style='font-size:10.5pt'>http://demo.srs.com/live/livestream.m3u8</span></pre>
 
 <p><span lang=EN-US style='font-size:10.5pt'>Android</span><span
-style='font-size:10.5pt'>ä¸èƒ½ç›´æŽ¥æ‰“å¼€ï¼Œéœ€è¦ä½¿ç”¨<span lang=EN-US>html5</span>çš„<span
-lang=EN-US>video</span>æ ‡ç­¾ï¼Œç„¶åŽåœ¨æµè§ˆå™¨ä¸­æ‰“å¼€è¿™ä¸ªé¡µé¢å³å¯ï¼Œè­¬å¦‚ï¼š</span></p>
+style='font-size:10.5pt'>²»ÄÜÖ±½Ó´ò¿ª£¬ÐèÒªÊ¹ÓÃ<span lang=EN-US>html5</span>µÄ<span
+lang=EN-US>video</span>±êÇ©£¬È»ºóÔÚä¯ÀÀÆ÷ÖÐ´ò¿ªÕâ¸öÒ³Ãæ¼´¿É£¬Æ©Èç£º</span></p>
 
 <pre><span class=pl-c><span lang=EN-US style='font-size:10.5pt'>&lt;!-- livestream.html --&gt;</span></span></pre><pre><span
 lang=EN-US style='font-size:10.5pt'>&lt;<span class=pl-ent>video</span> <span
@@ -2459,10 +4152,10 @@ class=pl-pds>&quot;</span>&gt;</span></pre><pre><span lang=EN-US
 style='font-size:10.5pt'>&lt;/<span class=pl-ent>video</span>&gt;</span></pre>
 
 <p><span lang=EN-US style='font-size:10.5pt'>HLS</span><span style='font-size:
-10.5pt'>çš„</span><span lang=EN-US><a
+10.5pt'>µÄ</span><span lang=EN-US><a
 href="https://github.com/ossrs/srs/blob/master/trunk/doc/hls-m3u8-draft-pantos-http-live-streaming-12.txt"><span
-style='font-size:10.5pt'>m3u8</span></a></span><span style='font-size:10.5pt'>ï¼Œæ˜¯ä¸€ä¸ª<span
-lang=EN-US>ts</span>çš„åˆ—è¡¨ï¼Œä¹Ÿå°±æ˜¯å‘Šè¯‰æµè§ˆå™¨å¯ä»¥æ’­æ”¾è¿™äº›<span lang=EN-US>ts</span>æ–‡ä»¶ï¼Œè­¬å¦‚ï¼š</span></p>
+style='font-size:10.5pt'>m3u8</span></a></span><span style='font-size:10.5pt'>£¬ÊÇÒ»¸ö<span
+lang=EN-US>ts</span>µÄÁÐ±í£¬Ò²¾ÍÊÇ¸æËßä¯ÀÀÆ÷¿ÉÒÔ²¥·ÅÕâÐ©<span lang=EN-US>ts</span>ÎÄ¼þ£¬Æ©Èç£º</span></p>
 
 <pre><span class=pl-c><span lang=EN-US style='font-size:10.5pt'>#EXTM3U</span></span></pre><pre><span
 class=pl-c><span lang=EN-US style='font-size:10.5pt'>#EXT-X-VERSION:3</span></span></pre><pre><span
@@ -2477,128 +4170,128 @@ lang=EN-US style='font-size:10.5pt'>livestream-66.ts</span></pre><pre><span
 class=pl-c><span lang=EN-US style='font-size:10.5pt'>#EXTINF:6.850</span></span></pre><pre><span
 lang=EN-US style='font-size:10.5pt'>livestream-67.ts</span></pre>
 
-<p><span style='font-size:10.5pt'>æœ‰å‡ ä¸ªå…³é”®çš„å‚æ•°ï¼Œè¿™äº›å‚æ•°åœ¨<span lang=EN-US>SRS</span>çš„é…ç½®æ–‡ä»¶ä¸­éƒ½æœ‰é…ç½®é¡¹ï¼š</span></p>
+<p><span style='font-size:10.5pt'>ÓÐ¼¸¸ö¹Ø¼üµÄ²ÎÊý£¬ÕâÐ©²ÎÊýÔÚ<span lang=EN-US>SRS</span>µÄÅäÖÃÎÄ¼þÖÐ¶¼ÓÐÅäÖÃÏî£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>EXT-X-TARGETDURATION</span><span
-     style='font-family:å®‹ä½“'>ï¼šæ‰€æœ‰åˆ‡ç‰‡çš„æœ€å¤§æ—¶é•¿ã€‚æœ‰äº›</span><span lang=EN-US>Apple</span><span
-     style='font-family:å®‹ä½“'>è®¾å¤‡è¿™ä¸ªå‚æ•°ä¸æ­£ç¡®ä¼šæ— æ³•æ’­æ”¾ã€‚</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>ä¼šè‡ªåŠ¨è®¡ç®—å‡º</span><span lang=EN-US>ts</span><span
-     style='font-family:å®‹ä½“'>æ–‡ä»¶çš„æœ€å¤§æ—¶é•¿ï¼Œç„¶åŽæ›´æ–°</span><span lang=EN-US>m3u8</span><span
-     style='font-family:å®‹ä½“'>æ—¶ä¼šè‡ªåŠ¨æ›´æ–°è¿™ä¸ªå€¼ã€‚ç”¨æˆ·ä¸å¿…è‡ªå·±é…ç½®ã€‚</span></li>
+     style='font-family:ËÎÌå'>£ºËùÓÐÇÐÆ¬µÄ×î´óÊ±³¤¡£ÓÐÐ©</span><span lang=EN-US>Apple</span><span
+     style='font-family:ËÎÌå'>Éè±¸Õâ¸ö²ÎÊý²»ÕýÈ·»áÎÞ·¨²¥·Å¡£</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>»á×Ô¶¯¼ÆËã³ö</span><span lang=EN-US>ts</span><span
+     style='font-family:ËÎÌå'>ÎÄ¼þµÄ×î´óÊ±³¤£¬È»ºó¸üÐÂ</span><span lang=EN-US>m3u8</span><span
+     style='font-family:ËÎÌå'>Ê±»á×Ô¶¯¸üÐÂÕâ¸öÖµ¡£ÓÃ»§²»±Ø×Ô¼ºÅäÖÃ¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>EXTINF</span><span
-     style='font-family:å®‹ä½“'>ï¼š</span><span lang=EN-US>ts</span><span
-     style='font-family:å®‹ä½“'>åˆ‡ç‰‡çš„å®žé™…æ—¶é•¿ï¼Œ</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>æä¾›é…ç½®é¡¹</span><span lang=EN-US>hls_fragment</span><span
-     style='font-family:å®‹ä½“'>ï¼Œä½†å®žé™…ä¸Šçš„</span><span lang=EN-US>ts</span><span
-     style='font-family:å®‹ä½“'>æ—¶é•¿è¿˜å—</span><span lang=EN-US>gop</span><span
-     style='font-family:å®‹ä½“'>å½±å“ï¼Œè¯¦è§ä¸‹é¢é…ç½®</span><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>çš„è¯´æ˜Žã€‚</span></li>
+     style='font-family:ËÎÌå'>£º</span><span lang=EN-US>ts</span><span
+     style='font-family:ËÎÌå'>ÇÐÆ¬µÄÊµ¼ÊÊ±³¤£¬</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>Ìá¹©ÅäÖÃÏî</span><span lang=EN-US>hls_fragment</span><span
+     style='font-family:ËÎÌå'>£¬µ«Êµ¼ÊÉÏµÄ</span><span lang=EN-US>ts</span><span
+     style='font-family:ËÎÌå'>Ê±³¤»¹ÊÜ</span><span lang=EN-US>gop</span><span
+     style='font-family:ËÎÌå'>Ó°Ïì£¬Ïê¼ûÏÂÃæÅäÖÃ</span><span lang=EN-US>HLS</span><span
+     style='font-family:ËÎÌå'>µÄËµÃ÷¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>ts</span><span
-     style='font-family:å®‹ä½“'>æ–‡ä»¶çš„æ•°ç›®ï¼š</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>å¯é…ç½®</span><span lang=EN-US>hls_window</span><span
-     style='font-family:å®‹ä½“'>ï¼ŒæŒ‡å®š</span><span lang=EN-US>m3u8</span><span
-     style='font-family:å®‹ä½“'>ä¸­ä¿å­˜å¤šå°‘ä¸ªåˆ‡ç‰‡ï¼Œ</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>ä¼šè‡ªåŠ¨æ¸…ç†æ—§çš„åˆ‡ç‰‡ã€‚</span></li>
+     style='font-family:ËÎÌå'>ÎÄ¼þµÄÊýÄ¿£º</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>¿ÉÅäÖÃ</span><span lang=EN-US>hls_window</span><span
+     style='font-family:ËÎÌå'>£¬Ö¸¶¨</span><span lang=EN-US>m3u8</span><span
+     style='font-family:ËÎÌå'>ÖÐ±£´æ¶àÉÙ¸öÇÐÆ¬£¬</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>»á×Ô¶¯ÇåÀí¾ÉµÄÇÐÆ¬¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>livestream-67.ts</span><span
-     style='font-family:å®‹ä½“'>ï¼š</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>ä¼šè‡ªåŠ¨ç»´æŠ¤</span><span lang=EN-US>ts</span><span
-     style='font-family:å®‹ä½“'>åˆ‡ç‰‡çš„æ–‡ä»¶åï¼Œåœ¨ç¼–ç å™¨é‡æŽ¨ä¹‹åŽï¼Œè¿™ä¸ªç¼–å·ä¼šç»§ç»­å¢žé•¿ï¼Œä¿è¯æµçš„è¿žç»­æ€§ã€‚ç›´åˆ°</span><span
-     lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>é‡å¯ï¼Œè¿™ä¸ªç¼–å·æ‰é‡ç½®ä¸º</span><span
-     lang=EN-US>0</span><span style='font-family:å®‹ä½“'>ã€‚</span></li>
+     style='font-family:ËÎÌå'>£º</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>»á×Ô¶¯Î¬»¤</span><span lang=EN-US>ts</span><span
+     style='font-family:ËÎÌå'>ÇÐÆ¬µÄÎÄ¼þÃû£¬ÔÚ±àÂëÆ÷ÖØÍÆÖ®ºó£¬Õâ¸ö±àºÅ»á¼ÌÐøÔö³¤£¬±£Ö¤Á÷µÄÁ¬ÐøÐÔ¡£Ö±µ½</span><span
+     lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>ÖØÆô£¬Õâ¸ö±àºÅ²ÅÖØÖÃÎª</span><span
+     lang=EN-US>0</span><span style='font-family:ËÎÌå'>¡£</span></li>
 </ul>
 
-<p><span style='font-size:10.5pt'>è­¬å¦‚ï¼Œæ¯ä¸ª<span lang=EN-US>ts</span>åˆ‡ç‰‡ä¸º<span
-lang=EN-US>10</span>ç§’ï¼Œçª—å£ä¸º<span lang=EN-US>60</span>ç§’ï¼Œé‚£ä¹ˆ<span lang=EN-US>m3u8</span>ä¸­ä¼šä¿å­˜<span
-lang=EN-US>6</span>ä¸ª<span lang=EN-US>ts</span>åˆ‡ç‰‡ã€‚</span></p>
+<p><span style='font-size:10.5pt'>Æ©Èç£¬Ã¿¸ö<span lang=EN-US>ts</span>ÇÐÆ¬Îª<span
+lang=EN-US>10</span>Ãë£¬´°¿ÚÎª<span lang=EN-US>60</span>Ãë£¬ÄÇÃ´<span lang=EN-US>m3u8</span>ÖÐ»á±£´æ<span
+lang=EN-US>6</span>¸ö<span lang=EN-US>ts</span>ÇÐÆ¬¡£</span></p>
 
 <h4><a name="_Toc462219452"><span lang=EN-US>HLS Workflow</span></a></h4>
 
 <p><span lang=EN-US style='font-size:10.5pt'>HLS</span><span style='font-size:
-10.5pt'>çš„ä¸»è¦æµç¨‹æ˜¯ï¼š</span></p>
+10.5pt'>µÄÖ÷ÒªÁ÷³ÌÊÇ£º</span></p>
 
 <ol start=1 type=1>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>FFMPEG</span><span
-     style='font-family:å®‹ä½“'>æˆ–</span><span lang=EN-US>FMLE</span><span
-     style='font-family:å®‹ä½“'>æˆ–ç¼–ç å™¨ï¼ŒæŽ¨é€</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>æµåˆ°</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>ï¼Œç¼–ç ä¸º</span><span lang=EN-US>H264/AAC</span><span
-     style='font-family:å®‹ä½“'>ï¼ˆå…¶ä»–ç¼–ç éœ€è¦</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>è½¬ç ï¼‰</span></li>
+     style='font-family:ËÎÌå'>»ò</span><span lang=EN-US>FMLE</span><span
+     style='font-family:ËÎÌå'>»ò±àÂëÆ÷£¬ÍÆËÍ</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>Á÷µ½</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>£¬±àÂëÎª</span><span lang=EN-US>H264/AAC</span><span
+     style='font-family:ËÎÌå'>£¨ÆäËû±àÂëÐèÒª</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>×ªÂë£©</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>å°†</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>åˆ‡ç‰‡æˆ</span><span lang=EN-US>TS</span><span
-     style='font-family:å®‹ä½“'>ï¼Œå¹¶ç”Ÿæˆ</span><span lang=EN-US>M3U8</span><span
-     style='font-family:å®‹ä½“'>ã€‚è‹¥æµéž</span><span lang=EN-US>H264</span><span
-     style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN-US>AAC</span><span
-     style='font-family:å®‹ä½“'>ï¼Œåˆ™åœæ­¢è¾“å‡º</span><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>ï¼ˆå¯ä½¿ç”¨</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>è½¬ç åˆ°</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>å…¶ä»–</span><span lang=EN-US>vhost</span><span
-     style='font-family:å®‹ä½“'>æˆ–æµï¼Œç„¶åŽå†åˆ‡</span><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>ï¼‰ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>è®¿é—®</span><span
-     lang=EN-US>m3u8</span><span style='font-family:å®‹ä½“'>ï¼Œ</span><span
-     lang=EN-US>srs</span><span style='font-family:å®‹ä½“'>å†…ç½®çš„</span><span
-     lang=EN-US>http</span><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨ï¼ˆæˆ–è€…é€šç”¨</span><span
-     lang=EN-US>http</span><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨ï¼‰æä¾›</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>æœåŠ¡ã€‚</span></li>
+     style='font-family:ËÎÌå'>½«</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>ÇÐÆ¬³É</span><span lang=EN-US>TS</span><span
+     style='font-family:ËÎÌå'>£¬²¢Éú³É</span><span lang=EN-US>M3U8</span><span
+     style='font-family:ËÎÌå'>¡£ÈôÁ÷·Ç</span><span lang=EN-US>H264</span><span
+     style='font-family:ËÎÌå'>ºÍ</span><span lang=EN-US>AAC</span><span
+     style='font-family:ËÎÌå'>£¬ÔòÍ£Ö¹Êä³ö</span><span lang=EN-US>HLS</span><span
+     style='font-family:ËÎÌå'>£¨¿ÉÊ¹ÓÃ</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>×ªÂëµ½</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>ÆäËû</span><span lang=EN-US>vhost</span><span
+     style='font-family:ËÎÌå'>»òÁ÷£¬È»ºóÔÙÇÐ</span><span lang=EN-US>HLS</span><span
+     style='font-family:ËÎÌå'>£©¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>·ÃÎÊ</span><span
+     lang=EN-US>m3u8</span><span style='font-family:ËÎÌå'>£¬</span><span
+     lang=EN-US>srs</span><span style='font-family:ËÎÌå'>ÄÚÖÃµÄ</span><span
+     lang=EN-US>http</span><span style='font-family:ËÎÌå'>·þÎñÆ÷£¨»òÕßÍ¨ÓÃ</span><span
+     lang=EN-US>http</span><span style='font-family:ËÎÌå'>·þÎñÆ÷£©Ìá¹©</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>·þÎñ¡£</span></li>
 </ol>
 
-<p><span style='font-size:10.5pt'>æ³¨æ„ï¼š<span lang=EN-US>SRS</span>åªéœ€è¦åœ¨<span
-lang=EN-US>Vhost</span>ä¸Šé…ç½®<span lang=EN-US>HLS</span>ï¼Œä¼šè‡ªåŠ¨æ ¹æ®æµçš„<span lang=EN-US>app</span>åˆ›å»ºç›®å½•ï¼Œä½†æ˜¯é…ç½®çš„<span
-lang=EN-US>hls_path</span>å¿…é¡»è‡ªå·±åˆ›å»º</span></p>
+<p><span style='font-size:10.5pt'>×¢Òâ£º<span lang=EN-US>SRS</span>Ö»ÐèÒªÔÚ<span
+lang=EN-US>Vhost</span>ÉÏÅäÖÃ<span lang=EN-US>HLS</span>£¬»á×Ô¶¯¸ù¾ÝÁ÷µÄ<span lang=EN-US>app</span>´´½¨Ä¿Â¼£¬µ«ÊÇÅäÖÃµÄ<span
+lang=EN-US>hls_path</span>±ØÐë×Ô¼º´´½¨</span></p>
 
 <h4><a name="_Toc462219453"><span lang=EN-US>Wiki</span></a></h4>
 
 <p class=MsoNormal><span lang=EN-US><a
 href="https://github.com/ossrs/srs/wiki/v1_CN_DeliveryHLS">https://github.com/ossrs/srs/wiki/v1_CN_DeliveryHLS</a></span></p>
 
-<h4><a name="_Toc462219454"><span style='font-family:å®‹ä½“'>è¡¥å……</span><span
-lang=EN-US>:</span></a><span style='font-family:å®‹ä½“'>ç›´æ’­æ—¶ç§»</span></h4>
+<h4><a name="_Toc462219454"><span style='font-family:ËÎÌå'>²¹³ä</span><span
+lang=EN-US>:</span></a><span style='font-family:ËÎÌå'>Ö±²¥Ê±ÒÆ</span></h4>
 
-<p class=MsoNormal style='text-indent:15.75pt'><span style='font-family:å®‹ä½“'>ä½¿ç”¨</span><span
-lang=EN-US>hls</span><span style='font-family:å®‹ä½“'>å¯ä»¥å®žçŽ°æ—¶ç§»å›žçœ‹åŠŸèƒ½ã€‚æ—¶ç§»å›žçœ‹åŠŸèƒ½å®žé™…</span><span
-lang=EN-US>m3u8</span><span style='font-family:å®‹ä½“'>æ–‡ä»¶è¿˜æ˜¯æŒ‰ç›´æ’­çš„æ–¹å¼ï¼Œåªä¸è¿‡é‡Œé¢çš„</span><span
-lang=EN-US>ts</span><span style='font-family:å®‹ä½“'>ç‰‡æ®µæ’­æ”¾åˆ—è¡¨ï¼Œä¸æ˜¯ä»Žç›´æ’­å®žæ—¶æµç”Ÿæˆï¼Œè€Œæ˜¯ä»ŽåŽ†å²</span><span
-lang=EN-US>ts</span><span style='font-family:å®‹ä½“'>æ–‡ä»¶ä¸­æ¥ç”Ÿæˆæ’­æ”¾åˆ—è¡¨ã€‚ç›´æ’­ç”Ÿæˆçš„</span><span
-lang=EN-US>ts</span><span style='font-family:å®‹ä½“'>ç‰‡æ®µï¼Œéœ€è¦æŒ‰æ—¶é—´ç›®å½•å­˜æ”¾ï¼Œæ¯”å¦‚</span><span
-lang=EN-US>2016071209</span><span style='font-family:å®‹ä½“'>ç›®å½•å­˜æ”¾</span><span
-lang=EN-US>9</span><span style='font-family:å®‹ä½“'>ç‚¹å†…ç”Ÿæˆæ‰€æœ‰</span><span lang=EN-US>ts</span><span
-style='font-family:å®‹ä½“'>ç‰‡æ®µï¼Œ</span><span lang=EN-US>ts</span><span
-style='font-family:å®‹ä½“'>æ–‡ä»¶éœ€è¦æŒ‰æ ¼å¼</span><span lang=EN-US>:</span><span
-style='font-family:å®‹ä½“'>â€œæ—¶é—´æˆ³</span><span lang=EN-US>_Ts</span><span
-style='font-family:å®‹ä½“'>ç‰‡é•¿</span><span lang=EN-US>.tsâ€</span><span
-style='font-family:å®‹ä½“'>æ¥å­˜æ”¾ã€‚æ—¶ç§»å›žçœ‹æ—¶æ ¹æ®æŒ‡å®šæ—¶é—´æœç´¢</span><span lang=EN-US>ts</span><span
-style='font-family:å®‹ä½“'>æ–‡ä»¶ç‰‡æ®µï¼Œç”Ÿæˆç›´æ’­</span><span lang=EN-US>m3u8</span><span
-style='font-family:å®‹ä½“'>æ–‡ä»¶ã€‚</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>å¯ä»¥ä½¿ç”¨</span><span lang=EN-US>on_hls</span><span
-style='font-family:å®‹ä½“'>äº‹ä»¶æ¥å¯¹ç›´æ’­æµç”Ÿæˆ</span><span lang=EN-US>ts</span><span
-style='font-family:å®‹ä½“'>æ–‡ä»¶æŒ‰æ—¶é—´ç›®å½•ä¸‹è½¬å­˜ï¼Œä¹Ÿå¯ä»¥é€šè¿›è„šæœ¬è§£æž</span><span lang=EN-US>srs</span><span
-style='font-family:å®‹ä½“'>ç”Ÿæˆçš„ç›´æ’­</span><span lang=EN-US>m3u8</span><span
-style='font-family:å®‹ä½“'>æ–‡ä»¶æ¥è½¬å­˜</span><span lang=EN-US>ts</span><span
-style='font-family:å®‹ä½“'>ç‰‡æ®µã€‚åŽä¸€ç§æ–¹æ³•ä¹Ÿå¯ä»¥é€‚ç”¨äºŽ</span><span lang=EN-US>nginx rtmp </span><span
-style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>hls</span><span
-style='font-family:å®‹ä½“'>ä¸­ã€‚</span></p>
+<p class=MsoNormal style='text-indent:15.75pt'><span style='font-family:ËÎÌå'>Ê¹ÓÃ</span><span
+lang=EN-US>hls</span><span style='font-family:ËÎÌå'>¿ÉÒÔÊµÏÖÊ±ÒÆ»Ø¿´¹¦ÄÜ¡£Ê±ÒÆ»Ø¿´¹¦ÄÜÊµ¼Ê</span><span
+lang=EN-US>m3u8</span><span style='font-family:ËÎÌå'>ÎÄ¼þ»¹ÊÇ°´Ö±²¥µÄ·½Ê½£¬Ö»²»¹ýÀïÃæµÄ</span><span
+lang=EN-US>ts</span><span style='font-family:ËÎÌå'>Æ¬¶Î²¥·ÅÁÐ±í£¬²»ÊÇ´ÓÖ±²¥ÊµÊ±Á÷Éú³É£¬¶øÊÇ´ÓÀúÊ·</span><span
+lang=EN-US>ts</span><span style='font-family:ËÎÌå'>ÎÄ¼þÖÐÀ´Éú³É²¥·ÅÁÐ±í¡£Ö±²¥Éú³ÉµÄ</span><span
+lang=EN-US>ts</span><span style='font-family:ËÎÌå'>Æ¬¶Î£¬ÐèÒª°´Ê±¼äÄ¿Â¼´æ·Å£¬±ÈÈç</span><span
+lang=EN-US>2016071209</span><span style='font-family:ËÎÌå'>Ä¿Â¼´æ·Å</span><span
+lang=EN-US>9</span><span style='font-family:ËÎÌå'>µãÄÚÉú³ÉËùÓÐ</span><span lang=EN-US>ts</span><span
+style='font-family:ËÎÌå'>Æ¬¶Î£¬</span><span lang=EN-US>ts</span><span
+style='font-family:ËÎÌå'>ÎÄ¼þÐèÒª°´¸ñÊ½</span><span lang=EN-US>:</span><span
+style='font-family:ËÎÌå'>¡°Ê±¼ä´Á</span><span lang=EN-US>_Ts</span><span
+style='font-family:ËÎÌå'>Æ¬³¤</span><span lang=EN-US>.ts¡±</span><span
+style='font-family:ËÎÌå'>À´´æ·Å¡£Ê±ÒÆ»Ø¿´Ê±¸ù¾ÝÖ¸¶¨Ê±¼äËÑË÷</span><span lang=EN-US>ts</span><span
+style='font-family:ËÎÌå'>ÎÄ¼þÆ¬¶Î£¬Éú³ÉÖ±²¥</span><span lang=EN-US>m3u8</span><span
+style='font-family:ËÎÌå'>ÎÄ¼þ¡£</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>¿ÉÒÔÊ¹ÓÃ</span><span lang=EN-US>on_hls</span><span
+style='font-family:ËÎÌå'>ÊÂ¼þÀ´¶ÔÖ±²¥Á÷Éú³É</span><span lang=EN-US>ts</span><span
+style='font-family:ËÎÌå'>ÎÄ¼þ°´Ê±¼äÄ¿Â¼ÏÂ×ª´æ£¬Ò²¿ÉÒÔÍ¨½ø½Å±¾½âÎö</span><span lang=EN-US>srs</span><span
+style='font-family:ËÎÌå'>Éú³ÉµÄÖ±²¥</span><span lang=EN-US>m3u8</span><span
+style='font-family:ËÎÌå'>ÎÄ¼þÀ´×ª´æ</span><span lang=EN-US>ts</span><span
+style='font-family:ËÎÌå'>Æ¬¶Î¡£ºóÒ»ÖÖ·½·¨Ò²¿ÉÒÔÊÊÓÃÓÚ</span><span lang=EN-US>nginx rtmp </span><span
+style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>hls</span><span
+style='font-family:ËÎÌå'>ÖÐ¡£</span></p>
 
-<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>é€šè¿‡ç›´æ’­æ—¶ç§»ï¼Œç”¨æˆ·å¯ä»¥éšæ—¶å›žåˆ°å½“å‰æ—¶é—´ç‚¹ä¹‹å‰çš„ä»»æ„æ—¶é—´ç‚¹å¼€å§‹å›žçœ‹ã€‚å›žçœ‹çš„æ—¶é—´å¯ä»¥æ ¹æ®è‡ªå·±éœ€æ±‚æ¥å®šï¼Œå¯ä»¥ä¸€å¤©ï¼Œä¸ƒå¤©ï¼Œä¸€ä¸ªæœˆç­‰ã€‚</span></p>
+<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>Í¨¹ýÖ±²¥Ê±ÒÆ£¬ÓÃ»§¿ÉÒÔËæÊ±»Øµ½µ±Ç°Ê±¼äµãÖ®Ç°µÄÈÎÒâÊ±¼äµã¿ªÊ¼»Ø¿´¡£»Ø¿´µÄÊ±¼ä¿ÉÒÔ¸ù¾Ý×Ô¼ºÐèÇóÀ´¶¨£¬¿ÉÒÔÒ»Ìì£¬ÆßÌì£¬Ò»¸öÔÂµÈ¡£</span></p>
 
 <p class=MsoNormal style='text-indent:15.75pt'><span lang=EN-US>&nbsp;</span></p>
 
 <h3><a name="_Toc26097957"></a><a name="_Toc462219455"></a><a
-name="_Toc456260518"><span style='font-family:å®‹ä½“'>è½¬å°è£…æˆ</span><span lang=EN-US>HDS</span></a></h3>
+name="_Toc456260518"><span style='font-family:ËÎÌå'>×ª·â×°³É</span><span lang=EN-US>HDS</span></a></h3>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span><span lang=EN
 style='font-family:"Segoe UI",sans-serif;color:#333333'>HDS</span><span
-style='font-family:å®‹ä½“;color:#333333'>æŒ‡</span><span lang=EN style='font-family:
-"Segoe UI",sans-serif;color:#333333'>Adobe</span><span style='font-family:å®‹ä½“;
-color:#333333'>çš„</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
-color:#333333'>Http Dynamic Stream</span><span style='font-family:å®‹ä½“;
-color:#333333'>ï¼Œå’Œ</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
-color:#333333'>Apple</span><span style='font-family:å®‹ä½“;color:#333333'>çš„</span><span
+style='font-family:ËÎÌå;color:#333333'>Ö¸</span><span lang=EN style='font-family:
+"Segoe UI",sans-serif;color:#333333'>Adobe</span><span style='font-family:ËÎÌå;
+color:#333333'>µÄ</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
+color:#333333'>Http Dynamic Stream</span><span style='font-family:ËÎÌå;
+color:#333333'>£¬ºÍ</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
+color:#333333'>Apple</span><span style='font-family:ËÎÌå;color:#333333'>µÄ</span><span
 lang=EN-US><a href="https://github.com/ossrs/srs/wiki/v2_CN_DeliveryHLS"><span
 lang=EN style='font-family:"Segoe UI",sans-serif;color:#4078C0;text-decoration:
-none'>HLS</span></a></span><span style='font-family:å®‹ä½“;color:#333333'>ç±»ä¼¼ã€‚</span></p>
+none'>HLS</span></a></span><span style='font-family:ËÎÌå;color:#333333'>ÀàËÆ¡£</span></p>
 
 <h4><span lang=EN>&nbsp;<a name="_Toc462219456">Wiki</a></span></h4>
 
@@ -2609,71 +4302,71 @@ style='font-family:"Segoe UI",sans-serif'>https://github.com/ossrs/srs/wiki/v2_C
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
 <h3><a name="_Toc26097958"></a><a name="_Toc462219457"></a><a
-name="_Toc456260519"><span style='font-family:å®‹ä½“'>å½•åˆ¶æˆ</span><span lang=EN-US>FLV</span></a></h3>
+name="_Toc456260519"><span style='font-family:ËÎÌå'>Â¼ÖÆ³É</span><span lang=EN-US>FLV</span></a></h3>
 
 <p class=MsoNoSpacing style='text-indent:15.75pt'><span lang=EN>SRS</span><span
-style='font-family:å®‹ä½“'>å¯ä»¥å°†</span><span lang=EN>RTMP</span><span
-style='font-family:å®‹ä½“'>æµå½•åˆ¶æˆ</span><span lang=EN>flv</span><span
-style='font-family:å®‹ä½“'>æ–‡ä»¶ã€‚</span></p>
+style='font-family:ËÎÌå'>¿ÉÒÔ½«</span><span lang=EN>RTMP</span><span
+style='font-family:ËÎÌå'>Á÷Â¼ÖÆ³É</span><span lang=EN>flv</span><span
+style='font-family:ËÎÌå'>ÎÄ¼þ¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:15.75pt'><span lang=EN>DVR</span><span
-style='font-family:å®‹ä½“'>çš„è®¡åˆ’å³å†³å®šä»€ä¹ˆæ—¶å€™å…³é—­</span><span lang=EN>flv</span><span
-style='font-family:å®‹ä½“'>æ–‡ä»¶ï¼Œæ‰“å¼€æ–°çš„</span><span lang=EN>flv</span><span
-style='font-family:å®‹ä½“'>æ–‡ä»¶ï¼Œä¸»è¦çš„å½•åˆ¶è®¡åˆ’åŒ…æ‹¬ï¼š</span></p>
+style='font-family:ËÎÌå'>µÄ¼Æ»®¼´¾ö¶¨Ê²Ã´Ê±ºò¹Ø±Õ</span><span lang=EN>flv</span><span
+style='font-family:ËÎÌå'>ÎÄ¼þ£¬´ò¿ªÐÂµÄ</span><span lang=EN>flv</span><span
+style='font-family:ËÎÌå'>ÎÄ¼þ£¬Ö÷ÒªµÄÂ¼ÖÆ¼Æ»®°üÀ¨£º</span></p>
 
 <p class=MsoNoSpacing style='text-indent:31.6pt'><b><span lang=EN>session</span></b><b><span
-style='font-family:å®‹ä½“'>ï¼š</span></b><span style='font-family:å®‹ä½“'>æŒ‰ç…§</span><span
-lang=EN>session</span><span style='font-family:å®‹ä½“'>æ¥å…³é—­</span><span lang=EN>flv</span><span
-style='font-family:å®‹ä½“'>æ–‡ä»¶ï¼Œå³ç¼–ç å™¨åœæ­¢æŽ¨æµæ—¶å…³é—­</span><span lang=EN>flv</span><span
-style='font-family:å®‹ä½“'>ï¼Œæ•´ä¸ª</span><span lang=EN>session</span><span
-style='font-family:å®‹ä½“'>å½•åˆ¶ä¸ºä¸€ä¸ª</span><span lang=EN>flv</span><span
-style='font-family:å®‹ä½“'>ã€‚</span></p>
+style='font-family:ËÎÌå'>£º</span></b><span style='font-family:ËÎÌå'>°´ÕÕ</span><span
+lang=EN>session</span><span style='font-family:ËÎÌå'>À´¹Ø±Õ</span><span lang=EN>flv</span><span
+style='font-family:ËÎÌå'>ÎÄ¼þ£¬¼´±àÂëÆ÷Í£Ö¹ÍÆÁ÷Ê±¹Ø±Õ</span><span lang=EN>flv</span><span
+style='font-family:ËÎÌå'>£¬Õû¸ö</span><span lang=EN>session</span><span
+style='font-family:ËÎÌå'>Â¼ÖÆÎªÒ»¸ö</span><span lang=EN>flv</span><span
+style='font-family:ËÎÌå'>¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:31.6pt'><b><span lang=EN>segment</span></b><b><span
-style='font-family:å®‹ä½“'>ï¼š</span></b><span style='font-family:å®‹ä½“'>æŒ‰ç…§æ—¶é—´åˆ†æ®µå½•åˆ¶ï¼Œ</span><span
-lang=EN>flv</span><span style='font-family:å®‹ä½“'>æ–‡ä»¶æ—¶é•¿é…ç½®ä¸º</span><span lang=EN>dvr_duration</span><span
-style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN>dvr_wait_keyframe</span><span
-style='font-family:å®‹ä½“'>ã€‚æ³¨æ„ï¼šè‹¥ä¸æŒ‰å…³é”®å¸§åˆ‡</span><span lang=EN>flv</span><span
-style='font-family:å®‹ä½“'>ï¼ˆå³</span><span lang=EN>dvr_wait_keyframe</span><span
-style='font-family:å®‹ä½“'>é…ç½®ä¸º</span><span lang=EN>off</span><span
-style='font-family:å®‹ä½“'>ï¼‰ï¼Œæ‰€ä»¥ä¼šå¯¼è‡´åŽé¢çš„</span><span lang=EN>flv</span><span
-style='font-family:å®‹ä½“'>å¯åŠ¨æ—¶ä¼šèŠ±å±ã€‚</span></p>
+style='font-family:ËÎÌå'>£º</span></b><span style='font-family:ËÎÌå'>°´ÕÕÊ±¼ä·Ö¶ÎÂ¼ÖÆ£¬</span><span
+lang=EN>flv</span><span style='font-family:ËÎÌå'>ÎÄ¼þÊ±³¤ÅäÖÃÎª</span><span lang=EN>dvr_duration</span><span
+style='font-family:ËÎÌå'>ºÍ</span><span lang=EN>dvr_wait_keyframe</span><span
+style='font-family:ËÎÌå'>¡£×¢Òâ£ºÈô²»°´¹Ø¼üÖ¡ÇÐ</span><span lang=EN>flv</span><span
+style='font-family:ËÎÌå'>£¨¼´</span><span lang=EN>dvr_wait_keyframe</span><span
+style='font-family:ËÎÌå'>ÅäÖÃÎª</span><span lang=EN>off</span><span
+style='font-family:ËÎÌå'>£©£¬ËùÒÔ»áµ¼ÖÂºóÃæµÄ</span><span lang=EN>flv</span><span
+style='font-family:ËÎÌå'>Æô¶¯Ê±»á»¨ÆÁ¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:31.6pt'><b><span lang=EN>time_jitter: </span></b><span
-style='font-family:å®‹ä½“'>æ—¶é—´æˆ³æŠ–åŠ¨ç®—æ³•ã€‚</span><span lang=EN>full</span><span
-style='font-family:å®‹ä½“'>ä½¿ç”¨å®Œå…¨çš„æ—¶é—´æˆ³çŸ«æ­£ï¼›</span><span lang=EN>zero</span><span
-style='font-family:å®‹ä½“'>åªæ˜¯ä¿è¯ä»Ž</span><span lang=EN>0</span><span
-style='font-family:å®‹ä½“'>å¼€å§‹ï¼›</span><span lang=EN>off</span><span
-style='font-family:å®‹ä½“'>ä¸çŸ«æ­£æ—¶é—´æˆ³ã€‚</span></p>
+style='font-family:ËÎÌå'>Ê±¼ä´Á¶¶¶¯Ëã·¨¡£</span><span lang=EN>full</span><span
+style='font-family:ËÎÌå'>Ê¹ÓÃÍêÈ«µÄÊ±¼ä´Á½ÃÕý£»</span><span lang=EN>zero</span><span
+style='font-family:ËÎÌå'>Ö»ÊÇ±£Ö¤´Ó</span><span lang=EN>0</span><span
+style='font-family:ËÎÌå'>¿ªÊ¼£»</span><span lang=EN>off</span><span
+style='font-family:ËÎÌå'>²»½ÃÕýÊ±¼ä´Á¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:31.6pt'><b><span lang=EN>dvr_path:</span></b><span
-lang=EN> </span><span style='font-family:å®‹ä½“'>å½•åˆ¶çš„è·¯å¾„ï¼Œ</span><span
-style='font-family:å®‹ä½“'>è§„åˆ™å¦‚ä¸‹ï¼š</span></p>
+lang=EN> </span><span style='font-family:ËÎÌå'>Â¼ÖÆµÄÂ·¾¶£¬</span><span
+style='font-family:ËÎÌå'>¹æÔòÈçÏÂ£º</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>æŒ‰å¹´æœˆæ—¥ä»¥åŠæµä¿¡æ¯ç”Ÿæˆå­ç›®å½•ã€‚ä¾¿äºŽåšè½¯é“¾ï¼Œæˆ–è€…é¿å…ä¸€ä¸ªç›®å½•çš„æ–‡ä»¶å¤ªå¤šï¼ˆè²Œä¼¼è¶…è¿‡å‡ ä¸‡<span
-lang=EN-US>linux</span>ä¼šæ”¯æŒä¸äº†ï¼‰ã€‚</span></p>
-
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US
-style='font-family:å®‹ä½“'>1.</span><span style='font-family:å®‹ä½“'>æŒ‰æ—¥æœŸå’Œæ—¶é—´ä»¥åŠæµä¿¡æ¯ç”Ÿæˆæ–‡ä»¶åã€‚ä¾¿äºŽæœç´¢ã€‚</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>°´ÄêÔÂÈÕÒÔ¼°Á÷ÐÅÏ¢Éú³É×ÓÄ¿Â¼¡£±ãÓÚ×öÈíÁ´£¬»òÕß±ÜÃâÒ»¸öÄ¿Â¼µÄÎÄ¼þÌ«¶à£¨Ã²ËÆ³¬¹ý¼¸Íò<span
+lang=EN-US>linux</span>»áÖ§³Ö²»ÁË£©¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US
-style='font-family:å®‹ä½“'>2.</span><span style='font-family:å®‹ä½“'>æä¾›æ—¥æœŸå’Œæ—¶é—´ï¼Œä»¥åŠæµä¿¡æ¯çš„å˜é‡ï¼Œä»¥ä¸­æ‹¬å·ä»£è¡¨å˜é‡ã€‚</span></p>
+style='font-family:ËÎÌå'>1.</span><span style='font-family:ËÎÌå'>°´ÈÕÆÚºÍÊ±¼äÒÔ¼°Á÷ÐÅÏ¢Éú³ÉÎÄ¼þÃû¡£±ãÓÚËÑË÷¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US
-style='font-family:å®‹ä½“'>3.</span><span style='font-family:å®‹ä½“'>ä¿ç•™ç›®å‰çš„æ–¹å¼ï¼ŒæŒ‰ç…§æ—¶é—´æˆ³ç”Ÿæˆæ–‡ä»¶åï¼Œä¿å­˜åœ¨ä¸€ä¸ªæ–‡ä»¶å¤¹ã€‚è‹¥æ²¡æœ‰æŒ‡å®šæ–‡ä»¶åï¼ˆåªæŒ‡å®šäº†ç›®å½•ï¼‰ï¼Œåˆ™é»˜è®¤ä½¿ç”¨<span
-lang=EN-US>[stream].[timestamp].flv</span>ä½œä¸ºæ–‡ä»¶åï¼Œå’Œç›®å‰ä¿æŒä¸€è‡´ã€‚</span></p>
+style='font-family:ËÎÌå'>2.</span><span style='font-family:ËÎÌå'>Ìá¹©ÈÕÆÚºÍÊ±¼ä£¬ÒÔ¼°Á÷ÐÅÏ¢µÄ±äÁ¿£¬ÒÔÖÐÀ¨ºÅ´ú±í±äÁ¿¡£</span></p>
+
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US
+style='font-family:ËÎÌå'>3.</span><span style='font-family:ËÎÌå'>±£ÁôÄ¿Ç°µÄ·½Ê½£¬°´ÕÕÊ±¼ä´ÁÉú³ÉÎÄ¼þÃû£¬±£´æÔÚÒ»¸öÎÄ¼þ¼Ð¡£ÈôÃ»ÓÐÖ¸¶¨ÎÄ¼þÃû£¨Ö»Ö¸¶¨ÁËÄ¿Â¼£©£¬ÔòÄ¬ÈÏÊ¹ÓÃ<span
+lang=EN-US>[stream].[timestamp].flv</span>×÷ÎªÎÄ¼þÃû£¬ºÍÄ¿Ç°±£³ÖÒ»ÖÂ¡£</span></p>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>DVR</span><span
-style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>apply</span><span
-style='font-family:å®‹ä½“'>å†³å®šäº†æ˜¯å¦å¯¹æŸä¸ªæµå¼€å¯</span><span lang=EN-US>dvr</span><span
-style='font-family:å®‹ä½“'>ï¼Œé»˜è®¤çš„</span><span lang=EN-US>all</span><span
-style='font-family:å®‹ä½“'>æ˜¯å¯¹æ‰€æœ‰å¼€å¯ã€‚</span> <span style='font-family:å®‹ä½“'>è¿™ä¸ªåŠŸèƒ½æ˜¯</span><span
-lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>å®žçŽ°</span><span lang=EN-US>nginx</span><span
-style='font-family:å®‹ä½“'>æä¾›çš„</span><span lang=EN-US>control module</span><span
-style='font-family:å®‹ä½“'>çš„ä¸€ä¸ªåŸºç¡€ï¼Œè€Œä¸”æ›´ä¸°å¯Œã€‚</span> <span style='font-family:å®‹ä½“'>ä¹Ÿå°±æ˜¯å¯ä»¥æ”¯æŒç”¨æˆ·è°ƒç”¨</span><span
+style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>apply</span><span
+style='font-family:ËÎÌå'>¾ö¶¨ÁËÊÇ·ñ¶ÔÄ³¸öÁ÷¿ªÆô</span><span lang=EN-US>dvr</span><span
+style='font-family:ËÎÌå'>£¬Ä¬ÈÏµÄ</span><span lang=EN-US>all</span><span
+style='font-family:ËÎÌå'>ÊÇ¶ÔËùÓÐ¿ªÆô¡£</span> <span style='font-family:ËÎÌå'>Õâ¸ö¹¦ÄÜÊÇ</span><span
+lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>ÊµÏÖ</span><span lang=EN-US>nginx</span><span
+style='font-family:ËÎÌå'>Ìá¹©µÄ</span><span lang=EN-US>control module</span><span
+style='font-family:ËÎÌå'>µÄÒ»¸ö»ù´¡£¬¶øÇÒ¸ü·á¸»¡£</span> <span style='font-family:ËÎÌå'>Ò²¾ÍÊÇ¿ÉÒÔÖ§³ÖÓÃ»§µ÷ÓÃ</span><span
 lang=EN-US><a href="https://github.com/ossrs/srs/wiki/v3_CN_HTTPApi">http raw
-api</a></span><span style='font-family:å®‹ä½“'>æŽ§åˆ¶æ˜¯å¦ä»¥åŠä½•æ—¶</span><span lang=EN-US>DVR</span><span
-style='font-family:å®‹ä½“'>ã€‚</span></p>
+api</a></span><span style='font-family:ËÎÌå'>¿ØÖÆÊÇ·ñÒÔ¼°ºÎÊ±</span><span lang=EN-US>DVR</span><span
+style='font-family:ËÎÌå'>¡£</span></p>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN style='font-family:
 "Segoe UI",sans-serif;color:#333333'>&nbsp;</span></p>
@@ -2687,657 +4380,657 @@ style='font-family:"Segoe UI",sans-serif'>https://github.com/ossrs/srs/wiki/v3_C
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
 <h3><a name="_Toc26097959"></a><a name="_Toc462219459"></a><a
-name="_Toc456260520"><span style='font-family:å®‹ä½“'>åˆ†å‘æ–¹å¼æ¯”è¾ƒ</span></a></h3>
+name="_Toc456260520"><span style='font-family:ËÎÌå'>·Ö·¢·½Ê½±È½Ï</span></a></h3>
 
-<p style='text-indent:21.0pt'><span style='font-size:10.5pt'>äº’è”ç½‘ä¸Šçš„ä¸¤ç§ä¸»è¦çš„åˆ†å‘æ–¹å¼ï¼š</span><span
+<p style='text-indent:21.0pt'><span style='font-size:10.5pt'>»¥ÁªÍøÉÏµÄÁ½ÖÖÖ÷ÒªµÄ·Ö·¢·½Ê½£º</span><span
 lang=EN-US><a href="https://github.com/ossrs/srs/wiki/v1_CN_DeliveryHLS"><span
-style='font-size:10.5pt'>HLS</span></a></span><span style='font-size:10.5pt'>å’Œ</span><span
+style='font-size:10.5pt'>HLS</span></a></span><span style='font-size:10.5pt'>ºÍ</span><span
 lang=EN-US><a href="https://github.com/ossrs/srs/wiki/v1_CN_DeliveryRTMP"><span
-style='font-size:10.5pt'>RTMP</span></a></span><span style='font-size:10.5pt'>ï¼Œä»€ä¹ˆæ—¶å€™ç”¨è°ï¼Œå®Œå…¨å†³å®šäºŽåº”ç”¨åœºæ™¯ã€‚è¿˜æœ‰å…¶ä»–çš„åˆ†å‘æ–¹å¼ï¼Œè¿™äº›åˆ†å‘æ–¹å¼ä¸å±žäºŽäº’è”ç½‘å¸¸è§å’Œé€šç”¨çš„æ–¹å¼ï¼Œä¸äºˆä»¥æ¯”è¾ƒï¼š</span></p>
+style='font-size:10.5pt'>RTMP</span></a></span><span style='font-size:10.5pt'>£¬Ê²Ã´Ê±ºòÓÃË­£¬ÍêÈ«¾ö¶¨ÓÚÓ¦ÓÃ³¡¾°¡£»¹ÓÐÆäËûµÄ·Ö·¢·½Ê½£¬ÕâÐ©·Ö·¢·½Ê½²»ÊôÓÚ»¥ÁªÍø³£¼ûºÍÍ¨ÓÃµÄ·½Ê½£¬²»ÓèÒÔ±È½Ï£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>UDP</span><span
-     style='font-family:å®‹ä½“'>ï¼šè­¬å¦‚</span><span lang=EN-US>YY</span><span
-     style='font-family:å®‹ä½“'>çš„å®žæ—¶åº”ç”¨ï¼Œè§†é¢‘ä¼šè®®ç­‰ç­‰ï¼Œæˆ–è€…</span><span lang=EN-US>RTSP</span><span
-     style='font-family:å®‹ä½“'>ä¹‹ç±»ã€‚è¿™ç±»åº”ç”¨çš„ç‰¹ç‚¹å°±æ˜¯å®žæ—¶æ€§è¦æ±‚ç‰¹åˆ«é«˜ï¼Œä»¥æ¯«ç§’è®¡ç®—ã€‚</span><span lang=EN-US>TCP</span><span
-     style='font-family:å®‹ä½“'>å®¶æ—åè®®æ ¹æœ¬å°±æ»¡è¶³ä¸äº†è¦æ±‚ï¼Œæ‰€ä»¥</span><span lang=EN-US>HTTP/TCP</span><span
-     style='font-family:å®‹ä½“'>éƒ½ä¸é è°±ã€‚è¿™ç±»åº”ç”¨æ²¡æœ‰é€šç”¨çš„æ–¹æ¡ˆï¼Œå¿…é¡»è‡ªå·±å®žçŽ°åˆ†å‘ï¼ˆæœåŠ¡ç«¯ï¼‰å’Œæ’­æ”¾ï¼ˆå®¢æˆ·ç«¯ï¼‰ã€‚</span></li>
+     style='font-family:ËÎÌå'>£ºÆ©Èç</span><span lang=EN-US>YY</span><span
+     style='font-family:ËÎÌå'>µÄÊµÊ±Ó¦ÓÃ£¬ÊÓÆµ»áÒéµÈµÈ£¬»òÕß</span><span lang=EN-US>RTSP</span><span
+     style='font-family:ËÎÌå'>Ö®Àà¡£ÕâÀàÓ¦ÓÃµÄÌØµã¾ÍÊÇÊµÊ±ÐÔÒªÇóÌØ±ð¸ß£¬ÒÔºÁÃë¼ÆËã¡£</span><span lang=EN-US>TCP</span><span
+     style='font-family:ËÎÌå'>¼Ò×åÐ­Òé¸ù±¾¾ÍÂú×ã²»ÁËÒªÇó£¬ËùÒÔ</span><span lang=EN-US>HTTP/TCP</span><span
+     style='font-family:ËÎÌå'>¶¼²»¿¿Æ×¡£ÕâÀàÓ¦ÓÃÃ»ÓÐÍ¨ÓÃµÄ·½°¸£¬±ØÐë×Ô¼ºÊµÏÖ·Ö·¢£¨·þÎñ¶Ë£©ºÍ²¥·Å£¨¿Í»§¶Ë£©¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>P2P</span><span
-     style='font-family:å®‹ä½“'>ï¼šè­¬å¦‚</span><span lang=EN-US>RTMFP</span><span
-     style='font-family:å®‹ä½“'>æˆ–è€…å„å®¶è‡ªå·±çš„åè®®ã€‚è¿™ç±»åº”ç”¨çš„ç‰¹ç‚¹æ˜¯èŠ‚çœå¸¦å®½ã€‚ç›®å‰</span><span lang=EN-US>PC/flash</span><span
-     style='font-family:å®‹ä½“'>ä¸Šçš„</span><span lang=EN-US>RTMFP</span><span
-     style='font-family:å®‹ä½“'>æ¯”è¾ƒæˆç†Ÿï¼Œ</span><span lang=EN-US>Android</span><span
-     style='font-family:å®‹ä½“'>ä¸Šçš„</span><span lang=EN-US>P2P</span><span
-     style='font-family:å®‹ä½“'>å±žäºŽèµ·æ­¥ç¾¤é›„çº·äº‰æ ‡å‡†ä¸ä¸€ï¼Œ</span><span lang=EN-US>IOS</span><span
-     style='font-family:å®‹ä½“'>ä¸Š</span><span lang=EN-US>P2P</span><span
-     style='font-family:å®‹ä½“'>åº”è¯¥æ²¡æœ‰å¬è¯´è¿‡ã€‚</span></li>
+     style='font-family:ËÎÌå'>£ºÆ©Èç</span><span lang=EN-US>RTMFP</span><span
+     style='font-family:ËÎÌå'>»òÕß¸÷¼Ò×Ô¼ºµÄÐ­Òé¡£ÕâÀàÓ¦ÓÃµÄÌØµãÊÇ½ÚÊ¡´ø¿í¡£Ä¿Ç°</span><span lang=EN-US>PC/flash</span><span
+     style='font-family:ËÎÌå'>ÉÏµÄ</span><span lang=EN-US>RTMFP</span><span
+     style='font-family:ËÎÌå'>±È½Ï³ÉÊì£¬</span><span lang=EN-US>Android</span><span
+     style='font-family:ËÎÌå'>ÉÏµÄ</span><span lang=EN-US>P2P</span><span
+     style='font-family:ËÎÌå'>ÊôÓÚÆð²½ÈºÐÛ·×Õù±ê×¼²»Ò»£¬</span><span lang=EN-US>IOS</span><span
+     style='font-family:ËÎÌå'>ÉÏ</span><span lang=EN-US>P2P</span><span
+     style='font-family:ËÎÌå'>Ó¦¸ÃÃ»ÓÐÌýËµ¹ý¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>RTSP</span><span
-     style='font-family:å®‹ä½“'>ï¼šè¿™ç§ä¸æ˜¯äº’è”ç½‘ä¸Šçš„ä¸»è¦åº”ç”¨ï¼Œåœ¨å…¶ä»–é¢†åŸŸè­¬å¦‚å®‰é˜²ç­‰æœ‰å¹¿æ³›åº”ç”¨ã€‚</span></li>
+     style='font-family:ËÎÌå'>£ºÕâÖÖ²»ÊÇ»¥ÁªÍøÉÏµÄÖ÷ÒªÓ¦ÓÃ£¬ÔÚÆäËûÁìÓòÆ©Èç°²·ÀµÈÓÐ¹ã·ºÓ¦ÓÃ¡£</span></li>
 </ul>
 
-<p><span style='font-size:10.5pt'>å¦å¤–ï¼Œ<span lang=EN-US>HTTP</span>çš„ä¹Ÿåˆ†ä¸ºå‡ ç§ï¼š</span></p>
+<p><span style='font-size:10.5pt'>ÁíÍâ£¬<span lang=EN-US>HTTP</span>µÄÒ²·ÖÎª¼¸ÖÖ£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>HTTP progressive</span><span
-     style='font-family:å®‹ä½“'>ï¼šæ—©æœŸæµåª’ä½“æœåŠ¡å™¨åˆ†å‘</span><span lang=EN-US>http</span><span
-     style='font-family:å®‹ä½“'>æ–‡ä»¶æ—¶ï¼Œä»¥æ™®é€šçš„</span><span lang=EN-US>http</span><span
-     style='font-family:å®‹ä½“'>æ–‡ä»¶åˆ†å‘ï¼Œè¿™ç§å«åšæ¸è¿›å¼ä¸‹è½½ï¼Œæ„æ€å°±æ˜¯å¦‚æžœæ–‡ä»¶å¾ˆå¤§è­¬å¦‚</span><span lang=EN-US>1</span><span
-     style='font-family:å®‹ä½“'>å°æ—¶æ—¶é•¿</span><span lang=EN-US> 1GB</span><span
-     style='font-family:å®‹ä½“'>å¤§å°ï¼Œæƒ³ä»Žä¸­é—´å¼€å§‹æ’­æ”¾æ˜¯ä¸è¡Œçš„ã€‚ä½†è¿™ç§æ–¹å¼å·²ç»æ˜¯ä½œå¤äº†ï¼Œå¾ˆå¤š</span><span
-     lang=EN-US>http</span><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨æ”¯æŒ</span><span
-     lang=EN-US>http</span><span style='font-family:å®‹ä½“'>æ–‡ä»¶çš„</span><span
-     lang=EN-US>seek</span><span style='font-family:å®‹ä½“'>ï¼Œå°±æ˜¯ä»Žä¸­é—´å¼€å§‹æ’­æ”¾ã€‚</span></li>
+     style='font-family:ËÎÌå'>£ºÔçÆÚÁ÷Ã½Ìå·þÎñÆ÷·Ö·¢</span><span lang=EN-US>http</span><span
+     style='font-family:ËÎÌå'>ÎÄ¼þÊ±£¬ÒÔÆÕÍ¨µÄ</span><span lang=EN-US>http</span><span
+     style='font-family:ËÎÌå'>ÎÄ¼þ·Ö·¢£¬ÕâÖÖ½Ð×ö½¥½øÊ½ÏÂÔØ£¬ÒâË¼¾ÍÊÇÈç¹ûÎÄ¼þºÜ´óÆ©Èç</span><span lang=EN-US>1</span><span
+     style='font-family:ËÎÌå'>Ð¡Ê±Ê±³¤</span><span lang=EN-US> 1GB</span><span
+     style='font-family:ËÎÌå'>´óÐ¡£¬Ïë´ÓÖÐ¼ä¿ªÊ¼²¥·ÅÊÇ²»ÐÐµÄ¡£µ«ÕâÖÖ·½Ê½ÒÑ¾­ÊÇ×÷¹ÅÁË£¬ºÜ¶à</span><span
+     lang=EN-US>http</span><span style='font-family:ËÎÌå'>·þÎñÆ÷Ö§³Ö</span><span
+     lang=EN-US>http</span><span style='font-family:ËÎÌå'>ÎÄ¼þµÄ</span><span
+     lang=EN-US>seek</span><span style='font-family:ËÎÌå'>£¬¾ÍÊÇ´ÓÖÐ¼ä¿ªÊ¼²¥·Å¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>HTTP stream</span><span
-     style='font-family:å®‹ä½“'>ï¼šæ”¯æŒ</span><span lang=EN-US>seek</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>æµï¼Œè­¬å¦‚å„å®¶è§†é¢‘ç½‘ç«™çš„ç‚¹æ’­åˆ†å‘æ–¹å¼ã€‚æˆ–è€…ç¨å¾®å¤æ‚ç‚¹çš„ï¼Œè­¬å¦‚æŠŠä¸€ä¸ªå¤§æ–‡ä»¶åˆ‡å‡ æ®µä¹‹åŽåˆ†å‘ã€‚ç›®å‰åœ¨</span><span
-     lang=EN-US>pc/flash</span><span style='font-family:å®‹ä½“'>ä¸Šç‚¹æ’­å›½å†…çš„ä¸»æµåˆ†å‘æ˜¯è¿™ç§æ–¹å¼ã€‚</span></li>
+     style='font-family:ËÎÌå'>£ºÖ§³Ö</span><span lang=EN-US>seek</span><span
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>HTTP</span><span
+     style='font-family:ËÎÌå'>Á÷£¬Æ©Èç¸÷¼ÒÊÓÆµÍøÕ¾µÄµã²¥·Ö·¢·½Ê½¡£»òÕßÉÔÎ¢¸´ÔÓµãµÄ£¬Æ©Èç°ÑÒ»¸ö´óÎÄ¼þÇÐ¼¸¶ÎÖ®ºó·Ö·¢¡£Ä¿Ç°ÔÚ</span><span
+     lang=EN-US>pc/flash</span><span style='font-family:ËÎÌå'>ÉÏµã²¥¹úÄÚµÄÖ÷Á÷·Ö·¢ÊÇÕâÖÖ·½Ê½¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>ï¼šè¿™ç§æ˜¯çŽ°åœ¨é€‚é…æ–¹å¼æœ€å¹¿ï¼ˆé™¤äº†</span><span lang=EN-US>flash, </span><span
-     style='font-family:å®‹ä½“'>éœ€è¦é¢å¤–çš„</span><span lang=EN-US>as</span><span
-     style='font-family:å®‹ä½“'>åº“æ”¯æŒï¼‰ï¼Œåœ¨</span><span lang=EN-US>PC</span><span
-     style='font-family:å®‹ä½“'>ä¸Šæœ‰</span><span lang=EN-US>vlc</span><span
-     style='font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US>Android/IOS</span><span
-     style='font-family:å®‹ä½“'>åŽŸç”Ÿæ’­æ”¾å™¨å°±æ”¯æŒæ’­æ”¾</span><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US>HTML5</span><span
-     style='font-family:å®‹ä½“'>é‡Œé¢çš„</span><span lang=EN-US>url</span><span
-     style='font-family:å®‹ä½“'>å¯ä»¥å†™</span><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>åœ°å€ã€‚æ€»ä¹‹ï¼Œåœ¨ç§»åŠ¨ç«¯æ˜¯ä»¥</span><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>ä¸ºä¸»ã€‚</span></li>
+     style='font-family:ËÎÌå'>£ºÕâÖÖÊÇÏÖÔÚÊÊÅä·½Ê½×î¹ã£¨³ýÁË</span><span lang=EN-US>flash, </span><span
+     style='font-family:ËÎÌå'>ÐèÒª¶îÍâµÄ</span><span lang=EN-US>as</span><span
+     style='font-family:ËÎÌå'>¿âÖ§³Ö£©£¬ÔÚ</span><span lang=EN-US>PC</span><span
+     style='font-family:ËÎÌå'>ÉÏÓÐ</span><span lang=EN-US>vlc</span><span
+     style='font-family:ËÎÌå'>£¬</span><span lang=EN-US>Android/IOS</span><span
+     style='font-family:ËÎÌå'>Ô­Éú²¥·ÅÆ÷¾ÍÖ§³Ö²¥·Å</span><span lang=EN-US>HLS</span><span
+     style='font-family:ËÎÌå'>£¬</span><span lang=EN-US>HTML5</span><span
+     style='font-family:ËÎÌå'>ÀïÃæµÄ</span><span lang=EN-US>url</span><span
+     style='font-family:ËÎÌå'>¿ÉÒÔÐ´</span><span lang=EN-US>HLS</span><span
+     style='font-family:ËÎÌå'>µØÖ·¡£×ÜÖ®£¬ÔÚÒÆ¶¯¶ËÊÇÒÔ</span><span lang=EN-US>HLS</span><span
+     style='font-family:ËÎÌå'>ÎªÖ÷¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>HDS</span><span
-     style='font-family:å®‹ä½“'>ï¼š</span><span lang=EN-US>adobe</span><span
-     style='font-family:å®‹ä½“'>è‡ªå·±çš„</span><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>ã€‚</span></li>
+     style='font-family:ËÎÌå'>£º</span><span lang=EN-US>adobe</span><span
+     style='font-family:ËÎÌå'>×Ô¼ºµÄ</span><span lang=EN-US>HLS</span><span
+     style='font-family:ËÎÌå'>¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>DASH</span><span
-     style='font-family:å®‹ä½“'>ï¼šå„å®¶æå‡ºçš„</span><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>ï¼Œç›®å‰è¿˜æ²¡æœ‰å¹¿æ³›åº”ç”¨ã€‚</span></li>
+     style='font-family:ËÎÌå'>£º¸÷¼ÒÌá³öµÄ</span><span lang=EN-US>HLS</span><span
+     style='font-family:ËÎÌå'>£¬Ä¿Ç°»¹Ã»ÓÐ¹ã·ºÓ¦ÓÃ¡£</span></li>
 </ul>
 
-<p><span style='font-size:10.5pt'>å¯¹æ¯”ä»¥ä¸‹äº’è”ç½‘ä¸Šç”¨çš„æµåª’ä½“åˆ†å‘æ–¹å¼ï¼š</span></p>
+<p><span style='font-size:10.5pt'>¶Ô±ÈÒÔÏÂ»¥ÁªÍøÉÏÓÃµÄÁ÷Ã½Ìå·Ö·¢·½Ê½£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>ï¼š</span><span lang=EN-US>apple</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>ï¼Œæ”¯æŒç‚¹æ’­å’Œç›´æ’­ã€‚</span></li>
+     style='font-family:ËÎÌå'>£º</span><span lang=EN-US>apple</span><span
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>HLS</span><span
+     style='font-family:ËÎÌå'>£¬Ö§³Öµã²¥ºÍÖ±²¥¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>ï¼šå³</span><span lang=EN-US>HTTP stream</span><span
-     style='font-family:å®‹ä½“'>ï¼Œå„å®¶è‡ªå·±å®šä¹‰çš„</span><span lang=EN-US>http</span><span
-     style='font-family:å®‹ä½“'>æµï¼Œåº”ç”¨äºŽå›½å†…ç‚¹æ’­è§†é¢‘ç½‘ç«™ã€‚</span></li>
+     style='font-family:ËÎÌå'>£º¼´</span><span lang=EN-US>HTTP stream</span><span
+     style='font-family:ËÎÌå'>£¬¸÷¼Ò×Ô¼º¶¨ÒåµÄ</span><span lang=EN-US>http</span><span
+     style='font-family:ËÎÌå'>Á÷£¬Ó¦ÓÃÓÚ¹úÄÚµã²¥ÊÓÆµÍøÕ¾¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>ï¼šç›´æ’­åº”ç”¨ï¼Œå¯¹å®žæ—¶æ€§æœ‰ä¸€å®šè¦æ±‚ï¼Œä»¥</span><span lang=EN-US>PC</span><span
-     style='font-family:å®‹ä½“'>ä¸ºä¸»ã€‚</span></li>
+     style='font-family:ËÎÌå'>£ºÖ±²¥Ó¦ÓÃ£¬¶ÔÊµÊ±ÐÔÓÐÒ»¶¨ÒªÇó£¬ÒÔ</span><span lang=EN-US>PC</span><span
+     style='font-family:ËÎÌå'>ÎªÖ÷¡£</span></li>
 </ul>
 
 <h4><a name="_Toc462219460"><span lang=EN-US>RTMP</span></a></h4>
 
-<p><span lang=EN-US>RTMP</span>æœ¬è´¨ä¸Šæ˜¯æµåè®®ï¼Œä¸»è¦çš„ä¼˜åŠ¿æ˜¯ï¼š</p>
+<p><span lang=EN-US>RTMP</span>±¾ÖÊÉÏÊÇÁ÷Ð­Òé£¬Ö÷ÒªµÄÓÅÊÆÊÇ£º</p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å®žæ—¶æ€§é«˜ï¼š</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>çš„å®žæ—¶æ€§åœ¨</span><span
-     lang=EN-US>3</span><span style='font-family:å®‹ä½“'>ç§’ä¹‹å†…ï¼Œç»è¿‡å¤šå±‚</span><span
-     lang=EN-US>CDN</span><span style='font-family:å®‹ä½“'>èŠ‚ç‚¹åˆ†å‘åŽï¼Œå®žæ—¶æ€§ä¹Ÿåœ¨</span><span
-     lang=EN-US>3</span><span style='font-family:å®‹ä½“'>ç§’å·¦å³ã€‚åœ¨ä¸€äº›å®žæ—¶æ€§æœ‰è¦æ±‚çš„åº”ç”¨ä¸­ä»¥</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>ä¸ºä¸»ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ”¯æŒåŠ å¯†ï¼š</span><span
-     lang=EN-US>RTMPE</span><span style='font-family:å®‹ä½“'>å’Œ</span><span
-     lang=EN-US>RTMPS</span><span style='font-family:å®‹ä½“'>ä¸ºåŠ å¯†åè®®ã€‚è™½ç„¶</span><span
-     lang=EN-US>HLS</span><span style='font-family:å®‹ä½“'>ä¹Ÿæœ‰åŠ å¯†ï¼Œä½†åœ¨</span><span
-     lang=EN-US>PC</span><span style='font-family:å®‹ä½“'>å¹³å°ä¸Š</span><span
-     lang=EN-US>flash</span><span style='font-family:å®‹ä½“'>å¯¹</span><span
-     lang=EN-US>RTMPE/RTMPS</span><span style='font-family:å®‹ä½“'>æ”¯æŒåº”è¯¥æ¯”è¾ƒä¸é”™ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ç¨³å®šæ€§é«˜ï¼šåœ¨</span><span
-     lang=EN-US>PC</span><span style='font-family:å®‹ä½“'>å¹³å°ä¸Š</span><span
-     lang=EN-US>flash</span><span style='font-family:å®‹ä½“'>æ’­æ”¾çš„æœ€ç¨³å®šæ–¹å¼æ˜¯</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>ï¼Œå¦‚æžœåš</span><span
-     lang=EN-US>CDN</span><span style='font-family:å®‹ä½“'>æˆ–è€…å¤§ä¸­åž‹é›†ç¾¤åˆ†å‘ï¼Œé€‰æ‹©ç¨³å®šæ€§é«˜çš„åè®®ä¸€å®šæ˜¯å¿…è¦çš„ã€‚</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>ä¹Ÿå¾ˆç¨³å®šï¼Œä½†</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>æ˜¯åœ¨åè®®ä¸Šç¨³å®šï¼›ç¨³å®šæ€§ä¸åªæ˜¯æœåŠ¡ç«¯çš„äº‹æƒ…ï¼Œåœ¨é›†ç¾¤åˆ†å‘ï¼ŒæœåŠ¡å™¨ç®¡ç†ï¼Œä¸»å¤‡åˆ‡æ¢ï¼Œå®¢æˆ·ç«¯çš„æ”¯æŒä¸Šï¼Œ</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>åœ¨</span><span
-     lang=EN-US>PC</span><span style='font-family:å®‹ä½“'>åˆ†å‘è¿™ç§æ–¹å¼ä¸Šè¿˜æ˜¯å¾ˆæœ‰ä¼˜åŠ¿ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ç¼–ç å™¨æŽ¥å…¥ï¼šç¼–ç å™¨è¾“å‡ºåˆ°äº’è”ç½‘ï¼ˆè¿˜å¯ä»¥è¾“å‡ºä¸º</span><span
-     lang=EN-US>udp</span><span style='font-family:å®‹ä½“'>ç»„æ’­ä¹‹ç±»å¹¿ç”µåº”ç”¨ï¼‰ï¼Œä¸»è¦æ˜¯</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>ã€‚è­¬å¦‚ä¸“ä¸šç¼–ç å™¨ï¼Œæˆ–è€…</span><span
-     lang=EN-US>flash</span><span style='font-family:å®‹ä½“'>ç½‘é¡µç¼–ç å™¨ï¼Œæˆ–è€…</span><span
-     lang=EN-US>FMLE</span><span style='font-family:å®‹ä½“'>ï¼Œæˆ–è€…</span><span
-     lang=EN-US>ffmpeg</span><span style='font-family:å®‹ä½“'>ï¼Œéƒ½æ”¯æŒ</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>è¾“å‡ºã€‚è‹¥éœ€è¦æŽ¥å…¥å¤šç§è®¾å¤‡ï¼Œè­¬å¦‚æä¾›äº‘æœåŠ¡ï¼›æˆ–è€…å¸Œæœ›ç½‘é¡µç›´æŽ¥é‡‡é›†æ‘„åƒå¤´ï¼›æˆ–è€…èƒ½åœ¨ä¸åŒç¼–ç å™¨ä¹‹é—´åˆ‡æ¢ï¼Œé‚£ä¹ˆ</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>ä½œä¸ºæœåŠ¡å™¨çš„è¾“å…¥åè®®ä¼šæ˜¯æœ€å¥½çš„é€‰æ‹©ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ç³»ç»Ÿå®¹é”™ï¼šå®¹é”™æœ‰å¾ˆå¤šç§çº§åˆ«ï¼Œ</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>çš„é›†ç¾¤å®žçŽ°æ—¶å¯ä»¥æŒ‡å®š</span><span
-     lang=EN-US>N</span><span style='font-family:å®‹ä½“'>ä¸Šå±‚ï¼Œåœ¨é”™è¯¯æ—¶åˆ‡æ¢ä¸ä¼šå½±å“åˆ°ä¸‹å±‚æˆ–è€…å®¢æˆ·ç«¯ï¼Œå¦å¤–</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>çš„æµæ²¡æœ‰æ ‡è¯†ï¼Œåˆ‡åˆ°å…¶ä»–çš„æœåŠ¡å™¨çš„æµä¹Ÿå¯ä»¥ç»§ç»­æ’­æ”¾ã€‚</span><span
-     lang=EN-US>HLS</span><span style='font-family:å®‹ä½“'>çš„æµçƒ­å¤‡åˆ‡æ¢æ²¡æœ‰è¿™ä¹ˆå®¹æ˜“ã€‚è‹¥å¯¹äºŽç›´æ’­çš„å®¹é”™è¦æ±‚é«˜ï¼Œè­¬å¦‚é™ä½Žå‡ºé—®é¢˜çš„æ¦‚çŽ‡ï¼Œé€‰æ‹©</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>ä¼šæ˜¯å¾ˆå¥½çš„é€‰æ‹©ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å¯ç›‘æŽ§ï¼šåœ¨ç›‘æŽ§ç³»ç»Ÿæˆ–è€…è¿ç»´ç³»ç»Ÿçš„è§’åº¦çœ‹ï¼Œæµåè®®åº”è¯¥æ¯”è¾ƒåˆé€‚ç›‘æŽ§ã€‚</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>çš„æµç›‘æŽ§æ„Ÿè§‰æ²¡æœ‰é‚£ä¹ˆå®Œå–„ã€‚è¿™ä¸ªä¸ç®—ç»å¯¹ä¼˜åŠ¿ï¼Œä½†æ¯”è¾ƒæœ‰åˆ©ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÊµÊ±ÐÔ¸ß£º</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>µÄÊµÊ±ÐÔÔÚ</span><span
+     lang=EN-US>3</span><span style='font-family:ËÎÌå'>ÃëÖ®ÄÚ£¬¾­¹ý¶à²ã</span><span
+     lang=EN-US>CDN</span><span style='font-family:ËÎÌå'>½Úµã·Ö·¢ºó£¬ÊµÊ±ÐÔÒ²ÔÚ</span><span
+     lang=EN-US>3</span><span style='font-family:ËÎÌå'>Ãë×óÓÒ¡£ÔÚÒ»Ð©ÊµÊ±ÐÔÓÐÒªÇóµÄÓ¦ÓÃÖÐÒÔ</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>ÎªÖ÷¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ö§³Ö¼ÓÃÜ£º</span><span
+     lang=EN-US>RTMPE</span><span style='font-family:ËÎÌå'>ºÍ</span><span
+     lang=EN-US>RTMPS</span><span style='font-family:ËÎÌå'>Îª¼ÓÃÜÐ­Òé¡£ËäÈ»</span><span
+     lang=EN-US>HLS</span><span style='font-family:ËÎÌå'>Ò²ÓÐ¼ÓÃÜ£¬µ«ÔÚ</span><span
+     lang=EN-US>PC</span><span style='font-family:ËÎÌå'>Æ½Ì¨ÉÏ</span><span
+     lang=EN-US>flash</span><span style='font-family:ËÎÌå'>¶Ô</span><span
+     lang=EN-US>RTMPE/RTMPS</span><span style='font-family:ËÎÌå'>Ö§³ÖÓ¦¸Ã±È½Ï²»´í¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÎÈ¶¨ÐÔ¸ß£ºÔÚ</span><span
+     lang=EN-US>PC</span><span style='font-family:ËÎÌå'>Æ½Ì¨ÉÏ</span><span
+     lang=EN-US>flash</span><span style='font-family:ËÎÌå'>²¥·ÅµÄ×îÎÈ¶¨·½Ê½ÊÇ</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>£¬Èç¹û×ö</span><span
+     lang=EN-US>CDN</span><span style='font-family:ËÎÌå'>»òÕß´óÖÐÐÍ¼¯Èº·Ö·¢£¬Ñ¡ÔñÎÈ¶¨ÐÔ¸ßµÄÐ­ÒéÒ»¶¨ÊÇ±ØÒªµÄ¡£</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>Ò²ºÜÎÈ¶¨£¬µ«</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>ÊÇÔÚÐ­ÒéÉÏÎÈ¶¨£»ÎÈ¶¨ÐÔ²»Ö»ÊÇ·þÎñ¶ËµÄÊÂÇé£¬ÔÚ¼¯Èº·Ö·¢£¬·þÎñÆ÷¹ÜÀí£¬Ö÷±¸ÇÐ»»£¬¿Í»§¶ËµÄÖ§³ÖÉÏ£¬</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>ÔÚ</span><span
+     lang=EN-US>PC</span><span style='font-family:ËÎÌå'>·Ö·¢ÕâÖÖ·½Ê½ÉÏ»¹ÊÇºÜÓÐÓÅÊÆ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>±àÂëÆ÷½ÓÈë£º±àÂëÆ÷Êä³öµ½»¥ÁªÍø£¨»¹¿ÉÒÔÊä³öÎª</span><span
+     lang=EN-US>udp</span><span style='font-family:ËÎÌå'>×é²¥Ö®Àà¹ãµçÓ¦ÓÃ£©£¬Ö÷ÒªÊÇ</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>¡£Æ©Èç×¨Òµ±àÂëÆ÷£¬»òÕß</span><span
+     lang=EN-US>flash</span><span style='font-family:ËÎÌå'>ÍøÒ³±àÂëÆ÷£¬»òÕß</span><span
+     lang=EN-US>FMLE</span><span style='font-family:ËÎÌå'>£¬»òÕß</span><span
+     lang=EN-US>ffmpeg</span><span style='font-family:ËÎÌå'>£¬¶¼Ö§³Ö</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>Êä³ö¡£ÈôÐèÒª½ÓÈë¶àÖÖÉè±¸£¬Æ©ÈçÌá¹©ÔÆ·þÎñ£»»òÕßÏ£ÍûÍøÒ³Ö±½Ó²É¼¯ÉãÏñÍ·£»»òÕßÄÜÔÚ²»Í¬±àÂëÆ÷Ö®¼äÇÐ»»£¬ÄÇÃ´</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>×÷Îª·þÎñÆ÷µÄÊäÈëÐ­Òé»áÊÇ×îºÃµÄÑ¡Ôñ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÏµÍ³ÈÝ´í£ºÈÝ´íÓÐºÜ¶àÖÖ¼¶±ð£¬</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>µÄ¼¯ÈºÊµÏÖÊ±¿ÉÒÔÖ¸¶¨</span><span
+     lang=EN-US>N</span><span style='font-family:ËÎÌå'>ÉÏ²ã£¬ÔÚ´íÎóÊ±ÇÐ»»²»»áÓ°Ïìµ½ÏÂ²ã»òÕß¿Í»§¶Ë£¬ÁíÍâ</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>µÄÁ÷Ã»ÓÐ±êÊ¶£¬ÇÐµ½ÆäËûµÄ·þÎñÆ÷µÄÁ÷Ò²¿ÉÒÔ¼ÌÐø²¥·Å¡£</span><span
+     lang=EN-US>HLS</span><span style='font-family:ËÎÌå'>µÄÁ÷ÈÈ±¸ÇÐ»»Ã»ÓÐÕâÃ´ÈÝÒ×¡£Èô¶ÔÓÚÖ±²¥µÄÈÝ´íÒªÇó¸ß£¬Æ©Èç½µµÍ³öÎÊÌâµÄ¸ÅÂÊ£¬Ñ¡Ôñ</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>»áÊÇºÜºÃµÄÑ¡Ôñ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>¿É¼à¿Ø£ºÔÚ¼à¿ØÏµÍ³»òÕßÔËÎ¬ÏµÍ³µÄ½Ç¶È¿´£¬Á÷Ð­ÒéÓ¦¸Ã±È½ÏºÏÊÊ¼à¿Ø¡£</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>µÄÁ÷¼à¿Ø¸Ð¾õÃ»ÓÐÄÇÃ´ÍêÉÆ¡£Õâ¸ö²»Ëã¾ø¶ÔÓÅÊÆ£¬µ«±È½ÏÓÐÀû¡£</span></li>
 </ul>
 
-<p><span lang=EN-US>RTMP</span>çš„åŠ£åŠ¿æ˜¯ï¼š</p>
+<p><span lang=EN-US>RTMP</span>µÄÁÓÊÆÊÇ£º</p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>åè®®å¤æ‚ï¼š</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>åè®®æ¯”èµ·</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>å¤æ‚å¾ˆå¤šï¼Œå¯¼è‡´æ€§èƒ½ä½Žä¸‹ã€‚æµ‹è¯•å‘çŽ°ä¸¤å°æœåŠ¡å™¨ç›´è¿ž</span><span
-     lang=EN-US>100Gbps</span><span style='font-family:å®‹ä½“'>ç½‘ç»œä¸­ï¼Œ</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>èƒ½è·‘åˆ°</span><span
-     lang=EN-US>60Gbps</span><span style='font-family:å®‹ä½“'>ï¼Œä½†æ˜¯</span><span
-     lang=EN-US> RTMP</span><span style='font-family:å®‹ä½“'>åªèƒ½è·‘åˆ°</span><span
-     lang=EN-US>10Gbps</span><span style='font-family:å®‹ä½“'>ï¼Œ</span><span
-     lang=EN-US>CPU</span><span style='font-family:å®‹ä½“'>å ç”¨çŽ‡</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>è¦é«˜å¾ˆå¤šã€‚å¤æ‚åè®®å¯¼è‡´åœ¨ç ”å‘ï¼Œæ‰©å±•ï¼Œç»´æŠ¤è½¯ä»¶ç³»ç»Ÿæ—¶éƒ½æ²¡æœ‰</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>é‚£ä¹ˆæ–¹ä¾¿ï¼Œæ‰€ä»¥</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨çŽ°åœ¨å¤§è¡Œå…¶é“ï¼Œ</span><span
-     lang=EN-US>apache/nginx/tomcat</span><span style='font-family:å®‹ä½“'>ï¼Œ</span><span
-     lang=EN-US>N</span><span style='font-family:å®‹ä½“'>å¤š</span><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>æœåŠ¡å™¨ï¼›è€Œ</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>åè®®è™½ç„¶æ—©å°±å…¬å¼€ï¼Œä½†æ˜¯çœŸæ­£åœ¨å¤§è§„æ¨¡ä¸­åˆ†å‘è¡¨çŽ°è‰¯å¥½çš„æ²¡æœ‰ï¼Œ</span><span
-     lang=EN-US>adobe</span><span style='font-family:å®‹ä½“'>è‡ªå·±çš„</span><span
-     lang=EN-US>FMS</span><span style='font-family:å®‹ä½“'>åœ¨</span><span
-     lang=EN-US>CDN</span><span style='font-family:å®‹ä½“'>ä¸­éƒ½ç»å¸¸å‡ºé—®é¢˜ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ð­Òé¸´ÔÓ£º</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>Ð­Òé±ÈÆð</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>¸´ÔÓºÜ¶à£¬µ¼ÖÂÐÔÄÜµÍÏÂ¡£²âÊÔ·¢ÏÖÁ½Ì¨·þÎñÆ÷Ö±Á¬</span><span
+     lang=EN-US>100Gbps</span><span style='font-family:ËÎÌå'>ÍøÂçÖÐ£¬</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>ÄÜÅÜµ½</span><span
+     lang=EN-US>60Gbps</span><span style='font-family:ËÎÌå'>£¬µ«ÊÇ</span><span
+     lang=EN-US> RTMP</span><span style='font-family:ËÎÌå'>Ö»ÄÜÅÜµ½</span><span
+     lang=EN-US>10Gbps</span><span style='font-family:ËÎÌå'>£¬</span><span
+     lang=EN-US>CPU</span><span style='font-family:ËÎÌå'>Õ¼ÓÃÂÊ</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>Òª¸ßºÜ¶à¡£¸´ÔÓÐ­Òéµ¼ÖÂÔÚÑÐ·¢£¬À©Õ¹£¬Î¬»¤Èí¼þÏµÍ³Ê±¶¼Ã»ÓÐ</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>ÄÇÃ´·½±ã£¬ËùÒÔ</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>·þÎñÆ÷ÏÖÔÚ´óÐÐÆäµÀ£¬</span><span
+     lang=EN-US>apache/nginx/tomcat</span><span style='font-family:ËÎÌå'>£¬</span><span
+     lang=EN-US>N</span><span style='font-family:ËÎÌå'>¶à</span><span lang=EN-US>HTTP</span><span
+     style='font-family:ËÎÌå'>·þÎñÆ÷£»¶ø</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>Ð­ÒéËäÈ»Ôç¾Í¹«¿ª£¬µ«ÊÇÕæÕýÔÚ´ó¹æÄ£ÖÐ·Ö·¢±íÏÖÁ¼ºÃµÄÃ»ÓÐ£¬</span><span
+     lang=EN-US>adobe</span><span style='font-family:ËÎÌå'>×Ô¼ºµÄ</span><span
+     lang=EN-US>FMS</span><span style='font-family:ËÎÌå'>ÔÚ</span><span
+     lang=EN-US>CDN</span><span style='font-family:ËÎÌå'>ÖÐ¶¼¾­³£³öÎÊÌâ¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>Cache</span><span
-     style='font-family:å®‹ä½“'>éº»çƒ¦ï¼šæµåè®®åšç¼“å­˜ä¸æ–¹ä¾¿ã€‚è­¬å¦‚ç‚¹æ’­ï¼Œè‹¥åš</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>æµåè®®ï¼Œè¾¹ç¼˜ç¼“å­˜</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>ä¼šå¾ˆéº»çƒ¦ã€‚å¦‚æžœæ˜¯</span><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>ï¼Œç¼“å­˜å…¶å®žä¹Ÿå¾ˆéº»çƒ¦ï¼Œä½†æ˜¯</span><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>æœåŠ¡å™¨çš„ç¼“å­˜å·²ç»åšäº†å¾ˆä¹…ï¼Œæ‰€ä»¥åªéœ€è¦ä½¿ç”¨å°±å¥½ã€‚è¿™æ˜¯ä¸ºä½•ç‚¹æ’­éƒ½èµ°</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>çš„åŽŸå› ã€‚</span></li>
+     style='font-family:ËÎÌå'>Âé·³£ºÁ÷Ð­Òé×ö»º´æ²»·½±ã¡£Æ©Èçµã²¥£¬Èô×ö</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>Á÷Ð­Òé£¬±ßÔµ»º´æ</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>»áºÜÂé·³¡£Èç¹ûÊÇ</span><span lang=EN-US>HTTP</span><span
+     style='font-family:ËÎÌå'>£¬»º´æÆäÊµÒ²ºÜÂé·³£¬µ«ÊÇ</span><span lang=EN-US>HTTP</span><span
+     style='font-family:ËÎÌå'>·þÎñÆ÷µÄ»º´æÒÑ¾­×öÁËºÜ¾Ã£¬ËùÒÔÖ»ÐèÒªÊ¹ÓÃ¾ÍºÃ¡£ÕâÊÇÎªºÎµã²¥¶¼×ß</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>µÄÔ­Òò¡£</span></li>
 </ul>
 
 <h4><a name="_Toc462219461"><span lang=EN-US>HTTP</span></a></h4>
 
-<p><span lang=EN-US>HTTP</span>è¯´çš„æ˜¯<span lang=EN-US>HTTP</span>æµï¼Œè­¬å¦‚å„å¤§è§†é¢‘ç½‘ç«™çš„ç‚¹æ’­æµã€‚</p>
+<p><span lang=EN-US>HTTP</span>ËµµÄÊÇ<span lang=EN-US>HTTP</span>Á÷£¬Æ©Èç¸÷´óÊÓÆµÍøÕ¾µÄµã²¥Á÷¡£</p>
 
-<p><span lang=EN-US>HTTP</span>æœ¬è´¨ä¸Šè¿˜æ˜¯æ–‡ä»¶åˆ†å‘ï¼Œä¸»è¦çš„ä¼˜åŠ¿æ˜¯ï¼š</p>
+<p><span lang=EN-US>HTTP</span>±¾ÖÊÉÏ»¹ÊÇÎÄ¼þ·Ö·¢£¬Ö÷ÒªµÄÓÅÊÆÊÇ£º</p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ€§èƒ½å¾ˆé«˜ï¼š</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>çš„æ€§èƒ½æ²¡å¾—è¯´ï¼Œåè®®ç®€å•ï¼Œå„ç§</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>é«˜æ€§èƒ½æœåŠ¡å™¨ä¹Ÿå®Œå–„ã€‚å¦‚æžœåˆ†å‘çš„é‡ç‰¹åˆ«å¤§ï¼Œè­¬å¦‚ç‚¹æ’­è§†é¢‘ç½‘ç«™ï¼Œæ²¡æœ‰ç›´æ’­çš„å®žæ—¶æ€§è¦æ±‚ï¼Œ</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>åè®®æ˜¯æœ€å¥½é€‰æ‹©ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ²¡æœ‰ç¢Žç‰‡ï¼š</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>æ¯”</span><span
-     lang=EN-US>HLS</span><span style='font-family:å®‹ä½“'>æ²¡æœ‰ç¢Žç‰‡ï¼Œ</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>åˆ†å‘å¤§æ–‡ä»¶ä¼šæ¯”å°æ–‡ä»¶åˆ†å‘æ–¹ä¾¿å¾ˆå¤šã€‚ç‰¹åˆ«æ˜¯å­˜å‚¨ï¼Œå°æ–‡ä»¶çš„æ€§èƒ½è¶…ä½Žï¼Œæ˜¯ä¸ªç¡¬ä¼¤ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ç©¿å¢™ï¼šäº’è”ç½‘ä¸å¯èƒ½ä¸å¼€æ”¾</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>åè®®ï¼Œå¦åˆ™å°±ä¸å«äº’è”ç½‘ã€‚æ‰€ä»¥ä»»ä½•ç«¯å£å°æŽ‰ï¼Œä¹Ÿä¸ä¼šå¯¼è‡´</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>æµçœ‹ä¸äº†ã€‚ï¼ˆä¸è¿‡</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>ä¹Ÿèƒ½ç©¿å¢™ï¼Œç”¨</span><span
-     lang=EN-US>RTMPT</span><span style='font-family:å®‹ä½“'>åè®®ï¼‰ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÐÔÄÜºÜ¸ß£º</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>µÄÐÔÄÜÃ»µÃËµ£¬Ð­Òé¼òµ¥£¬¸÷ÖÖ</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>¸ßÐÔÄÜ·þÎñÆ÷Ò²ÍêÉÆ¡£Èç¹û·Ö·¢µÄÁ¿ÌØ±ð´ó£¬Æ©Èçµã²¥ÊÓÆµÍøÕ¾£¬Ã»ÓÐÖ±²¥µÄÊµÊ±ÐÔÒªÇó£¬</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>Ð­ÒéÊÇ×îºÃÑ¡Ôñ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ã»ÓÐËéÆ¬£º</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>±È</span><span
+     lang=EN-US>HLS</span><span style='font-family:ËÎÌå'>Ã»ÓÐËéÆ¬£¬</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>·Ö·¢´óÎÄ¼þ»á±ÈÐ¡ÎÄ¼þ·Ö·¢·½±ãºÜ¶à¡£ÌØ±ðÊÇ´æ´¢£¬Ð¡ÎÄ¼þµÄÐÔÄÜ³¬µÍ£¬ÊÇ¸öÓ²ÉË¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>´©Ç½£º»¥ÁªÍø²»¿ÉÄÜ²»¿ª·Å</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>Ð­Òé£¬·ñÔò¾Í²»½Ð»¥ÁªÍø¡£ËùÒÔÈÎºÎ¶Ë¿Ú·âµô£¬Ò²²»»áµ¼ÖÂ</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>Á÷¿´²»ÁË¡££¨²»¹ý</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>Ò²ÄÜ´©Ç½£¬ÓÃ</span><span
+     lang=EN-US>RTMPT</span><span style='font-family:ËÎÌå'>Ð­Òé£©¡£</span></li>
 </ul>
 
-<p><span lang=EN-US>HTTP</span>çš„åŠ£åŠ¿æ˜¯ï¼š</p>
+<p><span lang=EN-US>HTTP</span>µÄÁÓÊÆÊÇ£º</p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å®žæ—¶æ€§å·®ï¼šåŸºæœ¬ä¸Šæ²¡æœ‰å®žæ—¶æ€§è¿™ä¸ªè¯´æ³•ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>åŽŸç”Ÿæ”¯æŒä¸å¥½ï¼šå°±</span><span
-     lang=EN-US>PC</span><span style='font-family:å®‹ä½“'>ä¸Š</span><span lang=EN-US>flash</span><span
-     style='font-family:å®‹ä½“'>å¯¹äºŽ</span><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>æµæ”¯æŒè¿˜å¯ä»¥ï¼Œ</span><span lang=EN-US>Android/IOS</span><span
-     style='font-family:å®‹ä½“'>ä¸Šä¼¼ä¹Žåªèƒ½</span><span lang=EN-US>mp4</span><span
-     style='font-family:å®‹ä½“'>ï¼Œæ€»ä¹‹ç§»åŠ¨ç«¯å¯¹äºŽ</span><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>çš„æ”¯æŒä¸æ˜¯å¾ˆå®Œå–„ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÊµÊ±ÐÔ²î£º»ù±¾ÉÏÃ»ÓÐÊµÊ±ÐÔÕâ¸öËµ·¨¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ô­ÉúÖ§³Ö²»ºÃ£º¾Í</span><span
+     lang=EN-US>PC</span><span style='font-family:ËÎÌå'>ÉÏ</span><span lang=EN-US>flash</span><span
+     style='font-family:ËÎÌå'>¶ÔÓÚ</span><span lang=EN-US>HTTP</span><span
+     style='font-family:ËÎÌå'>Á÷Ö§³Ö»¹¿ÉÒÔ£¬</span><span lang=EN-US>Android/IOS</span><span
+     style='font-family:ËÎÌå'>ÉÏËÆºõÖ»ÄÜ</span><span lang=EN-US>mp4</span><span
+     style='font-family:ËÎÌå'>£¬×ÜÖ®ÒÆ¶¯¶Ë¶ÔÓÚ</span><span lang=EN-US>HTTP</span><span
+     style='font-family:ËÎÌå'>µÄÖ§³Ö²»ÊÇºÜÍêÉÆ¡£</span></li>
 </ul>
 
 <h4><a name="_Toc462219462"><span lang=EN-US>HLS</span></a></h4>
 
 <p><span lang=EN-US>H</span><span lang=EN-US style='font-size:10.5pt'>LS</span><span
-style='font-size:10.5pt'>æ˜¯<span lang=EN-US>Apple</span>çš„å¼€æ”¾æ ‡å‡†ï¼Œåœ¨<span lang=EN-US>Android3?</span>ä»¥ä¸Šä¹ŸåŽŸç”Ÿæ”¯æŒ<span
+style='font-size:10.5pt'>ÊÇ<span lang=EN-US>Apple</span>µÄ¿ª·Å±ê×¼£¬ÔÚ<span lang=EN-US>Android3?</span>ÒÔÉÏÒ²Ô­ÉúÖ§³Ö<span
 lang=EN-US>.</span></span></p>
 
 <p><span lang=EN-US style='font-size:10.5pt'>HLS</span><span style='font-size:
-10.5pt'>çš„ä¸»è¦ä¼˜åŠ¿æ˜¯ï¼š</span></p>
+10.5pt'>µÄÖ÷ÒªÓÅÊÆÊÇ£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ€§èƒ½é«˜ï¼šå’Œ</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>ä¸€æ ·ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ç©¿å¢™ï¼šå’Œ</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>ä¸€æ ·ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>åŽŸç”Ÿæ”¯æŒå¾ˆå¥½ï¼š</span><span
-     lang=EN-US>IOS</span><span style='font-family:å®‹ä½“'>ä¸Šæ”¯æŒå®Œç¾Žã€‚</span><span
-     lang=EN-US>Android</span><span style='font-family:å®‹ä½“'>ä¸Šæ”¯æŒå·®äº›ã€‚</span><span
-     lang=EN-US>PC/flash</span><span style='font-family:å®‹ä½“'>ä¸ŠçŽ°åœ¨ä¹Ÿæœ‰å„ç§</span><span
-     lang=EN-US>as</span><span style='font-family:å®‹ä½“'>æ’ä»¶æ”¯æŒ</span><span
-     lang=EN-US>HLS</span><span style='font-family:å®‹ä½“'>ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÐÔÄÜ¸ß£ººÍ</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>Ò»Ñù¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>´©Ç½£ººÍ</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>Ò»Ñù¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ô­ÉúÖ§³ÖºÜºÃ£º</span><span
+     lang=EN-US>IOS</span><span style='font-family:ËÎÌå'>ÉÏÖ§³ÖÍêÃÀ¡£</span><span
+     lang=EN-US>Android</span><span style='font-family:ËÎÌå'>ÉÏÖ§³Ö²îÐ©¡£</span><span
+     lang=EN-US>PC/flash</span><span style='font-family:ËÎÌå'>ÉÏÏÖÔÚÒ²ÓÐ¸÷ÖÖ</span><span
+     lang=EN-US>as</span><span style='font-family:ËÎÌå'>²å¼þÖ§³Ö</span><span
+     lang=EN-US>HLS</span><span style='font-family:ËÎÌå'>¡£</span></li>
 </ul>
 
 <p><span lang=EN-US style='font-size:10.5pt'>HLS</span><span style='font-size:
-10.5pt'>çš„ä¸»è¦åŠ£åŠ¿æ˜¯ï¼š</span></p>
+10.5pt'>µÄÖ÷ÒªÁÓÊÆÊÇ£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å®žæ—¶æ€§å·®ï¼šåŸºæœ¬ä¸Š</span><span
-     lang=EN-US>HLS</span><span style='font-family:å®‹ä½“'>çš„å»¶è¿Ÿåœ¨</span><span
-     lang=EN-US>10</span><span style='font-family:å®‹ä½“'>ç§’ä»¥ä¸Šã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ–‡ä»¶ç¢Žç‰‡ï¼šè‹¥åˆ†å‘</span><span
-     lang=EN-US>HLS</span><span style='font-family:å®‹ä½“'>ï¼Œç æµä½Žï¼Œåˆ‡ç‰‡è¾ƒå°æ—¶ï¼Œå°æ–‡ä»¶åˆ†å‘ä¸æ˜¯å¾ˆå‹å¥½ã€‚ç‰¹åˆ«æ˜¯ä¸€äº›å¯¹å­˜å‚¨æ¯”è¾ƒæ•æ„Ÿçš„æƒ…å†µï¼Œè­¬å¦‚æºç«™çš„å­˜å‚¨ï¼ŒåµŒå…¥å¼çš„</span><span
-     lang=EN-US>SD</span><span style='font-family:å®‹ä½“'>å¡ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÊµÊ±ÐÔ²î£º»ù±¾ÉÏ</span><span
+     lang=EN-US>HLS</span><span style='font-family:ËÎÌå'>µÄÑÓ³ÙÔÚ</span><span
+     lang=EN-US>10</span><span style='font-family:ËÎÌå'>ÃëÒÔÉÏ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÎÄ¼þËéÆ¬£ºÈô·Ö·¢</span><span
+     lang=EN-US>HLS</span><span style='font-family:ËÎÌå'>£¬ÂëÁ÷µÍ£¬ÇÐÆ¬½ÏÐ¡Ê±£¬Ð¡ÎÄ¼þ·Ö·¢²»ÊÇºÜÓÑºÃ¡£ÌØ±ðÊÇÒ»Ð©¶Ô´æ´¢±È½ÏÃô¸ÐµÄÇé¿ö£¬Æ©ÈçÔ´Õ¾µÄ´æ´¢£¬Ç¶ÈëÊ½µÄ</span><span
+     lang=EN-US>SD</span><span style='font-family:ËÎÌå'>¿¨¡£</span></li>
 </ul>
 
 <h4><a name="_Toc462219463"><span style='font-size:10.5pt;line-height:156%;
-font-family:å®‹ä½“'>åº”ç”¨æ–¹å¼</span></a></h4>
+font-family:ËÎÌå'>Ó¦ÓÃ·½Ê½</span></a></h4>
 
-<p><span style='font-size:10.5pt'>æŽ¨èçš„æ–¹å¼æ˜¯ï¼š</span></p>
+<p><span style='font-size:10.5pt'>ÍÆ¼öµÄ·½Ê½ÊÇ£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ç¼–ç å™¨è¾“å‡º</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>åè®®ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æµåª’ä½“ç³»ç»ŸæŽ¥å…¥ä½¿ç”¨</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>åè®®ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æµåª’ä½“ç³»ç»Ÿå†…éƒ¨ç›´æ’­åˆ†å‘ä½¿ç”¨</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>±àÂëÆ÷Êä³ö</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>Ð­Òé¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Á÷Ã½ÌåÏµÍ³½ÓÈëÊ¹ÓÃ</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>Ð­Òé¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Á÷Ã½ÌåÏµÍ³ÄÚ²¿Ö±²¥·Ö·¢Ê¹ÓÃ</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>PC+</span><span
-     style='font-family:å®‹ä½“'>ç›´æ’­</span><span lang=EN-US>+</span><span
-     style='font-family:å®‹ä½“'>å®žæ—¶æ€§è¦æ±‚é«˜ï¼šä½¿ç”¨</span><span lang=EN-US>flash</span><span
-     style='font-family:å®‹ä½“'>æ’­æ”¾</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>ã€‚</span></li>
+     style='font-family:ËÎÌå'>Ö±²¥</span><span lang=EN-US>+</span><span
+     style='font-family:ËÎÌå'>ÊµÊ±ÐÔÒªÇó¸ß£ºÊ¹ÓÃ</span><span lang=EN-US>flash</span><span
+     style='font-family:ËÎÌå'>²¥·Å</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>PC+</span><span
-     style='font-family:å®‹ä½“'>ç›´æ’­</span><span lang=EN-US>+</span><span
-     style='font-family:å®‹ä½“'>æ²¡æœ‰å®žæ—¶æ€§è¦æ±‚ï¼šä½¿ç”¨</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>æˆ–è€…</span><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>å‡å¯ã€‚</span></li>
+     style='font-family:ËÎÌå'>Ö±²¥</span><span lang=EN-US>+</span><span
+     style='font-family:ËÎÌå'>Ã»ÓÐÊµÊ±ÐÔÒªÇó£ºÊ¹ÓÃ</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>»òÕß</span><span lang=EN-US>HLS</span><span
+     style='font-family:ËÎÌå'>¾ù¿É¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>PC+</span><span
-     style='font-family:å®‹ä½“'>ç‚¹æ’­ï¼šä½¿ç”¨</span><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>æˆ–è€…</span><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>ã€‚</span></li>
+     style='font-family:ËÎÌå'>µã²¥£ºÊ¹ÓÃ</span><span lang=EN-US>HTTP</span><span
+     style='font-family:ËÎÌå'>»òÕß</span><span lang=EN-US>HLS</span><span
+     style='font-family:ËÎÌå'>¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>Apple IOS/OSX</span><span
-     style='font-family:å®‹ä½“'>ï¼šéƒ½ä½¿ç”¨</span><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>ï¼ˆå®žæ—¶æ€§è¦æ±‚é«˜å¾—è‡ªå·±è§£æž</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>ï¼Œæˆ–è€…ä½¿ç”¨å¤–éƒ¨åº“ï¼Œè­¬å¦‚</span><span lang=EN-US><a
+     style='font-family:ËÎÌå'>£º¶¼Ê¹ÓÃ</span><span lang=EN-US>HLS</span><span
+     style='font-family:ËÎÌå'>£¨ÊµÊ±ÐÔÒªÇó¸ßµÃ×Ô¼º½âÎö</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>£¬»òÕßÊ¹ÓÃÍâ²¿¿â£¬Æ©Èç</span><span lang=EN-US><a
      href="https://www.vitamio.org">https://www.vitamio.org</a></span><span
-     lang=EN-US>, </span><span style='font-family:å®‹ä½“'>å¼€æºæ’­æ”¾å™¨</span><span
+     lang=EN-US>, </span><span style='font-family:ËÎÌå'>¿ªÔ´²¥·ÅÆ÷</span><span
      lang=EN-US>ijkplayer : </span><span lang=EN-US><a
      href="https://github.com/Bilibili/ijkplayer">https://github.com/Bilibili/ijkplayer</a></span><span
-     style='font-family:å®‹ä½“'>ï¼‰</span></li>
+     style='font-family:ËÎÌå'>£©</span></li>
 </ul>
 
 <p class=MsoNormal><span lang=EN-US>Andorid</span><span style='font-family:
-å®‹ä½“'>ï¼šå’Œ</span><span lang=EN-US>IOS</span><span style='font-family:å®‹ä½“'>ä¸€æ ·ï¼Œä¸è¿‡å¯ä»¥ç¡®å®šçš„æ˜¯å¯ä»¥è‡ªå·±å¼€å‘æ”¯æŒ</span><span
-lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>ã€‚</span></p>
+ËÎÌå'>£ººÍ</span><span lang=EN-US>IOS</span><span style='font-family:ËÎÌå'>Ò»Ñù£¬²»¹ý¿ÉÒÔÈ·¶¨µÄÊÇ¿ÉÒÔ×Ô¼º¿ª·¢Ö§³Ö</span><span
+lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>¡£</span></p>
 
 <h2><a name="_Toc26097960"></a><a name="_Toc462219464"></a><a
-name="_Toc456260521"><span style='font-family:å®‹ä½“'>é›†ç¾¤ä¸Ž</span><span lang=EN-US>CDN</span></a><span
-style='font-family:å®‹ä½“'>ç›¸å…³åŠŸèƒ½</span></h2>
+name="_Toc456260521"><span style='font-family:ËÎÌå'>¼¯ÈºÓë</span><span lang=EN-US>CDN</span></a><span
+style='font-family:ËÎÌå'>Ïà¹Ø¹¦ÄÜ</span></h2>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>åŒ…å«æ”¯å¤§è§„æ¨¡é›†ç¾¤å¦‚</span><span lang=EN-US>CDN</span><span
-style='font-family:å®‹ä½“'>ä¸šåŠ¡çš„å…³é”®ç‰¹æ€§ï¼Œè­¬å¦‚</span><span lang=EN-US>RTMP</span><span
-style='font-family:å®‹ä½“'>å¤šçº§é›†ç¾¤ã€</span><span lang=EN-US>VHOST</span><span
-style='font-family:å®‹ä½“'>è™šæ‹ŸæœåŠ¡å™¨ã€æ— ä¸­æ–­æœåŠ¡</span><span lang=EN-US>Reload</span><span
-style='font-family:å®‹ä½“'>ã€</span><span lang=EN-US>HTTP-FLV</span><span
-style='font-family:å®‹ä½“'>é›†ç¾¤ã€</span><span lang=EN-US>Kafka</span><span
-style='font-family:å®‹ä½“'>å¯¹æŽ¥ã€‚</span></p>
+style='font-family:ËÎÌå'>°üº¬Ö§´ó¹æÄ£¼¯ÈºÈç</span><span lang=EN-US>CDN</span><span
+style='font-family:ËÎÌå'>ÒµÎñµÄ¹Ø¼üÌØÐÔ£¬Æ©Èç</span><span lang=EN-US>RTMP</span><span
+style='font-family:ËÎÌå'>¶à¼¶¼¯Èº¡¢</span><span lang=EN-US>VHOST</span><span
+style='font-family:ËÎÌå'>ÐéÄâ·þÎñÆ÷¡¢ÎÞÖÐ¶Ï·þÎñ</span><span lang=EN-US>Reload</span><span
+style='font-family:ËÎÌå'>¡¢</span><span lang=EN-US>HTTP-FLV</span><span
+style='font-family:ËÎÌå'>¼¯Èº¡¢</span><span lang=EN-US>Kafka</span><span
+style='font-family:ËÎÌå'>¶Ô½Ó¡£</span></p>
 
 <h3><a name="_Toc26097961"></a><a name="_Toc462219465"></a><a
 name="_Toc456260522"><span lang=EN-US>RTMP</span></a><span style='font-family:
-å®‹ä½“'>å¤šçº§é›†ç¾¤</span></h3>
+ËÎÌå'>¶à¼¶¼¯Èº</span></h3>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>å¯ä»¥ä½¿ç”¨</span><span lang=EN-US>edge</span><span
-style='font-family:å®‹ä½“'>æ­å»ºå¤§è§„æ¨¡é›†ç¾¤ï¼Œä½¿ç”¨</span><span lang=EN-US>forward</span><span
-style='font-family:å®‹ä½“'>æ­å»ºå°è§„æ¨¡é›†ç¾¤ã€‚</span></p>
+style='font-family:ËÎÌå'>¿ÉÒÔÊ¹ÓÃ</span><span lang=EN-US>edge</span><span
+style='font-family:ËÎÌå'>´î½¨´ó¹æÄ£¼¯Èº£¬Ê¹ÓÃ</span><span lang=EN-US>forward</span><span
+style='font-family:ËÎÌå'>´î½¨Ð¡¹æÄ£¼¯Èº¡£</span></p>
 
 <h4><a name="_Toc462219466"><span lang=EN-US>Edge</span></a><span
-style='font-family:å®‹ä½“'>è¾¹ç¼˜æœåŠ¡å™¨</span></h4>
+style='font-family:ËÎÌå'>±ßÔµ·þÎñÆ÷</span></h4>
 
 <p><span lang=EN-US>&nbsp;&nbsp;&nbsp; </span><span lang=EN-US
-style='font-size:10.5pt'>SRS</span><span style='font-size:10.5pt'>çš„<span
-lang=EN-US>Edge</span>æä¾›è®¿é—®æ—¶å›žæºæœºåˆ¶ï¼Œåœ¨<span lang=EN-US>CDN/VDN</span>ç­‰æµä¼—å¤šçš„åº”ç”¨åœºæ™¯ä¸­æœ‰é‡å¤§æ„ä¹‰ï¼Œ
-<span lang=EN-US>forward/ingest</span>æ–¹æ¡ˆä¼šé€ æˆå¤§é‡å¸¦å®½æµªè´¹ã€‚åŒæ—¶ï¼Œ<span lang=EN-US>SRS</span>çš„<span
-lang=EN-US>Edge</span>èƒ½å¯¹æŽ¥æ‰€æœ‰çš„<span lang=EN-US>RTMP</span>æºç«™æœåŠ¡å™¨ï¼Œ ä¸åƒ<span
-lang=EN-US>FMS</span>çš„<span lang=EN-US>Edge</span>åªèƒ½å¯¹æŽ¥<span lang=EN-US>FMS</span>æºç«™ï¼ˆæœ‰ç§æœ‰åè®®ï¼‰ï¼›å¦å¤–ï¼Œ<span
-lang=EN-US>SRS</span>çš„<span lang=EN-US>Edge</span>æ”¯æŒ<span lang=EN-US>SRS</span>æºç«™çš„æ‰€æœ‰é€»è¾‘
-ï¼ˆè­¬å¦‚è½¬ç ï¼Œè½¬å‘ï¼Œ<span lang=EN-US>HLS</span>ï¼Œ<span lang=EN-US>DVR</span>ç­‰ç­‰ï¼‰ï¼Œä¹Ÿå°±æ˜¯è¯´å¯ä»¥é€‰æ‹©åœ¨æºç«™åˆ‡ç‰‡<span
-lang=EN-US>HLS</span>ï¼Œä¹Ÿå¯ä»¥ç›´æŽ¥åœ¨è¾¹ç¼˜åˆ‡ç‰‡<span lang=EN-US>HLS</span>ã€‚</span></p>
+style='font-size:10.5pt'>SRS</span><span style='font-size:10.5pt'>µÄ<span
+lang=EN-US>Edge</span>Ìá¹©·ÃÎÊÊ±»ØÔ´»úÖÆ£¬ÔÚ<span lang=EN-US>CDN/VDN</span>µÈÁ÷ÖÚ¶àµÄÓ¦ÓÃ³¡¾°ÖÐÓÐÖØ´óÒâÒå£¬<span
+lang=EN-US> forward/ingest</span>·½°¸»áÔì³É´óÁ¿´ø¿íÀË·Ñ¡£Í¬Ê±£¬<span lang=EN-US>SRS</span>µÄ<span
+lang=EN-US>Edge</span>ÄÜ¶Ô½ÓËùÓÐµÄ<span lang=EN-US>RTMP</span>Ô´Õ¾·þÎñÆ÷£¬ ²»Ïñ<span
+lang=EN-US>FMS</span>µÄ<span lang=EN-US>Edge</span>Ö»ÄÜ¶Ô½Ó<span lang=EN-US>FMS</span>Ô´Õ¾£¨ÓÐË½ÓÐÐ­Òé£©£»ÁíÍâ£¬<span
+lang=EN-US>SRS</span>µÄ<span lang=EN-US>Edge</span>Ö§³Ö<span lang=EN-US>SRS</span>Ô´Õ¾µÄËùÓÐÂß¼­
+£¨Æ©Èç×ªÂë£¬×ª·¢£¬<span lang=EN-US>HLS</span>£¬<span lang=EN-US>DVR</span>µÈµÈ£©£¬Ò²¾ÍÊÇËµ¿ÉÒÔÑ¡ÔñÔÚÔ´Õ¾ÇÐÆ¬<span
+lang=EN-US>HLS</span>£¬Ò²¿ÉÒÔÖ±½ÓÔÚ±ßÔµÇÐÆ¬<span lang=EN-US>HLS</span>¡£</span></p>
 
-<p><span style='font-size:10.5pt'>å¤‡æ³¨ï¼š<span lang=EN-US>Edge</span>ä¸€èˆ¬è´Ÿè½½é«˜ï¼Œ<span
-lang=EN-US>SRS</span>æ”¯æŒçš„å¹¶å‘è¶³å¤Ÿè·‘æ»¡åƒå…†ç½‘å¸¦å®½äº†ã€‚</span></p>
+<p><span style='font-size:10.5pt'>±¸×¢£º<span lang=EN-US>Edge</span>Ò»°ã¸ºÔØ¸ß£¬<span
+lang=EN-US>SRS</span>Ö§³ÖµÄ²¢·¢×ã¹»ÅÜÂúÇ§Õ×Íø´ø¿íÁË¡£</span></p>
 
 <p><span lang=EN-US style='font-size:10.5pt'>Edge</span><span style='font-size:
-10.5pt'>çš„ä¸»è¦åº”ç”¨åœºæ™¯ï¼š</span></p>
+10.5pt'>µÄÖ÷ÒªÓ¦ÓÃ³¡¾°£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>CDN/VDN</span><span
-     style='font-family:å®‹ä½“'>å¤§è§„æ¨¡é›†ç¾¤ï¼Œå®¢æˆ·ä¼—å¤šæµä¼—å¤šéœ€è¦æŒ‰éœ€å›žæºã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å°è§„æ¨¡é›†ç¾¤ï¼Œä½†æ˜¯æµæ¯”è¾ƒå¤šï¼Œéœ€è¦æŒ‰éœ€å›žæºã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>éª¨å¹²å¸¦å®½ä½Žï¼Œè¾¹ç¼˜æœåŠ¡å™¨å¼ºæ‚ï¼Œå¯ä»¥ä½¿ç”¨å¤šå±‚</span><span
-     lang=EN-US>edge</span><span style='font-family:å®‹ä½“'>ï¼Œé™ä½Žä¸Šå±‚</span><span
-     lang=EN-US>BGP</span><span style='font-family:å®‹ä½“'>å¸¦å®½ã€‚</span></li>
+     style='font-family:ËÎÌå'>´ó¹æÄ£¼¯Èº£¬¿Í»§ÖÚ¶àÁ÷ÖÚ¶àÐèÒª°´Ðè»ØÔ´¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ð¡¹æÄ£¼¯Èº£¬µ«ÊÇÁ÷±È½Ï¶à£¬ÐèÒª°´Ðè»ØÔ´¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>¹Ç¸É´ø¿íµÍ£¬±ßÔµ·þÎñÆ÷Ç¿º·£¬¿ÉÒÔÊ¹ÓÃ¶à²ã</span><span
+     lang=EN-US>edge</span><span style='font-family:ËÎÌå'>£¬½µµÍÉÏ²ã</span><span
+     lang=EN-US>BGP</span><span style='font-family:ËÎÌå'>´ø¿í¡£</span></li>
 </ul>
 
-<p><span style='font-size:10.5pt'>æ³¨æ„ï¼š<span lang=EN-US>edge</span>å¯ä»¥ä»Žæºç«™æ‹‰æµï¼Œä¹Ÿå¯ä»¥å°†æµè½¬å‘ç»™æºç«™ã€‚ä¹Ÿå°±æ˜¯è¯´ï¼Œæ’­æ”¾<span
-lang=EN-US>edge</span>ä¸Šçš„æµæ—¶ï¼Œ<span lang=EN-US>edge</span>ä¼šå›žæºæ‹‰æµï¼›æŽ¨æµåˆ°<span
-lang=EN-US>edge</span>ä¸Šæ—¶ï¼Œ<span lang=EN-US>edge</span>ä¼šç›´æŽ¥å°†æµè½¬å‘ç»™æºç«™ã€‚</span></p>
+<p><span style='font-size:10.5pt'>×¢Òâ£º<span lang=EN-US>edge</span>¿ÉÒÔ´ÓÔ´Õ¾À­Á÷£¬Ò²¿ÉÒÔ½«Á÷×ª·¢¸øÔ´Õ¾¡£Ò²¾ÍÊÇËµ£¬²¥·Å<span
+lang=EN-US>edge</span>ÉÏµÄÁ÷Ê±£¬<span lang=EN-US>edge</span>»á»ØÔ´À­Á÷£»ÍÆÁ÷µ½<span
+lang=EN-US>edge</span>ÉÏÊ±£¬<span lang=EN-US>edge</span>»áÖ±½Ó½«Á÷×ª·¢¸øÔ´Õ¾¡£</span></p>
 
-<p><span style='font-size:10.5pt'>æ³¨æ„ï¼šè‹¥åªéœ€è¦ä¸­è½¬æµç»™æºç«™ï¼Œä¸å¿…ç”¨<span lang=EN-US>forward</span>ï¼Œç›´æŽ¥ä½¿ç”¨<span
-lang=EN-US>edge</span>æ¨¡å¼å³å¯ã€‚å¯ä»¥ç›´æŽ¥æ”¯æŒæŽ¨æµ å’Œæ‹‰æµçš„ä¸­è½¬ï¼Œç®€å•å¿«æ·ã€‚<span lang=EN-US>Forward</span>åº”ç”¨äºŽç›®æ ‡æœåŠ¡å™¨æ˜¯å¤šä¸ªï¼Œè­¬å¦‚å°†ä¸€è·¯æµä¸»åŠ¨é€ç»™å¤šè·¯æœåŠ¡å™¨ï¼›<span
-lang=EN-US>edge</span>è™½ç„¶é…ç½®äº†å¤šå°æœåŠ¡å™¨ï¼Œä½†æ˜¯åªç”¨äº†ä¸€å°ï¼Œæœ‰æ•…éšœæ—¶æ‰åˆ‡æ¢ã€‚</span></p>
+<p><span style='font-size:10.5pt'>×¢Òâ£ºÈôÖ»ÐèÒªÖÐ×ªÁ÷¸øÔ´Õ¾£¬²»±ØÓÃ<span lang=EN-US>forward</span>£¬Ö±½ÓÊ¹ÓÃ<span
+lang=EN-US>edge</span>Ä£Ê½¼´¿É¡£¿ÉÒÔÖ±½ÓÖ§³ÖÍÆÁ÷ ºÍÀ­Á÷µÄÖÐ×ª£¬¼òµ¥¿ì½Ý¡£<span lang=EN-US>Forward</span>Ó¦ÓÃÓÚÄ¿±ê·þÎñÆ÷ÊÇ¶à¸ö£¬Æ©Èç½«Ò»Â·Á÷Ö÷¶¯ËÍ¸ø¶àÂ··þÎñÆ÷£»<span
+lang=EN-US>edge</span>ËäÈ»ÅäÖÃÁË¶àÌ¨·þÎñÆ÷£¬µ«ÊÇÖ»ÓÃÁËÒ»Ì¨£¬ÓÐ¹ÊÕÏÊ±²ÅÇÐ»»¡£</span></p>
 
-<p><span style='font-size:10.5pt'>æ³¨æ„ï¼šä¼˜å…ˆä½¿ç”¨<span lang=EN-US>edge</span>ï¼Œé™¤éžçŸ¥é“å¿…é¡»ç”¨<span
-lang=EN-US>forward</span>ï¼Œæ‰ä½¿ç”¨<span lang=EN-US>forward</span>ã€‚</span></p>
+<p><span style='font-size:10.5pt'>×¢Òâ£ºÓÅÏÈÊ¹ÓÃ<span lang=EN-US>edge</span>£¬³ý·ÇÖªµÀ±ØÐëÓÃ<span
+lang=EN-US>forward</span>£¬²ÅÊ¹ÓÃ<span lang=EN-US>forward</span>¡£</span></p>
 
-<h5><span style='font-family:å®‹ä½“'>æ¦‚å¿µ</span></h5>
+<h5><span style='font-family:ËÎÌå'>¸ÅÄî</span></h5>
 
-<p><span style='font-size:10.5pt'>æ‰€è°“è¾¹ç¼˜<span lang=EN-US>edge</span>æœåŠ¡å™¨ï¼Œå°±æ˜¯è¾¹ç¼˜ç›´æ’­ç¼“å­˜æœåŠ¡å™¨ï¼Œé…ç½®æ—¶æŒ‡å®šä¸º<span
-lang=EN-US>remote</span>æ¨¡å¼å’Œ<span lang=EN-US>origin</span>ï¼ˆæŒ‡å®šä¸€ä¸ªæˆ–å¤šä¸ªæºç«™<span
-lang=EN-US>IP</span>ï¼‰ï¼Œè¿™ä¸ªè¾¹ç¼˜<span lang=EN-US>edge</span>æœåŠ¡å™¨å°±æ˜¯æºç«™çš„ç¼“å­˜äº†ã€‚</span></p>
+<p><span style='font-size:10.5pt'>ËùÎ½±ßÔµ<span lang=EN-US>edge</span>·þÎñÆ÷£¬¾ÍÊÇ±ßÔµÖ±²¥»º´æ·þÎñÆ÷£¬ÅäÖÃÊ±Ö¸¶¨Îª<span
+lang=EN-US>remote</span>Ä£Ê½ºÍ<span lang=EN-US>origin</span>£¨Ö¸¶¨Ò»¸ö»ò¶à¸öÔ´Õ¾<span
+lang=EN-US>IP</span>£©£¬Õâ¸ö±ßÔµ<span lang=EN-US>edge</span>·þÎñÆ÷¾ÍÊÇÔ´Õ¾µÄ»º´æÁË¡£</span></p>
 
-<p><span style='font-size:10.5pt'>å½“ç”¨æˆ·æŽ¨æµåˆ°è¾¹ç¼˜æœåŠ¡å™¨æ—¶ï¼Œè¾¹ç¼˜ç›´æŽ¥å°†æµè½¬å‘ç»™æºç«™ã€‚è­¬å¦‚æºç«™åœ¨åŒ—äº¬<span
-lang=EN-US>BGP</span>æœºæˆ¿ï¼Œæ¹–å—æœ‰ä¸ªç”µä¿¡<span lang=EN-US>ADSL</span>ç”¨æˆ·è¦æŽ¨æµå‘å¸ƒè‡ªå·±çš„ç›´æ’­æµï¼Œè¦æ˜¯ç›´æŽ¥æŽ¨æµåˆ°åŒ—äº¬<span
-lang=EN-US>BGP</span>å¯èƒ½æ•ˆæžœä¸æ˜¯å¾ˆå¥½ï¼Œå¯ä»¥åœ¨æ¹–å—ç”µä¿¡æœºæˆ¿éƒ¨ç½²ä¸€ä¸ªè¾¹ç¼˜ï¼Œç”¨æˆ·æŽ¨æµåˆ°æ¹–å—è¾¹ç¼˜ï¼Œè¾¹ç¼˜è½¬å‘ç»™åŒ—äº¬æºç«™<span
-lang=EN-US>BGP</span>ã€‚</span></p>
+<p><span style='font-size:10.5pt'>µ±ÓÃ»§ÍÆÁ÷µ½±ßÔµ·þÎñÆ÷Ê±£¬±ßÔµÖ±½Ó½«Á÷×ª·¢¸øÔ´Õ¾¡£Æ©ÈçÔ´Õ¾ÔÚ±±¾©<span
+lang=EN-US>BGP</span>»ú·¿£¬ºþÄÏÓÐ¸öµçÐÅ<span lang=EN-US>ADSL</span>ÓÃ»§ÒªÍÆÁ÷·¢²¼×Ô¼ºµÄÖ±²¥Á÷£¬ÒªÊÇÖ±½ÓÍÆÁ÷µ½±±¾©<span
+lang=EN-US>BGP</span>¿ÉÄÜÐ§¹û²»ÊÇºÜºÃ£¬¿ÉÒÔÔÚºþÄÏµçÐÅ»ú·¿²¿ÊðÒ»¸ö±ßÔµ£¬ÓÃ»§ÍÆÁ÷µ½ºþÄÏ±ßÔµ£¬±ßÔµ×ª·¢¸ø±±¾©Ô´Õ¾<span
+lang=EN-US>BGP</span>¡£</span></p>
 
-<p><span style='font-size:10.5pt'>å½“ç”¨æˆ·æ’­æ”¾è¾¹ç¼˜æœåŠ¡å™¨çš„æµæ—¶ï¼Œè¾¹ç¼˜æœåŠ¡å™¨çœ‹æœ‰æ²¡æœ‰ç¼“å­˜ï¼Œè‹¥ç¼“å­˜äº†å°±ç›´æŽ¥å°†æµå‘ç»™å®¢æˆ·ç«¯ã€‚ è‹¥æ²¡æœ‰ç¼“å­˜ï¼Œåˆ™å‘èµ·ä¸€è·¯å›žæºé“¾æŽ¥ï¼Œä»Žæºç«™å–æ•°æ®æºæºä¸æ–­æ”¾åˆ°è‡ªå·±çš„ç¼“å­˜é˜Ÿåˆ—ã€‚ä¹Ÿå°±æ˜¯è¯´ï¼Œ
-å¤šä¸ªå®¢æˆ·ç«¯è¿žæŽ¥åˆ°è¾¹ç¼˜æ—¶ï¼Œåªæœ‰ä¸€è·¯å›žæºã€‚è¿™ç§ç»“æž„åœ¨<span lang=EN-US>CDN</span>æ˜¯æœ€å…¸åž‹çš„éƒ¨ç½²ç»“æž„ã€‚è­¬å¦‚åŒ—äº¬æºç«™ï¼Œåœ¨å…¨å›½<span
-lang=EN-US>32</span>ä¸ªçœæ¯ä¸ªçœéƒ½éƒ¨ç½²äº†<span lang=EN-US>10</span>å°æœåŠ¡å™¨ï¼Œä¸€å…±å°±æœ‰<span
-lang=EN-US>320</span>å°è¾¹ç¼˜ï¼Œå‡è®¾æ¯ä¸ªçœ<span lang=EN-US>1</span>å°è¾¹ç¼˜æœåŠ¡å™¨éƒ½æœ‰<span
-lang=EN-US> 2000</span>ç”¨æˆ·è§‚çœ‹ï¼Œé‚£ä¹ˆå°±æœ‰<span lang=EN-US>64</span>ä¸‡ç”¨æˆ·ï¼Œæ¯ç§’é’Ÿé›†ç¾¤å‘é€<span
-lang=EN-US>640Gbps</span>æ•°æ®ï¼›è€Œå›žæºé“¾æŽ¥åªæœ‰<span lang=EN-US>320</span>ä¸ªï¼Œ å®žçŽ°äº†å¤§è§„æ¨¡åˆ†å‘ã€‚</span></p>
+<p><span style='font-size:10.5pt'>µ±ÓÃ»§²¥·Å±ßÔµ·þÎñÆ÷µÄÁ÷Ê±£¬±ßÔµ·þÎñÆ÷¿´ÓÐÃ»ÓÐ»º´æ£¬Èô»º´æÁË¾ÍÖ±½Ó½«Á÷·¢¸ø¿Í»§¶Ë¡£ ÈôÃ»ÓÐ»º´æ£¬Ôò·¢ÆðÒ»Â·»ØÔ´Á´½Ó£¬´ÓÔ´Õ¾È¡Êý¾ÝÔ´Ô´²»¶Ï·Åµ½×Ô¼ºµÄ»º´æ¶ÓÁÐ¡£Ò²¾ÍÊÇËµ£¬
+¶à¸ö¿Í»§¶ËÁ¬½Óµ½±ßÔµÊ±£¬Ö»ÓÐÒ»Â·»ØÔ´¡£ÕâÖÖ½á¹¹ÔÚ<span lang=EN-US>CDN</span>ÊÇ×îµäÐÍµÄ²¿Êð½á¹¹¡£Æ©Èç±±¾©Ô´Õ¾£¬ÔÚÈ«¹ú<span
+lang=EN-US>32</span>¸öÊ¡Ã¿¸öÊ¡¶¼²¿ÊðÁË<span lang=EN-US>10</span>Ì¨·þÎñÆ÷£¬Ò»¹²¾ÍÓÐ<span
+lang=EN-US>320</span>Ì¨±ßÔµ£¬¼ÙÉèÃ¿¸öÊ¡<span lang=EN-US>1</span>Ì¨±ßÔµ·þÎñÆ÷¶¼ÓÐ<span
+lang=EN-US> 2000</span>ÓÃ»§¹Û¿´£¬ÄÇÃ´¾ÍÓÐ<span lang=EN-US>64</span>ÍòÓÃ»§£¬Ã¿ÃëÖÓ¼¯Èº·¢ËÍ<span
+lang=EN-US>640Gbps</span>Êý¾Ý£»¶ø»ØÔ´Á´½ÓÖ»ÓÐ<span lang=EN-US>320</span>¸ö£¬ ÊµÏÖÁË´ó¹æÄ£·Ö·¢¡£</span></p>
 
-<p><span style='font-size:10.5pt'>è¾¹ç¼˜<span lang=EN-US>edge</span>æœåŠ¡å™¨ï¼Œå®žé™…ä¸Šæ˜¯è§£å†³å¤§å¹¶å‘é—®é¢˜äº§ç”Ÿçš„åˆ†å¸ƒå¼é›†ç¾¤ç»“æž„ã€‚<span
-lang=EN-US>SRS</span>çš„è¾¹ç¼˜å¯ä»¥æŒ‡å®šå¤šä¸ªæºç«™ï¼Œ åœ¨æºç«™å‡ºçŽ°æ•…éšœæ—¶ä¼šè‡ªåŠ¨åˆ‡æ¢åˆ°ä¸‹ä¸€ä¸ªæºç«™ï¼Œä¸å½±å“ç”¨æˆ·è§‚çœ‹ï¼Œå…·æœ‰æœ€ä½³çš„å®¹é”™æ€§ï¼Œç”¨æˆ·å®Œå…¨ä¸ä¼šè§‰å¯Ÿã€‚</span></p>
+<p><span style='font-size:10.5pt'>±ßÔµ<span lang=EN-US>edge</span>·þÎñÆ÷£¬Êµ¼ÊÉÏÊÇ½â¾ö´ó²¢·¢ÎÊÌâ²úÉúµÄ·Ö²¼Ê½¼¯Èº½á¹¹¡£<span
+lang=EN-US>SRS</span>µÄ±ßÔµ¿ÉÒÔÖ¸¶¨¶à¸öÔ´Õ¾£¬ ÔÚÔ´Õ¾³öÏÖ¹ÊÕÏÊ±»á×Ô¶¯ÇÐ»»µ½ÏÂÒ»¸öÔ´Õ¾£¬²»Ó°ÏìÓÃ»§¹Û¿´£¬¾ßÓÐ×î¼ÑµÄÈÝ´íÐÔ£¬ÓÃ»§ÍêÈ«²»»á¾õ²ì¡£</span></p>
 
-<h5><span lang=EN-US>HLS</span><span style='font-family:å®‹ä½“'>è¾¹ç¼˜</span></h5>
+<h5><span lang=EN-US>HLS</span><span style='font-family:ËÎÌå'>±ßÔµ</span></h5>
 
 <p><span lang=EN-US style='font-size:10.5pt'>Edge</span><span style='font-size:
-10.5pt'>æŒ‡çš„æ˜¯<span lang=EN-US>RTMP</span>è¾¹ç¼˜ï¼Œä¹Ÿå°±æ˜¯è¯´ï¼Œé…ç½®ä¸º<span lang=EN-US>Edge</span>åŽï¼ŒæµæŽ¨é€åˆ°æºç«™ï¼ˆ<span
-lang=EN-US>Origin</span>ï¼‰æ—¶ï¼Œ<span lang=EN-US>Edge</span>ä¸ä¼šåˆ‡ç‰‡ç”Ÿæˆ<span lang=EN-US>HLS</span>ã€‚</span></p>
+10.5pt'>Ö¸µÄÊÇ<span lang=EN-US>RTMP</span>±ßÔµ£¬Ò²¾ÍÊÇËµ£¬ÅäÖÃÎª<span lang=EN-US>Edge</span>ºó£¬Á÷ÍÆËÍµ½Ô´Õ¾£¨<span
+lang=EN-US>Origin</span>£©Ê±£¬<span lang=EN-US>Edge</span>²»»áÇÐÆ¬Éú³É<span lang=EN-US>HLS</span>¡£</span></p>
 
 <p><span lang=EN-US style='font-size:10.5pt'>HLS</span><span style='font-size:
-10.5pt'>åˆ‡ç‰‡é…ç½®åœ¨æºç«™ï¼Œåªæœ‰æºç«™ä¼šåœ¨æŽ¨æµä¸Šæ¥å°±äº§ç”Ÿ<span lang=EN-US>HLS</span>åˆ‡ç‰‡ã€‚è¾¹ç¼˜åªæœ‰åœ¨è®¿é—®æ—¶æ‰ä¼šå›žæºï¼ˆè¿™ä¸ªæ—¶å€™ ä¹Ÿä¼šç”Ÿæˆ<span
-lang=EN-US>HLS</span>ï¼Œä½†å•ç‹¬è®¿é—®è¾¹ç¼˜çš„<span lang=EN-US>HLS</span>æ˜¯ä¸è¡Œçš„ï¼‰ã€‚</span></p>
+10.5pt'>ÇÐÆ¬ÅäÖÃÔÚÔ´Õ¾£¬Ö»ÓÐÔ´Õ¾»áÔÚÍÆÁ÷ÉÏÀ´¾Í²úÉú<span lang=EN-US>HLS</span>ÇÐÆ¬¡£±ßÔµÖ»ÓÐÔÚ·ÃÎÊÊ±²Å»á»ØÔ´£¨Õâ¸öÊ±ºò Ò²»áÉú³É<span
+lang=EN-US>HLS</span>£¬µ«µ¥¶À·ÃÎÊ±ßÔµµÄ<span lang=EN-US>HLS</span>ÊÇ²»ÐÐµÄ£©¡£</span></p>
 
-<p><span style='font-size:10.5pt'>ä¹Ÿå°±æ˜¯è¯´ï¼Œ<span lang=EN-US>HLS</span>çš„è¾¹ç¼˜éœ€è¦ä½¿ç”¨<span
-lang=EN-US>WEB</span>æœåŠ¡å™¨ç¼“å­˜ï¼Œè­¬å¦‚<span lang=EN-US>nginx</span>åå‘ä»£ç†ï¼Œ<span
-lang=EN-US>squid</span>ï¼Œæˆ–è€…<span lang=EN-US>traffic server</span>ç­‰ã€‚</span></p>
+<p><span style='font-size:10.5pt'>Ò²¾ÍÊÇËµ£¬<span lang=EN-US>HLS</span>µÄ±ßÔµÐèÒªÊ¹ÓÃ<span
+lang=EN-US>WEB</span>·þÎñÆ÷»º´æ£¬Æ©Èç<span lang=EN-US>nginx</span>·´Ïò´úÀí£¬<span
+lang=EN-US>squid</span>£¬»òÕß<span lang=EN-US>traffic server</span>µÈ¡£</span></p>
 
-<p><span style='font-size:10.5pt'>è¡¥å……ï¼š</span><span lang=EN-US><a
+<p><span style='font-size:10.5pt'>²¹³ä£º</span><span lang=EN-US><a
 href="https://github.com/ossrs/srs/issues/466"><span style='font-size:10.5pt'>https://github.com/ossrs/srs/issues/466</span></a></span><span
-lang=EN-US style='font-size:10.5pt'> srs</span><span style='font-size:10.5pt'>ä½œè€…è€ƒè™‘<span
-lang=EN-US>hls</span>å›žæºåŠŸèƒ½ä¹Ÿå°±æ˜¯<span lang=EN-US>HLS+</span></span></p>
+lang=EN-US style='font-size:10.5pt'> srs</span><span style='font-size:10.5pt'>×÷Õß¿¼ÂÇ<span
+lang=EN-US>hls</span>»ØÔ´¹¦ÄÜÒ²¾ÍÊÇ<span lang=EN-US>HLS+</span></span></p>
 
-<h5><span style='font-family:å®‹ä½“'>ä¸‹è¡Œè¾¹ç¼˜ç»“æž„è®¾è®¡</span></h5>
+<h5><span style='font-family:ËÎÌå'>ÏÂÐÐ±ßÔµ½á¹¹Éè¼Æ</span></h5>
 
-<p><span style='font-size:10.5pt'>ä¸‹è¡Œè¾¹ç¼˜æŒ‡çš„æ˜¯ä¸‹è¡ŒåŠ é€Ÿè¾¹ç¼˜ï¼Œå³å®¢æˆ·ç«¯æ’­æ”¾è¾¹ç¼˜æœåŠ¡å™¨çš„æµï¼Œè¾¹ç¼˜æœåŠ¡å™¨ä»Žä¸Šå±‚æˆ–æºç«™å–æµã€‚</span></p>
+<p><span style='font-size:10.5pt'>ÏÂÐÐ±ßÔµÖ¸µÄÊÇÏÂÐÐ¼ÓËÙ±ßÔµ£¬¼´¿Í»§¶Ë²¥·Å±ßÔµ·þÎñÆ÷µÄÁ÷£¬±ßÔµ·þÎñÆ÷´ÓÉÏ²ã»òÔ´Õ¾È¡Á÷¡£</span></p>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>ä¸‹è¡Œè¾¹ç¼˜æ˜¯éžå¸¸é‡è¦çš„åŠŸèƒ½ï¼Œéœ€è¦è€ƒè™‘ä»¥ä¸‹å› ç´ ï¼š</span></p>
+10.5pt'>ÏÂÐÐ±ßÔµÊÇ·Ç³£ÖØÒªµÄ¹¦ÄÜ£¬ÐèÒª¿¼ÂÇÒÔÏÂÒòËØ£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ä»¥åŽæ”¯æŒå¤šè¿›ç¨‹æ—¶ç»“æž„å˜åŠ¨æœ€å°ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å’Œç›®å‰æ‰€æœ‰åŠŸèƒ½çš„å¯¹æŽ¥è‰¯å¥½ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ”¯æŒå¹³æ»‘åˆ‡æ¢ï¼Œæºç«™å’Œè¾¹ç¼˜ä¸¤ç§è§’è‰²ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÒÔºóÖ§³Ö¶à½ø³ÌÊ±½á¹¹±ä¶¯×îÐ¡¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ºÍÄ¿Ç°ËùÓÐ¹¦ÄÜµÄ¶Ô½ÓÁ¼ºÃ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ö§³ÖÆ½»¬ÇÐ»»£¬Ô´Õ¾ºÍ±ßÔµÁ½ÖÖ½ÇÉ«¡£</span></li>
 </ul>
 
-<p><span style='font-size:10.5pt'>æƒè¡¡åŽï¼Œ<span lang=EN-US>SRS</span>ä¸‹è¡Œè¾¹ç¼˜çš„ç»“æž„è®¾è®¡å¦‚ä¸‹ï¼š</span></p>
+<p><span style='font-size:10.5pt'>È¨ºâºó£¬<span lang=EN-US>SRS</span>ÏÂÐÐ±ßÔµµÄ½á¹¹Éè¼ÆÈçÏÂ£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å®¢æˆ·ç«¯è¿žæŽ¥åˆ°</span><span
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>¿Í»§¶ËÁ¬½Óµ½</span><span
      lang=EN-US>SRS</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å¼€å§‹æ’­æ”¾</span><span
-     lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>çš„æµ</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>è‹¥æµå­˜åœ¨åˆ™ç›´æŽ¥æ’­æ”¾ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>è‹¥æµä¸å­˜åœ¨ï¼Œåˆ™ä»Žæºç«™å¼€å§‹å–æµã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å…¶ä»–æµçš„åŠŸèƒ½ï¼Œè­¬å¦‚è½¬ç </span><span
-     lang=EN-US>/</span><span style='font-family:å®‹ä½“'>è½¬å‘</span><span lang=EN-US>/</span><span
-     style='font-family:å®‹ä½“'>é‡‡é›†ç­‰ç­‰ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>¿ªÊ¼²¥·Å</span><span
+     lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>µÄÁ÷</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÈôÁ÷´æÔÚÔòÖ±½Ó²¥·Å¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÈôÁ÷²»´æÔÚ£¬Ôò´ÓÔ´Õ¾¿ªÊ¼È¡Á÷¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÆäËûÁ÷µÄ¹¦ÄÜ£¬Æ©Èç×ªÂë</span><span
+     lang=EN-US>/</span><span style='font-family:ËÎÌå'>×ª·¢</span><span lang=EN-US>/</span><span
+     style='font-family:ËÎÌå'>²É¼¯µÈµÈ¡£</span></li>
 </ul>
 
-<p><span style='font-size:10.5pt'>æ ¸å¿ƒåŽŸåˆ™æ˜¯ï¼š</span></p>
+<p><span style='font-size:10.5pt'>ºËÐÄÔ­ÔòÊÇ£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>è¾¹ç¼˜æœåŠ¡å™¨åœ¨æ²¡æœ‰æµæ—¶ï¼Œå‘æºç«™æ‹‰å–æµã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å½“æµå»ºç«‹èµ·æ¥åŽï¼Œè¾¹ç¼˜å®Œå…¨å˜æˆæºç«™æœåŠ¡å™¨ï¼Œå¯¹æµçš„å¤„ç†é€»è¾‘ä¿æŒä¸€è‡´ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ”¯æŒå›žå¤šä¸ªæºç«™ï¼Œé”™è¯¯æ—¶åˆ‡æ¢ã€‚è¿™æ ·å¯ä»¥æ”¯æŒä¸Šå±‚æœåŠ¡å™¨çƒ­å¤‡ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>±ßÔµ·þÎñÆ÷ÔÚÃ»ÓÐÁ÷Ê±£¬ÏòÔ´Õ¾À­È¡Á÷¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>µ±Á÷½¨Á¢ÆðÀ´ºó£¬±ßÔµÍêÈ«±ä³ÉÔ´Õ¾·þÎñÆ÷£¬¶ÔÁ÷µÄ´¦ÀíÂß¼­±£³ÖÒ»ÖÂ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ö§³Ö»Ø¶à¸öÔ´Õ¾£¬´íÎóÊ±ÇÐ»»¡£ÕâÑù¿ÉÒÔÖ§³ÖÉÏ²ã·þÎñÆ÷ÈÈ±¸¡£</span></li>
 </ul>
 
-<p><span style='font-size:10.5pt'>å¤‡æ³¨ï¼š<span lang=EN-US>RTMP</span>å¤šè¿›ç¨‹ï¼ˆè®¡åˆ’ä¸­ï¼‰çš„æ ¸å¿ƒåŽŸåˆ™æ˜¯ç”¨å¤šè¿›ç¨‹ä½œä¸ºå®Œå…¨é•œåƒä»£ç†ï¼Œè¿žæŽ¥åˆ°æœ¬åœ°çš„æœåŠ¡å™¨
-ï¼ˆæºç«™æˆ–è¾¹ç¼˜ï¼‰ï¼Œå®Œå…¨ä¸è€ƒè™‘å…¶ä»–ä¸šåŠ¡å› ç´ ï¼Œé€æ˜Žä»£ç†ã€‚è¿™æ ·å¯ä»¥ç®€å•ï¼Œè€Œä¸”åˆ©ç”¨å¤š<span lang=EN-US>CPU</span>èƒ½åŠ›ã€‚<span
-lang=EN-US> HTTP</span>å¤šè¿›ç¨‹æ˜¯ä¸è€ƒè™‘æ”¯æŒçš„ï¼Œç”¨<span lang=EN-US>NGINX</span>æ˜¯æœ€å¥½é€‰æ‹©ï¼Œ<span
-lang=EN-US>SRS</span>çš„<span lang=EN-US>HTTP</span>æœåŠ¡å™¨åªæ˜¯ç”¨åœ¨åµŒå…¥å¼è®¾å¤‡ä¸­<span
-lang=EN-US>,</span>æ²¡æœ‰æ€§èƒ½è¦æ±‚çš„åœºåˆã€‚</span></p>
+<p><span style='font-size:10.5pt'>±¸×¢£º<span lang=EN-US>RTMP</span>¶à½ø³Ì£¨¼Æ»®ÖÐ£©µÄºËÐÄÔ­ÔòÊÇÓÃ¶à½ø³Ì×÷ÎªÍêÈ«¾µÏñ´úÀí£¬Á¬½Óµ½±¾µØµÄ·þÎñÆ÷
+£¨Ô´Õ¾»ò±ßÔµ£©£¬ÍêÈ«²»¿¼ÂÇÆäËûÒµÎñÒòËØ£¬Í¸Ã÷´úÀí¡£ÕâÑù¿ÉÒÔ¼òµ¥£¬¶øÇÒÀûÓÃ¶à<span lang=EN-US>CPU</span>ÄÜÁ¦¡£<span
+lang=EN-US> HTTP</span>¶à½ø³ÌÊÇ²»¿¼ÂÇÖ§³ÖµÄ£¬ÓÃ<span lang=EN-US>NGINX</span>ÊÇ×îºÃÑ¡Ôñ£¬<span
+lang=EN-US>SRS</span>µÄ<span lang=EN-US>HTTP</span>·þÎñÆ÷Ö»ÊÇÓÃÔÚÇ¶ÈëÊ½Éè±¸ÖÐ<span
+lang=EN-US>,</span>Ã»ÓÐÐÔÄÜÒªÇóµÄ³¡ºÏ¡£</span></p>
 
-<h5><span style='font-family:å®‹ä½“'>ä¸Šè¡Œè¾¹ç¼˜ç»“æž„è®¾è®¡</span></h5>
+<h5><span style='font-family:ËÎÌå'>ÉÏÐÐ±ßÔµ½á¹¹Éè¼Æ</span></h5>
 
-<p><span style='font-size:10.5pt'>ä¸Šè¡Œè¾¹ç¼˜æŒ‡çš„æ˜¯ä¸Šè¡ŒæŽ¨æµåŠ é€Ÿï¼Œå®¢æˆ·ç«¯æŽ¨æµåˆ°è¾¹ç¼˜æœåŠ¡å™¨ï¼Œè¾¹ç¼˜å°†æµè½¬å‘ç»™æºç«™æœåŠ¡å™¨ã€‚</span></p>
+<p><span style='font-size:10.5pt'>ÉÏÐÐ±ßÔµÖ¸µÄÊÇÉÏÐÐÍÆÁ÷¼ÓËÙ£¬¿Í»§¶ËÍÆÁ÷µ½±ßÔµ·þÎñÆ÷£¬±ßÔµ½«Á÷×ª·¢¸øÔ´Õ¾·þÎñÆ÷¡£</span></p>
 
-<p><span style='font-size:10.5pt'>è€ƒè™‘åˆ°ä¸‹è¡Œå’Œä¸Šè¡Œå¯èƒ½åŒæ—¶å‘ç”Ÿåœ¨ä¸€å°è¾¹ç¼˜æœåŠ¡å™¨ï¼Œæ‰€ä»¥ä¸Šè¡Œè¾¹ç¼˜åªèƒ½ç”¨æœ€ç®€å•çš„ä»£ç†æ–¹å¼ï¼Œ å®Œå…¨å°†æµä»£ç†åˆ°ä¸Šå±‚æˆ–æºç«™æœåŠ¡å™¨ã€‚ä¹Ÿå°±æ˜¯è¯´ï¼Œåªæœ‰åœ¨ä¸‹è¡Œè¾¹ç¼˜æ—¶ï¼Œè¾¹ç¼˜æœåŠ¡å™¨æ‰ä¼šå¯ç”¨å…¶ä»–çš„åŠŸèƒ½ï¼Œè­¬å¦‚<span
-lang=EN-US>HLS</span>è½¬å‘ç­‰ç­‰ã€‚</span></p>
+<p><span style='font-size:10.5pt'>¿¼ÂÇµ½ÏÂÐÐºÍÉÏÐÐ¿ÉÄÜÍ¬Ê±·¢ÉúÔÚÒ»Ì¨±ßÔµ·þÎñÆ÷£¬ËùÒÔÉÏÐÐ±ßÔµÖ»ÄÜÓÃ×î¼òµ¥µÄ´úÀí·½Ê½£¬ ÍêÈ«½«Á÷´úÀíµ½ÉÏ²ã»òÔ´Õ¾·þÎñÆ÷¡£Ò²¾ÍÊÇËµ£¬Ö»ÓÐÔÚÏÂÐÐ±ßÔµÊ±£¬±ßÔµ·þÎñÆ÷²Å»áÆôÓÃÆäËûµÄ¹¦ÄÜ£¬Æ©Èç<span
+lang=EN-US>HLS</span>×ª·¢µÈµÈ¡£</span></p>
 
-<p><span style='font-size:10.5pt'>ä¸Šè¡Œè¾¹ç¼˜ä¸»è¦æµç¨‹æ˜¯ï¼š</span></p>
+<p><span style='font-size:10.5pt'>ÉÏÐÐ±ßÔµÖ÷ÒªÁ÷³ÌÊÇ£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å®¢æˆ·ç«¯è¿žæŽ¥åˆ°</span><span
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>¿Í»§¶ËÁ¬½Óµ½</span><span
      lang=EN-US>SRS</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å¼€å§‹æŽ¨æµåˆ°</span><span
-     lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å¼€å§‹è½¬å‘åˆ°æºç«™æœåŠ¡å™¨ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>¿ªÊ¼ÍÆÁ÷µ½</span><span
+     lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>¿ªÊ¼×ª·¢µ½Ô´Õ¾·þÎñÆ÷¡£</span></li>
 </ul>
 
-<h5><span style='font-family:å®‹ä½“'>è¾¹ç¼˜çš„éš¾ç‚¹</span></h5>
+<h5><span style='font-family:ËÎÌå'>±ßÔµµÄÄÑµã</span></h5>
 
 <p><span lang=EN-US style='font-size:10.5pt'>RTMP</span><span style='font-size:
-10.5pt'>è¾¹ç¼˜å¯¹äºŽ<span lang=EN-US>SRS</span>æ¥è®²é—®é¢˜ä¸å¤§ï¼Œä¸»è¦æ˜¯æ··åˆäº†<span lang=EN-US>reload</span>å’Œ<span
-lang=EN-US>HLS</span>åŠŸèƒ½çš„è¾¹ç¼˜æœåŠ¡å™¨ï¼Œä¼šæ˜¯ä¸€ä¸ªéš¾ç‚¹ã€‚</span></p>
+10.5pt'>±ßÔµ¶ÔÓÚ<span lang=EN-US>SRS</span>À´½²ÎÊÌâ²»´ó£¬Ö÷ÒªÊÇ»ìºÏÁË<span lang=EN-US>reload</span>ºÍ<span
+lang=EN-US>HLS</span>¹¦ÄÜµÄ±ßÔµ·þÎñÆ÷£¬»áÊÇÒ»¸öÄÑµã¡£</span></p>
 
-<p><span style='font-size:10.5pt'>è­¬å¦‚ï¼Œç”¨æˆ·åœ¨è®¿é—®è¾¹ç¼˜ä¸Šçš„<span lang=EN-US>HLS</span>æµæ—¶ï¼Œæ˜¯ä½¿ç”¨<span
-lang=EN-US>nginx</span>åå‘ä»£ç†å›žæºï¼Œè¿˜æ˜¯ä½¿ç”¨<span lang=EN-US>RTMP</span>å›žæºåŽåœ¨è¾¹ç¼˜åˆ‡ç‰‡ï¼Ÿ å¯¹äºŽå‰è€…ï¼Œéœ€è¦éƒ¨ç½²<span
-lang=EN-US>srs</span>ä½œä¸º<span lang=EN-US>RTMP</span>è¾¹ç¼˜ï¼Œ<span lang=EN-US>nginx</span>ä½œä¸º<span
-lang=EN-US>HLS</span>è¾¹ç¼˜ï¼Œç®¡ç†ä¸¤ä¸ªæœåŠ¡å™¨è‡ªç„¶æ˜¯æ¯”ä¸€ä¸ªè¦è´¹åŠ²ã€‚ è‹¥ä½¿ç”¨åŽè€…ï¼Œå³<span lang=EN-US>RTMP</span>å›žæºåŽè¾¹ç¼˜åˆ‡ç‰‡ï¼Œèƒ½èŠ‚çœéª¨å¹²å¸¦å®½ï¼Œåªæœ‰ä¸€è·¯å›žæºï¼Œéš¾ç‚¹åœ¨äºŽè®¿é—®<span
-lang=EN-US>HLS</span>æ—¶è¦å‘èµ·<span lang=EN-US> RTMP</span>å›žæºè¿žæŽ¥ã€‚</span></p>
+<p><span style='font-size:10.5pt'>Æ©Èç£¬ÓÃ»§ÔÚ·ÃÎÊ±ßÔµÉÏµÄ<span lang=EN-US>HLS</span>Á÷Ê±£¬ÊÇÊ¹ÓÃ<span
+lang=EN-US>nginx</span>·´Ïò´úÀí»ØÔ´£¬»¹ÊÇÊ¹ÓÃ<span lang=EN-US>RTMP</span>»ØÔ´ºóÔÚ±ßÔµÇÐÆ¬£¿ ¶ÔÓÚÇ°Õß£¬ÐèÒª²¿Êð<span
+lang=EN-US>srs</span>×÷Îª<span lang=EN-US>RTMP</span>±ßÔµ£¬<span lang=EN-US>nginx</span>×÷Îª<span
+lang=EN-US>HLS</span>±ßÔµ£¬¹ÜÀíÁ½¸ö·þÎñÆ÷×ÔÈ»ÊÇ±ÈÒ»¸öÒª·Ñ¾¢¡£ ÈôÊ¹ÓÃºóÕß£¬¼´<span lang=EN-US>RTMP</span>»ØÔ´ºó±ßÔµÇÐÆ¬£¬ÄÜ½ÚÊ¡¹Ç¸É´ø¿í£¬Ö»ÓÐÒ»Â·»ØÔ´£¬ÄÑµãÔÚÓÚ·ÃÎÊ<span
+lang=EN-US>HLS</span>Ê±Òª·¢Æð<span lang=EN-US> RTMP</span>»ØÔ´Á¬½Ó¡£</span></p>
 
-<p><span style='font-size:10.5pt'>æ­£å› ä¸ºä¸šåŠ¡é€»è¾‘ä¼šæ˜¯è¾¹ç¼˜æœåŠ¡å™¨çš„éš¾ç‚¹ï¼Œæ‰€ä»¥<span lang=EN-US>SRS</span>å¯¹äºŽä¸Šè¡Œè¾¹ç¼˜ï¼Œé‡‡å–ç›´æŽ¥ä»£ç†æ–¹å¼ï¼Œå¹¶æ²¡æœ‰é‡‡å–è¾¹ç¼˜ç¼“å­˜æ–¹å¼ã€‚æ‰€è°“è¾¹ç¼˜ç¼“å­˜æ–¹å¼ï¼Œå³æŽ¨æµåˆ°è¾¹ç¼˜æ—¶è¾¹ç¼˜ä¹Ÿä¼šå½“ä½œæºç«™ç›´æŽ¥ç¼“å­˜ï¼ˆä½œä¸ºæºç«™ï¼‰ï¼Œ
-ç„¶åŽè½¬å‘ç»™æºç«™ã€‚è¾¹ç¼˜ç¼“å­˜æ–¹å¼çœ‹èµ·æ¥å…ˆè¿›ï¼Œè¿™ä¸ªè¾¹ç¼˜èŠ‚ç‚¹ä¸å¿…å›žæºï¼Œå®žé™…ä¸ŠåŠ å¤§äº†é›†ç¾¤çš„é€»è¾‘éš¾åº¦ï¼Œ ä¸å¦‚ç›´æŽ¥ä½œä¸ºä»£ç†æ–¹å¼ç®€å•ã€‚</span></p>
+<p><span style='font-size:10.5pt'>ÕýÒòÎªÒµÎñÂß¼­»áÊÇ±ßÔµ·þÎñÆ÷µÄÄÑµã£¬ËùÒÔ<span lang=EN-US>SRS</span>¶ÔÓÚÉÏÐÐ±ßÔµ£¬²ÉÈ¡Ö±½Ó´úÀí·½Ê½£¬²¢Ã»ÓÐ²ÉÈ¡±ßÔµ»º´æ·½Ê½¡£ËùÎ½±ßÔµ»º´æ·½Ê½£¬¼´ÍÆÁ÷µ½±ßÔµÊ±±ßÔµÒ²»áµ±×÷Ô´Õ¾Ö±½Ó»º´æ£¨×÷ÎªÔ´Õ¾£©£¬
+È»ºó×ª·¢¸øÔ´Õ¾¡£±ßÔµ»º´æ·½Ê½¿´ÆðÀ´ÏÈ½ø£¬Õâ¸ö±ßÔµ½Úµã²»±Ø»ØÔ´£¬Êµ¼ÊÉÏ¼Ó´óÁË¼¯ÈºµÄÂß¼­ÄÑ¶È£¬ ²»ÈçÖ±½Ó×÷Îª´úÀí·½Ê½¼òµ¥¡£</span></p>
 
 <h4><a name="_Toc462219467"><span lang=EN-US>Forward</span></a><span
-style='font-family:å®‹ä½“'>å°è§„æ¨¡é›†ç¾¤</span></h4>
+style='font-family:ËÎÌå'>Ð¡¹æÄ£¼¯Èº</span></h4>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US>srs</span><span
-style='font-family:å®‹ä½“'>å®šä½ä¸ºç›´æ’­æœåŠ¡å™¨ï¼Œå…¶ä¸­ä¸€é¡¹é‡è¦çš„åŠŸèƒ½æ˜¯</span><span lang=EN-US>forward</span><span
-style='font-family:å®‹ä½“'>ï¼Œå³å°†æœåŠ¡å™¨çš„æµè½¬å‘åˆ°å…¶ä»–æœåŠ¡å™¨ã€‚</span></p>
+style='font-family:ËÎÌå'>¶¨Î»ÎªÖ±²¥·þÎñÆ÷£¬ÆäÖÐÒ»ÏîÖØÒªµÄ¹¦ÄÜÊÇ</span><span lang=EN-US>forward</span><span
+style='font-family:ËÎÌå'>£¬¼´½«·þÎñÆ÷µÄÁ÷×ª·¢µ½ÆäËû·þÎñÆ÷¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US>forward</span><span
-style='font-family:å®‹ä½“'>æœ¬èº«æ˜¯ç”¨åšçƒ­å¤‡ï¼Œå³ç”¨æˆ·æŽ¨ä¸€è·¯æµä¸Šæ¥ï¼Œå¯ä»¥è¢«</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>è½¬å‘ï¼ˆæˆ–è€…è½¬ç åŽè½¬å‘ï¼‰åˆ°å¤šä¸ª</span><span lang=EN-US>slave</span><span
-style='font-family:å®‹ä½“'>æºç«™ï¼Œ</span><span lang=EN-US>CDN</span><span
-style='font-family:å®‹ä½“'>è¾¹ç¼˜å¯ä»¥å›žå¤šä¸ª</span><span lang=EN-US>slave</span><span
-style='font-family:å®‹ä½“'>æºï¼Œå®žçŽ°æ•…éšœçƒ­å¤‡çš„åŠŸèƒ½ï¼Œæž„å»ºå¼ºå®¹é”™ç³»ç»Ÿã€‚</span></p>
+style='font-family:ËÎÌå'>±¾ÉíÊÇÓÃ×öÈÈ±¸£¬¼´ÓÃ»§ÍÆÒ»Â·Á÷ÉÏÀ´£¬¿ÉÒÔ±»</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>×ª·¢£¨»òÕß×ªÂëºó×ª·¢£©µ½¶à¸ö</span><span lang=EN-US>slave</span><span
+style='font-family:ËÎÌå'>Ô´Õ¾£¬</span><span lang=EN-US>CDN</span><span
+style='font-family:ËÎÌå'>±ßÔµ¿ÉÒÔ»Ø¶à¸ö</span><span lang=EN-US>slave</span><span
+style='font-family:ËÎÌå'>Ô´£¬ÊµÏÖ¹ÊÕÏÈÈ±¸µÄ¹¦ÄÜ£¬¹¹½¨Ç¿ÈÝ´íÏµÍ³¡£</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>æ³¨æ„ï¼š</span><span
-lang=EN-US>edge</span><span style='font-family:å®‹ä½“'>å¯ä»¥ä»Žæºç«™æ‹‰æµï¼Œä¹Ÿå¯ä»¥å°†æµè½¬å‘ç»™æºç«™ã€‚ä¹Ÿå°±æ˜¯è¯´ï¼Œæ’­æ”¾</span><span
-lang=EN-US>edge</span><span style='font-family:å®‹ä½“'>ä¸Šçš„æµæ—¶ï¼Œ</span><span
-lang=EN-US>edge</span><span style='font-family:å®‹ä½“'>ä¼šå›žæºæ‹‰æµï¼›æŽ¨æµåˆ°</span><span
-lang=EN-US>edge</span><span style='font-family:å®‹ä½“'>ä¸Šæ—¶ï¼Œ</span><span lang=EN-US>edge</span><span
-style='font-family:å®‹ä½“'>ä¼šç›´æŽ¥å°†æµè½¬å‘ç»™æºç«™ã€‚</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>×¢Òâ£º</span><span
+lang=EN-US>edge</span><span style='font-family:ËÎÌå'>¿ÉÒÔ´ÓÔ´Õ¾À­Á÷£¬Ò²¿ÉÒÔ½«Á÷×ª·¢¸øÔ´Õ¾¡£Ò²¾ÍÊÇËµ£¬²¥·Å</span><span
+lang=EN-US>edge</span><span style='font-family:ËÎÌå'>ÉÏµÄÁ÷Ê±£¬</span><span
+lang=EN-US>edge</span><span style='font-family:ËÎÌå'>»á»ØÔ´À­Á÷£»ÍÆÁ÷µ½</span><span
+lang=EN-US>edge</span><span style='font-family:ËÎÌå'>ÉÏÊ±£¬</span><span lang=EN-US>edge</span><span
+style='font-family:ËÎÌå'>»áÖ±½Ó½«Á÷×ª·¢¸øÔ´Õ¾¡£</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>è‹¥åªéœ€è¦ä¸­è½¬æµç»™æºç«™ï¼Œä¸å¿…ç”¨</span><span
-lang=EN-US>forward</span><span style='font-family:å®‹ä½“'>ï¼Œç›´æŽ¥ä½¿ç”¨</span><span
-lang=EN-US>edge</span><span style='font-family:å®‹ä½“'>æ¨¡å¼å³å¯ã€‚å¯ä»¥ç›´æŽ¥æ”¯æŒæŽ¨æµå’Œæ‹‰æµçš„ä¸­è½¬ï¼Œç®€å•å¿«æ·ã€‚</span><span
-lang=EN-US>Forward</span><span style='font-family:å®‹ä½“'>åº”ç”¨äºŽç›®æ ‡æœåŠ¡å™¨æ˜¯å¤šä¸ªï¼Œè­¬å¦‚å°†ä¸€è·¯æµä¸»åŠ¨é€ç»™å¤šè·¯æœåŠ¡å™¨ï¼›</span><span
-lang=EN-US>edge</span><span style='font-family:å®‹ä½“'>è™½ç„¶é…ç½®äº†å¤šå°æœåŠ¡å™¨ï¼Œä½†æ˜¯åªç”¨äº†ä¸€å°ï¼Œæœ‰æ•…éšœæ—¶æ‰åˆ‡æ¢ã€‚ä¼˜å…ˆä½¿ç”¨</span><span
-lang=EN-US>edge</span><span style='font-family:å®‹ä½“'>ï¼Œé™¤éžçŸ¥é“å¿…é¡»ç”¨</span><span
-lang=EN-US>forward</span><span style='font-family:å®‹ä½“'>ï¼Œæ‰ä½¿ç”¨</span><span
-lang=EN-US>forward</span><span style='font-family:å®‹ä½“'>ã€‚</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>ÈôÖ»ÐèÒªÖÐ×ªÁ÷¸øÔ´Õ¾£¬²»±ØÓÃ</span><span
+lang=EN-US>forward</span><span style='font-family:ËÎÌå'>£¬Ö±½ÓÊ¹ÓÃ</span><span
+lang=EN-US>edge</span><span style='font-family:ËÎÌå'>Ä£Ê½¼´¿É¡£¿ÉÒÔÖ±½ÓÖ§³ÖÍÆÁ÷ºÍÀ­Á÷µÄÖÐ×ª£¬¼òµ¥¿ì½Ý¡£</span><span
+lang=EN-US>Forward</span><span style='font-family:ËÎÌå'>Ó¦ÓÃÓÚÄ¿±ê·þÎñÆ÷ÊÇ¶à¸ö£¬Æ©Èç½«Ò»Â·Á÷Ö÷¶¯ËÍ¸ø¶àÂ··þÎñÆ÷£»</span><span
+lang=EN-US>edge</span><span style='font-family:ËÎÌå'>ËäÈ»ÅäÖÃÁË¶àÌ¨·þÎñÆ÷£¬µ«ÊÇÖ»ÓÃÁËÒ»Ì¨£¬ÓÐ¹ÊÕÏÊ±²ÅÇÐ»»¡£ÓÅÏÈÊ¹ÓÃ</span><span
+lang=EN-US>edge</span><span style='font-family:ËÎÌå'>£¬³ý·ÇÖªµÀ±ØÐëÓÃ</span><span
+lang=EN-US>forward</span><span style='font-family:ËÎÌå'>£¬²ÅÊ¹ÓÃ</span><span
+lang=EN-US>forward</span><span style='font-family:ËÎÌå'>¡£</span></p>
 
 <h5><span lang=EN-US>Keywords</span></h5>
 
-<p><span style='font-size:10.5pt'>ä¸ºäº†å’Œ<span lang=EN-US>edge</span>æ–¹å¼åŒºåˆ†ï¼Œ<span
-lang=EN-US>forward</span>å®šä¹‰ä¸€æ¬¡è¯æ±‡å¦‚ä¸‹ï¼š</span></p>
+<p><span style='font-size:10.5pt'>ÎªÁËºÍ<span lang=EN-US>edge</span>·½Ê½Çø·Ö£¬<span
+lang=EN-US>forward</span>¶¨ÒåÒ»´Î´Ê»ãÈçÏÂ£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>master</span><span
-     style='font-family:å®‹ä½“'>ï¼šä¸»æœåŠ¡å™¨ï¼Œç¼–ç å™¨æŽ¨æµåˆ°è¿™ä¸ªæœåŠ¡å™¨ï¼Œæˆ–è€…ç”¨</span><span lang=EN-US>ingest</span><span
-     style='font-family:å®‹ä½“'>æµåˆ°æœåŠ¡å™¨ã€‚æ€»ä¹‹ï¼Œ</span><span lang=EN-US>master</span><span
-     style='font-family:å®‹ä½“'>å°±æ˜¯ä¸»æœåŠ¡å™¨ï¼Œè´Ÿè´£è½¬å‘æµç»™å…¶ä»–æœåŠ¡å™¨ã€‚</span></li>
+     style='font-family:ËÎÌå'>£ºÖ÷·þÎñÆ÷£¬±àÂëÆ÷ÍÆÁ÷µ½Õâ¸ö·þÎñÆ÷£¬»òÕßÓÃ</span><span lang=EN-US>ingest</span><span
+     style='font-family:ËÎÌå'>Á÷µ½·þÎñÆ÷¡£×ÜÖ®£¬</span><span lang=EN-US>master</span><span
+     style='font-family:ËÎÌå'>¾ÍÊÇÖ÷·þÎñÆ÷£¬¸ºÔð×ª·¢Á÷¸øÆäËû·þÎñÆ÷¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>slave</span><span
-     style='font-family:å®‹ä½“'>ï¼šä»ŽæœåŠ¡å™¨ï¼Œä¸»æœåŠ¡å™¨è½¬å‘æµåˆ°è¿™ä¸ªæœåŠ¡å™¨ã€‚</span></li>
+     style='font-family:ËÎÌå'>£º´Ó·þÎñÆ÷£¬Ö÷·þÎñÆ÷×ª·¢Á÷µ½Õâ¸ö·þÎñÆ÷¡£</span></li>
 </ul>
 
-<p><span style='font-size:10.5pt'>å¦‚æžœç»“åˆ<span lang=EN-US>edge</span>é›†ç¾¤æ–¹å¼ï¼Œä¸€èˆ¬è€Œè¨€<span
-lang=EN-US>master</span>å’Œ<span lang=EN-US>slave</span>éƒ½æ˜¯<span lang=EN-US>origin</span>ï¼ˆæºç«™æœåŠ¡å™¨ï¼‰ï¼Œ<span
-lang=EN-US>edge</span>è¾¹ç¼˜æœåŠ¡å™¨å¯ä»¥ä»Ž<span lang=EN-US>master</span>æˆ–è€…<span lang=EN-US>slave</span>å›žæºå–æµã€‚</span></p>
+<p><span style='font-size:10.5pt'>Èç¹û½áºÏ<span lang=EN-US>edge</span>¼¯Èº·½Ê½£¬Ò»°ã¶øÑÔ<span
+lang=EN-US>master</span>ºÍ<span lang=EN-US>slave</span>¶¼ÊÇ<span lang=EN-US>origin</span>£¨Ô´Õ¾·þÎñÆ÷£©£¬<span
+lang=EN-US>edge</span>±ßÔµ·þÎñÆ÷¿ÉÒÔ´Ó<span lang=EN-US>master</span>»òÕß<span lang=EN-US>slave</span>»ØÔ´È¡Á÷¡£</span></p>
 
-<p><span style='font-size:10.5pt'>å®žé™…ä¸Š<span lang=EN-US>master</span>å’Œ<span
-lang=EN-US>slave</span>ä¹Ÿå¯ä»¥æ˜¯<span lang=EN-US>edge</span>ï¼Œä½†æ˜¯ä¸æŽ¨èï¼Œè¿™ç§ç»„åˆæ–¹å¼å¤ªå¤šäº†ï¼Œæµ‹è¯•æ²¡æœ‰åŠžæ³•è¦†ç›–åˆ°ã€‚å› æ­¤ï¼Œå¼ºçƒˆå»ºè®®ç®€åŒ–æœåŠ¡å™¨çš„ç»“æž„ï¼Œåªæœ‰<span
-lang=EN-US>origin</span>ï¼ˆæºç«™æœåŠ¡å™¨ï¼‰æ‰é…ç½®è½¬å‘ï¼Œ<span lang=EN-US>edge</span>ï¼ˆè¾¹ç¼˜æœåŠ¡å™¨ï¼‰åªåšè¾¹ç¼˜ã€‚</span></p>
+<p><span style='font-size:10.5pt'>Êµ¼ÊÉÏ<span lang=EN-US>master</span>ºÍ<span
+lang=EN-US>slave</span>Ò²¿ÉÒÔÊÇ<span lang=EN-US>edge</span>£¬µ«ÊÇ²»ÍÆ¼ö£¬ÕâÖÖ×éºÏ·½Ê½Ì«¶àÁË£¬²âÊÔÃ»ÓÐ°ì·¨¸²¸Çµ½¡£Òò´Ë£¬Ç¿ÁÒ½¨Òé¼ò»¯·þÎñÆ÷µÄ½á¹¹£¬Ö»ÓÐ<span
+lang=EN-US>origin</span>£¨Ô´Õ¾·þÎñÆ÷£©²ÅÅäÖÃ×ª·¢£¬<span lang=EN-US>edge</span>£¨±ßÔµ·þÎñÆ÷£©Ö»×ö±ßÔµ¡£</span></p>
 
 <h5><span lang=EN-US>For Small Cluster</span></h5>
 
 <p><span lang=EN-US style='font-size:10.5pt'>forward</span><span
-style='font-size:10.5pt'>ä¹Ÿå¯ä»¥ç”¨ä½œæ­å»ºå°åž‹é›†ç¾¤ã€‚æž¶æž„å›¾å¦‚ä¸‹ï¼š</span></p>
+style='font-size:10.5pt'>Ò²¿ÉÒÔÓÃ×÷´î½¨Ð¡ÐÍ¼¯Èº¡£¼Ü¹¹Í¼ÈçÏÂ£º</span></p>
 
 <pre><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img
-border=0 width=554 height=306 id="å›¾ç‰‡ 3" src="srs_wiki.files/image005.jpg"></span></pre><pre><span
+border=0 width=554 height=306 id="Í¼Æ¬ 3" src="srs_wiki.files/image005.jpg"></span></pre><pre><span
 lang=EN-US>&nbsp;</span></pre>
 
 <h5><span lang=EN-US>Forward VS Edge</span></h5>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US>Forward</span><span
-style='font-family:å®‹ä½“'>æž¶æž„å’Œ</span><span lang=EN-US>CDN</span><span
-style='font-family:å®‹ä½“'>æž¶æž„çš„æœ€å¤§åŒºåˆ«åœ¨äºŽï¼Œ</span><span lang=EN-US>CDN</span><span
-style='font-family:å®‹ä½“'>å±žäºŽå¤§è§„æ¨¡é›†ç¾¤ï¼Œè¾¹ç¼˜èŠ‚ç‚¹ä¼šæœ‰æˆåƒä¸Šä¸‡å°ï¼Œæºç«™</span><span lang=EN-US>2</span><span
-style='font-family:å®‹ä½“'>å°ï¼ˆåšçƒ­å¤‡ï¼‰ï¼Œè¿˜éœ€è¦æœ‰ä¸­é—´å±‚ã€‚</span><span lang=EN-US>CDN</span><span
-style='font-family:å®‹ä½“'>çš„å®¢æˆ·å¾ˆå¤šï¼Œæµä¹Ÿä¼šæœ‰å¾ˆå¤šã€‚æ‰€ä»¥å‡è‹¥æºç«™å°†æ¯ä¸ªæµéƒ½è½¬å‘ç»™è¾¹ç¼˜ï¼Œä¼šé€ æˆå·¨å¤§çš„æµªè´¹ï¼ˆæœ‰å¾ˆå¤šæµåªæœ‰å°‘æ•°èŠ‚ç‚¹éœ€è¦ï¼‰ã€‚</span></p>
+style='font-family:ËÎÌå'>¼Ü¹¹ºÍ</span><span lang=EN-US>CDN</span><span
+style='font-family:ËÎÌå'>¼Ü¹¹µÄ×î´óÇø±ðÔÚÓÚ£¬</span><span lang=EN-US>CDN</span><span
+style='font-family:ËÎÌå'>ÊôÓÚ´ó¹æÄ£¼¯Èº£¬±ßÔµ½Úµã»áÓÐ³ÉÇ§ÉÏÍòÌ¨£¬Ô´Õ¾</span><span lang=EN-US>2</span><span
+style='font-family:ËÎÌå'>Ì¨£¨×öÈÈ±¸£©£¬»¹ÐèÒªÓÐÖÐ¼ä²ã¡£</span><span lang=EN-US>CDN</span><span
+style='font-family:ËÎÌå'>µÄ¿Í»§ºÜ¶à£¬Á÷Ò²»áÓÐºÜ¶à¡£ËùÒÔ¼ÙÈôÔ´Õ¾½«Ã¿¸öÁ÷¶¼×ª·¢¸ø±ßÔµ£¬»áÔì³É¾Þ´óµÄÀË·Ñ£¨ÓÐºÜ¶àÁ÷Ö»ÓÐÉÙÊý½ÚµãÐèÒª£©¡£</span></p>
 
-<p class=MsoNoSpacing><span style='font-family:å®‹ä½“'>å¯è§ï¼Œ</span><span lang=EN-US>forward</span><span
-style='font-family:å®‹ä½“'>åªé€‚ç”¨äºŽæ‰€æœ‰è¾¹ç¼˜èŠ‚ç‚¹éƒ½éœ€è¦æ‰€æœ‰çš„æµã€‚</span><span lang=EN-US>CDN</span><span
-style='font-family:å®‹ä½“'>æ˜¯æŸäº›è¾¹ç¼˜èŠ‚ç‚¹éœ€è¦æŸäº›æµã€‚</span></p>
+<p class=MsoNoSpacing><span style='font-family:ËÎÌå'>¿É¼û£¬</span><span lang=EN-US>forward</span><span
+style='font-family:ËÎÌå'>Ö»ÊÊÓÃÓÚËùÓÐ±ßÔµ½Úµã¶¼ÐèÒªËùÓÐµÄÁ÷¡£</span><span lang=EN-US>CDN</span><span
+style='font-family:ËÎÌå'>ÊÇÄ³Ð©±ßÔµ½ÚµãÐèÒªÄ³Ð©Á÷¡£</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>forward</span><span style='font-family:
-å®‹ä½“'>çš„ç“¶é¢ˆåœ¨äºŽæµçš„æ•°ç›®ï¼Œå‡è®¾æ¯ä¸ª</span><span lang=EN-US>SRS</span><span style='font-family:
-å®‹ä½“'>åªä¾¦å¬ä¸€ä¸ªç«¯å£ï¼š</span></p>
+ËÎÌå'>µÄÆ¿¾±ÔÚÓÚÁ÷µÄÊýÄ¿£¬¼ÙÉèÃ¿¸ö</span><span lang=EN-US>SRS</span><span style='font-family:
+ËÎÌå'>Ö»ÕìÌýÒ»¸ö¶Ë¿Ú£º</span></p>
 
-<p class=MsoNoSpacing><span style='font-family:å®‹ä½“'>ç³»ç»Ÿä¸­æµçš„æ•°ç›®</span><span
-lang=EN-US> = </span><span style='font-family:å®‹ä½“'>ç¼–ç å™¨çš„æµæ•°ç›®</span><span
-lang=EN-US> Ã— </span><span style='font-family:å®‹ä½“'>èŠ‚ç‚¹æ•°ç›®</span><span lang=EN-US>
-Ã— </span><span style='font-family:å®‹ä½“'>ç«¯å£æ•°ç›®</span></p>
+<p class=MsoNoSpacing><span style='font-family:ËÎÌå'>ÏµÍ³ÖÐÁ÷µÄÊýÄ¿</span><span
+lang=EN-US> = </span><span style='font-family:ËÎÌå'>±àÂëÆ÷µÄÁ÷ÊýÄ¿</span><span
+lang=EN-US> ¡Á </span><span style='font-family:ËÎÌå'>½ÚµãÊýÄ¿</span><span lang=EN-US>
+¡Á </span><span style='font-family:ËÎÌå'>¶Ë¿ÚÊýÄ¿</span></p>
 
-<p class=MsoNoSpacing><span style='font-family:å®‹ä½“'>è€ƒè™‘</span><span lang=EN-US>5</span><span
-style='font-family:å®‹ä½“'>ä¸ªèŠ‚ç‚¹ï¼Œæ¯ä¸ªèŠ‚ç‚¹èµ·</span><span lang=EN-US>4</span><span
-style='font-family:å®‹ä½“'>ä¸ªç«¯å£ï¼Œå³æœ‰</span><span lang=EN-US>20</span><span
-style='font-family:å®‹ä½“'>ä¸ª</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>è¾¹ç¼˜ã€‚ç¼–ç å™¨å‡º</span><span lang=EN-US>5</span><span
-style='font-family:å®‹ä½“'>è·¯æµï¼Œåˆ™æœ‰</span><code><span lang=EN-US>20 * 5 = 100</span></code><code>è·¯æµ</code><span
-style='font-family:å®‹ä½“'>ã€‚</span></p>
+<p class=MsoNoSpacing><span style='font-family:ËÎÌå'>¿¼ÂÇ</span><span lang=EN-US>5</span><span
+style='font-family:ËÎÌå'>¸ö½Úµã£¬Ã¿¸ö½ÚµãÆð</span><span lang=EN-US>4</span><span
+style='font-family:ËÎÌå'>¸ö¶Ë¿Ú£¬¼´ÓÐ</span><span lang=EN-US>20</span><span
+style='font-family:ËÎÌå'>¸ö</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>±ßÔµ¡£±àÂëÆ÷³ö</span><span lang=EN-US>5</span><span
+style='font-family:ËÎÌå'>Â·Á÷£¬ÔòÓÐ</span><code><span lang=EN-US>20 * 5 = 100</span></code><code>Â·Á÷</code><span
+style='font-family:ËÎÌå'>¡£</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>åŒæ ·çš„æž¶æž„ï¼Œå¯¹äºŽ</span><span
-lang=EN-US>CDN</span><span style='font-family:å®‹ä½“'>çš„è¾¹ç¼˜èŠ‚ç‚¹æ¥è®²ï¼Œç³»ç»Ÿçš„æµæ•°ä¸º</span><code>ç”¨æˆ·è®¿é—®è¾¹ç¼˜èŠ‚ç‚¹çš„æµ</code><span
-style='font-family:å®‹ä½“'>ï¼Œå‡è®¾æ²¡æœ‰ç”¨æˆ·è®¿é—®ï¼Œç³»ç»Ÿä¸­å°±æ²¡æœ‰æµé‡ã€‚æŸä¸ªåŒºåŸŸçš„ç”¨æˆ·è®¿é—®æŸä¸ªèŠ‚ç‚¹ä¸Šçš„æµï¼Œç³»ç»Ÿä¸­åªæœ‰ä¸€è·¯æµï¼Œè€Œä¸æ˜¯</span><span
-lang=EN-US>forward</span><span style='font-family:å®‹ä½“'>å¹¿æ’­å¼çš„å¤šè·¯æµã€‚</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>Í¬ÑùµÄ¼Ü¹¹£¬¶ÔÓÚ</span><span
+lang=EN-US>CDN</span><span style='font-family:ËÎÌå'>µÄ±ßÔµ½ÚµãÀ´½²£¬ÏµÍ³µÄÁ÷ÊýÎª</span><code>ÓÃ»§·ÃÎÊ±ßÔµ½ÚµãµÄÁ÷</code><span
+style='font-family:ËÎÌå'>£¬¼ÙÉèÃ»ÓÐÓÃ»§·ÃÎÊ£¬ÏµÍ³ÖÐ¾ÍÃ»ÓÐÁ÷Á¿¡£Ä³¸öÇøÓòµÄÓÃ»§·ÃÎÊÄ³¸ö½ÚµãÉÏµÄÁ÷£¬ÏµÍ³ÖÐÖ»ÓÐÒ»Â·Á÷£¬¶ø²»ÊÇ</span><span
+lang=EN-US>forward</span><span style='font-family:ËÎÌå'>¹ã²¥Ê½µÄ¶àÂ·Á÷¡£</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>å¦å¤–ï¼Œ</span><span
-lang=EN-US>forward</span><span style='font-family:å®‹ä½“'>éœ€è¦æ’­æ”¾å™¨éšæœºè®¿é—®å¤šä¸ªç«¯å£ï¼Œå®žçŽ°è´Ÿè½½å‡è¡¡ï¼Œæˆ–è€…æ’­æ”¾å™¨è®¿é—®</span><span
-lang=EN-US>api</span><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨ï¼Œ</span><span lang=EN-US>api</span><span
-style='font-family:å®‹ä½“'>æœåŠ¡å™¨å®žçŽ°è´Ÿè½½å‡è¡¡ï¼Œå¯¹äºŽ</span><span lang=EN-US>CDN</span><span
-style='font-family:å®‹ä½“'>æ¥è®²ä¹Ÿä¸åˆé€‚ï¼ˆéœ€è¦å®¢æˆ·æ”¹æ’­æ”¾å™¨ï¼‰ã€‚</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>ÁíÍâ£¬</span><span
+lang=EN-US>forward</span><span style='font-family:ËÎÌå'>ÐèÒª²¥·ÅÆ÷Ëæ»ú·ÃÎÊ¶à¸ö¶Ë¿Ú£¬ÊµÏÖ¸ºÔØ¾ùºâ£¬»òÕß²¥·ÅÆ÷·ÃÎÊ</span><span
+lang=EN-US>api</span><span style='font-family:ËÎÌå'>·þÎñÆ÷£¬</span><span lang=EN-US>api</span><span
+style='font-family:ËÎÌå'>·þÎñÆ÷ÊµÏÖ¸ºÔØ¾ùºâ£¬¶ÔÓÚ</span><span lang=EN-US>CDN</span><span
+style='font-family:ËÎÌå'>À´½²Ò²²»ºÏÊÊ£¨ÐèÒª¿Í»§¸Ä²¥·ÅÆ÷£©¡£</span></p>
 
-<p class=MsoNoSpacing><span style='font-family:å®‹ä½“'>æ€»ä¹‹ï¼Œ</span><span lang=EN-US>forward</span><span
-style='font-family:å®‹ä½“'>é€‚ç”¨äºŽå°åž‹è§„æ¨¡çš„é›†ç¾¤ï¼Œä¸é€‚ç”¨äºŽ</span><span lang=EN-US>CDN</span><span
-style='font-family:å®‹ä½“'>å¤§è§„æ¨¡é›†ç¾¤åº”ç”¨ã€‚</span></p>
+<p class=MsoNoSpacing><span style='font-family:ËÎÌå'>×ÜÖ®£¬</span><span lang=EN-US>forward</span><span
+style='font-family:ËÎÌå'>ÊÊÓÃÓÚÐ¡ÐÍ¹æÄ£µÄ¼¯Èº£¬²»ÊÊÓÃÓÚ</span><span lang=EN-US>CDN</span><span
+style='font-family:ËÎÌå'>´ó¹æÄ£¼¯ÈºÓ¦ÓÃ¡£</span></p>
 
-<h5><span style='font-family:å®‹ä½“'>å…¶ä»–ä½¿ç”¨åœºæ™¯</span></h5>
+<h5><span style='font-family:ËÎÌå'>ÆäËûÊ¹ÓÃ³¡¾°</span></h5>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US>forward</span><span
-style='font-family:å®‹ä½“'>è¿˜å¯ä»¥ç»“åˆ</span><span lang=EN-US>hls</span><span
-style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN-US>transcoder</span><span
-style='font-family:å®‹ä½“'>åŠŸèƒ½ä½¿ç”¨ï¼Œå³åœ¨æºç«™å°†æµè½¬ç ï¼Œç„¶åŽ</span><span lang=EN-US>forward</span><span
-style='font-family:å®‹ä½“'>åˆ°</span><span lang=EN-US>Slave</span><span
-style='font-family:å®‹ä½“'>èŠ‚ç‚¹ï¼Œ</span><span lang=EN-US>Slave</span><span
-style='font-family:å®‹ä½“'>èŠ‚ç‚¹æ”¯æŒ</span><span lang=EN-US>rtmp</span><span
-style='font-family:å®‹ä½“'>åŒæ—¶åˆ‡</span><span lang=EN-US>HLS</span><span
-style='font-family:å®‹ä½“'>ã€‚</span></p>
+style='font-family:ËÎÌå'>»¹¿ÉÒÔ½áºÏ</span><span lang=EN-US>hls</span><span
+style='font-family:ËÎÌå'>ºÍ</span><span lang=EN-US>transcoder</span><span
+style='font-family:ËÎÌå'>¹¦ÄÜÊ¹ÓÃ£¬¼´ÔÚÔ´Õ¾½«Á÷×ªÂë£¬È»ºó</span><span lang=EN-US>forward</span><span
+style='font-family:ËÎÌå'>µ½</span><span lang=EN-US>Slave</span><span
+style='font-family:ËÎÌå'>½Úµã£¬</span><span lang=EN-US>Slave</span><span
+style='font-family:ËÎÌå'>½ÚµãÖ§³Ö</span><span lang=EN-US>rtmp</span><span
+style='font-family:ËÎÌå'>Í¬Ê±ÇÐ</span><span lang=EN-US>HLS</span><span
+style='font-family:ËÎÌå'>¡£</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>å› ä¸ºç”¨æˆ·æŽ¨ä¸Šæ¥çš„æµï¼Œæˆ–è€…ç¼–ç å™¨ï¼ˆè­¬å¦‚</span><span
-lang=EN-US>FMLE</span><span style='font-family:å®‹ä½“'>ï¼‰å¯èƒ½ä¸æ˜¯</span><span
-lang=EN-US>h264+aac</span><span style='font-family:å®‹ä½“'>ï¼Œéœ€è¦å…ˆè½¬ç ä¸º</span><span
-lang=EN-US>h264+aac</span><span style='font-family:å®‹ä½“'>ï¼ˆå¯ä»¥åªè½¬ç éŸ³é¢‘ï¼‰åŽæ‰èƒ½åˆ‡ç‰‡ä¸º</span><span
-lang=EN-US>hls</span><span style='font-family:å®‹ä½“'>ã€‚</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>ÒòÎªÓÃ»§ÍÆÉÏÀ´µÄÁ÷£¬»òÕß±àÂëÆ÷£¨Æ©Èç</span><span
+lang=EN-US>FMLE</span><span style='font-family:ËÎÌå'>£©¿ÉÄÜ²»ÊÇ</span><span
+lang=EN-US>h264+aac</span><span style='font-family:ËÎÌå'>£¬ÐèÒªÏÈ×ªÂëÎª</span><span
+lang=EN-US>h264+aac</span><span style='font-family:ËÎÌå'>£¨¿ÉÒÔÖ»×ªÂëÒôÆµ£©ºó²ÅÄÜÇÐÆ¬Îª</span><span
+lang=EN-US>hls</span><span style='font-family:ËÎÌå'>¡£</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>éœ€è¦ç»“åˆ</span><span
-lang=EN-US>vhost</span><span style='font-family:å®‹ä½“'>ï¼Œå…ˆå°†æµ</span><span
-lang=EN-US>transcode</span><span style='font-family:å®‹ä½“'>é€åˆ°å¦å¤–ä¸€ä¸ª</span><span
-lang=EN-US>vhost</span><span style='font-family:å®‹ä½“'>ï¼Œè¿™ä¸ª</span><span lang=EN-US>vhost</span><span
-style='font-family:å®‹ä½“'>å°†æµè½¬å‘åˆ°</span><span lang=EN-US>Slave</span><span
-style='font-family:å®‹ä½“'>ã€‚è¿™æ ·å¯ä»¥åªè½¬å‘è½¬ç çš„æµã€‚</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>ÐèÒª½áºÏ</span><span
+lang=EN-US>vhost</span><span style='font-family:ËÎÌå'>£¬ÏÈ½«Á÷</span><span
+lang=EN-US>transcode</span><span style='font-family:ËÎÌå'>ËÍµ½ÁíÍâÒ»¸ö</span><span
+lang=EN-US>vhost</span><span style='font-family:ËÎÌå'>£¬Õâ¸ö</span><span lang=EN-US>vhost</span><span
+style='font-family:ËÎÌå'>½«Á÷×ª·¢µ½</span><span lang=EN-US>Slave</span><span
+style='font-family:ËÎÌå'>¡£ÕâÑù¿ÉÒÔÖ»×ª·¢×ªÂëµÄÁ÷¡£</span></p>
 
-<p class=MsoNoSpacing><span style='font-family:å®‹ä½“'>å‚è€ƒ</span><span lang=EN-US>vhost</span><span
-style='font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US>hls</span><span
-style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN-US>transcoder</span><span
-style='font-family:å®‹ä½“'>ç›¸å…³</span><span lang=EN-US>wiki</span><span
-style='font-family:å®‹ä½“'>ã€‚</span></p>
+<p class=MsoNoSpacing><span style='font-family:ËÎÌå'>²Î¿¼</span><span lang=EN-US>vhost</span><span
+style='font-family:ËÎÌå'>£¬</span><span lang=EN-US>hls</span><span
+style='font-family:ËÎÌå'>ºÍ</span><span lang=EN-US>transcoder</span><span
+style='font-family:ËÎÌå'>Ïà¹Ø</span><span lang=EN-US>wiki</span><span
+style='font-family:ËÎÌå'>¡£</span></p>
 
 <h4><a name="_Toc462219468"><span lang=EN-US>WIKI</span></a></h4>
 
 <p><span lang=EN-US><a
 href="https://github.com/ossrs/srs/wiki/v3_CN_SampleRTMPCluster">https://github.com/ossrs/srs/wiki/v3_CN_SampleRTMPCluster</a></span></p>
 
-<h4><a name="_Toc462219469"><span style='font-family:å®‹ä½“'>è¡¥å……</span><span
-lang=EN-US>:</span></a><span style='font-family:å®‹ä½“'>æºç«™é›†ç¾¤é—®é¢˜</span></h4>
+<h4><a name="_Toc462219469"><span style='font-family:ËÎÌå'>²¹³ä</span><span
+lang=EN-US>:</span></a><span style='font-family:ËÎÌå'>Ô´Õ¾¼¯ÈºÎÊÌâ</span></h4>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp; &nbsp;</span><span
-style='font-family:å®‹ä½“'>ç›®å‰</span><span lang=EN-US>srs</span><span
-style='font-family:å®‹ä½“;color:#333333'>å¤šä¸ªè¾¹ç¼˜å›žå¤šä¸ªæºç«™æ—¶ï¼ŒæŸä¸€æ—¶åˆ»åªèƒ½é€‰æ‹©ä¸€ä¸ªæºç«™ã€‚</span><span
+style='font-family:ËÎÌå'>Ä¿Ç°</span><span lang=EN-US>srs</span><span
+style='font-family:ËÎÌå;color:#333333'>¶à¸ö±ßÔµ»Ø¶à¸öÔ´Õ¾Ê±£¬Ä³Ò»Ê±¿ÌÖ»ÄÜÑ¡ÔñÒ»¸öÔ´Õ¾¡£</span><span
 lang=EN style='font-family:"Segoe UI",sans-serif;color:#333333'><br>
-</span><span style='font-family:å®‹ä½“;color:#333333'>å› æ­¤ï¼Œå¦‚æžœæµæŽ¨åˆ°</span><span lang=EN
+</span><span style='font-family:ËÎÌå;color:#333333'>Òò´Ë£¬Èç¹ûÁ÷ÍÆµ½</span><span lang=EN
 style='font-family:"Segoe UI",sans-serif;color:#333333'>N(N&gt;=3)</span><span
-style='font-family:å®‹ä½“;color:#333333'>ä¸ªæºç«™ä¸­çš„ä¸¤ä¸ªï¼Œè­¬å¦‚åšçƒ­å¤‡æ—¶ï¼Œä¸€å®šæœ‰ä¸€ä¸ªæºç«™æ˜¯æ²¡æœ‰æµçš„ï¼›è¿™ä¸ªæ—¶å€™è¾¹ç¼˜å¦‚æžœå›žæºåˆ°è¿™ä¸ªæºç«™ï¼Œå°±ä¼šå¯¼è‡´æ²¡æœ‰æµï¼›è€Œè¾¹ç¼˜è¿˜å¾—ç­‰å¾…ï¼Œå› ä¸ºè¾¹ç¼˜æ˜¯æ— æ³•çŸ¥é“æºç«™æ²¡æœ‰è¿™ä¸ªæµã€‚</span><span
+style='font-family:ËÎÌå;color:#333333'>¸öÔ´Õ¾ÖÐµÄÁ½¸ö£¬Æ©Èç×öÈÈ±¸Ê±£¬Ò»¶¨ÓÐÒ»¸öÔ´Õ¾ÊÇÃ»ÓÐÁ÷µÄ£»Õâ¸öÊ±ºò±ßÔµÈç¹û»ØÔ´µ½Õâ¸öÔ´Õ¾£¬¾Í»áµ¼ÖÂÃ»ÓÐÁ÷£»¶ø±ßÔµ»¹µÃµÈ´ý£¬ÒòÎª±ßÔµÊÇÎÞ·¨ÖªµÀÔ´Õ¾Ã»ÓÐÕâ¸öÁ÷¡£</span><span
 lang=EN style='font-family:"Segoe UI",sans-serif;color:#333333'><br>
-&nbsp;&nbsp; &nbsp;</span><span style='font-family:å®‹ä½“;color:#333333'>ä»Žçƒ­å¤‡å’Œè´Ÿè½½å‡è¡¡çš„è§’åº¦çœ‹ï¼Œåº”è¯¥æ”¯æŒå¤šä¸ªæºç«™ï¼Œè¿™äº›æºç«™ä¹‹é—´éœ€è¦é€šä¿¡å’ŒåŒæ­¥çŠ¶æ€ï¼Œè¿™æ ·è¾¹ç¼˜åœ¨è¿žæŽ¥åˆ°æ²¡æœ‰æµçš„æºç«™æ—¶ï¼Œæºç«™å¯ä»¥å‘ŠçŸ¥è¾¹ç¼˜æ­£ç¡®çš„æºç«™æ˜¯è°ï¼Œä¹Ÿå°±æ˜¯æºç«™é›†ç¾¤ã€‚</span></p>
+&nbsp;&nbsp; &nbsp;</span><span style='font-family:ËÎÌå;color:#333333'>´ÓÈÈ±¸ºÍ¸ºÔØ¾ùºâµÄ½Ç¶È¿´£¬Ó¦¸ÃÖ§³Ö¶à¸öÔ´Õ¾£¬ÕâÐ©Ô´Õ¾Ö®¼äÐèÒªÍ¨ÐÅºÍÍ¬²½×´Ì¬£¬ÕâÑù±ßÔµÔÚÁ¬½Óµ½Ã»ÓÐÁ÷µÄÔ´Õ¾Ê±£¬Ô´Õ¾¿ÉÒÔ¸æÖª±ßÔµÕýÈ·µÄÔ´Õ¾ÊÇË­£¬Ò²¾ÍÊÇÔ´Õ¾¼¯Èº¡£</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>æºç«™é›†ç¾¤å®žçŽ°å¯é€šè¿‡</span><span
-lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>é‡å®šå‘å’Œå®žæ—¶åŠ¨æ€åé¦ˆè°ƒåº¦ç®—æ³•è®©å¤šä¸ªå½¼æ­¤ç‹¬ç«‹çš„æºç«™æœåŠ¡å™¨å»ºç«‹é€šä¿¡ï¼Œå°†å®ƒä»¬ç»„ç»‡æˆä¸€ä¸ªæ¾è€¦åˆçš„è™šæ‹Ÿâ€œè¶…çº§æºç«™â€ï¼Œä¸Žä¹‹çš„äº¤äº’ï¼Œå°±åƒä¸Žä¸€ä¸ªè¶…æ€§èƒ½ã€é«˜å¯ç”¨çš„å•å°æºç«™äº¤äº’ä¸€æ ·ã€‚</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>Ô´Õ¾¼¯ÈºÊµÏÖ¿ÉÍ¨¹ý</span><span
+lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>ÖØ¶¨ÏòºÍÊµÊ±¶¯Ì¬·´À¡µ÷¶ÈËã·¨ÈÃ¶à¸ö±Ë´Ë¶ÀÁ¢µÄÔ´Õ¾·þÎñÆ÷½¨Á¢Í¨ÐÅ£¬½«ËüÃÇ×éÖ¯³ÉÒ»¸öËÉñîºÏµÄÐéÄâ¡°³¬¼¶Ô´Õ¾¡±£¬ÓëÖ®µÄ½»»¥£¬¾ÍÏñÓëÒ»¸ö³¬ÐÔÄÜ¡¢¸ß¿ÉÓÃµÄµ¥Ì¨Ô´Õ¾½»»¥Ò»Ñù¡£</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US><img border=0 width=905 height=309
-id="å›¾ç‰‡ 7" src="srs_wiki.files/image006.jpg"></span></p>
+id="Í¼Æ¬ 7" src="srs_wiki.files/image006.jpg"></span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style='font-family:å®‹ä½“'>ä¼ ç»Ÿæºç«™ç»“æž„å›¾</span><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='font-family:ËÎÌå'>´«Í³Ô´Õ¾½á¹¹Í¼</span><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
-style='font-family:å®‹ä½“'>æºç«™é›†ç¾¤ç»“æž„å›¾</span></p>
+style='font-family:ËÎÌå'>Ô´Õ¾¼¯Èº½á¹¹Í¼</span></p>
 
 <h3><a name="_Toc26097962"></a><a name="_Toc462219470"></a><a
 name="_Toc456260523"><span lang=EN-US>VHOST</span></a><span style='font-family:
-å®‹ä½“'>è™šæ‹ŸæœåŠ¡å™¨</span></h3>
+ËÎÌå'>ÐéÄâ·þÎñÆ÷</span></h3>
 
 <h4><a name="_Toc462219471"><span lang=EN-US>RTMP</span></a><span
-style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>URL/Vhost</span><span
-style='font-family:å®‹ä½“'>è§„åˆ™</span></h4>
+style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>URL/Vhost</span><span
+style='font-family:ËÎÌå'>¹æÔò</span></h4>
 
 <p style='text-indent:21.0pt'><span lang=EN-US style='font-size:10.5pt'>RTMP</span><span
-style='font-size:10.5pt'>çš„<span lang=EN-US>url</span>å…¶å®žå¾ˆç®€å•ï¼Œ<span lang=EN-US>vhost</span>å…¶å®žä¹Ÿæ²¡æœ‰ä»€ä¹ˆæ–°çš„æ¦‚å¿µï¼Œä½†æ˜¯å¯¹äºŽæ²¡æœ‰ä½¿ç”¨è¿‡çš„åŒå­¦æ¥è®²ï¼Œè¿˜æ˜¯å¾ˆå®¹æ˜“æ··æ·†ã€‚å‡ ä¹Žæ¯ä¸ªæ–°äººéƒ½å¿…é—®çš„é—®é¢˜ï¼š<span
-lang=EN-US>RTMP</span>é‚£ä¸ª<span lang=EN-US>URL</span>æŽ¨æµæ—¶åº”è¯¥å¡«ä»€ä¹ˆï¼Œä»€ä¹ˆæ˜¯<span
-lang=EN-US>vhost</span>ï¼Œä»€ä¹ˆæ˜¯<span lang=EN-US>app</span>ï¼Ÿ</span></p>
+style='font-size:10.5pt'>µÄ<span lang=EN-US>url</span>ÆäÊµºÜ¼òµ¥£¬<span lang=EN-US>vhost</span>ÆäÊµÒ²Ã»ÓÐÊ²Ã´ÐÂµÄ¸ÅÄî£¬µ«ÊÇ¶ÔÓÚÃ»ÓÐÊ¹ÓÃ¹ýµÄÍ¬Ñ§À´½²£¬»¹ÊÇºÜÈÝÒ×»ìÏý¡£¼¸ºõÃ¿¸öÐÂÈË¶¼±ØÎÊµÄÎÊÌâ£º<span
+lang=EN-US>RTMP</span>ÄÇ¸ö<span lang=EN-US>URL</span>ÍÆÁ÷Ê±Ó¦¸ÃÌîÊ²Ã´£¬Ê²Ã´ÊÇ<span
+lang=EN-US>vhost</span>£¬Ê²Ã´ÊÇ<span lang=EN-US>app</span>£¿</span></p>
 
 <h4><a name="_Toc462219472"><span style='font-size:10.5pt;line-height:156%;
-font-family:å®‹ä½“'>åº”ç”¨åœºæ™¯</span></a></h4>
+font-family:ËÎÌå'>Ó¦ÓÃ³¡¾°</span></a></h4>
 
 <p><span lang=EN-US style='font-size:10.5pt'>Vhost</span><span
-style='font-size:10.5pt'>çš„ä¸»è¦åº”ç”¨åœºæ™¯åŒ…æ‹¬ï¼š</span></p>
+style='font-size:10.5pt'>µÄÖ÷ÒªÓ¦ÓÃ³¡¾°°üÀ¨£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ä¸€ä¸ªåˆ†å‘ç½‘ç»œæ”¯æŒå¤šä¸ªå®¢æˆ·ï¼šè­¬å¦‚</span><span
-     lang=EN-US>CDN</span><span style='font-family:å®‹ä½“'>ï¼Œä¸€ä¸ªåˆ†å‘ç½‘ç»œä¸­ï¼Œæœ‰</span><span
-     lang=EN-US>N</span><span style='font-family:å®‹ä½“'>ä¸ªå®¢æˆ·å…¬ç”¨ä¸€å¥—æµåª’ä½“ç³»ç»Ÿï¼Œå¦‚ä½•åŒºåˆ†ç”¨æˆ·ï¼Œè®¡è´¹ï¼Œç›‘æŽ§ç­‰ç­‰ï¼Ÿé€šè¿‡</span><span
-     lang=EN-US>app</span><span style='font-family:å®‹ä½“'>ä¹ˆï¼Ÿå¤§å®¶å¯èƒ½éƒ½å«åš</span><span
-     lang=EN-US>live</span><span style='font-family:å®‹ä½“'>ä¹‹ç±»ã€‚æœ€å¥½æ˜¯é€šè¿‡å„è‡ªçš„åŸŸåã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ä¸åŒçš„åº”ç”¨é…ç½®ï¼šè­¬å¦‚</span><span
-     lang=EN-US>FMLE</span><span style='font-family:å®‹ä½“'>æŽ¨ä¸Šæ¥çš„æµæ˜¯</span><span
-     lang=EN-US>h264+mp3</span><span style='font-family:å®‹ä½“'>ï¼Œå¯ä»¥å°†éŸ³é¢‘è½¬ç åŽæ”¾åˆ°å…¶ä»–çš„</span><span
-     lang=EN-US>vhost</span><span style='font-family:å®‹ä½“'>åˆ†å‘</span><span
-     lang=EN-US>hls</span><span style='font-family:å®‹ä½“'>ï¼Œè¿™æ ·æŽ¥å…¥</span><span
-     lang=EN-US>h264+mp3</span><span style='font-family:å®‹ä½“'>çš„</span><span
-     lang=EN-US>vhost</span><span style='font-family:å®‹ä½“'>å°±ä¸ç”¨åˆ‡</span><span
-     lang=EN-US>hls</span><span style='font-family:å®‹ä½“'>ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ò»¸ö·Ö·¢ÍøÂçÖ§³Ö¶à¸ö¿Í»§£ºÆ©Èç</span><span
+     lang=EN-US>CDN</span><span style='font-family:ËÎÌå'>£¬Ò»¸ö·Ö·¢ÍøÂçÖÐ£¬ÓÐ</span><span
+     lang=EN-US>N</span><span style='font-family:ËÎÌå'>¸ö¿Í»§¹«ÓÃÒ»Ì×Á÷Ã½ÌåÏµÍ³£¬ÈçºÎÇø·ÖÓÃ»§£¬¼Æ·Ñ£¬¼à¿ØµÈµÈ£¿Í¨¹ý</span><span
+     lang=EN-US>app</span><span style='font-family:ËÎÌå'>Ã´£¿´ó¼Ò¿ÉÄÜ¶¼½Ð×ö</span><span
+     lang=EN-US>live</span><span style='font-family:ËÎÌå'>Ö®Àà¡£×îºÃÊÇÍ¨¹ý¸÷×ÔµÄÓòÃû¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>²»Í¬µÄÓ¦ÓÃÅäÖÃ£ºÆ©Èç</span><span
+     lang=EN-US>FMLE</span><span style='font-family:ËÎÌå'>ÍÆÉÏÀ´µÄÁ÷ÊÇ</span><span
+     lang=EN-US>h264+mp3</span><span style='font-family:ËÎÌå'>£¬¿ÉÒÔ½«ÒôÆµ×ªÂëºó·Åµ½ÆäËûµÄ</span><span
+     lang=EN-US>vhost</span><span style='font-family:ËÎÌå'>·Ö·¢</span><span
+     lang=EN-US>hls</span><span style='font-family:ËÎÌå'>£¬ÕâÑù½ÓÈë</span><span
+     lang=EN-US>h264+mp3</span><span style='font-family:ËÎÌå'>µÄ</span><span
+     lang=EN-US>vhost</span><span style='font-family:ËÎÌå'>¾Í²»ÓÃÇÐ</span><span
+     lang=EN-US>hls</span><span style='font-family:ËÎÌå'>¡£</span></li>
 </ul>
 
-<p><span style='font-size:10.5pt'>æ€»ä¹‹ï¼Œ<span lang=EN-US>vhost</span>ä½œä¸ºåº”ç”¨é…ç½®çš„å•å…ƒï¼Œèƒ½éš”ç¦»å®¢æˆ·ï¼Œåº”ç”¨ä¸åŒçš„é…ç½®ã€‚</span></p>
+<p><span style='font-size:10.5pt'>×ÜÖ®£¬<span lang=EN-US>vhost</span>×÷ÎªÓ¦ÓÃÅäÖÃµÄµ¥Ôª£¬ÄÜ¸ôÀë¿Í»§£¬Ó¦ÓÃ²»Í¬µÄÅäÖÃ¡£</span></p>
 
-<h4><a name="_Toc462219473"><span style='font-family:å®‹ä½“'>æ ‡å‡†</span><span
+<h4><a name="_Toc462219473"><span style='font-family:ËÎÌå'>±ê×¼</span><span
 lang=EN-US>RTMP URL</span></a></h4>
 
-<p><span style='font-size:10.5pt'>æ ‡å‡†<span lang=EN-US>RTMP URL</span>æŒ‡çš„æ˜¯æœ€å¤§å…¼å®¹çš„<span
-lang=EN-US>RTMP URL</span>ï¼ŒåŸºæœ¬ä¸Šæ‰€æœ‰çš„æœåŠ¡å™¨å’Œæ’­æ”¾å™¨éƒ½èƒ½è¯†åˆ«çš„<span lang=EN-US>URL</span>ï¼Œå’Œ<span
-lang=EN-US>HTTP URL</span>å…¶å®žå¾ˆç›¸ä¼¼ï¼Œä¾‹å¦‚ï¼š</span></p>
+<p><span style='font-size:10.5pt'>±ê×¼<span lang=EN-US>RTMP URL</span>Ö¸µÄÊÇ×î´ó¼æÈÝµÄ<span
+lang=EN-US>RTMP URL</span>£¬»ù±¾ÉÏËùÓÐµÄ·þÎñÆ÷ºÍ²¥·ÅÆ÷¶¼ÄÜÊ¶±ðµÄ<span lang=EN-US>URL</span>£¬ºÍ<span
+lang=EN-US>HTTP URL</span>ÆäÊµºÜÏàËÆ£¬ÀýÈç£º</span></p>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;background:#E5E5E5;border-collapse:collapse;border:none'>
@@ -3451,75 +5144,75 @@ lang=EN-US>HTTP URL</span>å…¶å®žå¾ˆç›¸ä¼¼ï¼Œä¾‹å¦‚ï¼š</span></p>
 </table>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-style='font-family:å®‹ä½“;color:#333333'>å…¶ä¸­ï¼š</span></p>
+style='font-family:ËÎÌå;color:#333333'>ÆäÖÐ£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='color:#333333;text-align:left'><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>Schema</span><span
-     style='font-family:å®‹ä½“'>ï¼šåè®®å¤´ï¼Œ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>HTTP</span><span
-     style='font-family:å®‹ä½“'>ä¸º</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>HTTP</span><span
-     style='font-family:å®‹ä½“'>æˆ–</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>HTTPS</span><span
-     style='font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>RTMP</span><span
-     style='font-family:å®‹ä½“'>ä¸º</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>RTMP/RTMPS/RTMPE/RTMPT</span><span
-     style='font-family:å®‹ä½“'>ç­‰ä¼—å¤šåè®®ï¼Œè¿˜æœ‰æ–°å‡ºçš„</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>RTMFP</span><span style='font-family:å®‹ä½“'>ã€‚</span></li>
+     style='font-family:ËÎÌå'>£ºÐ­ÒéÍ·£¬</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>HTTP</span><span
+     style='font-family:ËÎÌå'>Îª</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>HTTP</span><span
+     style='font-family:ËÎÌå'>»ò</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>HTTPS</span><span
+     style='font-family:ËÎÌå'>£¬</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>RTMP</span><span
+     style='font-family:ËÎÌå'>Îª</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>RTMP/RTMPS/RTMPE/RTMPT</span><span
+     style='font-family:ËÎÌå'>µÈÖÚ¶àÐ­Òé£¬»¹ÓÐÐÂ³öµÄ</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>RTMFP</span><span style='font-family:ËÎÌå'>¡£</span></li>
  <li class=MsoNormal style='color:#333333;text-align:left'><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>Host</span><span
-     style='font-family:å®‹ä½“'>ï¼šä¸»æœºï¼Œè¡¨ç¤ºè¦è¿žæŽ¥çš„ä¸»æœºï¼Œå¯ä»¥ä¸ºä¸»æœº</span><span lang=EN
+     style='font-family:ËÎÌå'>£ºÖ÷»ú£¬±íÊ¾ÒªÁ¬½ÓµÄÖ÷»ú£¬¿ÉÒÔÎªÖ÷»ú</span><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>DNS</span><span
-     style='font-family:å®‹ä½“'>åç§°æˆ–è€…</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>IP</span><span
-     style='font-family:å®‹ä½“'>åœ°å€ã€‚å•†ç”¨æ—¶ï¼Œä¸€èˆ¬ä¸ä¼šç”¨</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>IP</span><span style='font-family:å®‹ä½“'>åœ°å€ï¼Œè€Œæ˜¯</span><span
+     style='font-family:ËÎÌå'>Ãû³Æ»òÕß</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>IP</span><span
+     style='font-family:ËÎÌå'>µØÖ·¡£ÉÌÓÃÊ±£¬Ò»°ã²»»áÓÃ</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>IP</span><span style='font-family:ËÎÌå'>µØÖ·£¬¶øÊÇ</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>DNS</span><span
-     style='font-family:å®‹ä½“'>åç§°ï¼Œè¿™æ ·å¯ä»¥ç”¨</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>CDN</span><span style='font-family:å®‹ä½“'>åˆ†å‘å†…å®¹ï¼ˆ</span><span
+     style='font-family:ËÎÌå'>Ãû³Æ£¬ÕâÑù¿ÉÒÔÓÃ</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>CDN</span><span style='font-family:ËÎÌå'>·Ö·¢ÄÚÈÝ£¨</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>CDN</span><span
-     style='font-family:å®‹ä½“'>ä¸€èˆ¬ä½¿ç”¨</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>DNS</span><span
-     style='font-family:å®‹ä½“'>è°ƒåº¦ï¼Œå³ä¸åŒç½‘ç»œå’Œåœ°ç†ä½ç½®çš„ç”¨æˆ·ï¼Œé€šè¿‡</span><span lang=EN
+     style='font-family:ËÎÌå'>Ò»°ãÊ¹ÓÃ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>DNS</span><span
+     style='font-family:ËÎÌå'>µ÷¶È£¬¼´²»Í¬ÍøÂçºÍµØÀíÎ»ÖÃµÄÓÃ»§£¬Í¨¹ý</span><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>DNS</span><span
-     style='font-family:å®‹ä½“'>è§£æžåˆ°çš„</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>IP</span><span
-     style='font-family:å®‹ä½“'>ä¸ä¸€æ ·ï¼Œå®žçŽ°ç”¨æˆ·çš„å°±è¿‘è®¿é—®ï¼‰ã€‚</span></li>
+     style='font-family:ËÎÌå'>½âÎöµ½µÄ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>IP</span><span
+     style='font-family:ËÎÌå'>²»Ò»Ñù£¬ÊµÏÖÓÃ»§µÄ¾Í½ü·ÃÎÊ£©¡£</span></li>
  <li class=MsoNormal style='color:#333333;text-align:left'><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>Port</span><span
-     style='font-family:å®‹ä½“'>ï¼šç«¯å£ï¼Œ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>HTTP</span><span
-     style='font-family:å®‹ä½“'>é»˜è®¤ä¸º</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>80</span><span
-     style='font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>RTMP</span><span
-     style='font-family:å®‹ä½“'>é»˜è®¤ä¸º</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>1935</span><span
-     style='font-family:å®‹ä½“'>ã€‚å½“ç«¯å£æ²¡æœ‰æŒ‡å®šæ—¶ï¼Œä½¿ç”¨é»˜è®¤ç«¯å£ã€‚</span></li>
+     style='font-family:ËÎÌå'>£º¶Ë¿Ú£¬</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>HTTP</span><span
+     style='font-family:ËÎÌå'>Ä¬ÈÏÎª</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>80</span><span
+     style='font-family:ËÎÌå'>£¬</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>RTMP</span><span
+     style='font-family:ËÎÌå'>Ä¬ÈÏÎª</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>1935</span><span
+     style='font-family:ËÎÌå'>¡£µ±¶Ë¿ÚÃ»ÓÐÖ¸¶¨Ê±£¬Ê¹ÓÃÄ¬ÈÏ¶Ë¿Ú¡£</span></li>
  <li class=MsoNormal style='color:#333333;text-align:left'><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>Path</span><span
-     style='font-family:å®‹ä½“'>ï¼šè·¯å¾„ï¼Œ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>HTTP</span><span
-     style='font-family:å®‹ä½“'>è®¿é—®çš„æ–‡ä»¶è·¯å¾„ã€‚</span></li>
+     style='font-family:ËÎÌå'>£ºÂ·¾¶£¬</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>HTTP</span><span
+     style='font-family:ËÎÌå'>·ÃÎÊµÄÎÄ¼þÂ·¾¶¡£</span></li>
  <li class=MsoNormal style='color:#333333;text-align:left'><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>App</span><span
-     style='font-family:å®‹ä½“'>ï¼š</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>RTMP</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>Application</span><span
-     style='font-family:å®‹ä½“'>ï¼ˆåº”ç”¨ï¼‰åç§°ï¼Œå¯ä»¥ç±»æ¯”ä¸ºæ–‡ä»¶å¤¹ã€‚ä»¥æ–‡ä»¶å¤¹æ¥åˆ†ç±»ä¸åŒçš„æµï¼Œæ²¡æœ‰ç‰¹æ®Šçº¦å®šï¼Œå¯ä»¥ä»»æ„åˆ’åˆ†ã€‚</span></li>
+     style='font-family:ËÎÌå'>£º</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>RTMP</span><span
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>Application</span><span
+     style='font-family:ËÎÌå'>£¨Ó¦ÓÃ£©Ãû³Æ£¬¿ÉÒÔÀà±ÈÎªÎÄ¼þ¼Ð¡£ÒÔÎÄ¼þ¼ÐÀ´·ÖÀà²»Í¬µÄÁ÷£¬Ã»ÓÐÌØÊâÔ¼¶¨£¬¿ÉÒÔÈÎÒâ»®·Ö¡£</span></li>
  <li class=MsoNormal style='color:#333333;text-align:left'><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>Stream</span><span
-     style='font-family:å®‹ä½“'>ï¼š</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>RTMP</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>Stream</span><span
-     style='font-family:å®‹ä½“'>ï¼ˆæµï¼‰åç§°ï¼Œå¯ä»¥ç±»æ¯”ä¸ºæ–‡ä»¶ã€‚</span></li>
+     style='font-family:ËÎÌå'>£º</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>RTMP</span><span
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>Stream</span><span
+     style='font-family:ËÎÌå'>£¨Á÷£©Ãû³Æ£¬¿ÉÒÔÀà±ÈÎªÎÄ¼þ¡£</span></li>
 </ul>
 
 <h4><a name="_Toc462219474"><span lang=EN>NoVhost</span></a></h4>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>å…¶å®žï¼Œ</span><span
-lang=EN>vhost</span><span style='font-family:å®‹ä½“'>å¤§å¤šæ•°ç”¨æˆ·éƒ½ç”¨ä¸åˆ°ï¼Œè€Œä¸”ä¸æŽ¨èç”¨ï¼Œæœ‰ç‚¹å¤æ‚ã€‚ä¸€èˆ¬çš„ç”¨æˆ·ç”¨</span><span
-lang=EN>app</span><span style='font-family:å®‹ä½“'>å°±å¯ä»¥äº†ã€‚å› ä¸º</span><span lang=EN>vhost/app/stream</span><span
-style='font-family:å®‹ä½“'>ï¼Œåªæ˜¯ä¸€ä¸ªåˆ†ç±»æ–¹æ³•è€Œå·²ï¼›</span><span lang=EN>vhost</span><span
-style='font-family:å®‹ä½“'>éœ€è¦åœ¨é…ç½®æ–‡ä»¶ä¸­è¯´æ˜Žï¼Œ</span><span lang=EN>app/stream</span><span
-style='font-family:å®‹ä½“'>éƒ½ä¸éœ€è¦é…ç½®ã€‚</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>ÆäÊµ£¬</span><span
+lang=EN>vhost</span><span style='font-family:ËÎÌå'>´ó¶àÊýÓÃ»§¶¼ÓÃ²»µ½£¬¶øÇÒ²»ÍÆ¼öÓÃ£¬ÓÐµã¸´ÔÓ¡£Ò»°ãµÄÓÃ»§ÓÃ</span><span
+lang=EN>app</span><span style='font-family:ËÎÌå'>¾Í¿ÉÒÔÁË¡£ÒòÎª</span><span lang=EN>vhost/app/stream</span><span
+style='font-family:ËÎÌå'>£¬Ö»ÊÇÒ»¸ö·ÖÀà·½·¨¶øÒÑ£»</span><span lang=EN>vhost</span><span
+style='font-family:ËÎÌå'>ÐèÒªÔÚÅäÖÃÎÄ¼þÖÐËµÃ÷£¬</span><span lang=EN>app/stream</span><span
+style='font-family:ËÎÌå'>¶¼²»ÐèÒªÅäÖÃ¡£</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>ä»€ä¹ˆæ—¶å€™ç”¨</span><span
-lang=EN>vhost</span><span style='font-family:å®‹ä½“'>ï¼Ÿå¦‚æžœä½ æ˜¯æä¾›æœåŠ¡ï¼Œè­¬å¦‚ä½ æœ‰</span><span
-lang=EN>100</span><span style='font-family:å®‹ä½“'>ä¸ªå®¢æˆ·ï¼Œéƒ½è¦ç”¨ä¸€å¥—å¹³å°ï¼Œèµ°åŒæ ·çš„æµåª’ä½“æœåŠ¡å™¨åˆ†å‘ã€‚é‚£å¯ä»¥æ¯ä¸ªå®¢æˆ·ä¸€ä¸ª</span><span
-lang=EN>vhost</span><span style='font-family:å®‹ä½“'>ï¼Œè¿™æ ·ä»–ä»¬çš„</span><span lang=EN>app</span><span
-style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN>stream</span><span
-style='font-family:å®‹ä½“'>å¯ä»¥ç›¸åŒéƒ½å¯ä»¥ã€‚</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>Ê²Ã´Ê±ºòÓÃ</span><span
+lang=EN>vhost</span><span style='font-family:ËÎÌå'>£¿Èç¹ûÄãÊÇÌá¹©·þÎñ£¬Æ©ÈçÄãÓÐ</span><span
+lang=EN>100</span><span style='font-family:ËÎÌå'>¸ö¿Í»§£¬¶¼ÒªÓÃÒ»Ì×Æ½Ì¨£¬×ßÍ¬ÑùµÄÁ÷Ã½Ìå·þÎñÆ÷·Ö·¢¡£ÄÇ¿ÉÒÔÃ¿¸ö¿Í»§Ò»¸ö</span><span
+lang=EN>vhost</span><span style='font-family:ËÎÌå'>£¬ÕâÑùËûÃÇµÄ</span><span lang=EN>app</span><span
+style='font-family:ËÎÌå'>ºÍ</span><span lang=EN>stream</span><span
+style='font-family:ËÎÌå'>¿ÉÒÔÏàÍ¬¶¼¿ÉÒÔ¡£</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>ä¸€èˆ¬çš„ç”¨æ³•ï¼Œä¸¾ä¸ªä¾‹å­ï¼Œæœ‰ä¸ªè§†é¢‘ç½‘ç«™ï¼Œè‡ªå·±æ­å»ºæœåŠ¡å™¨ï¼Œæ‰€ä»¥åªæœ‰ä»–è‡ªå·±ä¸€ä¸ªå®¢æˆ·ï¼Œå°±ä¸è¦ç”¨</span><span
-lang=EN>vhost</span><span style='font-family:å®‹ä½“'>äº†ã€‚å‡è®¾è§†é¢‘ç½‘ç«™æä¾›èŠå¤©æœåŠ¡ï¼ŒèŠå¤©æœ‰ä¸åŒçš„è¯é¢˜ç±»åž‹ï¼Œè­¬å¦‚ï¼šå†›äº‹æ ç›®ï¼Œè¯»ä¹¦æ ç›®ï¼ŒåŽ†å²æ ç›®ä¸‰ä¸ªåˆ†ç±»ï¼Œæ¯ä¸ªåˆ†ç±»ä¸‹é¢æœ‰å¾ˆå¤šèŠå¤©å®¤ã€‚åªè¦è¿™ä¹ˆé…ç½®å°±å¥½ï¼š</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>Ò»°ãµÄÓÃ·¨£¬¾Ù¸öÀý×Ó£¬ÓÐ¸öÊÓÆµÍøÕ¾£¬×Ô¼º´î½¨·þÎñÆ÷£¬ËùÒÔÖ»ÓÐËû×Ô¼ºÒ»¸ö¿Í»§£¬¾Í²»ÒªÓÃ</span><span
+lang=EN>vhost</span><span style='font-family:ËÎÌå'>ÁË¡£¼ÙÉèÊÓÆµÍøÕ¾Ìá¹©ÁÄÌì·þÎñ£¬ÁÄÌìÓÐ²»Í¬µÄ»°ÌâÀàÐÍ£¬Æ©Èç£º¾üÊÂÀ¸Ä¿£¬¶ÁÊéÀ¸Ä¿£¬ÀúÊ·À¸Ä¿Èý¸ö·ÖÀà£¬Ã¿¸ö·ÖÀàÏÂÃæÓÐºÜ¶àÁÄÌìÊÒ¡£Ö»ÒªÕâÃ´ÅäÖÃ¾ÍºÃ£º</span></p>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left;
 background:#F7F7F7'><span lang=EN style='font-size:10.0pt;font-family:Consolas;
@@ -3534,45 +5227,45 @@ color:#333333'>vhost __defaultVhost__ {</span></p>
 <p class=MsoNormal align=left style='text-align:left;background:#F7F7F7'><span
 lang=EN style='font-size:10.0pt;font-family:Consolas;color:#333333'>}</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>ç”Ÿæˆç½‘é¡µæ—¶ï¼Œè­¬å¦‚å†›äº‹æ ç›®çš„ç½‘é¡µï¼Œéƒ½ç”¨</span><span
-lang=EN>app</span><span style='font-family:å®‹ä½“'>åç§°ä¸º</span><span lang=EN
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>Éú³ÉÍøÒ³Ê±£¬Æ©Èç¾üÊÂÀ¸Ä¿µÄÍøÒ³£¬¶¼ÓÃ</span><span
+lang=EN>app</span><span style='font-family:ËÎÌå'>Ãû³ÆÎª</span><span lang=EN
 style='font-size:10.0pt;font-family:Consolas'>military</span><span
-style='font-family:å®‹ä½“'>ï¼ŒæŸä¸ªèŠå¤©å®¤å«åš</span><span style='font-size:10.0pt;font-family:
-å®‹ä½“'>ç«ç®­</span><span style='font-family:å®‹ä½“'>ï¼Œè¿™ä¸ªé¡µé¢çš„æµå¯ä»¥ç”¨ï¼š</span><span lang=EN
+style='font-family:ËÎÌå'>£¬Ä³¸öÁÄÌìÊÒ½Ð×ö</span><span style='font-size:10.0pt;font-family:
+ËÎÌå'>»ð¼ý</span><span style='font-family:ËÎÌå'>£¬Õâ¸öÒ³ÃæµÄÁ÷¿ÉÒÔÓÃ£º</span><span lang=EN
 style='font-size:10.0pt;font-family:Consolas'>rtmp://yourdomain.com/military/rock</span><span
-style='font-family:å®‹ä½“'>ï¼Œç¼–ç å™¨ä¹ŸæŽ¨è¿™ä¸ªæµï¼Œæ‰€æœ‰è§‚çœ‹è¿™ä¸ª</span><span style='font-size:10.0pt;
-font-family:å®‹ä½“'>å†›äº‹æ ç›®</span><span lang=EN style='font-size:10.0pt;font-family:
-Consolas'>/</span><span style='font-size:10.0pt;font-family:å®‹ä½“'>ç«ç®­</span><span
-style='font-family:å®‹ä½“'>èŠå¤©å®¤çš„é¡µé¢çš„äººï¼Œéƒ½æ’­æ”¾è¿™ä¸ªæµã€‚</span></p>
+style='font-family:ËÎÌå'>£¬±àÂëÆ÷Ò²ÍÆÕâ¸öÁ÷£¬ËùÓÐ¹Û¿´Õâ¸ö</span><span style='font-size:10.0pt;
+font-family:ËÎÌå'>¾üÊÂÀ¸Ä¿</span><span lang=EN style='font-size:10.0pt;font-family:
+Consolas'>/</span><span style='font-size:10.0pt;font-family:ËÎÌå'>»ð¼ý</span><span
+style='font-family:ËÎÌå'>ÁÄÌìÊÒµÄÒ³ÃæµÄÈË£¬¶¼²¥·ÅÕâ¸öÁ÷¡£</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>å†›äº‹æ ç›®å¦å¤–çš„ç½‘é¡µï¼Œéƒ½ç”¨åŒæ ·çš„</span><span
-lang=EN>app</span><span style='font-family:å®‹ä½“'>åç§°</span><span lang=EN
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>¾üÊÂÀ¸Ä¿ÁíÍâµÄÍøÒ³£¬¶¼ÓÃÍ¬ÑùµÄ</span><span
+lang=EN>app</span><span style='font-family:ËÎÌå'>Ãû³Æ</span><span lang=EN
 style='font-size:10.0pt;font-family:Consolas'>military</span><span
-style='font-family:å®‹ä½“'>ï¼Œä½†æ˜¯æµä¸ä¸€æ ·ï¼Œè­¬å¦‚æŸä¸ªèŠå¤©å®¤å«åš</span><span style='font-size:10.0pt;
-font-family:å®‹ä½“'>é›·è¾¾</span><span style='font-family:å®‹ä½“'>ï¼Œè¿™ä¸ªé¡µé¢çš„æµå¯ä»¥ç”¨ï¼š</span><span
+style='font-family:ËÎÌå'>£¬µ«ÊÇÁ÷²»Ò»Ñù£¬Æ©ÈçÄ³¸öÁÄÌìÊÒ½Ð×ö</span><span style='font-size:10.0pt;
+font-family:ËÎÌå'>À×´ï</span><span style='font-family:ËÎÌå'>£¬Õâ¸öÒ³ÃæµÄÁ÷¿ÉÒÔÓÃ£º</span><span
 lang=EN style='font-size:10.0pt;font-family:Consolas'>rtmp://yourdomain.com/military/radar</span><span
-style='font-family:å®‹ä½“'>ï¼ŒæŽ¨æµå’Œè§‚çœ‹ä¸€æ ·ã€‚</span></p>
+style='font-family:ËÎÌå'>£¬ÍÆÁ÷ºÍ¹Û¿´Ò»Ñù¡£</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>å¦‚æ­¤ç±»æŽ¨ï¼Œå†›äº‹æ ç›®é¡µé¢ç”Ÿæˆæ—¶ï¼Œä¸ç”¨æ›´æ”¹</span><span
-lang=EN>srs</span><span style='font-family:å®‹ä½“'>çš„ä»»ä½•é…ç½®ã€‚ä¹Ÿå°±æ˜¯è¯´ï¼Œæ–°å¢žèŠå¤©å®¤ï¼Œä¸ç”¨æ”¹æœåŠ¡å™¨é…ç½®ï¼›æ–°å¢žåˆ†ç±»ï¼Œè­¬å¦‚åŠ ä¸ª</span><span
-style='font-size:10.0pt;font-family:å®‹ä½“'>å…¬å¼€è¯¾</span><span style='font-family:
-å®‹ä½“'>çš„èŠå¤©å®¤ï¼Œä¹Ÿä¸ç”¨æ”¹æœåŠ¡å™¨é…ç½®ã€‚è¶³å¤Ÿç®€å•ï¼</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>Èç´ËÀàÍÆ£¬¾üÊÂÀ¸Ä¿Ò³ÃæÉú³ÉÊ±£¬²»ÓÃ¸ü¸Ä</span><span
+lang=EN>srs</span><span style='font-family:ËÎÌå'>µÄÈÎºÎÅäÖÃ¡£Ò²¾ÍÊÇËµ£¬ÐÂÔöÁÄÌìÊÒ£¬²»ÓÃ¸Ä·þÎñÆ÷ÅäÖÃ£»ÐÂÔö·ÖÀà£¬Æ©Èç¼Ó¸ö</span><span
+style='font-size:10.0pt;font-family:ËÎÌå'>¹«¿ª¿Î</span><span style='font-family:
+ËÎÌå'>µÄÁÄÌìÊÒ£¬Ò²²»ÓÃ¸Ä·þÎñÆ÷ÅäÖÃ¡£×ã¹»¼òµ¥£¡</span></p>
 
-<p class=MsoNoSpacing><span style='font-family:å®‹ä½“'>å¦å¤–ï¼Œè¯»ä¹¦æ ç›®å¯ä»¥ç”¨</span><span
-lang=EN>app</span><span style='font-family:å®‹ä½“'>åç§°ä¸º</span><span lang=EN
+<p class=MsoNoSpacing><span style='font-family:ËÎÌå'>ÁíÍâ£¬¶ÁÊéÀ¸Ä¿¿ÉÒÔÓÃ</span><span
+lang=EN>app</span><span style='font-family:ËÎÌå'>Ãû³ÆÎª</span><span lang=EN
 style='font-size:10.0pt;font-family:Consolas'>reader</span><span
-style='font-family:å®‹ä½“'>ï¼Œæ ç›®ä¸‹çš„æŸä¸ªèŠå¤©å®¤å«</span><span style='font-size:10.0pt;
-font-family:å®‹ä½“'>çº¢æ¥¼æ¢¦</span><span style='font-family:å®‹ä½“'>ï¼Œè¿™ä¸ªé¡µé¢çš„æµå¯ä»¥ç”¨ï¼š</span><span
+style='font-family:ËÎÌå'>£¬À¸Ä¿ÏÂµÄÄ³¸öÁÄÌìÊÒ½Ð</span><span style='font-size:10.0pt;
+font-family:ËÎÌå'>ºìÂ¥ÃÎ</span><span style='font-family:ËÎÌå'>£¬Õâ¸öÒ³ÃæµÄÁ÷¿ÉÒÔÓÃ£º</span><span
 lang=EN style='font-size:10.0pt;font-family:Consolas'>rtmp://yourdomain.com/reader/red_mansion</span><span
-style='font-family:å®‹ä½“'>ï¼Œæ‰€æœ‰åœ¨è¿™ä¸ªèŠå¤©å®¤çš„äººéƒ½æ˜¯æ’­æ”¾è¿™ä¸ªæµã€‚</span></p>
+style='font-family:ËÎÌå'>£¬ËùÓÐÔÚÕâ¸öÁÄÌìÊÒµÄÈË¶¼ÊÇ²¥·ÅÕâ¸öÁ÷¡£</span></p>
 
 <h4><a name="_Toc462219475"><span lang=EN-US>Vhost</span></a><span
-style='font-family:å®‹ä½“'>çš„åº”ç”¨</span></h4>
+style='font-family:ËÎÌå'>µÄÓ¦ÓÃ</span></h4>
 
 <p style='text-indent:21.0pt'><span lang=EN-US style='font-size:10.5pt'>RTMP</span><span
-style='font-size:10.5pt'>çš„<span lang=EN-US>Vhost</span>å’Œ<span lang=EN-US>HTTP</span>çš„<span
-lang=EN-US>Vhost</span>æ¦‚å¿µæ˜¯ä¸€æ ·çš„ï¼šè™šæ‹Ÿä¸»æœºã€‚è¯¦è§ä¸‹è¡¨ï¼ˆå‡è®¾åŸŸå<span lang=EN-US>demo.srs.com</span>è¢«è§£æžåˆ°<span
-lang=EN-US>IP</span>ä¸º<span lang=EN-US>192.168.1.10</span>çš„æœåŠ¡å™¨ï¼‰ï¼š</span></p>
+style='font-size:10.5pt'>µÄ<span lang=EN-US>Vhost</span>ºÍ<span lang=EN-US>HTTP</span>µÄ<span
+lang=EN-US>Vhost</span>¸ÅÄîÊÇÒ»ÑùµÄ£ºÐéÄâÖ÷»ú¡£Ïê¼ûÏÂ±í£¨¼ÙÉèÓòÃû<span lang=EN-US>demo.srs.com</span>±»½âÎöµ½<span
+lang=EN-US>IP</span>Îª<span lang=EN-US>192.168.1.10</span>µÄ·þÎñÆ÷£©£º</span></p>
 
 <table class=MsoNormalTable border=0 cellpadding=0 style='background:#E5E5E5'>
  <thead>
@@ -3627,47 +5320,47 @@ lang=EN-US>IP</span>ä¸º<span lang=EN-US>192.168.1.10</span>çš„æœåŠ¡å™¨ï¼‰ï¼š</s
 </table>
 
 <p><span lang=EN-US style='font-size:10.5pt;color:black'>Vhost</span><span
-style='font-size:10.5pt'>ä¸»è¦çš„ä½œç”¨æ˜¯ï¼š</span></p>
+style='font-size:10.5pt'>Ö÷ÒªµÄ×÷ÓÃÊÇ£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ”¯æŒå¤šç”¨æˆ·ï¼šå½“ä¸€å°æœåŠ¡å™¨éœ€è¦æœåŠ¡å¤šä¸ªå®¢æˆ·ï¼Œè­¬å¦‚</span><span
-     lang=EN-US>CDN</span><span style='font-family:å®‹ä½“'>æœ‰</span><span
-     lang=EN-US>cctv</span><span style='font-family:å®‹ä½“'>ï¼ˆå¤®è§†ï¼‰å’Œ</span><span
-     lang=EN-US>wasu</span><span style='font-family:å®‹ä½“'>ï¼ˆåŽæ•°ä¼ åª’ï¼‰ä¸¤ä¸ªå®¢æˆ·æ—¶ï¼Œå¦‚ä½•éš”ç¦»ä»–ä»¬ä¸¤ä¸ªçš„èµ„æºï¼Ÿç›¸å½“äºŽä¸åŒçš„ç”¨æˆ·å…±ç”¨ä¸€å°è®¡ç®—æœºï¼Œä»–ä»¬å¯ä»¥åœ¨è‡ªå·±çš„æ–‡ä»¶ç³»ç»Ÿå»ºç«‹åŒæ ·çš„æ–‡ä»¶ç›®å½•ç»“æž„ï¼Œä½†æ˜¯å½¼æ­¤ä¸ä¼šå†²çªã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>åŸŸåè°ƒåº¦ï¼š</span><span
-     lang=EN-US>CDN</span><span style='font-family:å®‹ä½“'>åˆ†å‘å†…å®¹æ—¶ï¼Œéœ€è¦è®©ç”¨æˆ·è®¿é—®ç¦»è‡ªå·±æœ€è¿‘çš„è¾¹ç¼˜èŠ‚ç‚¹ï¼Œè¾¹ç¼˜èŠ‚ç‚¹å†ä»Žæºç«™æˆ–ä¸Šå±‚èŠ‚ç‚¹èŽ·å–æ•°æ®ï¼Œè¾¾åˆ°åŠ é€Ÿè®¿é—®çš„æ•ˆæžœã€‚ä¸€èˆ¬çš„åšæ³•å°±æ˜¯</span><span
-     lang=EN-US>Host</span><span style='font-family:å®‹ä½“'>æ˜¯</span><span
-     lang=EN-US>DNS</span><span style='font-family:å®‹ä½“'>åŸŸåï¼Œè¿™æ ·å¯ä»¥æ ¹æ®ç”¨æˆ·çš„ä¿¡æ¯è§£æžåˆ°ä¸åŒçš„èŠ‚ç‚¹ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ”¯æŒå¤šé…ç½®ï¼šæœ‰æ—¶å€™éœ€è¦ä½¿ç”¨ä¸åŒçš„é…ç½®ï¼Œè€ƒè™‘ä¸€ä¸ªæ”¯æŒå¤šç»ˆç«¯ï¼ˆ</span><span
-     lang=EN-US>PC/Apple/Android</span><span style='font-family:å®‹ä½“'>ï¼‰çš„åº”ç”¨ï¼Œ</span><span
-     lang=EN-US>PC</span><span style='font-family:å®‹ä½“'>ä¸Š</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>åˆ†å‘ï¼Œ</span><span lang=EN-US>Apple</span><span
-     style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN-US> Android</span><span
-     style='font-family:å®‹ä½“'>æ˜¯</span><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>åˆ†å‘ï¼Œå¦‚ä½•è®©</span><span lang=EN-US>PC</span><span
-     style='font-family:å®‹ä½“'>å»¶è¿Ÿæœ€ä½Žï¼ŒåŒæ—¶</span><span lang=EN-US>HLS</span><span
-     style='font-family:å®‹ä½“'>ä¹Ÿèƒ½æ”¯æŒï¼Œè€Œä¸”ç»ˆç«¯æ’­æ”¾æ—¶å°½é‡åœ°å€ä¸€è‡´ï¼ˆé™ä½Žç»ˆç«¯å¼€å‘éš¾åº¦ï¼‰ï¼Ÿå¯ä»¥ä½¿ç”¨ä¸¤ä¸ª</span><span
-     lang=EN-US>Vhost</span><span style='font-family:å®‹ä½“'>ï¼Œ</span><span
-     lang=EN-US>PC </span><span style='font-family:å®‹ä½“'>å’Œ</span><span
-     lang=EN-US>HLS</span><span style='font-family:å®‹ä½“'>ï¼›</span><span
-     lang=EN-US>PC</span><span style='font-family:å®‹ä½“'>é…ç½®ä¸ºæœ€ä½Žå»¶è¿Ÿçš„</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>ï¼Œå¹¶ä¸”å°†æµè½¬å‘ç»™</span><span
-     lang=EN-US>HLS</span><span style='font-family:å®‹ä½“'>çš„</span><span
-     lang=EN-US>Vhost</span><span style='font-family:å®‹ä½“'>ï¼Œå¯ä»¥å¯¹éŸ³é¢‘è½¬ç ï¼ˆå¯èƒ½ä¸æ˜¯</span><span
-     lang=EN-US>H264/AAC</span><span style='font-family:å®‹ä½“'>ï¼‰åŽåˆ‡ç‰‡ä¸º</span><span
-     lang=EN-US>HLS</span><span style='font-family:å®‹ä½“'>ã€‚</span><span
-     lang=EN-US>PC</span><span style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN-US>HLS
-     </span><span style='font-family:å®‹ä½“'>è¿™ä¸¤ä¸ª</span><span lang=EN-US>Vhost</span><span
-     style='font-family:å®‹ä½“'>çš„é…ç½®è‚¯å®šæ˜¯ä¸ä¸€æ ·çš„ï¼Œæ’­æ”¾æ—¶ï¼Œæµåç§°æ˜¯ä¸€æ ·ï¼Œåªéœ€è¦ä½¿ç”¨ä¸åŒçš„</span><span
-     lang=EN-US>Host</span><span style='font-family:å®‹ä½“'>å°±å¯ä»¥ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ö§³Ö¶àÓÃ»§£ºµ±Ò»Ì¨·þÎñÆ÷ÐèÒª·þÎñ¶à¸ö¿Í»§£¬Æ©Èç</span><span
+     lang=EN-US>CDN</span><span style='font-family:ËÎÌå'>ÓÐ</span><span
+     lang=EN-US>cctv</span><span style='font-family:ËÎÌå'>£¨ÑëÊÓ£©ºÍ</span><span
+     lang=EN-US>wasu</span><span style='font-family:ËÎÌå'>£¨»ªÊý´«Ã½£©Á½¸ö¿Í»§Ê±£¬ÈçºÎ¸ôÀëËûÃÇÁ½¸öµÄ×ÊÔ´£¿Ïàµ±ÓÚ²»Í¬µÄÓÃ»§¹²ÓÃÒ»Ì¨¼ÆËã»ú£¬ËûÃÇ¿ÉÒÔÔÚ×Ô¼ºµÄÎÄ¼þÏµÍ³½¨Á¢Í¬ÑùµÄÎÄ¼þÄ¿Â¼½á¹¹£¬µ«ÊÇ±Ë´Ë²»»á³åÍ»¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÓòÃûµ÷¶È£º</span><span
+     lang=EN-US>CDN</span><span style='font-family:ËÎÌå'>·Ö·¢ÄÚÈÝÊ±£¬ÐèÒªÈÃÓÃ»§·ÃÎÊÀë×Ô¼º×î½üµÄ±ßÔµ½Úµã£¬±ßÔµ½ÚµãÔÙ´ÓÔ´Õ¾»òÉÏ²ã½Úµã»ñÈ¡Êý¾Ý£¬´ïµ½¼ÓËÙ·ÃÎÊµÄÐ§¹û¡£Ò»°ãµÄ×ö·¨¾ÍÊÇ</span><span
+     lang=EN-US>Host</span><span style='font-family:ËÎÌå'>ÊÇ</span><span
+     lang=EN-US>DNS</span><span style='font-family:ËÎÌå'>ÓòÃû£¬ÕâÑù¿ÉÒÔ¸ù¾ÝÓÃ»§µÄÐÅÏ¢½âÎöµ½²»Í¬µÄ½Úµã¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ö§³Ö¶àÅäÖÃ£ºÓÐÊ±ºòÐèÒªÊ¹ÓÃ²»Í¬µÄÅäÖÃ£¬¿¼ÂÇÒ»¸öÖ§³Ö¶àÖÕ¶Ë£¨</span><span
+     lang=EN-US>PC/Apple/Android</span><span style='font-family:ËÎÌå'>£©µÄÓ¦ÓÃ£¬</span><span
+     lang=EN-US>PC</span><span style='font-family:ËÎÌå'>ÉÏ</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>·Ö·¢£¬</span><span lang=EN-US>Apple</span><span
+     style='font-family:ËÎÌå'>ºÍ</span><span lang=EN-US> Android</span><span
+     style='font-family:ËÎÌå'>ÊÇ</span><span lang=EN-US>HLS</span><span
+     style='font-family:ËÎÌå'>·Ö·¢£¬ÈçºÎÈÃ</span><span lang=EN-US>PC</span><span
+     style='font-family:ËÎÌå'>ÑÓ³Ù×îµÍ£¬Í¬Ê±</span><span lang=EN-US>HLS</span><span
+     style='font-family:ËÎÌå'>Ò²ÄÜÖ§³Ö£¬¶øÇÒÖÕ¶Ë²¥·ÅÊ±¾¡Á¿µØÖ·Ò»ÖÂ£¨½µµÍÖÕ¶Ë¿ª·¢ÄÑ¶È£©£¿¿ÉÒÔÊ¹ÓÃÁ½¸ö</span><span
+     lang=EN-US>Vhost</span><span style='font-family:ËÎÌå'>£¬</span><span
+     lang=EN-US>PC </span><span style='font-family:ËÎÌå'>ºÍ</span><span
+     lang=EN-US>HLS</span><span style='font-family:ËÎÌå'>£»</span><span
+     lang=EN-US>PC</span><span style='font-family:ËÎÌå'>ÅäÖÃÎª×îµÍÑÓ³ÙµÄ</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>£¬²¢ÇÒ½«Á÷×ª·¢¸ø</span><span
+     lang=EN-US>HLS</span><span style='font-family:ËÎÌå'>µÄ</span><span
+     lang=EN-US>Vhost</span><span style='font-family:ËÎÌå'>£¬¿ÉÒÔ¶ÔÒôÆµ×ªÂë£¨¿ÉÄÜ²»ÊÇ</span><span
+     lang=EN-US>H264/AAC</span><span style='font-family:ËÎÌå'>£©ºóÇÐÆ¬Îª</span><span
+     lang=EN-US>HLS</span><span style='font-family:ËÎÌå'>¡£</span><span
+     lang=EN-US>PC</span><span style='font-family:ËÎÌå'>ºÍ</span><span lang=EN-US>HLS
+     </span><span style='font-family:ËÎÌå'>ÕâÁ½¸ö</span><span lang=EN-US>Vhost</span><span
+     style='font-family:ËÎÌå'>µÄÅäÖÃ¿Ï¶¨ÊÇ²»Ò»ÑùµÄ£¬²¥·ÅÊ±£¬Á÷Ãû³ÆÊÇÒ»Ñù£¬Ö»ÐèÒªÊ¹ÓÃ²»Í¬µÄ</span><span
+     lang=EN-US>Host</span><span style='font-family:ËÎÌå'>¾Í¿ÉÒÔ¡£</span></li>
 </ul>
 
 <h4><a name="_Toc462219476"><span lang=EN-US>Vhost</span></a><span
-style='font-family:å®‹ä½“'>æ”¯æŒå¤šç”¨æˆ·</span></h4>
+style='font-family:ËÎÌå'>Ö§³Ö¶àÓÃ»§</span></h4>
 
-<p style='text-indent:21.0pt'><span style='font-size:10.5pt'>å‡è®¾<span
-lang=EN-US>cctv</span>å’Œ<span lang=EN-US>wasu</span>éƒ½è¿è¡Œåœ¨ä¸€å°è¾¹ç¼˜èŠ‚ç‚¹<span lang=EN-US>(192.168.1.10)</span>ä¸Šï¼Œç”¨æˆ·è®¿é—®è¿™ä¸¤ä¸ªåª’ä½“çš„æµæ—¶ï¼Œ<span
-lang=EN-US>Vhost</span>çš„ä½œç”¨è§ä¸‹è¡¨ï¼š</span></p>
+<p style='text-indent:21.0pt'><span style='font-size:10.5pt'>¼ÙÉè<span
+lang=EN-US>cctv</span>ºÍ<span lang=EN-US>wasu</span>¶¼ÔËÐÐÔÚÒ»Ì¨±ßÔµ½Úµã<span lang=EN-US>(192.168.1.10)</span>ÉÏ£¬ÓÃ»§·ÃÎÊÕâÁ½¸öÃ½ÌåµÄÁ÷Ê±£¬<span
+lang=EN-US>Vhost</span>µÄ×÷ÓÃ¼ûÏÂ±í£º</span></p>
 
 <table class=MsoNormalTable border=0 cellpadding=0 style='background:#E5E5E5'>
  <thead>
@@ -3740,9 +5433,9 @@ lang=EN-US>Vhost</span>çš„ä½œç”¨è§ä¸‹è¡¨ï¼š</span></p>
  </tr>
 </table>
 
-<p><span style='font-size:10.5pt;color:white'>åœ¨è¾¹ç¼˜èŠ‚ç‚¹ï¼ˆ</span><span lang=EN-US
-style='font-size:10.5pt'>192.168.1.10</span><span style='font-size:10.5pt'>ï¼‰ä¸Šçš„<span
-lang=EN-US>SRS</span>ï¼Œéœ€è¦é…ç½®<span lang=EN-US>Vhost</span>ï¼Œä¾‹å¦‚ï¼š</span></p>
+<p><span style='font-size:10.5pt;color:white'>ÔÚ±ßÔµ½Úµã£¨</span><span lang=EN-US
+style='font-size:10.5pt'>192.168.1.10</span><span style='font-size:10.5pt'>£©ÉÏµÄ<span
+lang=EN-US>SRS</span>£¬ÐèÒªÅäÖÃ<span lang=EN-US>Vhost</span>£¬ÀýÈç£º</span></p>
 
 <pre><span lang=EN-US style='font-size:10.5pt'>listen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1935<span
 class=pl-k>;</span></span></pre><pre><span lang=EN-US style='font-size:10.5pt'>vhost show.cctv.cn {</span></pre><pre><span
@@ -3750,38 +5443,38 @@ lang=EN-US style='font-size:10.5pt'>}</span></pre><pre><span lang=EN-US
 style='font-size:10.5pt'>vhost show.wasu.cn {</span></pre><pre><span
 lang=EN-US style='font-size:10.5pt'>}</span></pre>
 
-<h4><a name="_Toc462219477"><span style='font-family:å®‹ä½“'>è¡¥å……</span><span
-lang=EN-US>:Vhost</span></a><span style='font-family:å®‹ä½“'>åŸŸåè°ƒåº¦</span></h4>
+<h4><a name="_Toc462219477"><span style='font-family:ËÎÌå'>²¹³ä</span><span
+lang=EN-US>:Vhost</span></a><span style='font-family:ËÎÌå'>ÓòÃûµ÷¶È</span></h4>
 
-<p><span lang=EN-US>&nbsp;&nbsp; </span><span style='font-size:10.5pt'>æ¯ä¸ªå®¢æˆ·éƒ½æœ‰è‡ªå·±çš„åŸŸåã€‚ä½¿ç”¨è¿™ä¸ªåŸŸåæŽ¨æµæˆ–æ‹‰æµ<span
-lang=EN-US>,</span>å¦‚<span lang=EN-US>rtmp://pull.test.com/live/stream</span>ï¼Œç„¶åŽé€šè¿‡ä¸‹é¢è¿™äº›æµç¨‹ï¼Œå‘è¾¹ç¼˜æœåŠ¡å™¨æŽ¨æµæˆ–æ‹‰æµã€‚</span></p>
+<p><span lang=EN-US>&nbsp;&nbsp; </span><span style='font-size:10.5pt'>Ã¿¸ö¿Í»§¶¼ÓÐ×Ô¼ºµÄÓòÃû¡£Ê¹ÓÃÕâ¸öÓòÃûÍÆÁ÷»òÀ­Á÷<span
+lang=EN-US>,</span>Èç<span lang=EN-US>rtmp://pull.test.com/live/stream</span>£¬È»ºóÍ¨¹ýÏÂÃæÕâÐ©Á÷³Ì£¬Ïò±ßÔµ·þÎñÆ÷ÍÆÁ÷»òÀ­Á÷¡£</span></p>
 
 <p style='margin-left:72.0pt;text-indent:-18.0pt'><span lang=EN-US
 style='font-size:10.5pt'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-style='font-size:10.5pt'>é¦–å…ˆ<span lang=EN-US>pull.test.com</span>é€šè¿‡æœ¬åœ°åŸŸåæœåŠ¡å™¨è§£æžåˆ°å¯¹åº”è¿è¥å•†çš„æŽˆæƒæœåŠ¡å™¨ï¼Œ</span></p>
+style='font-size:10.5pt'>Ê×ÏÈ<span lang=EN-US>pull.test.com</span>Í¨¹ý±¾µØÓòÃû·þÎñÆ÷½âÎöµ½¶ÔÓ¦ÔËÓªÉÌµÄÊÚÈ¨·þÎñÆ÷£¬</span></p>
 
 <p style='margin-left:72.0pt;text-indent:-18.0pt'><span lang=EN-US
 style='font-size:10.5pt'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-style='font-size:10.5pt'>æŽˆæƒæœåŠ¡å™¨é€šè¿‡<span lang=EN-US>CNAME</span>è®°å½•ï¼Œå°†è¯·æ±‚è½¬å‘å…¨å±€è´Ÿè½½å‡è¡¡<span
-lang=EN-US>GLBS</span>ï¼Œ<span lang=EN-US>GLBS</span>ä½¿ç”¨æ™ºèƒ½è°ƒåº¦ç®—æ³•ï¼Œå°†è¯·æ±‚è§£æžåˆ°ç¦»ç”¨æˆ·æœ€è¿‘æœ¬åœ°è´Ÿè½½å‡è¡¡ï¼ŒèŽ·å–è™šæ‹ŸæœåŠ¡å™¨åœ°å€ï¼Œ</span></p>
+style='font-size:10.5pt'>ÊÚÈ¨·þÎñÆ÷Í¨¹ý<span lang=EN-US>CNAME</span>¼ÇÂ¼£¬½«ÇëÇó×ªÏòÈ«¾Ö¸ºÔØ¾ùºâ<span
+lang=EN-US>GLBS</span>£¬<span lang=EN-US>GLBS</span>Ê¹ÓÃÖÇÄÜµ÷¶ÈËã·¨£¬½«ÇëÇó½âÎöµ½ÀëÓÃ»§×î½ü±¾µØ¸ºÔØ¾ùºâ£¬»ñÈ¡ÐéÄâ·þÎñÆ÷µØÖ·£¬</span></p>
 
 <p style='margin-left:72.0pt;text-indent:-18.0pt'><span lang=EN-US
 style='font-size:10.5pt'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-style='font-size:10.5pt'>ç”¨æˆ·ä½¿ç”¨è™šæ‹ŸæœåŠ¡å™¨åœ°å€ï¼Œé€šè¿‡æœ¬åœ°è´Ÿè½½å‡è¡¡è°ƒè¯•ç®—æ³•ï¼Œé€‰æ‹©ä¸€å°è´Ÿè½½æœ€è½»çš„<span lang=EN-US>srs</span>è¾¹ç¼˜æœåŠ¡å™¨ã€‚ç”¨æˆ·æœ€ç»ˆå‘ä½¿ç”¨è¿™å°æœåŠ¡å™¨æŽ¨æµæˆ–æ‹‰æµã€‚</span></p>
+style='font-size:10.5pt'>ÓÃ»§Ê¹ÓÃÐéÄâ·þÎñÆ÷µØÖ·£¬Í¨¹ý±¾µØ¸ºÔØ¾ùºâµ÷ÊÔËã·¨£¬Ñ¡ÔñÒ»Ì¨¸ºÔØ×îÇáµÄ<span lang=EN-US>srs</span>±ßÔµ·þÎñÆ÷¡£ÓÃ»§×îÖÕÏòÊ¹ÓÃÕâÌ¨·þÎñÆ÷ÍÆÁ÷»òÀ­Á÷¡£</span></p>
 
-<p><span style='font-size:10.5pt'>å¤§æ¦‚æµç¨‹å¦‚ä¸‹å›¾æ‰€ç¤º</span></p>
+<p><span style='font-size:10.5pt'>´ó¸ÅÁ÷³ÌÈçÏÂÍ¼ËùÊ¾</span></p>
 
 <p><span lang=EN-US><img border=0 width=785 height=659
 src="srs_wiki.files/image007.png"></span></p>
 
 <h4><a name="_Toc462219478"><span lang=EN-US>Vhost</span></a><span
-style='font-family:å®‹ä½“'>æ”¯æŒå¤šé…ç½®</span></h4>
+style='font-family:ËÎÌå'>Ö§³Ö¶àÅäÖÃ</span></h4>
 
-<p style='text-indent:21.0pt'><span style='font-size:10.5pt'>ä»¥ä¸Šé¢ä¸¾çš„ä¾‹å­ï¼Œè‹¥<span
-lang=EN-US>cctv</span>éœ€è¦å»¶è¿Ÿæœ€ä½Žï¼ˆæ„å‘³ç€å¯åŠ¨æ—¶åªæœ‰å£°éŸ³ï¼Œç”»é¢æ˜¯é»‘å±ï¼‰ï¼Œè€Œ<span lang=EN-US>wasu</span>éœ€è¦å¿«é€Ÿå¯åŠ¨ï¼ˆæ‰“å¼€å°±èƒ½çœ‹åˆ°è§†é¢‘ï¼ŒæœåŠ¡å™¨<span
-lang=EN-US>cache</span>äº†æœ€åŽä¸€ä¸ª<span lang=EN-US>gop</span>ï¼Œå»¶è¿Ÿä¼šè¾ƒå¤§ï¼‰ã€‚</span></p>
+<p style='text-indent:21.0pt'><span style='font-size:10.5pt'>ÒÔÉÏÃæ¾ÙµÄÀý×Ó£¬Èô<span
+lang=EN-US>cctv</span>ÐèÒªÑÓ³Ù×îµÍ£¨ÒâÎ¶×ÅÆô¶¯Ê±Ö»ÓÐÉùÒô£¬»­ÃæÊÇºÚÆÁ£©£¬¶ø<span lang=EN-US>wasu</span>ÐèÒª¿ìËÙÆô¶¯£¨´ò¿ª¾ÍÄÜ¿´µ½ÊÓÆµ£¬·þÎñÆ÷<span
+lang=EN-US>cache</span>ÁË×îºóÒ»¸ö<span lang=EN-US>gop</span>£¬ÑÓ³Ù»á½Ï´ó£©¡£</span></p>
 
-<p><span style='font-size:10.5pt'>åªéœ€è¦å¯¹è¿™ä¸¤ä¸ª<span lang=EN-US>Vhost</span>è¿›è¡Œä¸åŒçš„é…ç½®ï¼Œä¾‹å¦‚ï¼š</span></p>
+<p><span style='font-size:10.5pt'>Ö»ÐèÒª¶ÔÕâÁ½¸ö<span lang=EN-US>Vhost</span>½øÐÐ²»Í¬µÄÅäÖÃ£¬ÀýÈç£º</span></p>
 
 <pre><span lang=EN-US style='font-size:10.5pt'>listen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1935<span
 class=pl-k>;</span></span></pre><pre><span lang=EN-US style='font-size:10.5pt'>vhost show.cctv.cn {</span></pre><pre
@@ -3795,84 +5488,84 @@ class=pl-k>;</span></span></pre><pre style='text-indent:21.0pt'><span
 lang=EN-US style='font-size:10.5pt'>gop_cache&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; on;</span></pre><pre><span
 lang=EN-US style='font-size:10.5pt'>}</span></pre>
 
-<p><span style='font-size:10.5pt'>æ€»ä¹‹ï¼Œè¿™ä¸¤ä¸ª<span lang=EN-US>Vhost</span>çš„é…ç½®å®Œå…¨æ²¡æœ‰å…³ç³»ï¼Œä¸ä¼šç›¸äº’å½±å“ã€‚</span></p>
+<p><span style='font-size:10.5pt'>×ÜÖ®£¬ÕâÁ½¸ö<span lang=EN-US>Vhost</span>µÄÅäÖÃÍêÈ«Ã»ÓÐ¹ØÏµ£¬²»»áÏà»¥Ó°Ïì¡£</span></p>
 
 <h4><a name="_Toc462219479"><span lang=EN-US>__defaultVhost__</span></a></h4>
 
 <p style='text-indent:21.0pt'><span lang=EN-US style='font-size:10.5pt'>FMS</span><span
-style='font-size:10.5pt'>çš„<span lang=EN-US>__defaultVhost__</span>æ˜¯é»˜è®¤çš„<span
-lang=EN-US>vhost</span>ï¼Œå½“ç”¨æˆ·è¯·æ±‚çš„<span lang=EN-US>vhost</span>æ²¡æœ‰åŒ¹é…æˆåŠŸæ—¶ï¼Œè‹¥é…ç½®äº†<span
-lang=EN-US>defaultVhost</span>ï¼Œåˆ™ä½¿ç”¨å®ƒæ¥æä¾›æœåŠ¡ã€‚è‹¥åŒ¹é…å¤±è´¥ï¼Œä¹Ÿæ²¡æœ‰<span lang=EN-US>defaultVhost</span>ï¼Œåˆ™è¿”å›žé”™è¯¯ã€‚</span></p>
+style='font-size:10.5pt'>µÄ<span lang=EN-US>__defaultVhost__</span>ÊÇÄ¬ÈÏµÄ<span
+lang=EN-US>vhost</span>£¬µ±ÓÃ»§ÇëÇóµÄ<span lang=EN-US>vhost</span>Ã»ÓÐÆ¥Åä³É¹¦Ê±£¬ÈôÅäÖÃÁË<span
+lang=EN-US>defaultVhost</span>£¬ÔòÊ¹ÓÃËüÀ´Ìá¹©·þÎñ¡£ÈôÆ¥ÅäÊ§°Ü£¬Ò²Ã»ÓÐ<span lang=EN-US>defaultVhost</span>£¬Ôò·µ»Ø´íÎó¡£</span></p>
 
-<p><span style='font-size:10.5pt'>è­¬å¦‚ï¼ŒæœåŠ¡å™¨<span lang=EN-US>192.168.1.10</span>ä¸Šçš„<span
-lang=EN-US>SRS</span>é…ç½®å¦‚ä¸‹ï¼š</span></p>
+<p><span style='font-size:10.5pt'>Æ©Èç£¬·þÎñÆ÷<span lang=EN-US>192.168.1.10</span>ÉÏµÄ<span
+lang=EN-US>SRS</span>ÅäÖÃÈçÏÂ£º</span></p>
 
 <pre><span lang=EN-US style='font-size:10.5pt'>listen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1935<span
 class=pl-k>;</span></span></pre><pre><span lang=EN-US style='font-size:10.5pt'>vhost demo.srs.com {</span></pre><pre><span
 lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp; enabled&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; on<span
 class=pl-k>;</span></span></pre><pre><span lang=EN-US style='font-size:10.5pt'>}</span></pre>
 
-<p><span style='font-size:10.5pt'>é‚£ä¹ˆï¼Œå½“ç”¨æˆ·è®¿é—®ä»¥ä¸‹<span lang=EN-US>vhost</span>æ—¶ï¼š</span></p>
+<p><span style='font-size:10.5pt'>ÄÇÃ´£¬µ±ÓÃ»§·ÃÎÊÒÔÏÂ<span lang=EN-US>vhost</span>Ê±£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>rtmp://demo.srs.com/live/livestream</span><span
-     style='font-family:å®‹ä½“'>ï¼šæˆåŠŸï¼ŒåŒ¹é…</span><span lang=EN-US>vhost</span><span
-     style='font-family:å®‹ä½“'>ä¸º</span><span lang=EN-US>demo.srs.com</span></li>
+     style='font-family:ËÎÌå'>£º³É¹¦£¬Æ¥Åä</span><span lang=EN-US>vhost</span><span
+     style='font-family:ËÎÌå'>Îª</span><span lang=EN-US>demo.srs.com</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>rtmp://192.168.1.10/live/livestream</span><span
-     style='font-family:å®‹ä½“'>ï¼šå¤±è´¥ï¼Œæ²¡æœ‰æ‰¾åˆ°</span><span lang=EN-US>vhost</span><span
-     style='font-family:å®‹ä½“'>ï¼Œä¹Ÿæ²¡æœ‰</span><span lang=EN-US>defaultVhost</span><span
-     style='font-family:å®‹ä½“'>ã€‚</span></li>
+     style='font-family:ËÎÌå'>£ºÊ§°Ü£¬Ã»ÓÐÕÒµ½</span><span lang=EN-US>vhost</span><span
+     style='font-family:ËÎÌå'>£¬Ò²Ã»ÓÐ</span><span lang=EN-US>defaultVhost</span><span
+     style='font-family:ËÎÌå'>¡£</span></li>
 </ul>
 
 <p><span lang=EN-US style='font-size:10.5pt'>defaultVhost</span><span
-style='font-size:10.5pt'>å’Œå…¶ä»–<span lang=EN-US>vhost</span>çš„è§„åˆ™ä¸€æ ·ï¼Œåªæ˜¯ç”¨æ¥åŒ¹é…é‚£äº›æ²¡æœ‰åŒ¹é…æˆåŠŸçš„<span
-lang=EN-US>vhost</span>çš„è¯·æ±‚çš„ã€‚</span></p>
+style='font-size:10.5pt'>ºÍÆäËû<span lang=EN-US>vhost</span>µÄ¹æÔòÒ»Ñù£¬Ö»ÊÇÓÃÀ´Æ¥ÅäÄÇÐ©Ã»ÓÐÆ¥Åä³É¹¦µÄ<span
+lang=EN-US>vhost</span>µÄÇëÇóµÄ¡£</span></p>
 
-<h4><a name="_Toc462219480"><span style='font-family:å®‹ä½“'>è®¿é—®æŒ‡å®šçš„</span><span
+<h4><a name="_Toc462219480"><span style='font-family:ËÎÌå'>·ÃÎÊÖ¸¶¨µÄ</span><span
 lang=EN-US>Vhost</span></a></h4>
 
-<p><span style='font-size:10.5pt'>å¦‚ä½•è®¿é—®æŸå°æœåŠ¡å™¨ä¸Šçš„<span lang=EN-US>Vhost</span>ï¼Ÿæœ‰ä¸¤ä¸ªæ–¹æ³•ï¼š</span></p>
+<p><span style='font-size:10.5pt'>ÈçºÎ·ÃÎÊÄ³Ì¨·þÎñÆ÷ÉÏµÄ<span lang=EN-US>Vhost</span>£¿ÓÐÁ½¸ö·½·¨£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>é…ç½®</span><span
-     lang=EN-US>hosts</span><span style='font-family:å®‹ä½“'>ï¼šå› ä¸º</span><span
-     lang=EN-US>Vhost</span><span style='font-family:å®‹ä½“'>å®žé™…ä¸Šå°±æ˜¯</span><span
-     lang=EN-US>DNS</span><span style='font-family:å®‹ä½“'>è§£æžï¼Œæ‰€ä»¥å¯ä»¥é…ç½®å®¢æˆ·ç«¯çš„</span><span
-     lang=EN-US>hosts</span><span style='font-family:å®‹ä½“'>ï¼Œå°†åŸŸåï¼ˆ</span><span
-     lang=EN-US>Vhost</span><span style='font-family:å®‹ä½“'>ï¼‰è§£æžåˆ°æŒ‡å®šçš„æœåŠ¡å™¨ï¼Œå°±å¯ä»¥è®¿é—®è¿™å°æœåŠ¡å™¨ä¸Šçš„æŒ‡å®šçš„</span><span
-     lang=EN-US>vhost</span><span style='font-family:å®‹ä½“'>ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ä½¿ç”¨</span><span
-     lang=EN-US>app</span><span style='font-family:å®‹ä½“'>çš„å‚æ•°ï¼šéœ€è¦æœåŠ¡å™¨æ”¯æŒã€‚åœ¨</span><span
-     lang=EN-US>app</span><span style='font-family:å®‹ä½“'>åŽé¢å¸¦å‚æ•°æŒ‡å®šè¦è®¿é—®çš„</span><span
-     lang=EN-US>Vhost</span><span style='font-family:å®‹ä½“'>ã€‚</span><span
-     lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>æ”¯æŒ</span><span
-     lang=EN-US>?vhost=VHOST</span><span style='font-family:å®‹ä½“'>å’Œ</span><span
-     lang=EN-US>...vhost...VHOST</span><span style='font-family:å®‹ä½“'>è¿™ä¸¤ç§æ–¹å¼ï¼ŒåŽé¢çš„æ–¹å¼æ˜¯é¿å…ä¸€äº›æ’­æ”¾å™¨ä¸è¯†åˆ«ï¼Ÿå’Œ</span><span
-     lang=EN-US>=</span><span style='font-family:å®‹ä½“'>ç­‰ç‰¹æ®Šå­—ç¬¦ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÅäÖÃ</span><span
+     lang=EN-US>hosts</span><span style='font-family:ËÎÌå'>£ºÒòÎª</span><span
+     lang=EN-US>Vhost</span><span style='font-family:ËÎÌå'>Êµ¼ÊÉÏ¾ÍÊÇ</span><span
+     lang=EN-US>DNS</span><span style='font-family:ËÎÌå'>½âÎö£¬ËùÒÔ¿ÉÒÔÅäÖÃ¿Í»§¶ËµÄ</span><span
+     lang=EN-US>hosts</span><span style='font-family:ËÎÌå'>£¬½«ÓòÃû£¨</span><span
+     lang=EN-US>Vhost</span><span style='font-family:ËÎÌå'>£©½âÎöµ½Ö¸¶¨µÄ·þÎñÆ÷£¬¾Í¿ÉÒÔ·ÃÎÊÕâÌ¨·þÎñÆ÷ÉÏµÄÖ¸¶¨µÄ</span><span
+     lang=EN-US>vhost</span><span style='font-family:ËÎÌå'>¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ê¹ÓÃ</span><span
+     lang=EN-US>app</span><span style='font-family:ËÎÌå'>µÄ²ÎÊý£ºÐèÒª·þÎñÆ÷Ö§³Ö¡£ÔÚ</span><span
+     lang=EN-US>app</span><span style='font-family:ËÎÌå'>ºóÃæ´ø²ÎÊýÖ¸¶¨Òª·ÃÎÊµÄ</span><span
+     lang=EN-US>Vhost</span><span style='font-family:ËÎÌå'>¡£</span><span
+     lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>Ö§³Ö</span><span
+     lang=EN-US>?vhost=VHOST</span><span style='font-family:ËÎÌå'>ºÍ</span><span
+     lang=EN-US>...vhost...VHOST</span><span style='font-family:ËÎÌå'>ÕâÁ½ÖÖ·½Ê½£¬ºóÃæµÄ·½Ê½ÊÇ±ÜÃâÒ»Ð©²¥·ÅÆ÷²»Ê¶±ð£¿ºÍ</span><span
+     lang=EN-US>=</span><span style='font-family:ËÎÌå'>µÈÌØÊâ×Ö·û¡£</span></li>
 </ul>
 
-<p><span style='font-size:10.5pt'>æ™®é€šç”¨æˆ·ä¸ç”¨è¿™ä¹ˆéº»çƒ¦ï¼Œç›´æŽ¥è®¿é—®<span lang=EN-US>RTMP</span>åœ°å€å°±å¥½äº†ï¼Œæœ‰æ—¶å€™è¿ç»´éœ€è¦çœ‹æŸå°æœºå™¨ä¸Šçš„<span
-lang=EN-US>Vhost</span>çš„æµæ˜¯å¦æœ‰é—®é¢˜ï¼Œå°±éœ€è¦è¿™ç§ç‰¹æ®Šçš„è®¿é—®æ–¹å¼ã€‚è€ƒè™‘ä¸‹é¢çš„ä¾‹å­ï¼š</span></p>
+<p><span style='font-size:10.5pt'>ÆÕÍ¨ÓÃ»§²»ÓÃÕâÃ´Âé·³£¬Ö±½Ó·ÃÎÊ<span lang=EN-US>RTMP</span>µØÖ·¾ÍºÃÁË£¬ÓÐÊ±ºòÔËÎ¬ÐèÒª¿´Ä³Ì¨»úÆ÷ÉÏµÄ<span
+lang=EN-US>Vhost</span>µÄÁ÷ÊÇ·ñÓÐÎÊÌâ£¬¾ÍÐèÒªÕâÖÖÌØÊâµÄ·ÃÎÊ·½Ê½¡£¿¼ÂÇÏÂÃæµÄÀý×Ó£º</span></p>
 
 <pre><span lang=EN-US style='font-size:10.5pt'>RTMP URL: rtmp://demo.srs.com/live/livestream</span></pre><pre><span
-style='font-size:10.5pt'>è¾¹ç¼˜èŠ‚ç‚¹æ•°ç›®ï¼š<span lang=EN-US>50</span>å°</span></pre><pre><span
-style='font-size:10.5pt'>è¾¹ç¼˜èŠ‚ç‚¹<span lang=EN-US>IP</span>ï¼š<span lang=EN-US>192.168.1.100 </span>è‡³<span
-lang=EN-US> 192.168.1.150</span></span></pre><pre><span style='font-size:10.5pt'>è¾¹ç¼˜èŠ‚ç‚¹<span
-lang=EN-US>SRS</span>é…ç½®ï¼š</span></pre><pre><span lang=EN-US style='font-size:
+style='font-size:10.5pt'>±ßÔµ½ÚµãÊýÄ¿£º<span lang=EN-US>50</span>Ì¨</span></pre><pre><span
+style='font-size:10.5pt'>±ßÔµ½Úµã<span lang=EN-US>IP</span>£º<span lang=EN-US>192.168.1.100 </span>ÖÁ<span
+lang=EN-US> 192.168.1.150</span></span></pre><pre><span style='font-size:10.5pt'>±ßÔµ½Úµã<span
+lang=EN-US>SRS</span>ÅäÖÃ£º</span></pre><pre><span lang=EN-US style='font-size:
 10.5pt'>&nbsp;&nbsp;&nbsp; listen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1935<span
 class=pl-k>;</span></span></pre><pre><span lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp; vhost demo.srs.com {</span></pre><pre><span
 lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mode remote<span
 class=pl-k>;</span></span></pre><pre><span lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; origin: xxxxxxx<span
 class=pl-k>;</span></span></pre><pre><span lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp; }</span></pre>
 
-<p><span style='font-size:10.5pt'>å„ç§è®¿é—®æ–¹å¼è§ä¸‹è¡¨ï¼š</span></p>
+<p><span style='font-size:10.5pt'>¸÷ÖÖ·ÃÎÊ·½Ê½¼ûÏÂ±í£º</span></p>
 
 <table class=MsoNormalTable border=0 cellpadding=0 style='background:#E5E5E5'>
  <thead>
   <tr>
    <td style='padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   style='font-family:å®‹ä½“'>ç”¨æˆ·</span></b></p>
+   style='font-family:ËÎÌå'>ÓÃ»§</span></b></p>
    </td>
    <td style='padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
@@ -3881,33 +5574,33 @@ class=pl-k>;</span></span></pre><pre><span lang=EN-US style='font-size:10.5pt'>&
    <td style='padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
    lang=EN-US style='color:black'>hosts</span></b><b><span style='font-family:
-   å®‹ä½“;color:black'>è®¾ç½®</span></b></p>
+   ËÎÌå;color:black'>ÉèÖÃ</span></b></p>
    </td>
    <td style='padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   style='font-family:å®‹ä½“;color:black'>ç›®æ ‡</span></b></p>
+   style='font-family:ËÎÌå;color:black'>Ä¿±ê</span></b></p>
    </td>
   </tr>
  </thead>
  <tr>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æ™®é€šç”¨æˆ·</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÆÕÍ¨ÓÃ»§</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span lang=EN-US style='color:black'>rtmp://demo.srs.com/live/livestream</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æ— </span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÎÞ</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>ç”±</span><span
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÓÉ</span><span
   lang=EN-US style='color:black'>DNS<br>
-  </span><span style='font-family:å®‹ä½“;color:black'>è§£æžåˆ°æŒ‡å®šè¾¹ç¼˜</span></p>
+  </span><span style='font-family:ËÎÌå;color:black'>½âÎöµ½Ö¸¶¨±ßÔµ</span></p>
   </td>
  </tr>
  <tr>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>è¿ç»´</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÔËÎ¬</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span lang=EN-US style='color:black'>rtmp://demo.srs.com/live/livestream</span></p>
@@ -3917,119 +5610,119 @@ class=pl-k>;</span></span></pre><pre><span lang=EN-US style='font-size:10.5pt'>&
   demo.srs.com</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æŸ¥çœ‹</span><span
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>²é¿´</span><span
   lang=EN-US style='color:black'>192.168.1.100</span><span style='font-family:
-  å®‹ä½“;color:black'>ä¸Šçš„æµ</span></p>
+  ËÎÌå;color:black'>ÉÏµÄÁ÷</span></p>
   </td>
  </tr>
  <tr>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>è¿ç»´</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÔËÎ¬</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span lang=EN-US style='color:black'>rtmp://192.168.1.100/live?<br>
   vhost=demo.srs.com/livestream</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æ— </span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÎÞ</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æŸ¥çœ‹</span><span
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>²é¿´</span><span
   lang=EN-US style='color:black'>192.168.1.100</span><span style='font-family:
-  å®‹ä½“;color:black'>ä¸Šçš„æµ</span></p>
+  ËÎÌå;color:black'>ÉÏµÄÁ÷</span></p>
   </td>
  </tr>
  <tr>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>è¿ç»´</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÔËÎ¬</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span lang=EN-US style='color:black'>rtmp://192.168.1.100/live<br>
   ...vhost...demo.srs.com/livestream</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æ— </span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÎÞ</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æŸ¥çœ‹</span><span
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>²é¿´</span><span
   lang=EN-US style='color:black'>192.168.1.100</span><span style='font-family:
-  å®‹ä½“;color:black'>ä¸Šçš„æµ</span></p>
+  ËÎÌå;color:black'>ÉÏµÄÁ÷</span></p>
   </td>
  </tr>
 </table>
 
-<p><span style='font-size:10.5pt;color:black'>è®¿é—®å…¶ä»–æœåŠ¡å™¨çš„æµä¹Ÿç±»ä¼¼ã€‚</span></p>
+<p><span style='font-size:10.5pt;color:black'>·ÃÎÊÆäËû·þÎñÆ÷µÄÁ÷Ò²ÀàËÆ¡£</span></p>
 
 <h4><a name="_Toc462219481"><span lang=EN>FMLE</span></a><span
-style='font-family:å®‹ä½“'>çš„å¥‡æ€ª</span><span lang=EN>URL</span><span
-style='font-family:å®‹ä½“'>æ–¹å¼</span></h4>
+style='font-family:ËÎÌå'>µÄÆæ¹Ö</span><span lang=EN>URL</span><span
+style='font-family:ËÎÌå'>·½Ê½</span></h4>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
 lang=EN style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#333333'>F</span><span
 lang=EN style='font-family:"Segoe UI",sans-serif;color:#333333'>MLE</span><span
-style='font-family:å®‹ä½“;color:#333333'>æŽ¨æµæ—¶ï¼Œ</span><span lang=EN style='font-family:
-"Segoe UI",sans-serif;color:#333333'>URL</span><span style='font-family:å®‹ä½“;
-color:#333333'>é‚£ä¸ªåœ°æ–¹ï¼Œæœ‰ä¸‰ä¸ªå¯ä»¥è¾“å…¥çš„æ¡†ï¼Œå‚è€ƒ</span><span lang=EN-US><a
+style='font-family:ËÎÌå;color:#333333'>ÍÆÁ÷Ê±£¬</span><span lang=EN style='font-family:
+"Segoe UI",sans-serif;color:#333333'>URL</span><span style='font-family:ËÎÌå;
+color:#333333'>ÄÇ¸öµØ·½£¬ÓÐÈý¸ö¿ÉÒÔÊäÈëµÄ¿ò£¬²Î¿¼</span><span lang=EN-US><a
 href="http://help.adobe.com/en_US/FlashMediaLiveEncoder/3.0/Using/WS5b3ccc516d4fbf351e63e3d11c104ba878-7ff7.html"><span
 lang=EN style='font-family:"Segoe UI",sans-serif;color:#4078C0;text-decoration:
-none'>Adobe FMLE</span></a></span><span style='font-family:å®‹ä½“;color:#333333'>ï¼š</span></p>
+none'>Adobe FMLE</span></a></span><span style='font-family:ËÎÌå;color:#333333'>£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='color:#333333;text-align:left'><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>FMS URL: </span><span
-     style='font-family:å®‹ä½“'>éœ€è¦è¾“å…¥</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>rtmp://host:port/app</span><span
-     style='font-family:å®‹ä½“'>ï¼Œä¾‹å¦‚ï¼š</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>rtmp://demo.srs.com/live</span></li>
+     style='font-family:ËÎÌå'>ÐèÒªÊäÈë</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>rtmp://host:port/app</span><span
+     style='font-family:ËÎÌå'>£¬ÀýÈç£º</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>rtmp://demo.srs.com/live</span></li>
  <li class=MsoNormal style='color:#333333;text-align:left'><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>Backup URL: </span><span
-     style='font-family:å®‹ä½“'>å¤‡ä»½çš„æœåŠ¡å™¨ï¼Œæ ¼å¼åŒ</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>FMS URL</span><span style='font-family:å®‹ä½“'>ã€‚è‹¥æŒ‡å®šäº†å¤‡ä»½æœåŠ¡å™¨ï¼Œ</span><span
+     style='font-family:ËÎÌå'>±¸·ÝµÄ·þÎñÆ÷£¬¸ñÊ½Í¬</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>FMS URL</span><span style='font-family:ËÎÌå'>¡£ÈôÖ¸¶¨ÁË±¸·Ý·þÎñÆ÷£¬</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>FMLE</span><span
-     style='font-family:å®‹ä½“'>ä¼šåŒæ—¶æŽ¨é€ç»™è¿™ä¸¤ä¸ªæœåŠ¡å™¨ã€‚</span></li>
+     style='font-family:ËÎÌå'>»áÍ¬Ê±ÍÆËÍ¸øÕâÁ½¸ö·þÎñÆ÷¡£</span></li>
  <li class=MsoNormal style='color:#333333;text-align:left'><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>Stream: </span><span
-     style='font-family:å®‹ä½“'>æµåç§°ï¼Œä¾‹å¦‚ï¼š</span><span lang=EN style='font-family:
+     style='font-family:ËÎÌå'>Á÷Ãû³Æ£¬ÀýÈç£º</span><span lang=EN style='font-family:
      "Segoe UI",sans-serif'>livestream</span></li>
 </ul>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-style='font-family:å®‹ä½“;color:#333333'>å®žé™…ä¸Šæ˜¯å°†</span><span lang=EN
+style='font-family:ËÎÌå;color:#333333'>Êµ¼ÊÉÏÊÇ½«</span><span lang=EN
 style='font-family:"Segoe UI",sans-serif;color:#333333'>RTMP URL</span><span
-style='font-family:å®‹ä½“;color:#333333'>åˆ†æˆäº†ä¸¤éƒ¨åˆ†ï¼Œ</span><span lang=EN
+style='font-family:ËÎÌå;color:#333333'>·Ö³ÉÁËÁ½²¿·Ö£¬</span><span lang=EN
 style='font-family:"Segoe UI",sans-serif;color:#333333'>stream</span><span
-style='font-family:å®‹ä½“;color:#333333'>å‰é¢é‚£éƒ¨åˆ†å’Œ</span><span lang=EN
+style='font-family:ËÎÌå;color:#333333'>Ç°ÃæÄÇ²¿·ÖºÍ</span><span lang=EN
 style='font-family:"Segoe UI",sans-serif;color:#333333'>stream</span><span
-style='font-family:å®‹ä½“;color:#333333'>ã€‚ä¸ºä½•è¦è¿™ä¹ˆæžï¼Ÿæˆ‘çŒœæƒ³æœ‰ä»¥ä¸‹åŽŸå› ï¼š</span></p>
+style='font-family:ËÎÌå;color:#333333'>¡£ÎªºÎÒªÕâÃ´¸ã£¿ÎÒ²ÂÏëÓÐÒÔÏÂÔ­Òò£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='color:#333333;text-align:left'><span
-     style='font-family:å®‹ä½“'>æ”¯æŒå¤šçº§</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>app</span><span
-     style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>Stream</span><span
-     style='font-family:å®‹ä½“'>ï¼šæˆ‘ä»¬ç›®å‰ä¸¾çš„ä¾‹å­éƒ½æ˜¯ä¸€çº§</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>app</span><span style='font-family:å®‹ä½“'>å’Œä¸€çº§</span><span
+     style='font-family:ËÎÌå'>Ö§³Ö¶à¼¶</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>app</span><span
+     style='font-family:ËÎÌå'>ºÍ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>Stream</span><span
+     style='font-family:ËÎÌå'>£ºÎÒÃÇÄ¿Ç°¾ÙµÄÀý×Ó¶¼ÊÇÒ»¼¶</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>app</span><span style='font-family:ËÎÌå'>ºÍÒ»¼¶</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>stream</span><span
-     style='font-family:å®‹ä½“'>ï¼Œå®žé™…ä¸Š</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>RTMP</span><span
-     style='font-family:å®‹ä½“'>æ”¯æŒå¤šçº§</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>app</span><span
-     style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>stream</span><span
-     style='font-family:å®‹ä½“'>ï¼Œå°±åƒå­æ–‡ä»¶å¤¹ï¼Œå®žé™…ä¸Šå¾ˆå°‘ç”¨å¾—åˆ°ã€‚æ‰€ä»¥</span><span lang=EN
+     style='font-family:ËÎÌå'>£¬Êµ¼ÊÉÏ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>RTMP</span><span
+     style='font-family:ËÎÌå'>Ö§³Ö¶à¼¶</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>app</span><span
+     style='font-family:ËÎÌå'>ºÍ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>stream</span><span
+     style='font-family:ËÎÌå'>£¬¾ÍÏñ×ÓÎÄ¼þ¼Ð£¬Êµ¼ÊÉÏºÜÉÙÓÃµÃµ½¡£ËùÒÔ</span><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>SRS</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>URL</span><span
-     style='font-family:å®‹ä½“'>éƒ½æ˜¯ä¸€ä¸ªåœ°å€ï¼Œé»˜è®¤æœ€åŽä¸€ä¸ª</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>/</span><span style='font-family:å®‹ä½“'>åŽé¢å°±æ˜¯</span><span
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>URL</span><span
+     style='font-family:ËÎÌå'>¶¼ÊÇÒ»¸öµØÖ·£¬Ä¬ÈÏ×îºóÒ»¸ö</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>/</span><span style='font-family:ËÎÌå'>ºóÃæ¾ÍÊÇ</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>stream</span><span
-     style='font-family:å®‹ä½“'>ï¼Œå‰é¢æ˜¯</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>app</span><span
-     style='font-family:å®‹ä½“'>ã€‚</span></li>
+     style='font-family:ËÎÌå'>£¬Ç°ÃæÊÇ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>app</span><span
+     style='font-family:ËÎÌå'>¡£</span></li>
  <li class=MsoNormal style='color:#333333;text-align:left'><span
-     style='font-family:å®‹ä½“'>æ”¯æŒæµåç§°å¸¦å‚æ•°ï¼š</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>Adobe</span><span style='font-family:å®‹ä½“'>çš„é¬¼</span><span
+     style='font-family:ËÎÌå'>Ö§³ÖÁ÷Ãû³Æ´ø²ÎÊý£º</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>Adobe</span><span style='font-family:ËÎÌå'>µÄ¹í</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>HLS/HDS</span><span
-     style='font-family:å®‹ä½“'>éžå¸¸ä¹‹éº»çƒ¦ï¼Œé‚£ä¸ªåœ°å€æ˜¯ä¸ªæ¶å¿ƒçš„å®Œå…¨ä¸ä¸€è‡´ã€‚å‚è€ƒ</span><span lang=EN-US
+     style='font-family:ËÎÌå'>·Ç³£Ö®Âé·³£¬ÄÇ¸öµØÖ·ÊÇ¸ö¶ñÐÄµÄÍêÈ«²»Ò»ÖÂ¡£²Î¿¼</span><span lang=EN-US
      style='color:windowtext'><a
      href="http://help.adobe.com/en_US/flashmediaserver/devguide/WSd391de4d9c7bd609-52e437a812a3725dfa0-8000.html#WSd391de4d9c7bd609-52e437a812a3725dfa0-7ff5"><span
      lang=EN style='font-family:"Segoe UI",sans-serif;color:#4078C0;text-decoration:
-     none'>FMS livepkgr</span></a></span><span style='font-family:å®‹ä½“'>ï¼Œä¾‹å¦‚å‘å¸ƒä¸€ä¸ª</span><span
+     none'>FMS livepkgr</span></a></span><span style='font-family:ËÎÌå'>£¬ÀýÈç·¢²¼Ò»¸ö</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>rtmp</span><span
-     style='font-family:å®‹ä½“'>ï¼Œå¹¶åˆ‡ç‰‡æˆ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>HLS</span><span
-     style='font-family:å®‹ä½“'>ï¼š</span></li>
+     style='font-family:ËÎÌå'>£¬²¢ÇÐÆ¬³É</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>HLS</span><span
+     style='font-family:ËÎÌå'>£º</span></li>
 </ul>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left;
@@ -4062,9 +5755,9 @@ http://demo.srs.com/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8</span>
 lang=EN style='font-family:Consolas;color:#333333'>HDS: http://demo.srs.com/hds-live/livepkgr/_definst_/liveevent/livestream.f4m</span></p>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-style='font-family:å®‹ä½“;color:#333333'>æ²¡æœ‰æ¯”è¿™ä¸ªæ›´æ¶å¿ƒçš„ä¸œè¥¿äº†ã€‚æ¯”è¾ƒ</span><span lang=EN
+style='font-family:ËÎÌå;color:#333333'>Ã»ÓÐ±ÈÕâ¸ö¸ü¶ñÐÄµÄ¶«Î÷ÁË¡£±È½Ï</span><span lang=EN
 style='font-family:"Segoe UI",sans-serif;color:#333333'>SRS</span><span
-style='font-family:å®‹ä½“;color:#333333'>çš„ç®€æ´æ–¹æ¡ˆï¼š</span></p>
+style='font-family:ËÎÌå;color:#333333'>µÄ¼ò½à·½°¸£º</span></p>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left;
 background:#F7F7F7'><span lang=EN style='font-family:Consolas;color:#333333'>FMLE:
@@ -4096,66 +5789,66 @@ http://demo.srs.com/livepkgr/livestream.m3u8</span></p>
 lang=EN style='font-family:Consolas;color:#333333'>HDS: not support yet.</span></p>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-style='font-family:å®‹ä½“;color:#333333'>æ—¢ç„¶è°ˆåˆ°äº†</span><span lang=EN
+style='font-family:ËÎÌå;color:#333333'>¼ÈÈ»Ì¸µ½ÁË</span><span lang=EN
 style='font-family:"Segoe UI",sans-serif;color:#333333'>RTMP URL</span><span
-style='font-family:å®‹ä½“;color:#333333'>ä¸­çš„å‚æ•°ï¼Œä¸‹ä¸€ç« å°±è¯´è¯´è¿™ä¸ªã€‚</span></p>
+style='font-family:ËÎÌå;color:#333333'>ÖÐµÄ²ÎÊý£¬ÏÂÒ»ÕÂ¾ÍËµËµÕâ¸ö¡£</span></p>
 
 <h4><a name="_Toc462219482"><span lang=EN>RTMP URL</span></a><span
-style='font-family:å®‹ä½“'>å‚æ•°</span></h4>
+style='font-family:ËÎÌå'>²ÎÊý</span></h4>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
 lang=EN style='font-family:"Segoe UI",sans-serif;color:#333333'>RTMP URL</span><span
-style='font-family:å®‹ä½“;color:#333333'>ä¸€èˆ¬æ˜¯ä¸å¸¦å‚æ•°ï¼Œç±»ä¼¼äºŽ</span><span lang=EN
+style='font-family:ËÎÌå;color:#333333'>Ò»°ãÊÇ²»´ø²ÎÊý£¬ÀàËÆÓÚ</span><span lang=EN
 style='font-family:"Segoe UI",sans-serif;color:#333333'>http</span><span
-style='font-family:å®‹ä½“;color:#333333'>çš„</span><span lang=EN style='font-family:
-"Segoe UI",sans-serif;color:#333333'>query</span><span style='font-family:å®‹ä½“;
-color:#333333'>ï¼Œæœ‰æ—¶å€™ä¸ºäº†ç‰¹æ®Šçš„è¦æ±‚ï¼Œä¼šåœ¨</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
-color:#333333'>RTMP URL</span><span style='font-family:å®‹ä½“;color:#333333'>ä¸­å¸¦å‚æ•°ï¼Œè­¬å¦‚ï¼š</span></p>
+style='font-family:ËÎÌå;color:#333333'>µÄ</span><span lang=EN style='font-family:
+"Segoe UI",sans-serif;color:#333333'>query</span><span style='font-family:ËÎÌå;
+color:#333333'>£¬ÓÐÊ±ºòÎªÁËÌØÊâµÄÒªÇó£¬»áÔÚ</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
+color:#333333'>RTMP URL</span><span style='font-family:ËÎÌå;color:#333333'>ÖÐ´ø²ÎÊý£¬Æ©Èç£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='color:#333333;text-align:left'><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>Vhost</span><span
-     style='font-family:å®‹ä½“'>ï¼šå‰é¢è®²è¿‡ï¼Œåœ¨</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>app</span><span style='font-family:å®‹ä½“'>åŽé¢åŠ å‚æ•°ï¼Œå¯ä»¥è®¿é—®æŒ‡å®šæœåŠ¡å™¨çš„æŒ‡å®š</span><span
+     style='font-family:ËÎÌå'>£ºÇ°Ãæ½²¹ý£¬ÔÚ</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>app</span><span style='font-family:ËÎÌå'>ºóÃæ¼Ó²ÎÊý£¬¿ÉÒÔ·ÃÎÊÖ¸¶¨·þÎñÆ÷µÄÖ¸¶¨</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>Vhost</span><span
-     style='font-family:å®‹ä½“'>ã€‚è¿™ä¸ª</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>SRS</span><span
-     style='font-family:å®‹ä½“'>çš„ç‰¹æ®Šçº¦å®šï¼Œæ–¹ä¾¿æŽ’é”™ã€‚</span></li>
+     style='font-family:ËÎÌå'>¡£Õâ¸ö</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>SRS</span><span
+     style='font-family:ËÎÌå'>µÄÌØÊâÔ¼¶¨£¬·½±ãÅÅ´í¡£</span></li>
  <li class=MsoNormal style='color:#333333;text-align:left'><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>FMLE</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>Stream</span><span
-     style='font-family:å®‹ä½“'>åŽé¢çš„å‚æ•°ï¼ŒæŒ‡å®š</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>event</span><span style='font-family:å®‹ä½“'>ä¹‹ç±»çš„ã€‚</span><span
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>Stream</span><span
+     style='font-family:ËÎÌå'>ºóÃæµÄ²ÎÊý£¬Ö¸¶¨</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>event</span><span style='font-family:ËÎÌå'>Ö®ÀàµÄ¡£</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>SRS</span><span
-     style='font-family:å®‹ä½“'>ä¸éœ€è¦è¿™ä¹ˆéº»çƒ¦ï¼Œ</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>HLS</span><span style='font-family:å®‹ä½“'>æ˜¯å†…ç½®æ”¯æŒï¼Œæ— éœ€è¿™ç§å¤æ‚çš„é…ç½®ã€‚</span><span
+     style='font-family:ËÎÌå'>²»ÐèÒªÕâÃ´Âé·³£¬</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>HLS</span><span style='font-family:ËÎÌå'>ÊÇÄÚÖÃÖ§³Ö£¬ÎÞÐèÕâÖÖ¸´ÔÓµÄÅäÖÃ¡£</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>Callback</span><span
-     style='font-family:å®‹ä½“'>ä¹Ÿæ˜¯</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>http</span><span
-     style='font-family:å®‹ä½“'>çš„ï¼Œ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>FMS</span><span
-     style='font-family:å®‹ä½“'>ä¸ºäº†æ”¯æŒæœåŠ¡å™¨ç«¯è„šæœ¬ï¼Œéœ€è¦å¾ˆå¤æ‚çš„é…ç½®å’Œå¤æ‚çš„å‚æ•°ï¼Œå®žåœ¨æ˜¯å¾ˆéº»çƒ¦çš„è®¾è®¡ã€‚</span></li>
+     style='font-family:ËÎÌå'>Ò²ÊÇ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>http</span><span
+     style='font-family:ËÎÌå'>µÄ£¬</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>FMS</span><span
+     style='font-family:ËÎÌå'>ÎªÁËÖ§³Ö·þÎñÆ÷¶Ë½Å±¾£¬ÐèÒªºÜ¸´ÔÓµÄÅäÖÃºÍ¸´ÔÓµÄ²ÎÊý£¬ÊµÔÚÊÇºÜÂé·³µÄÉè¼Æ¡£</span></li>
  <li class=MsoNormal style='color:#333333;text-align:left'><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>token</span><span
-     style='font-family:å®‹ä½“'>è®¤è¯ï¼š</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>SRS</span><span
-     style='font-family:å®‹ä½“'>è¿˜æœªå®žçŽ°ã€‚åœ¨è¿žæŽ¥æœåŠ¡å™¨æ—¶ï¼Œåœ¨</span><span lang=EN
+     style='font-family:ËÎÌå'>ÈÏÖ¤£º</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>SRS</span><span
+     style='font-family:ËÎÌå'>»¹Î´ÊµÏÖ¡£ÔÚÁ¬½Ó·þÎñÆ÷Ê±£¬ÔÚ</span><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>app</span><span
-     style='font-family:å®‹ä½“'>åŽé¢æŒ‡å®š</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>token</span><span
-     style='font-family:å®‹ä½“'>ï¼ˆæ–¹å¼å’Œ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>vhost</span><span
-     style='font-family:å®‹ä½“'>ä¸€æ ·ï¼‰ï¼Œä¾‹å¦‚</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>rtmp://server/live?vhost=xxx&amp;token=xxx/livestream</span><span
-     style='font-family:å®‹ä½“'>ï¼ŒæœåŠ¡å™¨å¯ä»¥å–å‡º</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>token</span><span style='font-family:å®‹ä½“'>ï¼Œè¿›è¡ŒéªŒè¯ï¼Œè‹¥éªŒè¯å¤±è´¥åˆ™æ–­å¼€è¿žæŽ¥ï¼Œè¿™ç§æ˜¯æ¯”</span><span
+     style='font-family:ËÎÌå'>ºóÃæÖ¸¶¨</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>token</span><span
+     style='font-family:ËÎÌå'>£¨·½Ê½ºÍ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>vhost</span><span
+     style='font-family:ËÎÌå'>Ò»Ñù£©£¬ÀýÈç</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>rtmp://server/live?vhost=xxx&amp;token=xxx/livestream</span><span
+     style='font-family:ËÎÌå'>£¬·þÎñÆ÷¿ÉÒÔÈ¡³ö</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>token</span><span style='font-family:ËÎÌå'>£¬½øÐÐÑéÖ¤£¬ÈôÑéÖ¤Ê§°ÜÔò¶Ï¿ªÁ¬½Ó£¬ÕâÖÖÊÇ±È</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>Refer</span><span
-     style='font-family:å®‹ä½“'>æ›´é«˜çº§çš„é˜²ç›—é“¾ã€‚</span></li>
+     style='font-family:ËÎÌå'>¸ü¸ß¼¶µÄ·ÀµÁÁ´¡£</span></li>
 </ul>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
 lang=EN style='font-family:"Segoe UI",sans-serif;color:#333333'>app</span><span
-style='font-family:å®‹ä½“;color:#333333'>å’Œ</span><span lang=EN style='font-family:
+style='font-family:ËÎÌå;color:#333333'>ºÍ</span><span lang=EN style='font-family:
 "Segoe UI",sans-serif;color:#333333'>stream</span><span style='font-family:
-å®‹ä½“;color:#333333'>åŽé¢å¸¦å‚æ•°ï¼Œè¿™ä¸¤è€…æœ‰ä½•åŒºåˆ«ï¼Œä¸ºä½•</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
-color:#333333'>SRS</span><span style='font-family:å®‹ä½“;color:#333333'>æŠŠå‚æ•°æ”¾åœ¨</span><span
+ËÎÌå;color:#333333'>ºóÃæ´ø²ÎÊý£¬ÕâÁ½ÕßÓÐºÎÇø±ð£¬ÎªºÎ</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
+color:#333333'>SRS</span><span style='font-family:ËÎÌå;color:#333333'>°Ñ²ÎÊý·ÅÔÚ</span><span
 lang=EN style='font-family:"Segoe UI",sans-serif;color:#333333'>app</span><span
-style='font-family:å®‹ä½“;color:#333333'>åŽé¢ï¼Ÿå®¢æˆ·ç«¯æ’­æ”¾æµçš„</span><span lang=EN
+style='font-family:ËÎÌå;color:#333333'>ºóÃæ£¿¿Í»§¶Ë²¥·ÅÁ÷µÄ</span><span lang=EN
 style='font-family:"Segoe UI",sans-serif;color:#333333'>as3</span><span
-style='font-family:å®‹ä½“;color:#333333'>ä»£ç å¤§çº¦æ˜¯ï¼š</span></p>
+style='font-family:ËÎÌå;color:#333333'>´úÂë´óÔ¼ÊÇ£º</span></p>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left;
 background:#F7F7F7'><span lang=EN style='font-family:Consolas;color:#969896'>//
@@ -4203,92 +5896,92 @@ lang=EN style='font-family:Consolas;color:#333333'>)</span><span lang=EN
 style='font-family:Consolas;color:#A71D5D'>;</span></p>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-style='font-family:å®‹ä½“;color:#333333'>ä»Ž</span><span lang=EN style='font-family:
-"Segoe UI",sans-serif;color:#333333'>RTMP</span><span style='font-family:å®‹ä½“;
-color:#333333'>åè®®çš„è§’åº¦æ¥çœ‹ï¼š</span></p>
+style='font-family:ËÎÌå;color:#333333'>´Ó</span><span lang=EN style='font-family:
+"Segoe UI",sans-serif;color:#333333'>RTMP</span><span style='font-family:ËÎÌå;
+color:#333333'>Ð­ÒéµÄ½Ç¶ÈÀ´¿´£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='color:#333333;text-align:left'><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>NetConnection.connect(vhost+app)</span><span
-     style='font-family:å®‹ä½“'>ï¼šè¿™ä¸€æ­¥ä¼šå®Œæˆæ¡æ‰‹ï¼Œ</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>connect</span><span style='font-family:å®‹ä½“'>åˆ°</span><span
+     style='font-family:ËÎÌå'>£ºÕâÒ»²½»áÍê³ÉÎÕÊÖ£¬</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>connect</span><span style='font-family:ËÎÌå'>µ½</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>vhost</span><span
-     style='font-family:å®‹ä½“'>ï¼Œåˆ‡æ¢åˆ°</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>app</span><span
-     style='font-family:å®‹ä½“'>ã€‚ç±»ä¼¼äºŽç™»å½•åˆ°</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>vhost</span><span style='font-family:å®‹ä½“'>åŽï¼Œ</span><span
+     style='font-family:ËÎÌå'>£¬ÇÐ»»µ½</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>app</span><span
+     style='font-family:ËÎÌå'>¡£ÀàËÆÓÚµÇÂ¼µ½</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>vhost</span><span style='font-family:ËÎÌå'>ºó£¬</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>cd</span><span
-     style='font-family:å®‹ä½“'>åˆ°</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>app</span><span
-     style='font-family:å®‹ä½“'>è¿™ä¸ªç›®å½•ã€‚ä¹Ÿå°±æ˜¯</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>vhost</span><span style='font-family:å®‹ä½“'>çš„éªŒè¯ï¼Œéƒ½å¯ä»¥åœ¨è¿™ä¸€æ­¥åšï¼Œä¹Ÿå°±æ˜¯æŒ‡å®š</span><span
+     style='font-family:ËÎÌå'>µ½</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>app</span><span
+     style='font-family:ËÎÌå'>Õâ¸öÄ¿Â¼¡£Ò²¾ÍÊÇ</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>vhost</span><span style='font-family:ËÎÌå'>µÄÑéÖ¤£¬¶¼¿ÉÒÔÔÚÕâÒ»²½×ö£¬Ò²¾ÍÊÇÖ¸¶¨</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>vhost</span><span
-     style='font-family:å®‹ä½“'>ä¹Ÿæ˜¯åœ¨ä¸€æ­¥äº†ï¼Œæ‰€ä»¥</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>app</span><span style='font-family:å®‹ä½“'>åŽé¢è·Ÿçš„å‚æ•°éƒ½æ˜¯å’Œ</span><span
+     style='font-family:ËÎÌå'>Ò²ÊÇÔÚÒ»²½ÁË£¬ËùÒÔ</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>app</span><span style='font-family:ËÎÌå'>ºóÃæ¸úµÄ²ÎÊý¶¼ÊÇºÍ</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>vhost/app</span><span
-     style='font-family:å®‹ä½“'>ç›¸å…³çš„ã€‚</span></li>
+     style='font-family:ËÎÌå'>Ïà¹ØµÄ¡£</span></li>
  <li class=MsoNormal style='color:#333333;text-align:left'><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>NetStream.play(stream)</span><span
-     style='font-family:å®‹ä½“'>ï¼šè¿™ä¸€æ­¥æ˜¯æ’­æ”¾æŒ‡å®šçš„ç›´æ’­æµã€‚æ‰€ä»¥å’Œ</span><span lang=EN
+     style='font-family:ËÎÌå'>£ºÕâÒ»²½ÊÇ²¥·ÅÖ¸¶¨µÄÖ±²¥Á÷¡£ËùÒÔºÍ</span><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>stream</span><span
-     style='font-family:å®‹ä½“'>ç›¸å…³çš„äº‹ä»¶ï¼Œéƒ½å¯ä»¥ä¼ é€’å‚æ•°ï¼Œè­¬å¦‚</span><span lang=EN
+     style='font-family:ËÎÌå'>Ïà¹ØµÄÊÂ¼þ£¬¶¼¿ÉÒÔ´«µÝ²ÎÊý£¬Æ©Èç</span><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>Adobe</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>event</span><span
-     style='font-family:å®‹ä½“'>ã€‚</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>SRS</span><span
-     style='font-family:å®‹ä½“'>æ˜¯æ²¡æœ‰è¿™äº›äº‹ä»¶çš„ï¼Œæµå¯åŠ¨æ—¶ï¼Œè‹¥é…ç½®äº†</span><span lang=EN
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>event</span><span
+     style='font-family:ËÎÌå'>¡£</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>SRS</span><span
+     style='font-family:ËÎÌå'>ÊÇÃ»ÓÐÕâÐ©ÊÂ¼þµÄ£¬Á÷Æô¶¯Ê±£¬ÈôÅäÖÃÁË</span><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>HLS</span><span
-     style='font-family:å®‹ä½“'>ä¼šè‡ªåŠ¨å¼€å§‹åˆ‡ç‰‡ã€‚</span></li>
+     style='font-family:ËÎÌå'>»á×Ô¶¯¿ªÊ¼ÇÐÆ¬¡£</span></li>
 </ul>
 
 <h4><a name="_Toc462219483"><span lang=EN>SRS</span></a><span style='font-family:
-å®‹ä½“'>çš„</span><span lang=EN>URL</span><span style='font-family:å®‹ä½“'>è§„åˆ™</span></h4>
+ËÎÌå'>µÄ</span><span lang=EN>URL</span><span style='font-family:ËÎÌå'>¹æÔò</span></h4>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
 lang=EN style='font-family:"Segoe UI",sans-serif;color:#333333'>SRS</span><span
-style='font-family:å®‹ä½“;color:#333333'>åªåšç®€åŒ–çš„äº‹æƒ…ï¼Œç»å¯¹ä¸æŠŠç®€å•çš„äº‹æƒ…æžå¤æ‚ã€‚</span></p>
+style='font-family:ËÎÌå;color:#333333'>Ö»×ö¼ò»¯µÄÊÂÇé£¬¾ø¶Ô²»°Ñ¼òµ¥µÄÊÂÇé¸ã¸´ÔÓ¡£</span></p>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
 lang=EN style='font-family:"Segoe UI",sans-serif;color:#333333'>SRS</span><span
-style='font-family:å®‹ä½“;color:#333333'>çš„</span><span lang=EN style='font-family:
+style='font-family:ËÎÌå;color:#333333'>µÄ</span><span lang=EN style='font-family:
 "Segoe UI",sans-serif;color:#333333'>RTMP URL</span><span style='font-family:
-å®‹ä½“;color:#333333'>ä½¿ç”¨æ ‡å‡†çš„</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
-color:#333333'>RTMP URL</span><span style='font-family:å®‹ä½“;color:#333333'>ï¼Œä¸€èˆ¬ä¸éœ€è¦å¯¹</span><span
+ËÎÌå;color:#333333'>Ê¹ÓÃ±ê×¼µÄ</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
+color:#333333'>RTMP URL</span><span style='font-family:ËÎÌå;color:#333333'>£¬Ò»°ã²»ÐèÒª¶Ô</span><span
 lang=EN style='font-family:"Segoe UI",sans-serif;color:#333333'>app</span><span
-style='font-family:å®‹ä½“;color:#333333'>å’Œ</span><span lang=EN style='font-family:
+style='font-family:ËÎÌå;color:#333333'>ºÍ</span><span lang=EN style='font-family:
 "Segoe UI",sans-serif;color:#333333'>stream</span><span style='font-family:
-å®‹ä½“;color:#333333'>åŠ å‚æ•°ï¼Œæˆ–è€…æ›´æ”¹ä»–ä»¬çš„æ„ä¹‰ã€‚é™¤äº†ä¸¤ä¸ªåœ°æ–¹ï¼š</span></p>
+ËÎÌå;color:#333333'>¼Ó²ÎÊý£¬»òÕß¸ü¸ÄËûÃÇµÄÒâÒå¡£³ýÁËÁ½¸öµØ·½£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='color:#333333;text-align:left'><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>vhost</span><span
-     style='font-family:å®‹ä½“'>æ”¯æŒå‚æ•°è®¿é—®ï¼šä¸ºäº†æ–¹ä¾¿è¿ç»´è®¿é—®æŸå°æœåŠ¡å™¨çš„</span><span lang=EN
+     style='font-family:ËÎÌå'>Ö§³Ö²ÎÊý·ÃÎÊ£ºÎªÁË·½±ãÔËÎ¬·ÃÎÊÄ³Ì¨·þÎñÆ÷µÄ</span><span lang=EN
      style='font-family:"Segoe UI",sans-serif'>vhost</span><span
-     style='font-family:å®‹ä½“'>ï¼Œä¸éœ€è¦è®¾ç½®</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>hosts</span><span
-     style='font-family:å®‹ä½“'>ã€‚ä¸å½±å“æ™®é€šç”¨æˆ·ã€‚</span></li>
+     style='font-family:ËÎÌå'>£¬²»ÐèÒªÉèÖÃ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>hosts</span><span
+     style='font-family:ËÎÌå'>¡£²»Ó°ÏìÆÕÍ¨ÓÃ»§¡£</span></li>
  <li class=MsoNormal style='color:#333333;text-align:left'><span
-     style='font-family:å®‹ä½“'>æ”¯æŒ</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>token</span><span
-     style='font-family:å®‹ä½“'>éªŒè¯ï¼šä¸ºäº†æ”¯æŒ</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>token</span><span style='font-family:å®‹ä½“'>éªŒè¯ï¼Œåœ¨</span><span
+     style='font-family:ËÎÌå'>Ö§³Ö</span><span lang=EN style='font-family:"Segoe UI",sans-serif'>token</span><span
+     style='font-family:ËÎÌå'>ÑéÖ¤£ºÎªÁËÖ§³Ö</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>token</span><span style='font-family:ËÎÌå'>ÑéÖ¤£¬ÔÚ</span><span
      lang=EN style='font-family:"Segoe UI",sans-serif'>app</span><span
-     style='font-family:å®‹ä½“'>åŽé¢å¸¦å‚æ•°ï¼Œè¿™ä¸ªæ˜¯</span><span lang=EN style='font-family:
-     "Segoe UI",sans-serif'>token</span><span style='font-family:å®‹ä½“'>éªŒè¯å¿…é¡»çš„æ–¹å¼ã€‚</span></li>
+     style='font-family:ËÎÌå'>ºóÃæ´ø²ÎÊý£¬Õâ¸öÊÇ</span><span lang=EN style='font-family:
+     "Segoe UI",sans-serif'>token</span><span style='font-family:ËÎÌå'>ÑéÖ¤±ØÐëµÄ·½Ê½¡£</span></li>
 </ul>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-style='font-family:å®‹ä½“;color:#333333'>å¦å¤–ï¼Œ</span><span lang=EN style='font-family:
-"Segoe UI",sans-serif;color:#333333'>SRS</span><span style='font-family:å®‹ä½“;
-color:#333333'>å»ºè®®ç”¨æˆ·ä½¿ç”¨ä¸€çº§</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
-color:#333333'>app</span><span style='font-family:å®‹ä½“;color:#333333'>å’Œä¸€çº§</span><span
+style='font-family:ËÎÌå;color:#333333'>ÁíÍâ£¬</span><span lang=EN style='font-family:
+"Segoe UI",sans-serif;color:#333333'>SRS</span><span style='font-family:ËÎÌå;
+color:#333333'>½¨ÒéÓÃ»§Ê¹ÓÃÒ»¼¶</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
+color:#333333'>app</span><span style='font-family:ËÎÌå;color:#333333'>ºÍÒ»¼¶</span><span
 lang=EN style='font-family:"Segoe UI",sans-serif;color:#333333'>stream</span><span
-style='font-family:å®‹ä½“;color:#333333'>ï¼Œä¸ä½¿ç”¨å¤šçº§</span><span lang=EN
+style='font-family:ËÎÌå;color:#333333'>£¬²»Ê¹ÓÃ¶à¼¶</span><span lang=EN
 style='font-family:"Segoe UI",sans-serif;color:#333333'>app</span><span
-style='font-family:å®‹ä½“;color:#333333'>å’Œå¤šçº§</span><span lang=EN style='font-family:
+style='font-family:ËÎÌå;color:#333333'>ºÍ¶à¼¶</span><span lang=EN style='font-family:
 "Segoe UI",sans-serif;color:#333333'>stream</span><span style='font-family:
-å®‹ä½“;color:#333333'>ã€‚è­¬å¦‚ï¼š</span></p>
+ËÎÌå;color:#333333'>¡£Æ©Èç£º</span></p>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left;
 background:#F7F7F7'><span lang=EN style='font-family:Consolas;color:#333333'>//
-</span><span style='font-family:å®‹ä½“;color:#333333'>ä¸æŽ¨èä½¿ç”¨çš„å¤šçº§</span><span lang=EN
+</span><span style='font-family:ËÎÌå;color:#333333'>²»ÍÆ¼öÊ¹ÓÃµÄ¶à¼¶</span><span lang=EN
 style='font-family:Consolas;color:#333333'>app</span><span style='font-family:
-å®‹ä½“;color:#333333'>æˆ–</span><span lang=EN style='font-family:Consolas;color:#333333'>stream</span></p>
+ËÎÌå;color:#333333'>»ò</span><span lang=EN style='font-family:Consolas;color:#333333'>stream</span></p>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left;
 background:#F7F7F7'><span lang=EN style='font-family:Consolas;color:#333333'>rtmp://demo.srs.com/show/live/livestream</span></p>
@@ -4298,27 +5991,27 @@ lang=EN style='font-family:Consolas;color:#333333'>rtmp://demo.srs.com/show/live
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
 lang=EN style='font-family:"Segoe UI",sans-serif;color:#333333'>srs</span><span
-style='font-family:å®‹ä½“;color:#333333'>æ’­æ”¾å™¨</span><span lang=EN style='font-family:
+style='font-family:ËÎÌå;color:#333333'>²¥·ÅÆ÷</span><span lang=EN style='font-family:
 "Segoe UI",sans-serif;color:#333333'>(srs_player)</span><span style='font-family:
-å®‹ä½“;color:#333333'>å’Œ</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
-color:#333333'>srs</span><span style='font-family:å®‹ä½“;color:#333333'>ç¼–ç å™¨</span><span
+ËÎÌå;color:#333333'>ºÍ</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
+color:#333333'>srs</span><span style='font-family:ËÎÌå;color:#333333'>±àÂëÆ÷</span><span
 lang=EN style='font-family:"Segoe UI",sans-serif;color:#333333'>(srs_publisher)</span><span
-style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒå¤šçº§</span><span lang=EN
+style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö¶à¼¶</span><span lang=EN
 style='font-family:"Segoe UI",sans-serif;color:#333333'>app</span><span
-style='font-family:å®‹ä½“;color:#333333'>å’Œ</span><span lang=EN style='font-family:
+style='font-family:ËÎÌå;color:#333333'>ºÍ</span><span lang=EN style='font-family:
 "Segoe UI",sans-serif;color:#333333'>stream</span><span style='font-family:
-å®‹ä½“;color:#333333'>ï¼Œä»–ä»¬è®¤ä¸ºæœ€åŽä¸€ä¸ªæ–œæ ï¼ˆ</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
-color:#333333'>/</span><span style='font-family:å®‹ä½“;color:#333333'>ï¼‰åŽé¢çš„å°±æ˜¯</span><span
+ËÎÌå;color:#333333'>£¬ËûÃÇÈÏÎª×îºóÒ»¸öÐ±¸Ü£¨</span><span lang=EN style='font-family:"Segoe UI",sans-serif;
+color:#333333'>/</span><span style='font-family:ËÎÌå;color:#333333'>£©ºóÃæµÄ¾ÍÊÇ</span><span
 lang=EN style='font-family:"Segoe UI",sans-serif;color:#333333'>stream</span><span
-style='font-family:å®‹ä½“;color:#333333'>ï¼Œå‰é¢çš„æ˜¯</span><span lang=EN
+style='font-family:ËÎÌå;color:#333333'>£¬Ç°ÃæµÄÊÇ</span><span lang=EN
 style='font-family:"Segoe UI",sans-serif;color:#333333'>app</span><span
-style='font-family:å®‹ä½“;color:#333333'>ã€‚å³ï¼š</span></p>
+style='font-family:ËÎÌå;color:#333333'>¡£¼´£º</span></p>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left;
 background:#F7F7F7'><span lang=EN style='font-family:Consolas;color:#333333'>//
-srs_player</span><span style='font-family:å®‹ä½“;color:#333333'>å’Œ</span><span
+srs_player</span><span style='font-family:ËÎÌå;color:#333333'>ºÍ</span><span
 lang=EN style='font-family:Consolas;color:#333333'>srs_publisher</span><span
-style='font-family:å®‹ä½“;color:#333333'>çš„è§£æžæ–¹å¼ï¼š</span></p>
+style='font-family:ËÎÌå;color:#333333'>µÄ½âÎö·½Ê½£º</span></p>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left;
 background:#F7F7F7'><span lang=EN style='font-family:Consolas;color:#333333'>//
@@ -4343,19 +6036,19 @@ show/live/livestream</span></p>
 lang=EN style='font-family:Consolas;color:#333333'>stream: 2013</span></p>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-style='font-family:å®‹ä½“;color:#333333'>åšæ­¤ç®€åŒ–çš„å¥½å¤„æ˜¯ï¼Œ</span><span lang=EN
+style='font-family:ËÎÌå;color:#333333'>×ö´Ë¼ò»¯µÄºÃ´¦ÊÇ£¬</span><span lang=EN
 style='font-family:"Segoe UI",sans-serif;color:#333333'>srs</span><span
-style='font-family:å®‹ä½“;color:#333333'>æ’­æ”¾å™¨å’Œç¼–ç å™¨ï¼Œåªéœ€è¦æŒ‡å®šä¸€ä¸ª</span><span lang=EN
+style='font-family:ËÎÌå;color:#333333'>²¥·ÅÆ÷ºÍ±àÂëÆ÷£¬Ö»ÐèÒªÖ¸¶¨Ò»¸ö</span><span lang=EN
 style='font-family:"Segoe UI",sans-serif;color:#333333'>url</span><span
-style='font-family:å®‹ä½“;color:#333333'>ï¼Œè€Œä¸”ä¸¤è€…çš„</span><span lang=EN
+style='font-family:ËÎÌå;color:#333333'>£¬¶øÇÒÁ½ÕßµÄ</span><span lang=EN
 style='font-family:"Segoe UI",sans-serif;color:#333333'>url</span><span
-style='font-family:å®‹ä½“;color:#333333'>æ˜¯ä¸€æ ·çš„ã€‚</span></p>
+style='font-family:ËÎÌå;color:#333333'>ÊÇÒ»ÑùµÄ¡£</span></p>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
 lang=EN style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#333333'>SRS</span><span
-style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å¸¸è§çš„ä¸‰ç§</span><span
+style='font-size:12.0pt;font-family:ËÎÌå;color:#333333'>³£¼ûµÄÈýÖÖ</span><span
 lang=EN style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#333333'>RTMP
-URL</span><span style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>ï¼Œè¯¦ç»†è§ä¸‹è¡¨ï¼š</span></p>
+URL</span><span style='font-size:12.0pt;font-family:ËÎÌå;color:#333333'>£¬ÏêÏ¸¼ûÏÂ±í£º</span></p>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;background:#E5E5E5;border-collapse:collapse;border:none'>
@@ -4367,7 +6060,7 @@ URL</span><span style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>ï¼Œè¯¦
    </td>
    <td style='border:solid #DDDDDD 1.0pt;border-left:none;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
    <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center'><b><span
-   style='font-family:å®‹ä½“;color:#333333'>è¯´æ˜Ž</span></b></p>
+   style='font-family:ËÎÌå;color:#333333'>ËµÃ÷</span></b></p>
    </td>
   </tr>
  </thead>
@@ -4379,7 +6072,7 @@ URL</span><span style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>ï¼Œè¯¦
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ™®é€šç”¨æˆ·çš„æ ‡å‡†è®¿é—®æ–¹å¼ï¼Œè§‚çœ‹ç›´æ’­æµ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÆÕÍ¨ÓÃ»§µÄ±ê×¼·ÃÎÊ·½Ê½£¬¹Û¿´Ö±²¥Á÷</span></p>
   </td>
  </tr>
  <tr>
@@ -4390,7 +6083,7 @@ URL</span><span style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>ï¼Œè¯¦
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>è¿ç»´å¯¹ç‰¹å®šæœåŠ¡å™¨æŽ’é”™</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÔËÎ¬¶ÔÌØ¶¨·þÎñÆ÷ÅÅ´í</span></p>
   </td>
  </tr>
  <tr>
@@ -4402,9 +6095,9 @@ URL</span><span style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>ï¼Œè¯¦
   border-right:solid #DDDDDD 1.0pt;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>token</span><span
-  style='font-family:å®‹ä½“;color:#333333'>éªŒè¯ç”¨æˆ·ï¼Œæˆ–è€…å¸¦å®½æµ‹è¯•çš„</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>ÑéÖ¤ÓÃ»§£¬»òÕß´ø¿í²âÊÔµÄ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>key</span><span
-  style='font-family:å®‹ä½“;color:#333333'>éªŒè¯</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÑéÖ¤</span></p>
   </td>
  </tr>
 </table>
@@ -4417,78 +6110,78 @@ href="https://github.com/ossrs/srs/wiki/v1_CN_RtmpUrlVhost">https://github.com/o
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
 <h3><a name="_Toc26097963"></a><a name="_Toc462219485"></a><a
-name="_Toc456260524"><span style='font-family:å®‹ä½“'>æ— ä¸­æ–­æœåŠ¡</span><span lang=EN-US>Reload</span></a></h3>
+name="_Toc456260524"><span style='font-family:ËÎÌå'>ÎÞÖÐ¶Ï·þÎñ</span><span lang=EN-US>Reload</span></a></h3>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>é…ç½®å®Œå…¨æ”¯æŒ<span lang=EN-US>Reload</span>ï¼Œå³åœ¨ä¸ä¸­æ–­æœåŠ¡æ—¶åº”ç”¨é…ç½®çš„ä¿®æ”¹ã€‚</span></p>
+10.5pt'>ÅäÖÃÍêÈ«Ö§³Ö<span lang=EN-US>Reload</span>£¬¼´ÔÚ²»ÖÐ¶Ï·þÎñÊ±Ó¦ÓÃÅäÖÃµÄÐÞ¸Ä¡£</span></p>
 
 <h4><a name="_Toc462219486"><span lang=EN-US>NotSupportedFeatures</span></a></h4>
 
-<p><span style='font-size:10.5pt'>ä¸æ”¯æŒ<span lang=EN-US>reload</span>çš„åŠŸèƒ½åŒ…æ‹¬ï¼š</span></p>
+<p><span style='font-size:10.5pt'>²»Ö§³Ö<span lang=EN-US>reload</span>µÄ¹¦ÄÜ°üÀ¨£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>deamon</span><span
-     style='font-family:å®‹ä½“'>ï¼Œæ˜¯å¦åŽå°å¯åŠ¨ã€‚</span></li>
+     style='font-family:ËÎÌå'>£¬ÊÇ·ñºóÌ¨Æô¶¯¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>mode</span><span
-     style='font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US>vhost</span><span
-     style='font-family:å®‹ä½“'>çš„æ¨¡å¼ã€‚</span></li>
+     style='font-family:ËÎÌå'>£¬</span><span lang=EN-US>vhost</span><span
+     style='font-family:ËÎÌå'>µÄÄ£Ê½¡£</span></li>
 </ul>
 
 <p class=MsoNoSpacing><span lang=EN-US>daemon</span><span style='font-family:
-å®‹ä½“'>é€‰é¡¹å½“ç„¶æ˜¯ä¸æ”¯æŒ</span><span lang=EN-US>reload</span><span style='font-family:å®‹ä½“'>çš„ã€‚</span></p>
+ËÎÌå'>Ñ¡Ïîµ±È»ÊÇ²»Ö§³Ö</span><span lang=EN-US>reload</span><span style='font-family:ËÎÌå'>µÄ¡£</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>mode</span><span style='font-family:
-å®‹ä½“'>é€‰é¡¹ï¼Œå³å†³å®š</span><span lang=EN-US>vhost</span><span style='font-family:å®‹ä½“'>æ˜¯æºç«™è¿˜æ˜¯è¾¹ç¼˜ï¼Œä¸æ”¯æŒ</span><span
-lang=EN-US>reload</span><span style='font-family:å®‹ä½“'>ã€‚è‹¥ä¿®æ”¹</span><span
-lang=EN-US>mode</span><span style='font-family:å®‹ä½“'>ä¹‹åŽ</span><span lang=EN-US>reload</span><span
-style='font-family:å®‹ä½“'>ä¼šå¯¼è‡´</span><span lang=EN-US>server</span><span
-style='font-family:å®‹ä½“'>å¼‚å¸¸é€€å‡ºï¼Œç”±çœ‹é—¨ç‹—é‡å¯ã€‚åŽŸå› åœ¨äºŽï¼š</span></p>
+ËÎÌå'>Ñ¡Ïî£¬¼´¾ö¶¨</span><span lang=EN-US>vhost</span><span style='font-family:ËÎÌå'>ÊÇÔ´Õ¾»¹ÊÇ±ßÔµ£¬²»Ö§³Ö</span><span
+lang=EN-US>reload</span><span style='font-family:ËÎÌå'>¡£ÈôÐÞ¸Ä</span><span
+lang=EN-US>mode</span><span style='font-family:ËÎÌå'>Ö®ºó</span><span lang=EN-US>reload</span><span
+style='font-family:ËÎÌå'>»áµ¼ÖÂ</span><span lang=EN-US>server</span><span
+style='font-family:ËÎÌå'>Òì³£ÍË³ö£¬ÓÉ¿´ÃÅ¹·ÖØÆô¡£Ô­ÒòÔÚÓÚ£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æºç«™å’Œè¾¹ç¼˜è§’è‰²åˆ‡æ¢è¿‡äºŽå¤æ‚ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ä¸€èˆ¬æºç«™ä¼šå»ºç«‹è®¾å¤‡ç»„ï¼Œå…¨éƒ¨åšæºç«™ï¼Œä¸ä¼šçªç„¶å˜æˆè¾¹ç¼˜</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ä¸Šå±‚å’Œæºç«™é‡å¯åŽï¼Œå¯¹æœ€ç»ˆç”¨æˆ·æ²¡æœ‰å½±å“ï¼Œåªæ˜¯è¡¨çŽ°ä¼šåˆ‡æ¢ä¸Šå±‚çš„å¡é¡¿ï¼ˆå®¢æˆ·ç«¯ç¼“å†²åŒºè®¾ä¸º</span><span
-     lang=EN-US>3</span><span style='font-family:å®‹ä½“'>ç§’ä»¥ä¸Šæ—¶ï¼Œå¡é¡¿éƒ½ä¸ä¼šå‡ºçŽ°ï¼‰ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ô´Õ¾ºÍ±ßÔµ½ÇÉ«ÇÐ»»¹ýÓÚ¸´ÔÓ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ò»°ãÔ´Õ¾»á½¨Á¢Éè±¸×é£¬È«²¿×öÔ´Õ¾£¬²»»áÍ»È»±ä³É±ßÔµ</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÉÏ²ãºÍÔ´Õ¾ÖØÆôºó£¬¶Ô×îÖÕÓÃ»§Ã»ÓÐÓ°Ïì£¬Ö»ÊÇ±íÏÖ»áÇÐ»»ÉÏ²ãµÄ¿¨¶Ù£¨¿Í»§¶Ë»º³åÇøÉèÎª</span><span
+     lang=EN-US>3</span><span style='font-family:ËÎÌå'>ÃëÒÔÉÏÊ±£¬¿¨¶Ù¶¼²»»á³öÏÖ£©¡£</span></li>
 </ul>
 
-<p><span style='font-size:10.5pt'>ä¸€ä¸ªä¿®æ”¹<span lang=EN-US>vhost</span>çš„<span
-lang=EN-US>mode</span>å±žæ€§çš„<span lang=EN-US>workaround</span>ï¼š</span></p>
+<p><span style='font-size:10.5pt'>Ò»¸öÐÞ¸Ä<span lang=EN-US>vhost</span>µÄ<span
+lang=EN-US>mode</span>ÊôÐÔµÄ<span lang=EN-US>workaround</span>£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>åˆ é™¤</span><span
-     lang=EN-US>vhost</span><span style='font-family:å®‹ä½“'>å¹¶</span><span
-     lang=EN-US>reload</span><span style='font-family:å®‹ä½“'>ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ç¡®è®¤</span><span
-     lang=EN-US>vhost</span><span style='font-family:å®‹ä½“'>å·²ç»åˆ é™¤äº†ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ·»åŠ </span><span
-     lang=EN-US>vhost</span><span style='font-family:å®‹ä½“'>ï¼Œä½¿ç”¨æ–°çš„</span><span
-     lang=EN-US>mode</span><span style='font-family:å®‹ä½“'>ï¼Œå¹¶</span><span
-     lang=EN-US>reload</span><span style='font-family:å®‹ä½“'>ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>É¾³ý</span><span
+     lang=EN-US>vhost</span><span style='font-family:ËÎÌå'>²¢</span><span
+     lang=EN-US>reload</span><span style='font-family:ËÎÌå'>¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>È·ÈÏ</span><span
+     lang=EN-US>vhost</span><span style='font-family:ËÎÌå'>ÒÑ¾­É¾³ýÁË¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ìí¼Ó</span><span
+     lang=EN-US>vhost</span><span style='font-family:ËÎÌå'>£¬Ê¹ÓÃÐÂµÄ</span><span
+     lang=EN-US>mode</span><span style='font-family:ËÎÌå'>£¬²¢</span><span
+     lang=EN-US>reload</span><span style='font-family:ËÎÌå'>¡£</span></li>
 </ul>
 
-<h4><a name="_Toc462219487"><span style='font-family:å®‹ä½“'>åº”ç”¨åœºæ™¯</span></a></h4>
+<h4><a name="_Toc462219487"><span style='font-family:ËÎÌå'>Ó¦ÓÃ³¡¾°</span></a></h4>
 
 <p><span lang=EN-US style='font-size:10.5pt'>Reload</span><span
-style='font-size:10.5pt'>ä¸»è¦åº”ç”¨åœºæ™¯ï¼š</span></p>
+style='font-size:10.5pt'>Ö÷ÒªÓ¦ÓÃ³¡¾°£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>é…ç½®å¿«é€Ÿç”Ÿæ•ˆï¼šä¸ç”¨é‡å¯æœåŠ¡ï¼Œä¿®æ”¹é…ç½®åŽï¼Œåªéœ€è¦</span><code><span
-     lang=EN-US>killall -1 srs</span></code><span style='font-family:å®‹ä½“'>å³å¯ç”Ÿæ•ˆé…ç½®ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ä¸ä¸­æ–­æœåŠ¡ï¼šå•†ç”¨æœåŠ¡å™¨å¾€å¾€æ—¶æ—¶åˆ»åˆ»éƒ½åœ¨æœåŠ¡ç”¨æˆ·ï¼Œå¦‚ä½•å°†ä¸€ä¸ªè½¬ç æµçš„ç çŽ‡è°ƒä½Žï¼Ÿå¦‚ä½•ç¦ç”¨æŸäº›é¢‘é“çš„</span><span
-     lang=EN-US>HLS</span><span style='font-family:å®‹ä½“'>ï¼Ÿå¦‚ä½•æ·»åŠ å’Œåˆ é™¤é¢‘é“ï¼Ÿè€Œä¸”è¿˜ä¸­æ–­çŽ°æœ‰ç”¨æˆ·çš„æœåŠ¡ï¼Ÿä½¿ç”¨</span><span
-     lang=EN-US>Reload</span><span style='font-family:å®‹ä½“'>ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÅäÖÃ¿ìËÙÉúÐ§£º²»ÓÃÖØÆô·þÎñ£¬ÐÞ¸ÄÅäÖÃºó£¬Ö»ÐèÒª</span><code><span
+     lang=EN-US>killall -1 srs</span></code><span style='font-family:ËÎÌå'>¼´¿ÉÉúÐ§ÅäÖÃ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>²»ÖÐ¶Ï·þÎñ£ºÉÌÓÃ·þÎñÆ÷ÍùÍùÊ±Ê±¿Ì¿Ì¶¼ÔÚ·þÎñÓÃ»§£¬ÈçºÎ½«Ò»¸ö×ªÂëÁ÷µÄÂëÂÊµ÷µÍ£¿ÈçºÎ½ûÓÃÄ³Ð©ÆµµÀµÄ</span><span
+     lang=EN-US>HLS</span><span style='font-family:ËÎÌå'>£¿ÈçºÎÌí¼ÓºÍÉ¾³ýÆµµÀ£¿¶øÇÒ»¹ÖÐ¶ÏÏÖÓÐÓÃ»§µÄ·þÎñ£¿Ê¹ÓÃ</span><span
+     lang=EN-US>Reload</span><span style='font-family:ËÎÌå'>¡£</span></li>
 </ul>
 
-<h4><a name="_Toc462219488"><span style='font-family:å®‹ä½“'>ä½¿ç”¨æ–¹æ³•</span></a></h4>
+<h4><a name="_Toc462219488"><span style='font-family:ËÎÌå'>Ê¹ÓÃ·½·¨</span></a></h4>
 
 <p class=MsoNoSpacing><span lang=EN-US>Reload</span><span style='font-family:
-å®‹ä½“'>çš„æ–¹æ³•ä¸ºï¼š</span><code><span lang=EN-US>killall -1 srs</span></code></p>
+ËÎÌå'>µÄ·½·¨Îª£º</span><code><span lang=EN-US>killall -1 srs</span></code></p>
 
-<p class=MsoNoSpacing><span style='font-family:å®‹ä½“'>æˆ–è€…æŒ‡å®šå‘é€çš„</span><span
-lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>è¿›ç¨‹ï¼š</span><code><span
+<p class=MsoNoSpacing><span style='font-family:ËÎÌå'>»òÕßÖ¸¶¨·¢ËÍµÄ</span><span
+lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>½ø³Ì£º</span><code><span
 lang=EN-US>kill -1 7635</span></code></p>
 
-<p class=MsoNoSpacing><span style='font-family:å®‹ä½“'>ä½¿ç”¨å¯åŠ¨è„šæœ¬ï¼š</span><code><span
+<p class=MsoNoSpacing><span style='font-family:ËÎÌå'>Ê¹ÓÃÆô¶¯½Å±¾£º</span><code><span
 lang=EN-US>/etc/init.d/srs reload</span></code></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
@@ -4502,88 +6195,88 @@ href="https://github.com/ossrs/srs/wiki/v1_CN_Reload">https://github.com/ossrs/s
 
 <h3><a name="_Toc26097964"></a><a name="_Toc462219490"></a><a
 name="_Toc456260525"><span lang=EN-US>HTTP-FLV</span></a><span
-style='font-family:å®‹ä½“'>é›†ç¾¤</span></h3>
+style='font-family:ËÎÌå'>¼¯Èº</span></h3>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span class=MsoHyperlink><span
 lang=EN-US style='color:windowtext;text-decoration:none'>http-flv</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>é›†ç¾¤å®žé™…ä½¿ç”¨</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>¼¯ÈºÊµ¼ÊÊ¹ÓÃ</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>edge</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>è¾¹ç¼˜é›†ç¾¤æ¨¡å¼ï¼Œåœ¨è¾¹ç¼˜æœåŠ¡å™¨ä¸Šå¯åŠ¨</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>±ßÔµ¼¯ÈºÄ£Ê½£¬ÔÚ±ßÔµ·þÎñÆ÷ÉÏÆô¶¯</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>http-flv</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>åŠŸèƒ½ï¼Œå½“ç”¨æˆ·é€šè¿‡è¾“å…¥åœ°å€å¦‚</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>¹¦ÄÜ£¬µ±ÓÃ»§Í¨¹ýÊäÈëµØÖ·Èç</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>:http://demo.srs.com/live/test.flv</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>ä½¿ç”¨</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>Ê¹ÓÃ</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>http-flv</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>è®¿é—®æ—¶ï¼Œä¼šåœ¨è¾¹ç¼˜è½¬æ¢æˆ</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>·ÃÎÊÊ±£¬»áÔÚ±ßÔµ×ª»»³É</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>rtmp, </span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>ç„¶åŽ</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>È»ºó</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>rtmp</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>å›žæºã€‚ç»“æž„å¦‚ä¸‹</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>»ØÔ´¡£½á¹¹ÈçÏÂ</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>: </span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>ç”¨æˆ·</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>ÓÃ»§</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>&lt; -------http-flv------&gt; </span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>è¾¹ç¼˜</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>±ßÔµ</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>&lt; -------rtmp-------- &gt; </span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>æºã€‚</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>Ô´¡£</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>http-ts http-aac, http-aac</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>é›†ç¾¤åŽŸç†ä¹Ÿä¸€æ ·ã€‚æŒ‰åŽŸç†æ¥è¯´</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>¼¯ÈºÔ­ÀíÒ²Ò»Ñù¡£°´Ô­ÀíÀ´Ëµ</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>Hls</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>é›†ç¾¤ä¹Ÿå¯ä»¥é‡‡ç”¨è¿™ç§æ¨¡å¼æ¥å®žçŽ°ï¼Œä¸è¿‡ç›®å‰</span></span><span class=MsoHyperlink><span
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>¼¯ÈºÒ²¿ÉÒÔ²ÉÓÃÕâÖÖÄ£Ê½À´ÊµÏÖ£¬²»¹ýÄ¿Ç°</span></span><span class=MsoHyperlink><span
 lang=EN-US style='color:windowtext;text-decoration:none'>srs</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>å¼€æºæ²¡æœ‰å®žçŽ°</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>¿ªÔ´Ã»ÓÐÊµÏÖ</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>hls</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>é›†ç¾¤ï¼Œåªèƒ½é€šè¿‡åå›žä»£ç†æ–¹å¼</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>¼¯Èº£¬Ö»ÄÜÍ¨¹ý·´»Ø´úÀí·½Ê½</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>,</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>å¦‚</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>Èç</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>squid, nginx</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>ï¼Œ</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>£¬</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>SRS</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>å•†ä¸šç‰ˆå®žçŽ°äº†</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>ÉÌÒµ°æÊµÏÖÁË</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>hls</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>é›†ç¾¤ï¼Œä¹Ÿå°±æ˜¯ä»–ä»¬è¯´çš„</span></span><span class=MsoHyperlink><span lang=EN-US
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>¼¯Èº£¬Ò²¾ÍÊÇËûÃÇËµµÄ</span></span><span class=MsoHyperlink><span lang=EN-US
 style='color:windowtext;text-decoration:none'>hls+</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>ã€‚è¯·å‚è€ƒï¼š</span></span><span lang=EN-US><a
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>¡£Çë²Î¿¼£º</span></span><span lang=EN-US><a
 href="https://github.com/ossrs/srs/issues/466">https://github.com/ossrs/srs/issues/466</a></span></p>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span class=MsoHyperlink><span
 lang=EN-US style='color:windowtext;text-decoration:none'>http-flv</span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>è¯¦ç»†å†…å®¹è¯·å‚è€ƒ</span></span><span class=MsoHyperlink><span lang=EN-US
-style='color:windowtext;text-decoration:none'>â€œ</span></span><span lang=EN-US><a
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>ÏêÏ¸ÄÚÈÝÇë²Î¿¼</span></span><span class=MsoHyperlink><span lang=EN-US
+style='color:windowtext;text-decoration:none'>¡°</span></span><span lang=EN-US><a
 href="https://github.com/ossrs/srs/wiki/v2_CN_SampleHttpFlv"><span lang=EN-US
-style='font-family:å®‹ä½“;color:windowtext;text-decoration:none'><span lang=EN-US>è½¬å°è£…æˆ</span></span><span
+style='font-family:ËÎÌå;color:windowtext;text-decoration:none'><span lang=EN-US>×ª·â×°³É</span></span><span
 style='color:windowtext;text-decoration:none'>HTTP</span><span lang=EN-US
-style='font-family:å®‹ä½“;color:windowtext;text-decoration:none'><span lang=EN-US>ç›´æ’­æµ</span></span></a><span
-class=MsoHyperlink><span style='color:windowtext;text-decoration:none'>â€</span></span></span><span
-class=MsoHyperlink><span style='font-family:å®‹ä½“;color:windowtext;text-decoration:
-none'>ç« èŠ‚</span></span></p>
+style='font-family:ËÎÌå;color:windowtext;text-decoration:none'><span lang=EN-US>Ö±²¥Á÷</span></span></a><span
+class=MsoHyperlink><span style='color:windowtext;text-decoration:none'>¡±</span></span></span><span
+class=MsoHyperlink><span style='font-family:ËÎÌå;color:windowtext;text-decoration:
+none'>ÕÂ½Ú</span></span></p>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>HTTP FLV</span><span
-style='font-family:å®‹ä½“'>è¾¹ç¼˜åªèƒ½ä½¿ç”¨å•è¿›ç¨‹ï¼Œå¦‚ä½•åšåˆ°å¤šè¿›ç¨‹å‘¢ï¼Ÿå¯ä»¥ä½¿ç”¨</span><span lang=EN-US>HTTP</span><span
-style='font-family:å®‹ä½“'>åå‘ä»£ç†ï¼Œ</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>æä¾›äº†</span><span lang=EN-US>go-sharp</span><span
-style='font-family:å®‹ä½“'>ï¼Œæ”¯æŒæ ¹æ®</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>è¾¹ç¼˜çš„è´Ÿè½½å‡è¡¡ä»¥åŠå¿ƒè·³æ£€æµ‹ã€‚å‚è€ƒï¼š</span><span lang=EN-US><a
+style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>HTTP FLV</span><span
+style='font-family:ËÎÌå'>±ßÔµÖ»ÄÜÊ¹ÓÃµ¥½ø³Ì£¬ÈçºÎ×öµ½¶à½ø³ÌÄØ£¿¿ÉÒÔÊ¹ÓÃ</span><span lang=EN-US>HTTP</span><span
+style='font-family:ËÎÌå'>·´Ïò´úÀí£¬</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>Ìá¹©ÁË</span><span lang=EN-US>go-sharp</span><span
+style='font-family:ËÎÌå'>£¬Ö§³Ö¸ù¾Ý</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>±ßÔµµÄ¸ºÔØ¾ùºâÒÔ¼°ÐÄÌø¼ì²â¡£²Î¿¼£º</span><span lang=EN-US><a
 href="https://github.com/simple-rtmp-server/go-sharp">go-sharp</a></span></p>
 
 <h4><a name="_Toc462219491"><span class=MsoHyperlink><span lang=EN-US
@@ -4594,113 +6287,113 @@ href="https://github.com/ossrs/srs/wiki/v3_CN_SampleHttpFlvCluster">https://gith
 
 <h3><a name="_Toc26097965"></a><a name="_Toc462219492"></a><a
 name="_Toc456260526"><span lang=EN-US>Kafka</span></a><span style='font-family:
-å®‹ä½“'>å¯¹æŽ¥</span></h3>
+ËÎÌå'>¶Ô½Ó</span></h3>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>å¯ä»¥å°†ä¿¡æ¯ä»¥</span><span lang=EN-US>JSON</span><span
-style='font-family:å®‹ä½“'>å½¢å¼å‘é€åˆ°</span><span lang=EN-US>KAFKA</span><span
-style='font-family:å®‹ä½“'>é›†ç¾¤ï¼Œ</span><span lang=EN-US>Spark</span><span
-style='font-family:å®‹ä½“'>ç­‰å¤§æ•°æ®ç³»ç»Ÿä»Ž</span><span lang=EN-US>Kafka</span><span
-style='font-family:å®‹ä½“'>èŽ·å–æ•°æ®å¹¶å¤„ç†ã€‚</span></p>
+style='font-family:ËÎÌå'>¿ÉÒÔ½«ÐÅÏ¢ÒÔ</span><span lang=EN-US>JSON</span><span
+style='font-family:ËÎÌå'>ÐÎÊ½·¢ËÍµ½</span><span lang=EN-US>KAFKA</span><span
+style='font-family:ËÎÌå'>¼¯Èº£¬</span><span lang=EN-US>Spark</span><span
+style='font-family:ËÎÌå'>µÈ´óÊý¾ÝÏµÍ³´Ó</span><span lang=EN-US>Kafka</span><span
+style='font-family:ËÎÌå'>»ñÈ¡Êý¾Ý²¢´¦Àí¡£</span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
-<p class=MsoNormal><span style='font-family:å®‹ä½“'>ç›®å‰<span lang=EN-US>SRS</span>ä¼šå°†å¦‚ä¸‹äº‹ä»¶å†™å…¥<span
-lang=EN-US>Kafka</span>é›†ç¾¤ï¼š</span></p>
+<p class=MsoNormal><span style='font-family:ËÎÌå'>Ä¿Ç°<span lang=EN-US>SRS</span>»á½«ÈçÏÂÊÂ¼þÐ´Èë<span
+lang=EN-US>Kafka</span>¼¯Èº£º</span></p>
 
 <ol start=1 type=1>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-family:
-     å®‹ä½“'>accept: </span><span style='font-family:å®‹ä½“'>å½“æ”¶åˆ°å®¢æˆ·ç«¯è¿žæŽ¥æ—¶ã€‚</span></li>
+     ËÎÌå'>accept: </span><span style='font-family:ËÎÌå'>µ±ÊÕµ½¿Í»§¶ËÁ¬½ÓÊ±¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-family:
-     å®‹ä½“'>close: </span><span style='font-family:å®‹ä½“'>å½“å…³é—­å®¢æˆ·ç«¯è¿žæŽ¥æ—¶ã€‚</span></li>
+     ËÎÌå'>close: </span><span style='font-family:ËÎÌå'>µ±¹Ø±Õ¿Í»§¶ËÁ¬½ÓÊ±¡£</span></li>
 </ol>
 
 <h4><a name="_Toc462219493"><span lang=EN-US>WIKI</span></a></h4>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US><a
 href="https://github.com/ossrs/srs/wiki/v3_CN_Kafka"><span style='font-family:
-å®‹ä½“'>https://github.com/ossrs/srs/wiki/v3_CN_Kafka</span></a></span></p>
+ËÎÌå'>https://github.com/ossrs/srs/wiki/v3_CN_Kafka</span></a></span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-family:å®‹ä½“'>&nbsp;</span></p>
+style='font-family:ËÎÌå'>&nbsp;</span></p>
 
 <h2><a name="_Toc26097966"></a><a name="_Toc462219494"></a><a
-name="_Toc456260527"><span style='font-family:å®‹ä½“'>åº”ç”¨æŽ¥å£</span></a></h2>
+name="_Toc456260527"><span style='font-family:ËÎÌå'>Ó¦ÓÃ½Ó¿Ú</span></a></h2>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>è¿˜æä¾›ä¸°å¯Œçš„åº”ç”¨æŽ¥å£ï¼ŒåŒ…æ‹¬</span><span lang=EN-US>HTTP</span><span
-style='font-family:å®‹ä½“'>å›žè°ƒã€å®‰å…¨ç­–ç•¥</span><span lang=EN-US>Security</span><span
-style='font-family:å®‹ä½“'>ã€</span><span lang=EN-US>HTTP API</span><span
-style='font-family:å®‹ä½“'>æŽ¥å£ã€</span><span lang=EN-US>RTMP</span><span
-style='font-family:å®‹ä½“'>æµ‹é€Ÿã€‚</span></p>
+style='font-family:ËÎÌå'>»¹Ìá¹©·á¸»µÄÓ¦ÓÃ½Ó¿Ú£¬°üÀ¨</span><span lang=EN-US>HTTP</span><span
+style='font-family:ËÎÌå'>»Øµ÷¡¢°²È«²ßÂÔ</span><span lang=EN-US>Security</span><span
+style='font-family:ËÎÌå'>¡¢</span><span lang=EN-US>HTTP API</span><span
+style='font-family:ËÎÌå'>½Ó¿Ú¡¢</span><span lang=EN-US>RTMP</span><span
+style='font-family:ËÎÌå'>²âËÙ¡£</span></p>
 
 <h3><a name="_Toc26097967"></a><a name="_Toc462219495"></a><a
 name="_Toc456260528"><span lang=EN-US>HTTP</span></a><span style='font-family:
-å®‹ä½“'>å›žè°ƒ</span></h3>
+ËÎÌå'>»Øµ÷</span></h3>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>ä¸æ”¯æŒæœåŠ¡å™¨è„šæœ¬ï¼ŒæœåŠ¡å™¨ç«¯å®šåˆ¶æœ‰ä¸€ä¸ªé‡è¦çš„æ›¿ä»£åŠŸèƒ½ï¼Œå°±æ˜¯</span><span lang=EN-US>HTTP</span><span
-style='font-family:å®‹ä½“'>å›žè°ƒã€‚è­¬å¦‚å½“å®¢æˆ·ç«¯è¿žæŽ¥åˆ°</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>æ—¶ï¼Œå›žè°ƒæŒ‡å®šçš„</span><span lang=EN-US>http</span><span
-style='font-family:å®‹ä½“'>åœ°å€ï¼Œè¿™æ ·å¯ä»¥å®žçŽ°éªŒè¯åŠŸèƒ½ã€‚</span></p>
+style='font-family:ËÎÌå'>²»Ö§³Ö·þÎñÆ÷½Å±¾£¬·þÎñÆ÷¶Ë¶¨ÖÆÓÐÒ»¸öÖØÒªµÄÌæ´ú¹¦ÄÜ£¬¾ÍÊÇ</span><span lang=EN-US>HTTP</span><span
+style='font-family:ËÎÌå'>»Øµ÷¡£Æ©Èçµ±¿Í»§¶ËÁ¬½Óµ½</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>Ê±£¬»Øµ÷Ö¸¶¨µÄ</span><span lang=EN-US>http</span><span
+style='font-family:ËÎÌå'>µØÖ·£¬ÕâÑù¿ÉÒÔÊµÏÖÑéÖ¤¹¦ÄÜ¡£</span></p>
 
-<h4><a name="_Toc462219496"><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨è„šæœ¬</span></a></h4>
+<h4><a name="_Toc462219496"><span style='font-family:ËÎÌå'>·þÎñÆ÷½Å±¾</span></a></h4>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-family:å®‹ä½“'>SRS</span><span style='font-family:å®‹ä½“'>ä¸æ”¯æŒæœåŠ¡å™¨ç«¯è„šæœ¬ï¼Œæ‰€è°“æœåŠ¡å™¨ç«¯è„šæœ¬ï¼ŒæŒ‡çš„æ˜¯æœåŠ¡å™¨å¯ä»¥åŠ è½½å¤–éƒ¨è„šæœ¬æ–‡ä»¶ï¼Œè§£é‡Šå¹¶æ‰§è¡Œã€‚</span></p>
+style='font-family:ËÎÌå'>SRS</span><span style='font-family:ËÎÌå'>²»Ö§³Ö·þÎñÆ÷¶Ë½Å±¾£¬ËùÎ½·þÎñÆ÷¶Ë½Å±¾£¬Ö¸µÄÊÇ·þÎñÆ÷¿ÉÒÔ¼ÓÔØÍâ²¿½Å±¾ÎÄ¼þ£¬½âÊÍ²¢Ö´ÐÐ¡£</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span style='font-family:
-å®‹ä½“'>æ”¯æŒæœåŠ¡å™¨è„šæœ¬çš„æœåŠ¡å™¨æœ‰<span lang=EN-US>FMS</span>ï¼Œè¯­è¨€æ˜¯<span lang=EN-US>actionscript1.0</span>ï¼›<span
-lang=EN-US>nginx</span>æ”¯æŒçš„æ˜¯<span lang=EN-US>lua</span>ã€‚</span></p>
+ËÎÌå'>Ö§³Ö·þÎñÆ÷½Å±¾µÄ·þÎñÆ÷ÓÐ<span lang=EN-US>FMS</span>£¬ÓïÑÔÊÇ<span lang=EN-US>actionscript1.0</span>£»<span
+lang=EN-US>nginx</span>Ö§³ÖµÄÊÇ<span lang=EN-US>lua</span>¡£</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-family:å®‹ä½“'>SRS</span><span style='font-family:å®‹ä½“'>ä¸æ”¯æŒæœåŠ¡å™¨è„šæœ¬çš„åŽŸå› æœ‰ï¼š</span></p>
+style='font-family:ËÎÌå'>SRS</span><span style='font-family:ËÎÌå'>²»Ö§³Ö·þÎñÆ÷½Å±¾µÄÔ­ÒòÓÐ£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ä¸<span
-     lang=EN-US>Simple</span>ï¼šè¿åäº†<span lang=EN-US>SRS(Simple RTMP Server)</span>çš„ç¬¬ä¸€ä¸ª<span
-     lang=EN-US>S</span>ï¼Œæ”¯æŒæ‰©å±•è„šæœ¬ï¼Œå‡ºé”™çš„å‡ çŽ‡ä¹Ÿæ‰©å±•äº†ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å®žé™…ç”¨å¤„å¾ˆå°ï¼šæˆ‘åœ¨å›½å†…çŸ¥åçš„<span
-     lang=EN-US>CDN</span>å…¬å¸å·¥ä½œæ—¶ï¼Œæ‰€åœ¨éƒ¨é—¨å°±æ˜¯ç”¨<span lang=EN-US>FMS</span>ï¼Œå½“ç„¶<span
-     lang=EN-US>FMS</span>ä¸æä¾›æºç ï¼Œæ‰€ä»¥åªèƒ½æ”¯æŒæœåŠ¡å™¨è„šæœ¬æ¥å®šåˆ¶ã€‚ç»“æžœå•†ç”¨èµ·æ¥å¾ˆè´¹åŠ²ï¼ŒåŸºæœ¬ä¸Šæ¯å¤©å‡ºé—®é¢˜ï¼Œè€Œä¸”è¿˜æ²¡æ³•æŸ¥åŽŸå› ã€‚æ‰€ä»¥å®žé™…çš„ç”¨å¤„å¾ˆå°ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>²»<span
+     lang=EN-US>Simple</span>£ºÎ¥·´ÁË<span lang=EN-US>SRS(Simple RTMP Server)</span>µÄµÚÒ»¸ö<span
+     lang=EN-US>S</span>£¬Ö§³ÖÀ©Õ¹½Å±¾£¬³ö´íµÄ¼¸ÂÊÒ²À©Õ¹ÁË¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Êµ¼ÊÓÃ´¦ºÜÐ¡£ºÎÒÔÚ¹úÄÚÖªÃûµÄ<span
+     lang=EN-US>CDN</span>¹«Ë¾¹¤×÷Ê±£¬ËùÔÚ²¿ÃÅ¾ÍÊÇÓÃ<span lang=EN-US>FMS</span>£¬µ±È»<span
+     lang=EN-US>FMS</span>²»Ìá¹©Ô´Âë£¬ËùÒÔÖ»ÄÜÖ§³Ö·þÎñÆ÷½Å±¾À´¶¨ÖÆ¡£½á¹ûÉÌÓÃÆðÀ´ºÜ·Ñ¾¢£¬»ù±¾ÉÏÃ¿Ìì³öÎÊÌâ£¬¶øÇÒ»¹Ã»·¨²éÔ­Òò¡£ËùÒÔÊµ¼ÊµÄÓÃ´¦ºÜÐ¡¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-family:
-     å®‹ä½“'>SRS</span><span style='font-family:å®‹ä½“'>æ”¯æŒ<span lang=EN-US>HTTP</span>è°ƒç”¨ï¼šè°ƒç”¨å¤–éƒ¨<span
-     lang=EN-US>http</span>ï¼Œå®žé™…ä¸Šä¹Ÿæ˜¯ä¸€ç§æ‰©å±•æ–¹å¼ï¼Œ<span lang=EN-US>SRS</span>æ”¯æŒè¿™ç§è¾ƒå¥½çš„æ–¹å¼ã€‚è­¬å¦‚å½“ç”¨æˆ·è¿žæŽ¥ä¸Š<span
-     lang=EN-US>SRS</span>æ—¶ï¼Œä¼šè°ƒç”¨<span lang=EN-US>HTTP</span>æŽ¥å£ï¼Œå¯ä»¥åšéªŒè¯ã€‚</span></li>
+     ËÎÌå'>SRS</span><span style='font-family:ËÎÌå'>Ö§³Ö<span lang=EN-US>HTTP</span>µ÷ÓÃ£ºµ÷ÓÃÍâ²¿<span
+     lang=EN-US>http</span>£¬Êµ¼ÊÉÏÒ²ÊÇÒ»ÖÖÀ©Õ¹·½Ê½£¬<span lang=EN-US>SRS</span>Ö§³ÖÕâÖÖ½ÏºÃµÄ·½Ê½¡£Æ©Èçµ±ÓÃ»§Á¬½ÓÉÏ<span
+     lang=EN-US>SRS</span>Ê±£¬»áµ÷ÓÃ<span lang=EN-US>HTTP</span>½Ó¿Ú£¬¿ÉÒÔ×öÑéÖ¤¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-family:
-     å®‹ä½“'>SRS</span><span style='font-family:å®‹ä½“'>å¼€æºï¼šä¸ºä½•è¦å®šåˆ¶è„šæœ¬ï¼Ÿé‡è¦çš„ä¸€ä¸ªåŽŸå› å°±æ˜¯é—­æºï¼Œ<span
-     lang=EN-US>SRS</span>å¼€æºï¼Œå¯ä»¥ä¿®æ”¹æºç ã€‚</span></li>
+     ËÎÌå'>SRS</span><span style='font-family:ËÎÌå'>¿ªÔ´£ºÎªºÎÒª¶¨ÖÆ½Å±¾£¿ÖØÒªµÄÒ»¸öÔ­Òò¾ÍÊÇ±ÕÔ´£¬<span
+     lang=EN-US>SRS</span>¿ªÔ´£¬¿ÉÒÔÐÞ¸ÄÔ´Âë¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US style='font-family:
-     å®‹ä½“'>SRS</span><span style='font-family:å®‹ä½“'>ä»£ç å®šåˆ¶ç®€å•ï¼š<span lang=EN-US>SRS</span>æ•´ä¸ªæœåŠ¡å™¨å®žçŽ°ä»£ç æ‰<span
-     lang=EN-US>2</span>ä¸‡è¡Œï¼Œ<span lang=EN-US>nginx-rtmp</span>æ˜¯<span lang=EN-US>3</span>ä¸‡è¡Œ<span
-     lang=EN-US>+nginx</span>çš„<span lang=EN-US>14</span>ä¸‡è¡Œï¼Œå®šåˆ¶<span lang=EN-US>SRS</span>è¦ç®€å•å¾ˆå¤šã€‚è€Œä¸”<span
-     lang=EN-US>SRS</span>æ˜¯<span lang=EN-US>â€œ</span>åŒæ­¥<span lang=EN-US>â€</span>å¤„ç†çš„ï¼Œé€»è¾‘å¾ˆå°‘ã€‚</span></li>
+     ËÎÌå'>SRS</span><span style='font-family:ËÎÌå'>´úÂë¶¨ÖÆ¼òµ¥£º<span lang=EN-US>SRS</span>Õû¸ö·þÎñÆ÷ÊµÏÖ´úÂë²Å<span
+     lang=EN-US>2</span>ÍòÐÐ£¬<span lang=EN-US>nginx-rtmp</span>ÊÇ<span lang=EN-US>3</span>ÍòÐÐ<span
+     lang=EN-US>+nginx</span>µÄ<span lang=EN-US>14</span>ÍòÐÐ£¬¶¨ÖÆ<span lang=EN-US>SRS</span>Òª¼òµ¥ºÜ¶à¡£¶øÇÒ<span
+     lang=EN-US>SRS</span>ÊÇ<span lang=EN-US>¡°</span>Í¬²½<span lang=EN-US>¡±</span>´¦ÀíµÄ£¬Âß¼­ºÜÉÙ¡£</span></li>
 </ul>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>ç»¼ä¸Šæ‰€è¿°ï¼Œ<span
-lang=EN-US>SRS</span>æš‚æ—¶ä¸è€ƒè™‘æ”¯æŒæ‰©å±•è„šæœ¬ï¼Œè¿™ä¸ªä¸œè¥¿æ²¡å•¥ç”¨ã€‚</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>×ÛÉÏËùÊö£¬<span
+lang=EN-US>SRS</span>ÔÝÊ±²»¿¼ÂÇÖ§³ÖÀ©Õ¹½Å±¾£¬Õâ¸ö¶«Î÷Ã»É¶ÓÃ¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US>&nbsp;</span></p>
 
 <h4><a name="_Toc462219497"><span lang=EN-US>HTTP callback events</span></a></h4>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>çš„å›žè°ƒäº‹ä»¶åŒ…æ‹¬ï¼š</span></p>
+10.5pt'>µÄ»Øµ÷ÊÂ¼þ°üÀ¨£º</span></p>
 
 <table class=MsoNormalTable border=0 cellpadding=0 style='background:#F2F2F2'>
  <thead>
   <tr style='page-break-inside:avoid'>
    <td style='padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   style='font-family:å®‹ä½“'>äº‹ä»¶</span></b></p>
+   style='font-family:ËÎÌå'>ÊÂ¼þ</span></b></p>
    </td>
    <td width=192 style='width:144.2pt;padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   style='font-family:å®‹ä½“;color:black'>æ•°æ®</span></b></p>
+   style='font-family:ËÎÌå;color:black'>Êý¾Ý</span></b></p>
    </td>
    <td width=280 style='width:209.75pt;padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   style='font-family:å®‹ä½“;color:black'>è¯´æ˜Ž</span></b></p>
+   style='font-family:ËÎÌå;color:black'>ËµÃ÷</span></b></p>
    </td>
   </tr>
  </thead>
@@ -4720,10 +6413,10 @@ lang=EN-US>SRS</span>æš‚æ—¶ä¸è€ƒè™‘æ”¯æŒæ‰©å±•è„šæœ¬ï¼Œè¿™ä¸ªä¸œè¥¿æ²¡å•¥ç”¨ã€
   }</span></p>
   </td>
   <td width=280 style='width:209.75pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>å½“å®¢æˆ·ç«¯è¿žæŽ¥åˆ°æŒ‡å®šçš„</span><span
-  lang=EN-US style='color:black'>vhost</span><span style='font-family:å®‹ä½“;
-  color:black'>å’Œ</span><span lang=EN-US style='color:black'>app</span><span
-  style='font-family:å®‹ä½“;color:black'>æ—¶</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>µ±¿Í»§¶ËÁ¬½Óµ½Ö¸¶¨µÄ</span><span
+  lang=EN-US style='color:black'>vhost</span><span style='font-family:ËÎÌå;
+  color:black'>ºÍ</span><span lang=EN-US style='color:black'>app</span><span
+  style='font-family:ËÎÌå;color:black'>Ê±</span></p>
   </td>
  </tr>
  <tr style='page-break-inside:avoid'>
@@ -4742,9 +6435,9 @@ lang=EN-US>SRS</span>æš‚æ—¶ä¸è€ƒè™‘æ”¯æŒæ‰©å±•è„šæœ¬ï¼Œè¿™ä¸ªä¸œè¥¿æ²¡å•¥ç”¨ã€
   }</span></p>
   </td>
   <td width=280 style='width:209.75pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>å½“å®¢æˆ·ç«¯å…³é—­è¿žæŽ¥ï¼Œæˆ–è€…</span><span
-  lang=EN-US style='color:black'>SRS</span><span style='font-family:å®‹ä½“;
-  color:black'>ä¸»åŠ¨å…³é—­è¿žæŽ¥æ—¶</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>µ±¿Í»§¶Ë¹Ø±ÕÁ¬½Ó£¬»òÕß</span><span
+  lang=EN-US style='color:black'>SRS</span><span style='font-family:ËÎÌå;
+  color:black'>Ö÷¶¯¹Ø±ÕÁ¬½ÓÊ±</span></p>
   </td>
  </tr>
  <tr style='page-break-inside:avoid'>
@@ -4762,9 +6455,9 @@ lang=EN-US>SRS</span>æš‚æ—¶ä¸è€ƒè™‘æ”¯æŒæ‰©å±•è„šæœ¬ï¼Œè¿™ä¸ªä¸œè¥¿æ²¡å•¥ç”¨ã€
   }</span></p>
   </td>
   <td width=280 style='width:209.75pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>å½“å®¢æˆ·ç«¯å‘å¸ƒæµæ—¶ï¼Œè­¬å¦‚</span><span
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>µ±¿Í»§¶Ë·¢²¼Á÷Ê±£¬Æ©Èç</span><span
   lang=EN-US style='color:black'>flash/FMLE</span><span style='font-family:
-  å®‹ä½“;color:black'>æ–¹å¼æŽ¨æµåˆ°æœåŠ¡å™¨</span></p>
+  ËÎÌå;color:black'>·½Ê½ÍÆÁ÷µ½·þÎñÆ÷</span></p>
   </td>
  </tr>
  <tr style='page-break-inside:avoid'>
@@ -4782,7 +6475,7 @@ lang=EN-US>SRS</span>æš‚æ—¶ä¸è€ƒè™‘æ”¯æŒæ‰©å±•è„šæœ¬ï¼Œè¿™ä¸ªä¸œè¥¿æ²¡å•¥ç”¨ã€
   }</span></p>
   </td>
   <td width=280 style='width:209.75pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>å½“å®¢æˆ·ç«¯åœæ­¢å‘å¸ƒæµæ—¶</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>µ±¿Í»§¶ËÍ£Ö¹·¢²¼Á÷Ê±</span></p>
   </td>
  </tr>
  <tr style='page-break-inside:avoid'>
@@ -4803,7 +6496,7 @@ lang=EN-US>SRS</span>æš‚æ—¶ä¸è€ƒè™‘æ”¯æŒæ‰©å±•è„šæœ¬ï¼Œè¿™ä¸ªä¸œè¥¿æ²¡å•¥ç”¨ã€
   }</span></p>
   </td>
   <td width=280 style='width:209.75pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>å½“å®¢æˆ·ç«¯å¼€å§‹æ’­æ”¾æµæ—¶</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>µ±¿Í»§¶Ë¿ªÊ¼²¥·ÅÁ÷Ê±</span></p>
   </td>
  </tr>
  <tr style='page-break-inside:avoid'>
@@ -4821,7 +6514,7 @@ lang=EN-US>SRS</span>æš‚æ—¶ä¸è€ƒè™‘æ”¯æŒæ‰©å±•è„šæœ¬ï¼Œè¿™ä¸ªä¸œè¥¿æ²¡å•¥ç”¨ã€
   }</span></p>
   </td>
   <td width=280 style='width:209.75pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>å½“å®¢æˆ·ç«¯åœæ­¢æ’­æ”¾æ—¶ã€‚å¤‡æ³¨ï¼šåœæ­¢æ’­æ”¾å¯èƒ½ä¸ä¼šå…³é—­è¿žæŽ¥ï¼Œè¿˜èƒ½å†ç»§ç»­æ’­æ”¾ã€‚</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>µ±¿Í»§¶ËÍ£Ö¹²¥·ÅÊ±¡£±¸×¢£ºÍ£Ö¹²¥·Å¿ÉÄÜ²»»á¹Ø±ÕÁ¬½Ó£¬»¹ÄÜÔÙ¼ÌÐø²¥·Å¡£</span></p>
   </td>
  </tr>
  <tr style='page-break-inside:avoid'>
@@ -4841,75 +6534,75 @@ lang=EN-US>SRS</span>æš‚æ—¶ä¸è€ƒè™‘æ”¯æŒæ‰©å±•è„šæœ¬ï¼Œè¿™ä¸ªä¸œè¥¿æ²¡å•¥ç”¨ã€
   }</span></p>
   </td>
   <td width=280 style='width:209.75pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>å½“</span><span
-  lang=EN-US style='color:black'>DVR</span><span style='font-family:å®‹ä½“;
-  color:black'>å½•åˆ¶å…³é—­ä¸€ä¸ª</span><span lang=EN-US style='color:black'>flv</span><span
-  style='font-family:å®‹ä½“;color:black'>æ–‡ä»¶æ—¶</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>µ±</span><span
+  lang=EN-US style='color:black'>DVR</span><span style='font-family:ËÎÌå;
+  color:black'>Â¼ÖÆ¹Ø±ÕÒ»¸ö</span><span lang=EN-US style='color:black'>flv</span><span
+  style='font-family:ËÎÌå;color:black'>ÎÄ¼þÊ±</span></p>
   </td>
  </tr>
 </table>
 
-<p><span style='font-size:10.5pt'>å…¶ä¸­ï¼Œ</span></p>
+<p><span style='font-size:10.5pt'>ÆäÖÐ£¬</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>äº‹ä»¶ï¼šå‘ç”Ÿè¯¥äº‹ä»¶æ—¶ï¼Œå³å›žè°ƒæŒ‡å®šçš„</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>åœ°å€ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÊÂ¼þ£º·¢Éú¸ÃÊÂ¼þÊ±£¬¼´»Øµ÷Ö¸¶¨µÄ</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>µØÖ·¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>HTTP</span><span
-     style='font-family:å®‹ä½“'>åœ°å€ï¼šå¯ä»¥æ”¯æŒå¤šä¸ªï¼Œä»¥ç©ºæ ¼åˆ†éš”ï¼Œ</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>ä¼šä¾æ¬¡å›žè°ƒè¿™äº›æŽ¥å£ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ•°æ®ï¼š</span><span
-     lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>å°†æ•°æ®</span><span
-     lang=EN-US>POST</span><span style='font-family:å®‹ä½“'>åˆ°</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>æŽ¥å£ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>è¿”å›žå€¼ï¼š</span><span
-     lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>è¦æ±‚</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨è¿”å›ž</span><span
-     lang=EN-US>HTTP200</span><span style='font-family:å®‹ä½“'>å¹¶ä¸”</span><span
-     lang=EN-US>response</span><span style='font-family:å®‹ä½“'>å†…å®¹ä¸ºæ•´æ•°é”™è¯¯ç ï¼ˆ</span><span
-     lang=EN-US>0</span><span style='font-family:å®‹ä½“'>è¡¨ç¤ºæˆåŠŸï¼‰ï¼Œå…¶ä»–é”™è¯¯ç ä¼šæ–­å¼€å®¢æˆ·ç«¯è¿žæŽ¥ã€‚</span></li>
+     style='font-family:ËÎÌå'>µØÖ·£º¿ÉÒÔÖ§³Ö¶à¸ö£¬ÒÔ¿Õ¸ñ·Ö¸ô£¬</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>»áÒÀ´Î»Øµ÷ÕâÐ©½Ó¿Ú¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Êý¾Ý£º</span><span
+     lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>½«Êý¾Ý</span><span
+     lang=EN-US>POST</span><span style='font-family:ËÎÌå'>µ½</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>½Ó¿Ú¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>·µ»ØÖµ£º</span><span
+     lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>ÒªÇó</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>·þÎñÆ÷·µ»Ø</span><span
+     lang=EN-US>HTTP200</span><span style='font-family:ËÎÌå'>²¢ÇÒ</span><span
+     lang=EN-US>response</span><span style='font-family:ËÎÌå'>ÄÚÈÝÎªÕûÊý´íÎóÂë£¨</span><span
+     lang=EN-US>0</span><span style='font-family:ËÎÌå'>±íÊ¾³É¹¦£©£¬ÆäËû´íÎóÂë»á¶Ï¿ª¿Í»§¶ËÁ¬½Ó¡£</span></li>
 </ul>
 
-<h4><a name="_Toc462219498"><span style='font-family:å®‹ä½“'>åŸºäºŽ</span><span
-lang=EN-US>http</span></a><span style='font-family:å®‹ä½“'>å›žè°ƒçš„è®¤è¯</span></h4>
+<h4><a name="_Toc462219498"><span style='font-family:ËÎÌå'>»ùÓÚ</span><span
+lang=EN-US>http</span></a><span style='font-family:ËÎÌå'>»Øµ÷µÄÈÏÖ¤</span></h4>
 
 <h5><span lang=EN-US>DRM</span></h5>
 
-<p><span lang=EN-US>DRM</span>é‡è¦çš„åŠŸèƒ½å°±æ˜¯é˜²ç›—é“¾ï¼Œåªæœ‰å…è®¸çš„ç”¨æˆ·ï¼Œæ‰èƒ½è®¿é—®æœåŠ¡å™¨çš„æµã€‚æœ‰å¤šç§<span lang=EN-US>DRM</span>çš„æ–¹å¼ï¼š</p>
+<p><span lang=EN-US>DRM</span>ÖØÒªµÄ¹¦ÄÜ¾ÍÊÇ·ÀµÁÁ´£¬Ö»ÓÐÔÊÐíµÄÓÃ»§£¬²ÅÄÜ·ÃÎÊ·þÎñÆ÷µÄÁ÷¡£ÓÐ¶àÖÖ<span lang=EN-US>DRM</span>µÄ·½Ê½£º</p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>refer</span><span
-     style='font-family:å®‹ä½“'>é˜²ç›—é“¾ï¼šæ£€æŸ¥ç”¨æˆ·ä»Žå“ªä¸ªç½‘ç«™è¿‡æ¥çš„ã€‚è­¬å¦‚ä¸æ˜¯ä»Žå…¬å¸çš„é¡µé¢è¿‡æ¥çš„äººéƒ½ä¸è®©çœ‹ã€‚</span></li>
+     style='font-family:ËÎÌå'>·ÀµÁÁ´£º¼ì²éÓÃ»§´ÓÄÄ¸öÍøÕ¾¹ýÀ´µÄ¡£Æ©Èç²»ÊÇ´Ó¹«Ë¾µÄÒ³Ãæ¹ýÀ´µÄÈË¶¼²»ÈÃ¿´¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>token</span><span
-     style='font-family:å®‹ä½“'>é˜²ç›—é“¾ï¼šç”¨æˆ·åœ¨æ’­æ”¾æ—¶ï¼Œå¿…é¡»å…ˆç”³è¯·</span><span lang=EN-US>token</span><span
-     style='font-family:å®‹ä½“'>ï¼Œ</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>ä¼šå›žè°ƒ</span><span lang=EN-US>http</span><span
-     style='font-family:å®‹ä½“'>æ£€æŸ¥è¿™ä¸ª</span><span lang=EN-US>token</span><span
-     style='font-family:å®‹ä½“'>åˆæ³•æ€§ã€‚</span></li>
+     style='font-family:ËÎÌå'>·ÀµÁÁ´£ºÓÃ»§ÔÚ²¥·ÅÊ±£¬±ØÐëÏÈÉêÇë</span><span lang=EN-US>token</span><span
+     style='font-family:ËÎÌå'>£¬</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>»á»Øµ÷</span><span lang=EN-US>http</span><span
+     style='font-family:ËÎÌå'>¼ì²éÕâ¸ö</span><span lang=EN-US>token</span><span
+     style='font-family:ËÎÌå'>ºÏ·¨ÐÔ¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>FMS token
-     tranverse</span><span style='font-family:å®‹ä½“'>ï¼šè¾¹ç¼˜</span><span lang=EN-US>RTMP</span><span
-     style='font-family:å®‹ä½“'>æœåŠ¡å™¨æ”¶åˆ°æ¯ä¸ªè¿žæŽ¥ï¼Œéƒ½åŽ»ä¸Šè¡ŒèŠ‚ç‚¹éªŒè¯ï¼Œå³</span><span lang=EN-US>token</span><span
-     style='font-family:å®‹ä½“'>ç©¿è¶Šè®¤è¯ã€‚</span></li>
+     tranverse</span><span style='font-family:ËÎÌå'>£º±ßÔµ</span><span lang=EN-US>RTMP</span><span
+     style='font-family:ËÎÌå'>·þÎñÆ÷ÊÕµ½Ã¿¸öÁ¬½Ó£¬¶¼È¥ÉÏÐÐ½ÚµãÑéÖ¤£¬¼´</span><span lang=EN-US>token</span><span
+     style='font-family:ËÎÌå'>´©Ô½ÈÏÖ¤¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>Access</span><span
-     style='font-family:å®‹ä½“'>æœåŠ¡å™¨ï¼šä¸“é—¨çš„</span><span lang=EN-US>access</span><span
-     style='font-family:å®‹ä½“'>æœåŠ¡å™¨è´Ÿè´£</span><span lang=EN-US>DRM</span><span
-     style='font-family:å®‹ä½“'>ã€‚è­¬å¦‚</span><span lang=EN-US>adobe</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>access</span><span
-     style='font-family:å®‹ä½“'>æœåŠ¡å™¨ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æŽ¨æµè®¤è¯ï¼š</span><span
-     lang=EN-US>adobe</span><span style='font-family:å®‹ä½“'>çš„</span><span
-     lang=EN-US>RTMP</span><span style='font-family:å®‹ä½“'>æŽ¨æµæ—¶ï¼Œæ”¯æŒå‡ ç§è®¤è¯æ–¹å¼ï¼Œè¿™ä¸ªä¹Ÿå¯ä»¥å½’äºŽé˜²ç›—é“¾æ¦‚å¿µã€‚</span></li>
+     style='font-family:ËÎÌå'>·þÎñÆ÷£º×¨ÃÅµÄ</span><span lang=EN-US>access</span><span
+     style='font-family:ËÎÌå'>·þÎñÆ÷¸ºÔð</span><span lang=EN-US>DRM</span><span
+     style='font-family:ËÎÌå'>¡£Æ©Èç</span><span lang=EN-US>adobe</span><span
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>access</span><span
+     style='font-family:ËÎÌå'>·þÎñÆ÷¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÍÆÁ÷ÈÏÖ¤£º</span><span
+     lang=EN-US>adobe</span><span style='font-family:ËÎÌå'>µÄ</span><span
+     lang=EN-US>RTMP</span><span style='font-family:ËÎÌå'>ÍÆÁ÷Ê±£¬Ö§³Ö¼¸ÖÖÈÏÖ¤·½Ê½£¬Õâ¸öÒ²¿ÉÒÔ¹éÓÚ·ÀµÁÁ´¸ÅÄî¡£</span></li>
 </ul>
 
 <h5><span lang=EN-US>Refer Authentication</span></h5>
 
-<p><span lang=EN-US>SRS</span>æ”¯æŒ<span lang=EN-US>refer</span>é˜²ç›—é“¾ï¼Œ<span
-lang=EN-US>adobe</span>çš„<span lang=EN-US>flash</span>åœ¨æ’­æ”¾<span lang=EN-US>RTMP</span>æµæ—¶ï¼Œä¼šæŠŠé¡µé¢çš„<span
-lang=EN-US>http url</span>æ”¾åœ¨è¯·æ±‚ä¸­ï¼Œ<span lang=EN-US> as</span>å®¢æˆ·ç«¯ä»£ç ä¸å¯ä»¥æ›´æ”¹ã€‚å½“ç„¶å¦‚æžœç”¨è‡ªå·±çš„å®¢æˆ·ç«¯ï¼Œä¸ç”¨<span
-lang=EN-US>flash</span>æ’­æ”¾æµï¼Œå°±å¯ä»¥éšæ„ä¼ªé€ äº†ï¼› å°½ç®¡å¦‚æ­¤ï¼Œ<span lang=EN-US>refer</span>é˜²ç›—é“¾è¿˜æ˜¯èƒ½é˜²ä½ç›¸å½“ä¸€éƒ¨åˆ†ç›—é“¾ã€‚</p>
+<p><span lang=EN-US>SRS</span>Ö§³Ö<span lang=EN-US>refer</span>·ÀµÁÁ´£¬<span
+lang=EN-US>adobe</span>µÄ<span lang=EN-US>flash</span>ÔÚ²¥·Å<span lang=EN-US>RTMP</span>Á÷Ê±£¬»á°ÑÒ³ÃæµÄ<span
+lang=EN-US>http url</span>·ÅÔÚÇëÇóÖÐ£¬<span lang=EN-US> as</span>¿Í»§¶Ë´úÂë²»¿ÉÒÔ¸ü¸Ä¡£µ±È»Èç¹ûÓÃ×Ô¼ºµÄ¿Í»§¶Ë£¬²»ÓÃ<span
+lang=EN-US>flash</span>²¥·ÅÁ÷£¬¾Í¿ÉÒÔËæÒâÎ±ÔìÁË£» ¾¡¹ÜÈç´Ë£¬<span lang=EN-US>refer</span>·ÀµÁÁ´»¹ÊÇÄÜ·À×¡Ïàµ±Ò»²¿·ÖµÁÁ´¡£</p>
 
-<p>é…ç½®<span lang=EN-US>Refer</span>é˜²ç›—é“¾ï¼Œåœ¨<span lang=EN-US>vhost</span>ä¸­å¼€å¯<span
-lang=EN-US>refer</span>å³å¯ï¼Œå¯ä»¥æŒ‡å®š<span lang=EN-US>publish</span>å’Œ<span lang=EN-US>play</span>çš„<span
-lang=EN-US>refer</span>ï¼š</p>
+<p>ÅäÖÃ<span lang=EN-US>Refer</span>·ÀµÁÁ´£¬ÔÚ<span lang=EN-US>vhost</span>ÖÐ¿ªÆô<span
+lang=EN-US>refer</span>¼´¿É£¬¿ÉÒÔÖ¸¶¨<span lang=EN-US>publish</span>ºÍ<span lang=EN-US>play</span>µÄ<span
+lang=EN-US>refer</span>£º</p>
 
 <pre><span class=pl-c><span lang=EN-US># the vhost for antisuck.</span></span></pre><pre><span
 lang=EN-US>vhost refer.anti_suck.com {</span></pre><pre><span lang=EN-US>&nbsp;&nbsp;&nbsp; <span
@@ -4938,113 +6631,113 @@ lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; play&nbsp;&nbsp;&nbsp;&nbs
 class=pl-k>;</span></span></pre><pre><span lang=EN-US>&nbsp;&nbsp;&nbsp; }</span></pre><pre><span
 lang=EN-US>}</span></pre>
 
-<p>å¤‡æ³¨ï¼š<span lang=EN-US>SRS1/2</span>çš„<span lang=EN-US>Refer</span>é…ç½®æ–¹æ³•å’Œ<span
-lang=EN-US>SRS3</span>ä¸ä¸€è‡´ï¼Œ<span lang=EN-US>SRS3</span>å…¼å®¹<span lang=EN-US>SRS1/2</span>çš„é…ç½®æ–¹æ³•ã€‚</p>
+<p>±¸×¢£º<span lang=EN-US>SRS1/2</span>µÄ<span lang=EN-US>Refer</span>ÅäÖÃ·½·¨ºÍ<span
+lang=EN-US>SRS3</span>²»Ò»ÖÂ£¬<span lang=EN-US>SRS3</span>¼æÈÝ<span lang=EN-US>SRS1/2</span>µÄÅäÖÃ·½·¨¡£</p>
 
 <h5><span lang=EN-US>Token Authentication</span></h5>
 
-<p><span lang=EN-US>token</span>ç±»ä¼¼äºŽ<span lang=EN-US>refer</span>ï¼Œä¸è¿‡æ˜¯æ”¾åœ¨<span
-lang=EN-US>RTMP url</span>ä¸­ï¼Œæˆ–è€…åœ¨<span lang=EN-US>connect</span>çš„è¯·æ±‚å‚æ•°ä¸­ï¼š</p>
+<p><span lang=EN-US>token</span>ÀàËÆÓÚ<span lang=EN-US>refer</span>£¬²»¹ýÊÇ·ÅÔÚ<span
+lang=EN-US>RTMP url</span>ÖÐ£¬»òÕßÔÚ<span lang=EN-US>connect</span>µÄÇëÇó²ÎÊýÖÐ£º</p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>token</span><span
-     style='font-family:å®‹ä½“'>åœ¨</span><span lang=EN-US>RTMP url</span><span
-     style='font-family:å®‹ä½“'>ï¼Œè­¬å¦‚ï¼š</span><code><span lang=EN-US style='font-size:
+     style='font-family:ËÎÌå'>ÔÚ</span><span lang=EN-US>RTMP url</span><span
+     style='font-family:ËÎÌå'>£¬Æ©Èç£º</span><code><span lang=EN-US style='font-size:
      12.0pt'>rtmp://vhost/app?token=xxxx/stream</span></code><span
-     style='font-family:å®‹ä½“'>ï¼Œè¿™æ ·æœåŠ¡å™¨åœ¨</span><span lang=EN-US>on_connect</span><span
-     style='font-family:å®‹ä½“'>å›žè°ƒæŽ¥å£ä¸­ï¼Œ</span> <span style='font-family:å®‹ä½“'>å°±ä¼šæŠŠ</span><span
-     lang=EN-US>url</span><span style='font-family:å®‹ä½“'>å¸¦è¿‡åŽ»éªŒè¯ã€‚</span></li>
+     style='font-family:ËÎÌå'>£¬ÕâÑù·þÎñÆ÷ÔÚ</span><span lang=EN-US>on_connect</span><span
+     style='font-family:ËÎÌå'>»Øµ÷½Ó¿ÚÖÐ£¬</span> <span style='font-family:ËÎÌå'>¾Í»á°Ñ</span><span
+     lang=EN-US>url</span><span style='font-family:ËÎÌå'>´ø¹ýÈ¥ÑéÖ¤¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>token</span><span
-     style='font-family:å®‹ä½“'>åœ¨</span><span lang=EN-US>connect</span><span
-     style='font-family:å®‹ä½“'>çš„å‚æ•°ä¸­ï¼š</span><span lang=EN-US>as</span><span
-     style='font-family:å®‹ä½“'>å‡½æ•°</span><span lang=EN-US>NetConnection.connect(url,
-     token)</span><span style='font-family:å®‹ä½“'>ï¼ŒæœåŠ¡å™¨ä¹Ÿå¯ä»¥æ‹¿åˆ°è¿™ä¸ª</span><span
-     lang=EN-US>token</span><span style='font-family:å®‹ä½“'>ã€‚æ³¨æ„ï¼š</span><span
-     lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>ç›®å‰ä¸æ”¯æŒã€‚</span></li>
+     style='font-family:ËÎÌå'>ÔÚ</span><span lang=EN-US>connect</span><span
+     style='font-family:ËÎÌå'>µÄ²ÎÊýÖÐ£º</span><span lang=EN-US>as</span><span
+     style='font-family:ËÎÌå'>º¯Êý</span><span lang=EN-US>NetConnection.connect(url,
+     token)</span><span style='font-family:ËÎÌå'>£¬·þÎñÆ÷Ò²¿ÉÒÔÄÃµ½Õâ¸ö</span><span
+     lang=EN-US>token</span><span style='font-family:ËÎÌå'>¡£×¢Òâ£º</span><span
+     lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>Ä¿Ç°²»Ö§³Ö¡£</span></li>
 </ul>
 
-<p><span lang=EN-US>token</span>æ¯”<span lang=EN-US>refer</span>æ›´å¼ºæ‚ï¼Œå¯ä»¥æŒ‡å®šè¶…æ—¶æ—¶é—´ï¼Œå¯ä»¥å˜æ›´<span
-lang=EN-US>token</span>ä¹‹ç±»ã€‚å¯æƒœå°±æ˜¯éœ€è¦æœåŠ¡å™¨ç«¯åšå®šåˆ¶ï¼ŒåšéªŒè¯ã€‚<span lang=EN-US> SRS</span>æä¾›<span
-lang=EN-US>http</span>å›žè°ƒæ¥åšéªŒè¯ï¼Œå·²ç»æœ‰äººç”¨è¿™ç§æ–¹å¼åšäº†ï¼Œæ¯”è¾ƒç®€å•é è°±ã€‚</p>
+<p><span lang=EN-US>token</span>±È<span lang=EN-US>refer</span>¸üÇ¿º·£¬¿ÉÒÔÖ¸¶¨³¬Ê±Ê±¼ä£¬¿ÉÒÔ±ä¸ü<span
+lang=EN-US>token</span>Ö®Àà¡£¿ÉÏ§¾ÍÊÇÐèÒª·þÎñÆ÷¶Ë×ö¶¨ÖÆ£¬×öÑéÖ¤¡£<span lang=EN-US> SRS</span>Ìá¹©<span
+lang=EN-US>http</span>»Øµ÷À´×öÑéÖ¤£¬ÒÑ¾­ÓÐÈËÓÃÕâÖÖ·½Ê½×öÁË£¬±È½Ï¼òµ¥¿¿Æ×¡£</p>
 
-<p>ä¸¾ä¸ªå¸¸ç”¨çš„<span lang=EN-US>token</span>è®¤è¯çš„ä¾‹å­ï¼š</p>
+<p>¾Ù¸ö³£ÓÃµÄ<span lang=EN-US>token</span>ÈÏÖ¤µÄÀý×Ó£º</p>
 
 <ol start=1 type=1>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ç”¨æˆ·åœ¨</span><span
-     lang=EN-US>web</span><span style='font-family:å®‹ä½“'>é¡µé¢ç™»å½•ï¼ŒæœåŠ¡å™¨å¯ä»¥ç”Ÿæˆä¸€ä¸ª</span><span
-     lang=EN-US>token</span><span style='font-family:å®‹ä½“'>ï¼Œè­¬å¦‚</span><span
-     lang=EN-US>token=md5(time+id+</span><span style='font-family:å®‹ä½“'>ç§é’¥</span><span
-     lang=EN-US>+</span><span style='font-family:å®‹ä½“'>æœ‰æ•ˆæœŸ</span><span
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÓÃ»§ÔÚ</span><span
+     lang=EN-US>web</span><span style='font-family:ËÎÌå'>Ò³ÃæµÇÂ¼£¬·þÎñÆ÷¿ÉÒÔÉú³ÉÒ»¸ö</span><span
+     lang=EN-US>token</span><span style='font-family:ËÎÌå'>£¬Æ©Èç</span><span
+     lang=EN-US>token=md5(time+id+</span><span style='font-family:ËÎÌå'>Ë½Ô¿</span><span
+     lang=EN-US>+</span><span style='font-family:ËÎÌå'>ÓÐÐ§ÆÚ</span><span
      lang=EN-US>)=88195f8943e5c944066725df2b1706f8</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨è¿”å›žç»™ç”¨æˆ·ä¸€ä¸ªåœ°å€ï¼Œå¸¦</span><span
-     lang=EN-US>token</span><span style='font-family:å®‹ä½“'>ï¼Œè­¬å¦‚ï¼š</span><span
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>·þÎñÆ÷·µ»Ø¸øÓÃ»§Ò»¸öµØÖ·£¬´ø</span><span
+     lang=EN-US>token</span><span style='font-family:ËÎÌå'>£¬Æ©Èç£º</span><span
      lang=EN-US>rtmp://192.168.1.10/live?time=1402307089&amp;
      expire=3600&amp;token=88195f8943e5c944066725df2b1706f8/livestream</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>é…ç½®</span><span
-     lang=EN-US>srs</span><span style='font-family:å®‹ä½“'>çš„</span><span
-     lang=EN-US>http</span><span style='font-family:å®‹ä½“'>å›žè°ƒï¼Œ</span><code><span
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÅäÖÃ</span><span
+     lang=EN-US>srs</span><span style='font-family:ËÎÌå'>µÄ</span><span
+     lang=EN-US>http</span><span style='font-family:ËÎÌå'>»Øµ÷£¬</span><code><span
      lang=EN-US style='font-size:12.0pt'>on_connect
      http://127.0.0.1:8085/api/v1/clients;</span></code></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ç”¨æˆ·æ’­æ”¾æ—¶ï¼Œ</span><span
-     lang=EN-US>srs</span><span style='font-family:å®‹ä½“'>ä¼šå›žè°ƒé‚£ä¸ªåœ°å€ï¼Œè§£æžè¯·æ±‚çš„å†…å®¹ï¼Œé‡Œé¢çš„</span><span
-     lang=EN-US>tcUrl</span><span style='font-family:å®‹ä½“'>å°±æœ‰é‚£äº›è®¤è¯ä¿¡æ¯ã€‚</span> <span
-     style='font-family:å®‹ä½“'>æŒ‰åŒæ ·çš„ç®—æ³•éªŒè¯ï¼Œå¦‚æžœ</span><span lang=EN-US>md5</span><span
-     style='font-family:å®‹ä½“'>å˜äº†å°±è¿”å›žé”™è¯¯ï¼Œ</span><span lang=EN-US>srs</span><span
-     style='font-family:å®‹ä½“'>å°±ä¼šæ‹’ç»è¿žæŽ¥ã€‚å¦‚æžœè¿”å›ž</span><span lang=EN-US>0</span><span
-     style='font-family:å®‹ä½“'>å°±ä¼šæŽ¥å—è¿žæŽ¥ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÓÃ»§²¥·ÅÊ±£¬</span><span
+     lang=EN-US>srs</span><span style='font-family:ËÎÌå'>»á»Øµ÷ÄÇ¸öµØÖ·£¬½âÎöÇëÇóµÄÄÚÈÝ£¬ÀïÃæµÄ</span><span
+     lang=EN-US>tcUrl</span><span style='font-family:ËÎÌå'>¾ÍÓÐÄÇÐ©ÈÏÖ¤ÐÅÏ¢¡£</span> <span
+     style='font-family:ËÎÌå'>°´Í¬ÑùµÄËã·¨ÑéÖ¤£¬Èç¹û</span><span lang=EN-US>md5</span><span
+     style='font-family:ËÎÌå'>±äÁË¾Í·µ»Ø´íÎó£¬</span><span lang=EN-US>srs</span><span
+     style='font-family:ËÎÌå'>¾Í»á¾Ü¾øÁ¬½Ó¡£Èç¹û·µ»Ø</span><span lang=EN-US>0</span><span
+     style='font-family:ËÎÌå'>¾Í»á½ÓÊÜÁ¬½Ó¡£</span></li>
 </ol>
 
 <h5><span lang=EN-US>TokenTraverse</span></h5>
 
-<p><span lang=EN-US>Token</span>é˜²ç›—é“¾çš„ç©¿è¶Šï¼ŒæŒ‡çš„æ˜¯åœ¨<span lang=EN-US>origin-edge</span>é›†ç¾¤ä¸­ï¼Œå®¢æˆ·æ’­æ”¾<span
-lang=EN-US>edge</span>è¾¹ç¼˜æœåŠ¡å™¨çš„æµæ—¶ï¼Œ è¾¹ç¼˜å°†è®¤è¯çš„<span lang=EN-US>token</span>å‘é€ç»™æºç«™è¿›è¡ŒéªŒè¯ï¼Œå³<span
-lang=EN-US>token</span>ç©¿è¶Šã€‚</p>
+<p><span lang=EN-US>Token</span>·ÀµÁÁ´µÄ´©Ô½£¬Ö¸µÄÊÇÔÚ<span lang=EN-US>origin-edge</span>¼¯ÈºÖÐ£¬¿Í»§²¥·Å<span
+lang=EN-US>edge</span>±ßÔµ·þÎñÆ÷µÄÁ÷Ê±£¬ ±ßÔµ½«ÈÏÖ¤µÄ<span lang=EN-US>token</span>·¢ËÍ¸øÔ´Õ¾½øÐÐÑéÖ¤£¬¼´<span
+lang=EN-US>token</span>´©Ô½¡£</p>
 
-<p><span lang=EN-US>FMS</span>çš„<span lang=EN-US>edge</span>å’Œ<span lang=EN-US>FMS</span>çš„<span
-lang=EN-US>origin</span>ä½¿ç”¨ç§æœ‰åè®®ï¼Œä½¿ç”¨ä¸€ä¸ªè¿žæŽ¥å›žæºå–æ•°æ®ï¼Œä¸€ä¸ªè¿žæŽ¥å›žæºä¼ è¾“æŽ§åˆ¶å‘½ä»¤ï¼Œ è­¬å¦‚<span lang=EN-US>token</span>ç©¿è¶Šå°±æ˜¯åœ¨è¿™ä¸ªè¿žæŽ¥åšçš„ã€‚</p>
+<p><span lang=EN-US>FMS</span>µÄ<span lang=EN-US>edge</span>ºÍ<span lang=EN-US>FMS</span>µÄ<span
+lang=EN-US>origin</span>Ê¹ÓÃË½ÓÐÐ­Òé£¬Ê¹ÓÃÒ»¸öÁ¬½Ó»ØÔ´È¡Êý¾Ý£¬Ò»¸öÁ¬½Ó»ØÔ´´«Êä¿ØÖÆÃüÁî£¬ Æ©Èç<span lang=EN-US>token</span>´©Ô½¾ÍÊÇÔÚÕâ¸öÁ¬½Ó×öµÄ¡£</p>
 
-<p><span lang=EN-US>token</span>è®¤è¯å»ºè®®ä½¿ç”¨<span lang=EN-US>http</span>æ–¹å¼ï¼Œä¹Ÿå°±æ˜¯è¯´å®¢æˆ·ç«¯è¿žæŽ¥åˆ°è¾¹ç¼˜æ—¶ï¼Œè¾¹ç¼˜ä½¿ç”¨<span
-lang=EN-US>http</span>å›žè°ƒæ–¹å¼éªŒè¯<span lang=EN-US>token</span>ã€‚ åƒ<span lang=EN-US>fms</span>é‚£ç§<span
-lang=EN-US>token</span>ç©¿è¶Šï¼Œæ˜¯éœ€è¦èµ°<span lang=EN-US>RTMP</span>åè®®ï¼Œå…¶ä»–å¼€æºæœåŠ¡å™¨ä¸€èˆ¬éƒ½ä¸æ”¯æŒè¿™ç§æ–¹å¼ï¼ˆä¸­å›½ç‰¹è‰²ï¼‰ã€‚</p>
+<p><span lang=EN-US>token</span>ÈÏÖ¤½¨ÒéÊ¹ÓÃ<span lang=EN-US>http</span>·½Ê½£¬Ò²¾ÍÊÇËµ¿Í»§¶ËÁ¬½Óµ½±ßÔµÊ±£¬±ßÔµÊ¹ÓÃ<span
+lang=EN-US>http</span>»Øµ÷·½Ê½ÑéÖ¤<span lang=EN-US>token</span>¡£ Ïñ<span lang=EN-US>fms</span>ÄÇÖÖ<span
+lang=EN-US>token</span>´©Ô½£¬ÊÇÐèÒª×ß<span lang=EN-US>RTMP</span>Ð­Òé£¬ÆäËû¿ªÔ´·þÎñÆ÷Ò»°ã¶¼²»Ö§³ÖÕâÖÖ·½Ê½£¨ÖÐ¹úÌØÉ«£©¡£</p>
 
-<p><span lang=EN-US>SRS</span>å¯ä»¥æ”¯æŒç±»ä¼¼<span lang=EN-US>fms</span>çš„<span
-lang=EN-US>token</span>ç©¿è¶Šï¼Œä¸è¿‡å®žçŽ°æ–¹å¼ç¨å¾®æœ‰åŒºåˆ«ï¼Œä¸æ˜¯é‡‡ç”¨<span lang=EN-US>fms edge</span>çš„ç§æœ‰åè®®ï¼Œ
-è€Œæ˜¯æ¯æ¬¡æ–°å¼€ä¸€ä¸ªè¿žæŽ¥å›žæºéªŒè¯ï¼ŒéªŒè¯é€šè¿‡åŽè¾¹ç¼˜æ‰æä¾›æœåŠ¡ã€‚ä¹Ÿå°±æ˜¯è¾¹ç¼˜å…ˆåšä¸€ä¸ªå®Œå…¨çš„ä»£ç†ã€‚</p>
+<p><span lang=EN-US>SRS</span>¿ÉÒÔÖ§³ÖÀàËÆ<span lang=EN-US>fms</span>µÄ<span
+lang=EN-US>token</span>´©Ô½£¬²»¹ýÊµÏÖ·½Ê½ÉÔÎ¢ÓÐÇø±ð£¬²»ÊÇ²ÉÓÃ<span lang=EN-US>fms edge</span>µÄË½ÓÐÐ­Òé£¬
+¶øÊÇÃ¿´ÎÐÂ¿ªÒ»¸öÁ¬½Ó»ØÔ´ÑéÖ¤£¬ÑéÖ¤Í¨¹ýºó±ßÔµ²ÅÌá¹©·þÎñ¡£Ò²¾ÍÊÇ±ßÔµÏÈ×öÒ»¸öÍêÈ«µÄ´úÀí¡£</p>
 
-<p><span lang=EN-US>SRS</span>è¿™ç§æ–¹å¼çš„ç‰¹ç‚¹æ˜¯ï¼š</p>
+<p><span lang=EN-US>SRS</span>ÕâÖÖ·½Ê½µÄÌØµãÊÇ£º</p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>åœ¨</span><span
-     lang=EN-US>token</span><span style='font-family:å®‹ä½“'>è®¤è¯ä¸Šï¼Œèƒ½å’Œ</span><span
-     lang=EN-US>fms</span><span style='font-family:å®‹ä½“'>æºç«™å¯¹æŽ¥ï¼Œ</span><span
-     lang=EN-US>fms</span><span style='font-family:å®‹ä½“'>æºç«™æ„Ÿè§‰ä¸åˆ°ä»€ä¹ˆåŒºåˆ«ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ¯æ¬¡è¾¹ç¼˜éƒ½ä¼šæ–°å¼€è¿žæŽ¥åŽ»éªŒè¯ï¼Œå¼€é”€ä¼šå¤§ä¸€äº›ï¼›è€Œä¸”åªé™äºŽ</span><span
-     lang=EN-US>connect</span><span style='font-family:å®‹ä½“'>äº‹ä»¶éªŒè¯ï¼Œé©¬ä¸ŠéªŒè¯è¿‡åŽå°±ä¼šæ”¶åˆ°</span><span
-     lang=EN-US>disconnect</span><span style='font-family:å®‹ä½“'>äº‹ä»¶ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ä¼šå¯¼è‡´æºç«™çš„çŸ­è¿žæŽ¥è¿‡å¤šï¼ˆè¿žæŽ¥éªŒè¯</span><span
-     lang=EN-US>token</span><span style='font-family:å®‹ä½“'>ï¼Œæ–­å¼€ï¼‰ï¼Œä¸è¿‡å¯ä»¥åŠ ä¸€å±‚</span><span
-     lang=EN-US>fms edge</span><span style='font-family:å®‹ä½“'>è§£å†³ï¼Œè¿™æ ·æ¯”æ‰€æœ‰éƒ½æ˜¯</span><span
-     lang=EN-US>fms edge</span><span style='font-family:å®‹ä½“'>è¦å¥½ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÔÚ</span><span
+     lang=EN-US>token</span><span style='font-family:ËÎÌå'>ÈÏÖ¤ÉÏ£¬ÄÜºÍ</span><span
+     lang=EN-US>fms</span><span style='font-family:ËÎÌå'>Ô´Õ¾¶Ô½Ó£¬</span><span
+     lang=EN-US>fms</span><span style='font-family:ËÎÌå'>Ô´Õ¾¸Ð¾õ²»µ½Ê²Ã´Çø±ð¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ã¿´Î±ßÔµ¶¼»áÐÂ¿ªÁ¬½ÓÈ¥ÑéÖ¤£¬¿ªÏú»á´óÒ»Ð©£»¶øÇÒÖ»ÏÞÓÚ</span><span
+     lang=EN-US>connect</span><span style='font-family:ËÎÌå'>ÊÂ¼þÑéÖ¤£¬ÂíÉÏÑéÖ¤¹ýºó¾Í»áÊÕµ½</span><span
+     lang=EN-US>disconnect</span><span style='font-family:ËÎÌå'>ÊÂ¼þ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>»áµ¼ÖÂÔ´Õ¾µÄ¶ÌÁ¬½Ó¹ý¶à£¨Á¬½ÓÑéÖ¤</span><span
+     lang=EN-US>token</span><span style='font-family:ËÎÌå'>£¬¶Ï¿ª£©£¬²»¹ý¿ÉÒÔ¼ÓÒ»²ã</span><span
+     lang=EN-US>fms edge</span><span style='font-family:ËÎÌå'>½â¾ö£¬ÕâÑù±ÈËùÓÐ¶¼ÊÇ</span><span
+     lang=EN-US>fms edge</span><span style='font-family:ËÎÌå'>ÒªºÃ¡£</span></li>
 </ul>
 
-<p>å¯¹äºŽæºç«™çŸ­è¿žæŽ¥è¿‡å¤šçš„é—®é¢˜ï¼Œå¯ä»¥åŠ ä¸€å±‚<span lang=EN-US>fms</span>è¾¹ç¼˜ç¼“è§£ï¼Œå‡è®¾<span lang=EN-US>1000</span>ä¸ªå®¢æˆ·ç«¯è¿žæŽ¥åˆ°è¾¹ç¼˜ï¼š</p>
+<p>¶ÔÓÚÔ´Õ¾¶ÌÁ¬½Ó¹ý¶àµÄÎÊÌâ£¬¿ÉÒÔ¼ÓÒ»²ã<span lang=EN-US>fms</span>±ßÔµ»º½â£¬¼ÙÉè<span lang=EN-US>1000</span>¸ö¿Í»§¶ËÁ¬½Óµ½±ßÔµ£º</p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>srs =&gt; </span><span
-     style='font-family:å®‹ä½“'>å®¢æˆ·</span><span lang=EN-US>fms </span><span
-     style='font-family:å®‹ä½“'>è¿™ç§æ–¹æ¡ˆï¼Œä¼šæœ‰</span><span lang=EN-US>1000</span><span
-     style='font-family:å®‹ä½“'>ä¸ªè¿žæŽ¥åŽ»å›žæºéªŒè¯ï¼Œç„¶åŽæ–­å¼€ã€‚</span></li>
+     style='font-family:ËÎÌå'>¿Í»§</span><span lang=EN-US>fms </span><span
+     style='font-family:ËÎÌå'>ÕâÖÖ·½°¸£¬»áÓÐ</span><span lang=EN-US>1000</span><span
+     style='font-family:ËÎÌå'>¸öÁ¬½ÓÈ¥»ØÔ´ÑéÖ¤£¬È»ºó¶Ï¿ª¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>srs =&gt; cdn-fms
-     =&gt; </span><span style='font-family:å®‹ä½“'>å®¢æˆ·</span><span lang=EN-US>fms </span><span
-     style='font-family:å®‹ä½“'>è¿™ç§æ–¹æ¡ˆï¼Œä¼šæœ‰</span><span lang=EN-US>1000</span><span
-     style='font-family:å®‹ä½“'>ä¸ªè¿žæŽ¥åŽ»</span><span lang=EN-US>cdn</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>fms</span><span
-     style='font-family:å®‹ä½“'>åŽ»éªŒè¯ï¼Œåªæœ‰</span><span lang=EN-US>1</span><span
-     style='font-family:å®‹ä½“'>ä¸ªè¿žæŽ¥åŽ»å®¢æˆ·é‚£è¾¹éªŒè¯ã€‚</span></li>
+     =&gt; </span><span style='font-family:ËÎÌå'>¿Í»§</span><span lang=EN-US>fms </span><span
+     style='font-family:ËÎÌå'>ÕâÖÖ·½°¸£¬»áÓÐ</span><span lang=EN-US>1000</span><span
+     style='font-family:ËÎÌå'>¸öÁ¬½ÓÈ¥</span><span lang=EN-US>cdn</span><span
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>fms</span><span
+     style='font-family:ËÎÌå'>È¥ÑéÖ¤£¬Ö»ÓÐ</span><span lang=EN-US>1</span><span
+     style='font-family:ËÎÌå'>¸öÁ¬½ÓÈ¥¿Í»§ÄÇ±ßÑéÖ¤¡£</span></li>
 </ul>
 
-<p><span lang=EN-US>SRS</span>çš„<span lang=EN-US>token</span>ç©¿è¶Š<span lang=EN-US>(traverse)</span>çš„é…ç½®ï¼Œå‚è€ƒ<code><span
-lang=EN-US>edge.token.traverse.conf</span></code>ï¼š</p>
+<p><span lang=EN-US>SRS</span>µÄ<span lang=EN-US>token</span>´©Ô½<span lang=EN-US>(traverse)</span>µÄÅäÖÃ£¬²Î¿¼<code><span
+lang=EN-US>edge.token.traverse.conf</span></code>£º</p>
 
 <pre><span lang=EN-US>listen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1935<span
 class=pl-k>;</span></span></pre><pre><span lang=EN-US>vhost __defaultVhost__ {</span></pre><pre><span
@@ -5054,21 +6747,21 @@ class=pl-k>;</span></span></pre><pre><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&n
 class=pl-k>;</span></span></pre><pre><span lang=EN-US>&nbsp;&nbsp;&nbsp; }</span></pre><pre><span
 lang=EN-US>}</span></pre>
 
-<h5><span lang=EN-US>Access</span><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨</span></h5>
+<h5><span lang=EN-US>Access</span><span style='font-family:ËÎÌå'>·þÎñÆ÷</span></h5>
 
-<p><span lang=EN-US>SRS</span>æš‚æ—¶ä¸æ”¯æŒã€‚</p>
+<p><span lang=EN-US>SRS</span>ÔÝÊ±²»Ö§³Ö¡£</p>
 
-<h5><span style='font-family:å®‹ä½“'>æŽ¨æµè®¤è¯</span></h5>
+<h5><span style='font-family:ËÎÌå'>ÍÆÁ÷ÈÏÖ¤</span></h5>
 
-<p><span lang=EN-US>SRS</span>æš‚æ—¶ä¸æ”¯æŒï¼Œæ˜¯<span lang=EN-US>RTMP</span>ç‰¹æ®Šçš„æ¡æ‰‹åè®®ã€‚</p>
+<p><span lang=EN-US>SRS</span>ÔÝÊ±²»Ö§³Ö£¬ÊÇ<span lang=EN-US>RTMP</span>ÌØÊâµÄÎÕÊÖÐ­Òé¡£</p>
 
-<h4><a name="_Toc462219499"><span style='font-family:å®‹ä½“'>é»˜è®¤çš„</span><span
-lang=EN-US>HTTP</span></a><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨</span></h4>
+<h4><a name="_Toc462219499"><span style='font-family:ËÎÌå'>Ä¬ÈÏµÄ</span><span
+lang=EN-US>HTTP</span></a><span style='font-family:ËÎÌå'>·þÎñÆ÷</span></h4>
 
-<p><span lang=EN-US>SRS</span>è‡ªå¸¦äº†ä¸€ä¸ªé»˜è®¤çš„å¤„ç†<span lang=EN-US>HTTP Callback</span>çš„æœåŠ¡å™¨ï¼Œå¯åŠ¨æ—¶éœ€è¦æŒ‡å®šç«¯å£ï¼Œè­¬å¦‚<span
-lang=EN-US>8085</span>ç«¯å£ã€‚</p>
+<p><span lang=EN-US>SRS</span>×Ô´øÁËÒ»¸öÄ¬ÈÏµÄ´¦Àí<span lang=EN-US>HTTP Callback</span>µÄ·þÎñÆ÷£¬Æô¶¯Ê±ÐèÒªÖ¸¶¨¶Ë¿Ú£¬Æ©Èç<span
+lang=EN-US>8085</span>¶Ë¿Ú¡£</p>
 
-<p>å¯åŠ¨æ–¹æ³•ï¼š<code><span lang=EN-US>python research/api-server/server.py 8085</span></code></p>
+<p>Æô¶¯·½·¨£º<code><span lang=EN-US>python research/api-server/server.py 8085</span></code></p>
 
 <h4><a name="_Toc462219500"><span lang=EN-US>Wiki</span></a></h4>
 
@@ -5076,15 +6769,15 @@ lang=EN-US>8085</span>ç«¯å£ã€‚</p>
 href="https://github.com/ossrs/srs/wiki/v3_CN_HTTPCallback">https://github.com/ossrs/srs/wiki/v3_CN_HTTPCallback</a></span></p>
 
 <h3><a name="_Toc26097968"></a><a name="_Toc462219501"></a><a
-name="_Toc456260529"><span style='font-family:å®‹ä½“'>å®‰å…¨ç­–ç•¥</span><span lang=EN-US>Security</span></a></h3>
+name="_Toc456260529"><span style='font-family:ËÎÌå'>°²È«²ßÂÔ</span><span lang=EN-US>Security</span></a></h3>
 
 <h4><a name="_Toc462219502"><span lang=EN-US>Security</span></a></h4>
 
-<p><span lang=EN-US>SRS</span>æä¾›äº†ç¦ç”¨æˆ–å…è®¸å®¢æˆ·ç«¯çš„ç®€å•å®‰å…¨ç­–ç•¥ã€‚</p>
+<p><span lang=EN-US>SRS</span>Ìá¹©ÁË½ûÓÃ»òÔÊÐí¿Í»§¶ËµÄ¼òµ¥°²È«²ßÂÔ¡£</p>
 
 <h4><a name="_Toc462219503"><span lang=EN-US>Config</span></a></h4>
 
-<p><span lang=EN-US>Vhost</span>ä¸­å®‰å…¨ç­–ç•¥çš„é…ç½®ï¼š</p>
+<p><span lang=EN-US>Vhost</span>ÖÐ°²È«²ßÂÔµÄÅäÖÃ£º</p>
 
 <pre><code><span lang=EN-US>vhost your_vhost {</span></code></pre><pre><code><span
 lang=EN-US>&nbsp;&nbsp;&nbsp; # security for host to allow or deny clients.</span></code></pre><pre><code><span
@@ -5113,41 +6806,41 @@ lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; allow&nbsp;&nbsp;&nbsp;&nb
 lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; allow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publish&nbsp;&nbsp;&nbsp;&nbsp; all;</span></code></pre><pre><code><span
 lang=EN-US>&nbsp;&nbsp;&nbsp; }</span></code></pre><pre><code><span lang=EN-US>}</span></code></pre>
 
-<p><span lang=EN-US>SRS</span>åº”ç”¨å®‰å…¨ç­–ç•¥çš„æ–¹å¼æ˜¯<span lang=EN-US>:</span></p>
+<p><span lang=EN-US>SRS</span>Ó¦ÓÃ°²È«²ßÂÔµÄ·½Ê½ÊÇ<span lang=EN-US>:</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>è‹¥</span><span
-     lang=EN-US>securty</span><span style='font-family:å®‹ä½“'>æ²¡æœ‰å¼€å¯ï¼Œåˆ™å…è®¸æ‰€æœ‰ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>è‹¥</span><span
-     lang=EN-US>security</span><span style='font-family:å®‹ä½“'>å¼€å¯äº†ï¼Œé»˜è®¤ç¦æ­¢æ‰€æœ‰ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å…è®¸å®¢æˆ·ç«¯ï¼Œè‹¥æ‰¾åˆ°äº†åŒ¹é…çš„å…è®¸ç­–ç•¥ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ç¦ç”¨å®¢æˆ·ç«¯ï¼Œè‹¥æ‰¾åˆ°äº†åŒ¹é…çš„ç¦ç”¨ç­–ç•¥ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Èô</span><span
+     lang=EN-US>securty</span><span style='font-family:ËÎÌå'>Ã»ÓÐ¿ªÆô£¬ÔòÔÊÐíËùÓÐ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Èô</span><span
+     lang=EN-US>security</span><span style='font-family:ËÎÌå'>¿ªÆôÁË£¬Ä¬ÈÏ½ûÖ¹ËùÓÐ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>ÔÊÐí¿Í»§¶Ë£¬ÈôÕÒµ½ÁËÆ¥ÅäµÄÔÊÐí²ßÂÔ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>½ûÓÃ¿Í»§¶Ë£¬ÈôÕÒµ½ÁËÆ¥ÅäµÄ½ûÓÃ²ßÂÔ¡£</span></li>
 </ul>
 
-<p>å‚è€ƒé…ç½®æ–‡ä»¶<code><span lang=EN-US>conf/security.deny.publish.conf</span></code><span
+<p>²Î¿¼ÅäÖÃÎÄ¼þ<code><span lang=EN-US>conf/security.deny.publish.conf</span></code><span
 lang=EN-US>.</span></p>
 
 <h4><a name="_Toc462219504"><span lang=EN-US>Kickoff Client</span></a></h4>
 
-<p><span style='font-size:10.5pt'>å¯ä»¥è¸¢æŽ‰è¿žæŽ¥çš„ç”¨æˆ·ï¼Œ<span lang=EN-US>SRS</span>æä¾›äº†<span
-lang=EN-US>HTTP RESTful</span>æŽ¥å£ï¼š</span></p>
+<p><span style='font-size:10.5pt'>¿ÉÒÔÌßµôÁ¬½ÓµÄÓÃ»§£¬<span lang=EN-US>SRS</span>Ìá¹©ÁË<span
+lang=EN-US>HTTP RESTful</span>½Ó¿Ú£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>DELETE /api/v1/clients/{id}</span></code></pre>
 
-<p><span style='font-size:10.5pt'>å¯ä»¥å…ˆæŸ¥è¯¢åˆ°éœ€è¦è¸¢æŽ‰çš„<span lang=EN-US>Client</span>çš„<span
-lang=EN-US>ID</span>ï¼š</span></p>
+<p><span style='font-size:10.5pt'>¿ÉÒÔÏÈ²éÑ¯µ½ÐèÒªÌßµôµÄ<span lang=EN-US>Client</span>µÄ<span
+lang=EN-US>ID</span>£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>GET /api/v1/clients</span></code></pre>
 
-<p><span style='font-size:10.5pt'>è‹¥éœ€è¦è¸¢æŽ‰æŽ¨æµçš„<span lang=EN-US>Client</span>ï¼Œå¯ä»¥ä»Ž<span
-lang=EN-US>streams</span>æŽ¥å£ä¸­æŸ¥è¯¢æŽ¨æµ<span lang=EN-US>client</span>çš„<span
-lang=EN-US>id</span>ï¼š</span></p>
+<p><span style='font-size:10.5pt'>ÈôÐèÒªÌßµôÍÆÁ÷µÄ<span lang=EN-US>Client</span>£¬¿ÉÒÔ´Ó<span
+lang=EN-US>streams</span>½Ó¿ÚÖÐ²éÑ¯ÍÆÁ÷<span lang=EN-US>client</span>µÄ<span
+lang=EN-US>id</span>£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>GET /api/v1/streams</span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>or GET /api/v1/streams/6745</span></code></pre>
 
-<p><span style='font-size:10.5pt'>æµä¿¡æ¯ä¸­çš„<code><span lang=EN-US>stream.publish.cid</span></code>å°±æ˜¯æŽ¨æµçš„å®¢æˆ·ç«¯<span
-lang=EN-US>id</span>ï¼š</span></p>
+<p><span style='font-size:10.5pt'>Á÷ÐÅÏ¢ÖÐµÄ<code><span lang=EN-US>stream.publish.cid</span></code>¾ÍÊÇÍÆÁ÷µÄ¿Í»§¶Ë<span
+lang=EN-US>id</span>£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>1. GET http://192.168.1.170:1985/api/v1/streams/6745</span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>2. Response stream.publish.cid:</span></code></pre><pre><code><span
@@ -5159,19 +6852,19 @@ lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp; }</span></code></pre><pre
 lang=EN-US style='font-size:10.5pt'>}</span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>3. DELETE http://192.168.1.170:1985/api/v1/clients/107</span></code></pre>
 
-<p><span style='font-size:10.5pt'>å¤‡æ³¨ï¼š<span lang=EN-US>HTTP</span>è¯·æ±‚å¯ä»¥ä½¿ç”¨</span><span
+<p><span style='font-size:10.5pt'>±¸×¢£º<span lang=EN-US>HTTP</span>ÇëÇó¿ÉÒÔÊ¹ÓÃ</span><span
 lang=EN-US><a href="http://ossrs.net/srs.release/http-rest/index.html"><span
 style='font-size:10.5pt'>HTTP REST Tool</span></a></span></p>
 
-<p><span style='font-size:10.5pt'>å¤‡æ³¨ï¼š<span lang=EN-US>HTTP</span>è¯·æ±‚è¿˜å¯ä»¥ä½¿ç”¨<span
-lang=EN-US>Linux</span>çš„å·¥å…·<code><span lang=EN-US>curl</span></code>ï¼Œå¸¸è§çš„è¯·æ±‚å¦‚ä¸‹ï¼š</span></p>
+<p><span style='font-size:10.5pt'>±¸×¢£º<span lang=EN-US>HTTP</span>ÇëÇó»¹¿ÉÒÔÊ¹ÓÃ<span
+lang=EN-US>Linux</span>µÄ¹¤¾ß<code><span lang=EN-US>curl</span></code>£¬³£¼ûµÄÇëÇóÈçÏÂ£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>curl -v -X GET http://192.168.1.170:1985/api/v1/clients/426 &amp;&amp; echo &quot;&quot;</span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>curl -v -X DELETE http://192.168.1.170:1985/api/v1/clients/426 &amp;&amp; echo &quot;&quot;</span></code></pre>
 
 <h4><a name="_Toc462219505"><span lang=EN-US>Reload</span></a></h4>
 
-<p>å½“<span lang=EN-US>Reload</span>æ”¹å˜<span lang=EN-US>security</span>é…ç½®åŽï¼Œåªå½±å“æ–°è¿žæŽ¥çš„å®¢æˆ·ç«¯ï¼Œå·²ç»è¿žæŽ¥çš„å®¢æˆ·ç«¯ä¸å—å½±å“ã€‚</p>
+<p>µ±<span lang=EN-US>Reload</span>¸Ä±ä<span lang=EN-US>security</span>ÅäÖÃºó£¬Ö»Ó°ÏìÐÂÁ¬½ÓµÄ¿Í»§¶Ë£¬ÒÑ¾­Á¬½ÓµÄ¿Í»§¶Ë²»ÊÜÓ°Ïì¡£</p>
 
 <h4><a name="_Toc462219506"><span lang=EN-US>Wiki</span></a></h4>
 
@@ -5182,38 +6875,38 @@ href="https://github.com/ossrs/srs/wiki/v2_CN_Security">https://github.com/ossrs
 
 <h3><a name="_Toc26097969"></a><a name="_Toc462219507"></a><a
 name="_Toc456260530"><span lang=EN-US>HTTP API</span></a><span
-style='font-family:å®‹ä½“'>æŽ¥å£</span></h3>
+style='font-family:ËÎÌå'>½Ó¿Ú</span></h3>
 
 <p class=MsoNormal style='text-indent:10.5pt'><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>æä¾›</span><span lang=EN-US>HTTP</span><span
-style='font-family:å®‹ä½“'>æŽ¥å£ï¼Œä¾›å¤–éƒ¨ç¨‹åºç®¡ç†æœåŠ¡å™¨ï¼Œå¹¶æ”¯æŒè·¨åŸŸï¼ˆ</span><span lang=EN-US>js</span><span
-style='font-family:å®‹ä½“'>å¯ä»¥ç›´æŽ¥æŽ§åˆ¶å’ŒèŽ·å–æœåŠ¡å™¨çš„å„ç§ä¿¡æ¯ï¼‰ã€‚</span></p>
+style='font-family:ËÎÌå'>Ìá¹©</span><span lang=EN-US>HTTP</span><span
+style='font-family:ËÎÌå'>½Ó¿Ú£¬¹©Íâ²¿³ÌÐò¹ÜÀí·þÎñÆ÷£¬²¢Ö§³Ö¿çÓò£¨</span><span lang=EN-US>js</span><span
+style='font-family:ËÎÌå'>¿ÉÒÔÖ±½Ó¿ØÖÆºÍ»ñÈ¡·þÎñÆ÷µÄ¸÷ÖÖÐÅÏ¢£©¡£</span></p>
 
-<h4><a name="_Toc462219508"><span style='font-family:å®‹ä½“'>è®¾è®¡åŽŸåˆ™</span></a></h4>
+<h4><a name="_Toc462219508"><span style='font-family:ËÎÌå'>Éè¼ÆÔ­Ôò</span></a></h4>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>çš„<span lang=EN-US>HTTP</span>æŽ¥å£éµå¾ªæœ€ç®€å•åŽŸåˆ™ï¼Œä¸»è¦åŒ…æ‹¬ï¼š</span></p>
+10.5pt'>µÄ<span lang=EN-US>HTTP</span>½Ó¿Ú×ñÑ­×î¼òµ¥Ô­Ôò£¬Ö÷Òª°üÀ¨£º</span></p>
 
 <ul type=disc>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>åªæä¾›</span><span
-     lang=EN-US>json</span><span style='font-family:å®‹ä½“'>æ•°æ®æ ¼å¼æŽ¥å£ï¼Œè¦æ±‚è¯·æ±‚å’Œå“åº”çš„æ•°æ®å…¨éƒ½æ˜¯</span><span
-     lang=EN-US>json</span><span style='font-family:å®‹ä½“'>ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>ä¸æä¾›</span><span
-     lang=EN-US>html</span><span style='font-family:å®‹ä½“'>æ•°æ®ï¼Œè­¬å¦‚è¿è¡Œ</span><span
-     lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>åŽï¼Œæµè§ˆå™¨æ‰“å¼€</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>æŽ¥å£æˆ–</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>æœåŠ¡åœ°å€ï¼Œçœ‹åˆ°çš„æ˜¯</span><span
-     lang=EN-US>json</span><span style='font-family:å®‹ä½“'>ï¼Œä¸æ˜¯</span><span
-     lang=EN-US>html</span><span style='font-family:å®‹ä½“'>ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>å‘ç”Ÿé”™è¯¯æ—¶ï¼Œæ”¯æŒ</span><span
-     lang=EN-US>HTTP</span><span style='font-family:å®‹ä½“'>é”™è¯¯ç ï¼Œæˆ–è€…</span><span
-     lang=EN-US>json</span><span style='font-family:å®‹ä½“'>ä¸­çš„</span><span
-     lang=EN-US>code</span><span style='font-family:å®‹ä½“'>é”™è¯¯ç ã€‚</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ö»Ìá¹©</span><span
+     lang=EN-US>json</span><span style='font-family:ËÎÌå'>Êý¾Ý¸ñÊ½½Ó¿Ú£¬ÒªÇóÇëÇóºÍÏìÓ¦µÄÊý¾ÝÈ«¶¼ÊÇ</span><span
+     lang=EN-US>json</span><span style='font-family:ËÎÌå'>¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>²»Ìá¹©</span><span
+     lang=EN-US>html</span><span style='font-family:ËÎÌå'>Êý¾Ý£¬Æ©ÈçÔËÐÐ</span><span
+     lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>ºó£¬ä¯ÀÀÆ÷´ò¿ª</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>½Ó¿Ú»ò</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>·þÎñµØÖ·£¬¿´µ½µÄÊÇ</span><span
+     lang=EN-US>json</span><span style='font-family:ËÎÌå'>£¬²»ÊÇ</span><span
+     lang=EN-US>html</span><span style='font-family:ËÎÌå'>¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>·¢Éú´íÎóÊ±£¬Ö§³Ö</span><span
+     lang=EN-US>HTTP</span><span style='font-family:ËÎÌå'>´íÎóÂë£¬»òÕß</span><span
+     lang=EN-US>json</span><span style='font-family:ËÎÌå'>ÖÐµÄ</span><span
+     lang=EN-US>code</span><span style='font-family:ËÎÌå'>´íÎóÂë¡£</span></li>
 </ul>
 
 <h4><a name="_Toc462219509"><span lang=EN-US>Config</span></a></h4>
 
-<p>é…ç½®æ–‡ä»¶éœ€è¦å¼€å¯<span lang=EN-US>http-api</span>ï¼š</p>
+<p>ÅäÖÃÎÄ¼þÐèÒª¿ªÆô<span lang=EN-US>http-api</span>£º</p>
 
 <pre><span lang=EN-US style='font-size:9.0pt'>listen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1935<span
 class=pl-k>;</span></span></pre><pre><span class=pl-c><span lang=EN-US
@@ -5281,54 +6974,54 @@ lang=EN-US style='font-size:9.0pt'>}</span></pre><pre><span lang=EN-US
 style='font-size:9.0pt'>vhost __defaultVhost__ {</span></pre><pre><span
 lang=EN-US style='font-size:9.0pt'>}</span></pre>
 
-<p>å…¶ä¸­ï¼Œ<code><span lang=EN-US>http_api</span></code>å¼€å¯äº†<span lang=EN-US>HTTP API</span>ï¼Œ<code><span
-lang=EN-US>stats</span></code>é…ç½®äº†<span lang=EN-US>SRS</span>åŽå°ç»Ÿè®¡çš„ä¿¡æ¯ï¼ŒåŒ…æ‹¬ï¼š</p>
+<p>ÆäÖÐ£¬<code><span lang=EN-US>http_api</span></code>¿ªÆôÁË<span lang=EN-US>HTTP API</span>£¬<code><span
+lang=EN-US>stats</span></code>ÅäÖÃÁË<span lang=EN-US>SRS</span>ºóÌ¨Í³¼ÆµÄÐÅÏ¢£¬°üÀ¨£º</p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>network: </span><span
-     style='font-family:å®‹ä½“'>è¿™ä¸ªé…ç½®äº†</span><span lang=EN-US>heartbeat</span><span
-     style='font-family:å®‹ä½“'>ä½¿ç”¨çš„ç½‘å¡</span><span lang=EN-US>ip</span><span
-     style='font-family:å®‹ä½“'>ï¼Œå³</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>ä¸»åŠ¨æ±‡æŠ¥çš„ç½‘å¡ä¿¡æ¯ã€‚å‚è€ƒ</span><span lang=EN-US><a
+     style='font-family:ËÎÌå'>Õâ¸öÅäÖÃÁË</span><span lang=EN-US>heartbeat</span><span
+     style='font-family:ËÎÌå'>Ê¹ÓÃµÄÍø¿¨</span><span lang=EN-US>ip</span><span
+     style='font-family:ËÎÌå'>£¬¼´</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>Ö÷¶¯»ã±¨µÄÍø¿¨ÐÅÏ¢¡£²Î¿¼</span><span lang=EN-US><a
      href="https://github.com/ossrs/srs/wiki/v1_CN_Heartbeat">Heartbeat</a> </span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>disk: </span><span
-     style='font-family:å®‹ä½“'>è¿™ä¸ªé…ç½®äº†éœ€è¦ç»Ÿè®¡çš„ç£ç›˜çš„</span><span lang=EN-US>IOPS</span><span
-     style='font-family:å®‹ä½“'>ï¼Œå¯ä»¥é€šè¿‡</span><code><span lang=EN-US
+     style='font-family:ËÎÌå'>Õâ¸öÅäÖÃÁËÐèÒªÍ³¼ÆµÄ´ÅÅÌµÄ</span><span lang=EN-US>IOPS</span><span
+     style='font-family:ËÎÌå'>£¬¿ÉÒÔÍ¨¹ý</span><code><span lang=EN-US
      style='font-size:12.0pt'>cat /proc/diskstats</span></code><span
-     style='font-family:å®‹ä½“'>å‘½ä»¤èŽ·å¾—åç§°ï¼Œè­¬å¦‚é˜¿é‡Œäº‘çš„ç£ç›˜åç§°å«</span><span lang=EN-US>xvda.</span></li>
+     style='font-family:ËÎÌå'>ÃüÁî»ñµÃÃû³Æ£¬Æ©Èç°¢ÀïÔÆµÄ´ÅÅÌÃû³Æ½Ð</span><span lang=EN-US>xvda.</span></li>
 </ul>
 
-<h4><a name="_Toc462219510"><span style='font-family:å®‹ä½“'>è®¿é—®</span><span
+<h4><a name="_Toc462219510"><span style='font-family:ËÎÌå'>·ÃÎÊ</span><span
 lang=EN-US>api</span></a></h4>
 
-<p><span style='font-size:10.5pt'>ç›´æŽ¥åœ¨æµè§ˆå™¨ä¸­å°±å¯ä»¥è®¿é—®ï¼Œæˆ–è€…ç”¨<span lang=EN-US>curl</span>å‘èµ·<span
-lang=EN-US>http</span>è¯·æ±‚ã€‚</span></p>
+<p><span style='font-size:10.5pt'>Ö±½ÓÔÚä¯ÀÀÆ÷ÖÐ¾Í¿ÉÒÔ·ÃÎÊ£¬»òÕßÓÃ<span lang=EN-US>curl</span>·¢Æð<span
+lang=EN-US>http</span>ÇëÇó¡£</span></p>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>æä¾›äº†<span lang=EN-US>api</span>çš„é¢åŒ…å±‘ï¼Œå¯ä»¥ä»Žæ ¹ç›®å½•å¼€å§‹å¯¼èˆªï¼Œä¸éœ€è¦ä»»ä½•è®°å¿†ã€‚ä¸€èˆ¬çš„å­—æ®µåŒ…æ‹¬ï¼š</span></p>
+10.5pt'>Ìá¹©ÁË<span lang=EN-US>api</span>µÄÃæ°üÐ¼£¬¿ÉÒÔ´Ó¸ùÄ¿Â¼¿ªÊ¼µ¼º½£¬²»ÐèÒªÈÎºÎ¼ÇÒä¡£Ò»°ãµÄ×Ö¶Î°üÀ¨£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>code</span><span
-     style='font-family:å®‹ä½“'>è¡¨ç¤ºé”™è¯¯ç ï¼ŒæŒ‰ç…§</span><span lang=EN-US>linux</span><span
-     style='font-family:å®‹ä½“'>æƒ¯ä¾‹ï¼Œ</span><span lang=EN-US>0</span><span
-     style='font-family:å®‹ä½“'>è¡¨ç¤ºæˆåŠŸã€‚</span></li>
+     style='font-family:ËÎÌå'>±íÊ¾´íÎóÂë£¬°´ÕÕ</span><span lang=EN-US>linux</span><span
+     style='font-family:ËÎÌå'>¹ßÀý£¬</span><span lang=EN-US>0</span><span
+     style='font-family:ËÎÌå'>±íÊ¾³É¹¦¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>urls</span><span
-     style='font-family:å®‹ä½“'>è¡¨ç¤ºæ˜¯é¢åŒ…å±‘å¯¼èˆªï¼Œè¯¥</span><span lang=EN-US>api</span><span
-     style='font-family:å®‹ä½“'>ä¸‹é¢çš„å­</span><span lang=EN-US>api</span><span
-     style='font-family:å®‹ä½“'>ï¼ˆé“¾æŽ¥ï¼‰ã€‚</span></li>
+     style='font-family:ËÎÌå'>±íÊ¾ÊÇÃæ°üÐ¼µ¼º½£¬¸Ã</span><span lang=EN-US>api</span><span
+     style='font-family:ËÎÌå'>ÏÂÃæµÄ×Ó</span><span lang=EN-US>api</span><span
+     style='font-family:ËÎÌå'>£¨Á´½Ó£©¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>data</span><span
-     style='font-family:å®‹ä½“'>è¡¨ç¤ºæœ€åŽä¸€çº§æä¾›æœåŠ¡çš„</span><span lang=EN-US>api</span><span
-     style='font-family:å®‹ä½“'>ï¼Œè¿”å›žçš„æ•°æ®ã€‚</span></li>
+     style='font-family:ËÎÌå'>±íÊ¾×îºóÒ»¼¶Ìá¹©·þÎñµÄ</span><span lang=EN-US>api</span><span
+     style='font-family:ËÎÌå'>£¬·µ»ØµÄÊý¾Ý¡£</span></li>
 </ul>
 
-<p><span style='font-size:10.5pt'>å¦å¤–ï¼Œæä¾›æœåŠ¡çš„<span lang=EN-US>api</span>æŒ‰ç…§<span
-lang=EN-US>HTTP RESTful</span>è§„åˆ™æ˜¯å¤æ•°ï¼Œè­¬å¦‚<span lang=EN-US>versions/authors</span>ï¼Œè¡¨ç¤ºèµ„æºã€‚<span
-lang=EN-US>HTTP</span>çš„å„ç§æ–¹æ³•è¡¨ç¤ºæ“ä½œï¼Œè­¬å¦‚<span lang=EN-US>GET</span>æŸ¥è¯¢ï¼Œ<span
-lang=EN-US>PUT</span>æ›´æ–°ï¼Œ<span lang=EN-US>DELETE</span>åˆ é™¤ã€‚å‚è€ƒï¼š</span><span
+<p><span style='font-size:10.5pt'>ÁíÍâ£¬Ìá¹©·þÎñµÄ<span lang=EN-US>api</span>°´ÕÕ<span
+lang=EN-US>HTTP RESTful</span>¹æÔòÊÇ¸´Êý£¬Æ©Èç<span lang=EN-US>versions/authors</span>£¬±íÊ¾×ÊÔ´¡£<span
+lang=EN-US>HTTP</span>µÄ¸÷ÖÖ·½·¨±íÊ¾²Ù×÷£¬Æ©Èç<span lang=EN-US>GET</span>²éÑ¯£¬<span
+lang=EN-US>PUT</span>¸üÐÂ£¬<span lang=EN-US>DELETE</span>É¾³ý¡£²Î¿¼£º</span><span
 lang=EN-US><a href="http://www.redmine.org/projects/redmine/wiki/Rest_api"><span
 style='font-size:10.5pt'>Redmine HTTP Rest api</span></a></span></p>
 
-<p><span style='font-size:10.5pt'>æ ¹ç›®å½•ï¼š</span></p>
+<p><span style='font-size:10.5pt'>¸ùÄ¿Â¼£º</span></p>
 
 <pre><span class=pl-c><span lang=EN-US style='font-size:10.5pt'># curl http://192.168.1.170:1985/</span></span></pre><pre><span
 lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp; <span class=pl-pds>&quot;</span><span
@@ -5339,7 +7032,7 @@ class=pl-pds>&quot;</span><span class=pl-s>the api root</span><span
 class=pl-pds>&quot;</span></span></pre><pre><span lang=EN-US style='font-size:
 10.5pt'>&nbsp;&nbsp;&nbsp; }</span></pre>
 
-<p><span style='font-size:10.5pt'>è¿”å›žçš„<span lang=EN-US>urls</span>è¡¨ç¤ºå­é“¾æŽ¥å¯ä»¥è®¿é—®ã€‚æŽ¥ç€è®¿é—®ï¼š</span></p>
+<p><span style='font-size:10.5pt'>·µ»ØµÄ<span lang=EN-US>urls</span>±íÊ¾×ÓÁ´½Ó¿ÉÒÔ·ÃÎÊ¡£½Ó×Å·ÃÎÊ£º</span></p>
 
 <pre><span class=pl-c><span lang=EN-US style='font-size:10.5pt'># curl http://192.168.1.170:1985/api/</span></span></pre><pre><span
 lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp; <span class=pl-pds>&quot;</span><span
@@ -5350,7 +7043,7 @@ class=pl-pds>&quot;</span><span class=pl-s>the api version 1.0</span><span
 class=pl-pds>&quot;</span></span></pre><pre><span lang=EN-US style='font-size:
 10.5pt'>&nbsp;&nbsp;&nbsp; }</span></pre>
 
-<p><span style='font-size:10.5pt'>ç»§ç»­ï¼š</span></p>
+<p><span style='font-size:10.5pt'>¼ÌÐø£º</span></p>
 
 <pre><span class=pl-c><span lang=EN-US style='font-size:10.5pt'># curl http://192.168.1.170:1985/api/v1/</span></span></pre><pre><span
 lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp; <span class=pl-pds>&quot;</span><span
@@ -5364,7 +7057,7 @@ class=pl-s>authors</span><span class=pl-pds>&quot;</span>: <span class=pl-pds>&q
 class=pl-s>the primary authors and contributors</span><span class=pl-pds>&quot;</span></span></pre><pre><span
 lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp; }</span></pre>
 
-<p><span style='font-size:10.5pt'>ç»§ç»­ï¼š</span></p>
+<p><span style='font-size:10.5pt'>¼ÌÐø£º</span></p>
 
 <pre><span class=pl-c><span lang=EN-US style='font-size:10.5pt'># curl http://192.168.1.170:1985/api/v1/versions</span></span></pre><pre><span
 lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span
@@ -5377,7 +7070,7 @@ lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <
 class=pl-pds>&quot;</span><span class=pl-s>version</span><span class=pl-pds>&quot;</span>: <span
 class=pl-pds>&quot;</span><span class=pl-s>0.9.43</span><span class=pl-pds>&quot;</span></span></pre>
 
-<p><span style='font-size:10.5pt'>æˆ–è€…ï¼š</span></p>
+<p><span style='font-size:10.5pt'>»òÕß£º</span></p>
 
 <pre><span class=pl-c><span lang=EN-US style='font-size:10.5pt'># curl http://192.168.1.170:1985/api/v1/authors</span></span></pre><pre><span
 lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span
@@ -5394,17 +7087,17 @@ class=pl-pds>&quot;</span><span class=pl-s>winlin&lt;winlin@vip.126.com&gt; wenj
 class=pl-pds>&quot;</span></span></pre>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>çš„<span lang=EN-US>API</span>å±žäºŽ<span lang=EN-US>â€œ</span>è‡ªè§£é‡Šåž‹ï¼Œ<span
-lang=EN-US>HTTP RESTful APIâ€</span></span></p>
+10.5pt'>µÄ<span lang=EN-US>API</span>ÊôÓÚ<span lang=EN-US>¡°</span>×Ô½âÊÍÐÍ£¬<span
+lang=EN-US>HTTP RESTful API¡±</span></span></p>
 
 <h4><a name="_Toc462219511"><span lang=EN-US>Error Code</span></a></h4>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>å¯èƒ½è¿”å›ž<span lang=EN-US>HTTP</span>é”™è¯¯ï¼Œå³<span lang=EN-US>Status</span>ä¸ç­‰äºŽ<span
-lang=EN-US>200</span>ï¼›æˆ–è€…åœ¨<span lang=EN-US>HTTP Status</span>ä¸º<span lang=EN-US>200</span>æ—¶ï¼Œå“åº”çš„<span
-lang=EN-US>json</span>çš„<span lang=EN-US>code</span>ä¸ä¸º<span lang=EN-US>0.</span></span></p>
+10.5pt'>¿ÉÄÜ·µ»Ø<span lang=EN-US>HTTP</span>´íÎó£¬¼´<span lang=EN-US>Status</span>²»µÈÓÚ<span
+lang=EN-US>200</span>£»»òÕßÔÚ<span lang=EN-US>HTTP Status</span>Îª<span lang=EN-US>200</span>Ê±£¬ÏìÓ¦µÄ<span
+lang=EN-US>json</span>µÄ<span lang=EN-US>code</span>²»Îª<span lang=EN-US>0.</span></span></p>
 
-<p><span style='font-size:10.5pt'>è­¬å¦‚ï¼Œè¿”å›ž<span lang=EN-US>HTTP</span>é”™è¯¯ï¼š</span></p>
+<p><span style='font-size:10.5pt'>Æ©Èç£¬·µ»Ø<span lang=EN-US>HTTP</span>´íÎó£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>winlin:~ winlin$ curl -v http://127.0.0.1:1985 &amp;&amp; echo &quot;&quot;</span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>&lt; HTTP/1.1 404 Not Found</span></code></pre><pre><code><span
@@ -5415,8 +7108,8 @@ lang=EN-US style='font-size:10.5pt'>&lt; Server: SRS/2.0.184</span></code></pre>
 lang=EN-US style='font-size:10.5pt'>&lt; </span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>Not Found</span></code></pre>
 
-<p><span style='font-size:10.5pt'>è­¬å¦‚ï¼Œ<span lang=EN-US>HTTP200</span>æ—¶å†…å®¹ä¸­<span
-lang=EN-US>code</span>ä¸ç­‰äºŽ<span lang=EN-US>0</span>ï¼š</span></p>
+<p><span style='font-size:10.5pt'>Æ©Èç£¬<span lang=EN-US>HTTP200</span>Ê±ÄÚÈÝÖÐ<span
+lang=EN-US>code</span>²»µÈÓÚ<span lang=EN-US>0</span>£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>winlin:~ winlin$ curl -v http://127.0.0.1:1985/api/v1/tests/errors &amp;&amp; echo &quot;&quot;</span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>&lt; HTTP/1.1 200 OK</span></code></pre><pre><code><span
@@ -5427,40 +7120,40 @@ lang=EN-US style='font-size:10.5pt'>&lt; Server: SRS/2.0.184</span></code></pre>
 lang=EN-US style='font-size:10.5pt'>&lt; </span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>{&quot;code&quot;:100}</span></code></pre>
 
-<p><span style='font-size:10.5pt'>ç”¨æˆ·åº”è¯¥å¤„ç†è¿™ä¸¤ç§é”™è¯¯ã€‚</span></p>
+<p><span style='font-size:10.5pt'>ÓÃ»§Ó¦¸Ã´¦ÀíÕâÁ½ÖÖ´íÎó¡£</span></p>
 
 <h4><a name="_Toc462219512"><span lang=EN-US>Crossdomain</span></a></h4>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS HTTP API</span><span
-style='font-size:10.5pt'>æ”¯æŒè·¨åŸŸï¼Œ<span lang=EN-US>js</span>å¯ä»¥ç›´æŽ¥è°ƒç”¨<span lang=EN-US>srs</span>çš„<span
-lang=EN-US>http api</span>ã€‚</span></p>
+style='font-size:10.5pt'>Ö§³Ö¿çÓò£¬<span lang=EN-US>js</span>¿ÉÒÔÖ±½Óµ÷ÓÃ<span lang=EN-US>srs</span>µÄ<span
+lang=EN-US>http api</span>¡£</span></p>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>æ”¯æŒä¸¤ç§è·¨åŸŸæ–¹å¼ï¼š</span></p>
+10.5pt'>Ö§³ÖÁ½ÖÖ¿çÓò·½Ê½£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>OPTIONS: jquery</span><span
-     style='font-family:å®‹ä½“'>å¯ä»¥ç›´æŽ¥è·¨åŸŸè¯·æ±‚</span><span lang=EN-US>API</span><span
-     style='font-family:å®‹ä½“'>ï¼Œæµè§ˆå™¨ä¼šå‘é€ä¸€ä¸ª</span><span lang=EN-US>OPTIONS</span><span
-     style='font-family:å®‹ä½“'>è·¨åŸŸè¯·æ±‚ï¼Œ</span><span lang=EN-US>SRS</span><span
-     style='font-family:å®‹ä½“'>å…è®¸è·¨åŸŸåŽï¼Œæµè§ˆå™¨å†æ¬¡å‘èµ·</span><span lang=EN-US>API</span><span
-     style='font-family:å®‹ä½“'>è¯·æ±‚ã€‚</span></li>
+     style='font-family:ËÎÌå'>¿ÉÒÔÖ±½Ó¿çÓòÇëÇó</span><span lang=EN-US>API</span><span
+     style='font-family:ËÎÌå'>£¬ä¯ÀÀÆ÷»á·¢ËÍÒ»¸ö</span><span lang=EN-US>OPTIONS</span><span
+     style='font-family:ËÎÌå'>¿çÓòÇëÇó£¬</span><span lang=EN-US>SRS</span><span
+     style='font-family:ËÎÌå'>ÔÊÐí¿çÓòºó£¬ä¯ÀÀÆ÷ÔÙ´Î·¢Æð</span><span lang=EN-US>API</span><span
+     style='font-family:ËÎÌå'>ÇëÇó¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>JSONP:
-     jquery/angularjs</span><span style='font-family:å®‹ä½“'>å¯ä»¥å‘èµ·</span><span
-     lang=EN-US>JSONP</span><span style='font-family:å®‹ä½“'>è·¨åŸŸè¯·æ±‚ï¼ŒæœåŠ¡å™¨ä¼šå°†å“åº”ä½œä¸º</span><span
-     lang=EN-US>js</span><span style='font-family:å®‹ä½“'>æ–‡ä»¶ï¼Œå†…å®¹æ˜¯è°ƒç”¨ä¸€ä¸ªå‡½æ•°ï¼Œå‡½æ•°åç”±</span><span
-     lang=EN-US>QueryString</span><span style='font-family:å®‹ä½“'>ä¸­çš„</span><span
-     lang=EN-US>callback</span><span style='font-family:å®‹ä½“'>æŒ‡å®šã€‚</span></li>
+     jquery/angularjs</span><span style='font-family:ËÎÌå'>¿ÉÒÔ·¢Æð</span><span
+     lang=EN-US>JSONP</span><span style='font-family:ËÎÌå'>¿çÓòÇëÇó£¬·þÎñÆ÷»á½«ÏìÓ¦×÷Îª</span><span
+     lang=EN-US>js</span><span style='font-family:ËÎÌå'>ÎÄ¼þ£¬ÄÚÈÝÊÇµ÷ÓÃÒ»¸öº¯Êý£¬º¯ÊýÃûÓÉ</span><span
+     lang=EN-US>QueryString</span><span style='font-family:ËÎÌå'>ÖÐµÄ</span><span
+     lang=EN-US>callback</span><span style='font-family:ËÎÌå'>Ö¸¶¨¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>JSONP-DELETE:
-     JSONP</span><span style='font-family:å®‹ä½“'>åªèƒ½</span><span lang=EN-US>GET</span><span
-     style='font-family:å®‹ä½“'>ï¼Œå› æ­¤</span><span lang=EN-US>DELETE</span><span
-     style='font-family:å®‹ä½“'>æ–¹æ³•æ˜¯ç”±</span><span lang=EN-US>QueryString</span><span
-     style='font-family:å®‹ä½“'>çš„</span><span lang=EN-US>method</span><span
-     style='font-family:å®‹ä½“'>æŒ‡å®šçš„ã€‚</span></li>
+     JSONP</span><span style='font-family:ËÎÌå'>Ö»ÄÜ</span><span lang=EN-US>GET</span><span
+     style='font-family:ËÎÌå'>£¬Òò´Ë</span><span lang=EN-US>DELETE</span><span
+     style='font-family:ËÎÌå'>·½·¨ÊÇÓÉ</span><span lang=EN-US>QueryString</span><span
+     style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>method</span><span
+     style='font-family:ËÎÌå'>Ö¸¶¨µÄ¡£</span></li>
 </ul>
 
 <p><span lang=EN-US style='font-size:10.5pt'>JSONP</span><span
-style='font-size:10.5pt'>å®žä¾‹ï¼Œä¾‹å¦‚ï¼š</span></p>
+style='font-size:10.5pt'>ÊµÀý£¬ÀýÈç£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>GET http://localhost:1985/api/v1/vhosts/?callback=JSON_CALLBACK</span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>JSON_CALLBACK({&quot;code&quot;:0,&quot;server&quot;:13449})</span></code></pre><pre><code><span
@@ -5470,18 +7163,18 @@ lang=EN-US style='font-size:10.5pt'>JSON_CALLBACK({&quot;code&quot;:0})</span></
 <h4><a name="_Toc462219513"><span lang=EN-US>Server ID</span></a></h4>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>è¿”å›žçš„<span lang=EN-US>api</span>ä¸­éƒ½ä¼šå¸¦æœ‰<code><span lang=EN-US>server</span></code>çš„ä¿¡æ¯ï¼Œå³<span
-lang=EN-US>Server</span>çš„<span lang=EN-US>ID</span>ï¼Œç”¨æ¥æ ‡è¯†æœåŠ¡å™¨ã€‚å®¢æˆ·ç«¯åœ¨èŽ·å–ä¿¡æ¯æ—¶ï¼Œå¿…é¡»æ£€æŸ¥<span
-lang=EN-US>ServerID</span>æ˜¯å¦æ”¹å˜ï¼Œæ”¹å˜æ—¶å°±æ˜¯æœåŠ¡å™¨é‡å¯ï¼Œä¹‹å‰æ‰€æœ‰çš„æ•°æ®éƒ½åº”è¯¥ä½œåºŸäº†ã€‚</span></p>
+10.5pt'>·µ»ØµÄ<span lang=EN-US>api</span>ÖÐ¶¼»á´øÓÐ<code><span lang=EN-US>server</span></code>µÄÐÅÏ¢£¬¼´<span
+lang=EN-US>Server</span>µÄ<span lang=EN-US>ID</span>£¬ÓÃÀ´±êÊ¶·þÎñÆ÷¡£¿Í»§¶ËÔÚ»ñÈ¡ÐÅÏ¢Ê±£¬±ØÐë¼ì²é<span
+lang=EN-US>ServerID</span>ÊÇ·ñ¸Ä±ä£¬¸Ä±äÊ±¾ÍÊÇ·þÎñÆ÷ÖØÆô£¬Ö®Ç°ËùÓÐµÄÊý¾Ý¶¼Ó¦¸Ã×÷·ÏÁË¡£</span></p>
 
 <h4><a name="_Toc462219514"><span lang=EN-US>API</span></a><span
-style='font-family:å®‹ä½“'>åŠæè¿°</span></h4>
+style='font-family:ËÎÌå'>¼°ÃèÊö</span></h4>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>æä¾›äº†<span lang=EN-US>API</span>çš„å¯¼èˆªï¼Œå³æ‰€æœ‰æ”¯æŒçš„<span lang=EN-US>API</span>åŠæè¿°ã€‚</span></p>
+10.5pt'>Ìá¹©ÁË<span lang=EN-US>API</span>µÄµ¼º½£¬¼´ËùÓÐÖ§³ÖµÄ<span lang=EN-US>API</span>¼°ÃèÊö¡£</span></p>
 
-<p><span style='font-size:10.5pt'>åœ°å€æ˜¯ï¼š<code><span lang=EN-US>http://192.168.1.170:1985/api/v1</span></code>ï¼Œä¸»è¦åŒ…å«çš„å­<span
-lang=EN-US>api</span>æœ‰ï¼š</span></p>
+<p><span style='font-size:10.5pt'>µØÖ·ÊÇ£º<code><span lang=EN-US>http://192.168.1.170:1985/api/v1</span></code>£¬Ö÷Òª°üº¬µÄ×Ó<span
+lang=EN-US>api</span>ÓÐ£º</span></p>
 
 <table class=MsoNormalTable border=0 cellspacing=30 cellpadding=0
  style='background:#F2F2F2'>
@@ -5509,7 +7202,7 @@ lang=EN-US>api</span>æœ‰ï¼š</span></p>
   <p class=MsoNormal><span lang=EN-US style='color:black'>4481</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æœåŠ¡å™¨æ ‡è¯†</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>·þÎñÆ÷±êÊ¶</span></p>
   </td>
  </tr>
  <tr>
@@ -5520,7 +7213,7 @@ lang=EN-US>api</span>æœ‰ï¼š</span></p>
   <p class=MsoNormal><span lang=EN-US style='color:black'>/api/v1/versions</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>èŽ·å–æœåŠ¡å™¨ç‰ˆæœ¬ä¿¡æ¯</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>»ñÈ¡·þÎñÆ÷°æ±¾ÐÅÏ¢</span></p>
   </td>
  </tr>
  <tr>
@@ -5531,7 +7224,7 @@ lang=EN-US>api</span>æœ‰ï¼š</span></p>
   <p class=MsoNormal><span lang=EN-US style='color:black'>/api/v1/summaries</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>èŽ·å–æœåŠ¡å™¨çš„æ‘˜è¦ä¿¡æ¯</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>»ñÈ¡·þÎñÆ÷µÄÕªÒªÐÅÏ¢</span></p>
   </td>
  </tr>
  <tr>
@@ -5542,7 +7235,7 @@ lang=EN-US>api</span>æœ‰ï¼š</span></p>
   <p class=MsoNormal><span lang=EN-US style='color:black'>/api/v1/rusages</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>èŽ·å–æœåŠ¡å™¨èµ„æºä½¿ç”¨ä¿¡æ¯</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>»ñÈ¡·þÎñÆ÷×ÊÔ´Ê¹ÓÃÐÅÏ¢</span></p>
   </td>
  </tr>
  <tr>
@@ -5553,7 +7246,7 @@ lang=EN-US>api</span>æœ‰ï¼š</span></p>
   <p class=MsoNormal><span lang=EN-US style='color:black'>/api/v1/self_proc_stats</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>èŽ·å–æœåŠ¡å™¨è¿›ç¨‹ä¿¡æ¯</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>»ñÈ¡·þÎñÆ÷½ø³ÌÐÅÏ¢</span></p>
   </td>
  </tr>
  <tr>
@@ -5564,7 +7257,7 @@ lang=EN-US>api</span>æœ‰ï¼š</span></p>
   <p class=MsoNormal><span lang=EN-US style='color:black'>/api/v1/system_proc_stats</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>èŽ·å–æœåŠ¡å™¨æ‰€æœ‰è¿›ç¨‹æƒ…å†µ</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>»ñÈ¡·þÎñÆ÷ËùÓÐ½ø³ÌÇé¿ö</span></p>
   </td>
  </tr>
  <tr>
@@ -5575,7 +7268,7 @@ lang=EN-US>api</span>æœ‰ï¼š</span></p>
   <p class=MsoNormal><span lang=EN-US style='color:black'>/api/v1/meminfos</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>èŽ·å–æœåŠ¡å™¨å†…å­˜ä½¿ç”¨æƒ…å†µ</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>»ñÈ¡·þÎñÆ÷ÄÚ´æÊ¹ÓÃÇé¿ö</span></p>
   </td>
  </tr>
  <tr>
@@ -5586,9 +7279,9 @@ lang=EN-US>api</span>æœ‰ï¼š</span></p>
   <p class=MsoNormal><span lang=EN-US style='color:black'>/api/v1/authors</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>èŽ·å–ä½œè€…ã€ç‰ˆæƒå’Œ</span><span
-  lang=EN-US style='color:black'>License</span><span style='font-family:å®‹ä½“;
-  color:black'>ä¿¡æ¯</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>»ñÈ¡×÷Õß¡¢°æÈ¨ºÍ</span><span
+  lang=EN-US style='color:black'>License</span><span style='font-family:ËÎÌå;
+  color:black'>ÐÅÏ¢</span></p>
   </td>
  </tr>
  <tr>
@@ -5599,7 +7292,7 @@ lang=EN-US>api</span>æœ‰ï¼š</span></p>
   <p class=MsoNormal><span lang=EN-US style='color:black'>/api/v1/features</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>èŽ·å–ç³»ç»Ÿæ”¯æŒçš„åŠŸèƒ½åˆ—è¡¨</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>»ñÈ¡ÏµÍ³Ö§³ÖµÄ¹¦ÄÜÁÐ±í</span></p>
   </td>
  </tr>
  <tr>
@@ -5610,7 +7303,7 @@ lang=EN-US>api</span>æœ‰ï¼š</span></p>
   <p class=MsoNormal><span lang=EN-US style='color:black'>/api/v1/requests</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>èŽ·å–è¯·æ±‚çš„ä¿¡æ¯ï¼Œå³å½“å‰å‘èµ·çš„è¯·æ±‚çš„è¯¦ç»†ä¿¡æ¯</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>»ñÈ¡ÇëÇóµÄÐÅÏ¢£¬¼´µ±Ç°·¢ÆðµÄÇëÇóµÄÏêÏ¸ÐÅÏ¢</span></p>
   </td>
  </tr>
  <tr>
@@ -5621,9 +7314,9 @@ lang=EN-US>api</span>æœ‰ï¼š</span></p>
   <p class=MsoNormal><span lang=EN-US style='color:black'>/api/v1/vhosts</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>èŽ·å–æœåŠ¡å™¨ä¸Šçš„</span><span
-  lang=EN-US style='color:black'>vhosts</span><span style='font-family:å®‹ä½“;
-  color:black'>ä¿¡æ¯</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>»ñÈ¡·þÎñÆ÷ÉÏµÄ</span><span
+  lang=EN-US style='color:black'>vhosts</span><span style='font-family:ËÎÌå;
+  color:black'>ÐÅÏ¢</span></p>
   </td>
  </tr>
  <tr>
@@ -5634,9 +7327,9 @@ lang=EN-US>api</span>æœ‰ï¼š</span></p>
   <p class=MsoNormal><span lang=EN-US style='color:black'>/api/v1/streams</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>èŽ·å–æœåŠ¡å™¨çš„</span><span
-  lang=EN-US style='color:black'>streams</span><span style='font-family:å®‹ä½“;
-  color:black'>ä¿¡æ¯</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>»ñÈ¡·þÎñÆ÷µÄ</span><span
+  lang=EN-US style='color:black'>streams</span><span style='font-family:ËÎÌå;
+  color:black'>ÐÅÏ¢</span></p>
   </td>
  </tr>
  <tr>
@@ -5647,10 +7340,10 @@ lang=EN-US>api</span>æœ‰ï¼š</span></p>
   <p class=MsoNormal><span lang=EN-US style='color:black'>/api/v1/clients</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>èŽ·å–æœåŠ¡å™¨çš„</span><span
-  lang=EN-US style='color:black'>clients</span><span style='font-family:å®‹ä½“;
-  color:black'>ä¿¡æ¯ï¼Œé»˜è®¤èŽ·å–å‰</span><span lang=EN-US style='color:black'>10</span><span
-  style='font-family:å®‹ä½“;color:black'>ä¸ª</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>»ñÈ¡·þÎñÆ÷µÄ</span><span
+  lang=EN-US style='color:black'>clients</span><span style='font-family:ËÎÌå;
+  color:black'>ÐÅÏ¢£¬Ä¬ÈÏ»ñÈ¡Ç°</span><span lang=EN-US style='color:black'>10</span><span
+  style='font-family:ËÎÌå;color:black'>¸ö</span></p>
   </td>
  </tr>
  <tr>
@@ -5662,7 +7355,7 @@ lang=EN-US>api</span>æœ‰ï¼š</span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span lang=EN-US style='color:black'>CUID</span><span
-  style='font-family:å®‹ä½“;color:black'>é…ç½®ï¼Œ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:black'>ÅäÖÃ£¬</span><span lang=EN-US
   style='color:black'>RAW API</span></p>
   </td>
  </tr>
@@ -5671,68 +7364,68 @@ lang=EN-US>api</span>æœ‰ï¼š</span></p>
 <h4><a name="_Toc462219515"><span lang=EN-US>Summaries</span></a></h4>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>æä¾›ç³»ç»Ÿçš„æ‘˜è¦ä¿¡æ¯æŽ¥å£ï¼Œè­¬å¦‚å½“å‰çš„å†…å­˜ã€<span lang=EN-US>CPU</span>ã€ç½‘ç»œã€è´Ÿè½½ä½¿ç”¨çŽ‡ã€‚</span></p>
+10.5pt'>Ìá¹©ÏµÍ³µÄÕªÒªÐÅÏ¢½Ó¿Ú£¬Æ©Èçµ±Ç°µÄÄÚ´æ¡¢<span lang=EN-US>CPU</span>¡¢ÍøÂç¡¢¸ºÔØÊ¹ÓÃÂÊ¡£</span></p>
 
-<p><span style='font-size:10.5pt'>åœ°å€ä¸ºï¼š<code><span lang=EN-US>http://192.168.1.170:1985/api/v1/summaries</span></code></span></p>
+<p><span style='font-size:10.5pt'>µØÖ·Îª£º<code><span lang=EN-US>http://192.168.1.170:1985/api/v1/summaries</span></code></span></p>
 
 <h4><a name="_Toc462219516"><span lang=EN-US>Vhosts</span></a></h4>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>æä¾›èŽ·å–æ‰€æœ‰<span lang=EN-US>vhost</span>çš„æŽ¥å£ï¼Œ<span lang=EN-US>vhost</span>ä¸­çš„<span
-lang=EN-US>server</span>ä¸º<span lang=EN-US>srs</span>çš„<span lang=EN-US>id</span>ï¼Œç”¨æ¥æ ‡è¯†æ˜¯å¦æœåŠ¡å™¨é‡å¯äº†ã€‚</span></p>
+10.5pt'>Ìá¹©»ñÈ¡ËùÓÐ<span lang=EN-US>vhost</span>µÄ½Ó¿Ú£¬<span lang=EN-US>vhost</span>ÖÐµÄ<span
+lang=EN-US>server</span>Îª<span lang=EN-US>srs</span>µÄ<span lang=EN-US>id</span>£¬ÓÃÀ´±êÊ¶ÊÇ·ñ·þÎñÆ÷ÖØÆôÁË¡£</span></p>
 
-<p><span style='font-size:10.5pt'>åœ°å€ä¸ºï¼š<code><span lang=EN-US>http://192.168.1.170:1985/api/v1/vhosts</span></code></span></p>
+<p><span style='font-size:10.5pt'>µØÖ·Îª£º<code><span lang=EN-US>http://192.168.1.170:1985/api/v1/vhosts</span></code></span></p>
 
-<p><span style='font-size:10.5pt'>è¿˜å¯ä»¥ç»§ç»­å¤„ç†æŸä¸ª<span lang=EN-US>vhost</span>çš„ä¿¡æ¯ï¼Œè­¬å¦‚<code><span
+<p><span style='font-size:10.5pt'>»¹¿ÉÒÔ¼ÌÐø´¦ÀíÄ³¸ö<span lang=EN-US>vhost</span>µÄÐÅÏ¢£¬Æ©Èç<code><span
 lang=EN-US>http://192.168.1.170:1985/api/v1/vhosts/3756</span></code></span></p>
 
 <h4><a name="_Toc462219517"><span lang=EN-US>Streams</span></a></h4>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>æä¾›èŽ·å–æ‰€æœ‰<span lang=EN-US>stream</span>çš„æŽ¥å£ï¼Œ<span lang=EN-US>stream</span>ä¸­çš„<span
-lang=EN-US>server</span>ä¸º<span lang=EN-US>srs</span>çš„<span lang=EN-US>id</span>ï¼Œç”¨æ¥æ ‡è¯†æ˜¯å¦æœåŠ¡å™¨é‡å¯äº†ã€‚<span
-lang=EN-US>vhost</span>ä¸º<span lang=EN-US>stream</span>æ‰€å±žçš„<span lang=EN-US>vhost</span>çš„<span
-lang=EN-US>id</span>ã€‚</span></p>
+10.5pt'>Ìá¹©»ñÈ¡ËùÓÐ<span lang=EN-US>stream</span>µÄ½Ó¿Ú£¬<span lang=EN-US>stream</span>ÖÐµÄ<span
+lang=EN-US>server</span>Îª<span lang=EN-US>srs</span>µÄ<span lang=EN-US>id</span>£¬ÓÃÀ´±êÊ¶ÊÇ·ñ·þÎñÆ÷ÖØÆôÁË¡£<span
+lang=EN-US>vhost</span>Îª<span lang=EN-US>stream</span>ËùÊôµÄ<span lang=EN-US>vhost</span>µÄ<span
+lang=EN-US>id</span>¡£</span></p>
 
-<p><span style='font-size:10.5pt'>åœ°å€ä¸ºï¼š<code><span lang=EN-US>http://192.168.1.170:1985/api/v1/streams</span></code></span></p>
+<p><span style='font-size:10.5pt'>µØÖ·Îª£º<code><span lang=EN-US>http://192.168.1.170:1985/api/v1/streams</span></code></span></p>
 
-<p><span style='font-size:10.5pt'>è¿˜å¯ä»¥ç»§ç»­å¤„ç†æŸä¸ª<span lang=EN-US>stream</span>çš„ä¿¡æ¯ï¼Œè­¬å¦‚<code><span
+<p><span style='font-size:10.5pt'>»¹¿ÉÒÔ¼ÌÐø´¦ÀíÄ³¸ö<span lang=EN-US>stream</span>µÄÐÅÏ¢£¬Æ©Èç<code><span
 lang=EN-US>http://192.168.1.170:1985/api/v1/streams/3756</span></code></span></p>
 
 <h4><a name="_Toc462219518"><span lang=EN-US>Clients</span></a></h4>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>æä¾›æŸ¥è¯¢å®¢æˆ·ç«¯ä¿¡æ¯çš„æŽ¥å£ï¼Œå’Œ<span lang=EN-US>Vhosts</span>æˆ–<span lang=EN-US>Streams</span>ä¸ä¸€æ ·çš„æ˜¯ï¼Œ<span
-lang=EN-US>Clients</span>æŸ¥è¯¢æ—¶éœ€è¦æŒ‡å®š<span lang=EN-US>start</span>å’Œ<span lang=EN-US>count(</span>é»˜è®¤<span
-lang=EN-US>start</span>ä¸º<span lang=EN-US>0</span>ï¼Œ<span lang=EN-US>count</span>ä¸º<span
-lang=EN-US>10</span>ï¼Œå³æŸ¥è¯¢å¤´<span lang=EN-US>10</span>ä¸ª<span lang=EN-US>clients)</span>ã€‚</span></p>
+10.5pt'>Ìá¹©²éÑ¯¿Í»§¶ËÐÅÏ¢µÄ½Ó¿Ú£¬ºÍ<span lang=EN-US>Vhosts</span>»ò<span lang=EN-US>Streams</span>²»Ò»ÑùµÄÊÇ£¬<span
+lang=EN-US>Clients</span>²éÑ¯Ê±ÐèÒªÖ¸¶¨<span lang=EN-US>start</span>ºÍ<span lang=EN-US>count(</span>Ä¬ÈÏ<span
+lang=EN-US>start</span>Îª<span lang=EN-US>0</span>£¬<span lang=EN-US>count</span>Îª<span
+lang=EN-US>10</span>£¬¼´²éÑ¯Í·<span lang=EN-US>10</span>¸ö<span lang=EN-US>clients)</span>¡£</span></p>
 
-<p><span style='font-size:10.5pt'>åœ°å€ä¸ºï¼š<code><span lang=EN-US>http://192.168.1.170:1985/api/v1/clients</span></code></span></p>
+<p><span style='font-size:10.5pt'>µØÖ·Îª£º<code><span lang=EN-US>http://192.168.1.170:1985/api/v1/clients</span></code></span></p>
 
-<p><span style='font-size:10.5pt'>è¿˜å¯ä»¥ç»§ç»­å¤„ç†æŸä¸ª<span lang=EN-US>client</span>çš„ä¿¡æ¯ï¼Œè­¬å¦‚<code><span
+<p><span style='font-size:10.5pt'>»¹¿ÉÒÔ¼ÌÐø´¦ÀíÄ³¸ö<span lang=EN-US>client</span>µÄÐÅÏ¢£¬Æ©Èç<code><span
 lang=EN-US>http://192.168.1.170:1985/api/v1/clients/3756</span></code></span></p>
 
 <h4><a name="_Toc462219519"><span lang=EN-US>Kickoff Client</span></a></h4>
 
-<p><span style='font-size:10.5pt'>å¯ä»¥è¸¢æŽ‰è¿žæŽ¥çš„ç”¨æˆ·ï¼Œ<span lang=EN-US>SRS</span>æä¾›äº†<span
-lang=EN-US>HTTP RESTful</span>æŽ¥å£ï¼š</span></p>
+<p><span style='font-size:10.5pt'>¿ÉÒÔÌßµôÁ¬½ÓµÄÓÃ»§£¬<span lang=EN-US>SRS</span>Ìá¹©ÁË<span
+lang=EN-US>HTTP RESTful</span>½Ó¿Ú£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>DELETE /api/v1/clients/{id}</span></code></pre>
 
-<p><span style='font-size:10.5pt'>å¯ä»¥å…ˆæŸ¥è¯¢åˆ°éœ€è¦è¸¢æŽ‰çš„<span lang=EN-US>Client</span>çš„<span
-lang=EN-US>ID</span>ï¼š</span></p>
+<p><span style='font-size:10.5pt'>¿ÉÒÔÏÈ²éÑ¯µ½ÐèÒªÌßµôµÄ<span lang=EN-US>Client</span>µÄ<span
+lang=EN-US>ID</span>£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>GET /api/v1/clients</span></code></pre>
 
-<p><span style='font-size:10.5pt'>è‹¥éœ€è¦è¸¢æŽ‰æŽ¨æµçš„<span lang=EN-US>Client</span>ï¼Œå¯ä»¥ä»Ž<span
-lang=EN-US>streams</span>æŽ¥å£ä¸­æŸ¥è¯¢æŽ¨æµ<span lang=EN-US>client</span>çš„<span
-lang=EN-US>id</span>ï¼š</span></p>
+<p><span style='font-size:10.5pt'>ÈôÐèÒªÌßµôÍÆÁ÷µÄ<span lang=EN-US>Client</span>£¬¿ÉÒÔ´Ó<span
+lang=EN-US>streams</span>½Ó¿ÚÖÐ²éÑ¯ÍÆÁ÷<span lang=EN-US>client</span>µÄ<span
+lang=EN-US>id</span>£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>GET /api/v1/streams</span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>or GET /api/v1/streams/6745</span></code></pre>
 
-<p><span style='font-size:10.5pt'>æµä¿¡æ¯ä¸­çš„<code><span lang=EN-US>stream.publish.cid</span></code>å°±æ˜¯æŽ¨æµçš„å®¢æˆ·ç«¯<span
-lang=EN-US>id</span>ï¼š</span></p>
+<p><span style='font-size:10.5pt'>Á÷ÐÅÏ¢ÖÐµÄ<code><span lang=EN-US>stream.publish.cid</span></code>¾ÍÊÇÍÆÁ÷µÄ¿Í»§¶Ë<span
+lang=EN-US>id</span>£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>1. GET http://192.168.1.170:1985/api/v1/streams/6745</span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>2. Response stream.publish.cid:</span></code></pre><pre><code><span
@@ -5744,37 +7437,37 @@ lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp; }</span></code></pre><pre
 lang=EN-US style='font-size:10.5pt'>}</span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>3. DELETE http://192.168.1.170:1985/api/v1/clients/107</span></code></pre>
 
-<p><span style='font-size:10.5pt'>å¤‡æ³¨ï¼š<span lang=EN-US>HTTP</span>è¯·æ±‚å¯ä»¥ä½¿ç”¨</span><span
+<p><span style='font-size:10.5pt'>±¸×¢£º<span lang=EN-US>HTTP</span>ÇëÇó¿ÉÒÔÊ¹ÓÃ</span><span
 lang=EN-US><a href="http://ossrs.net/srs.release/http-rest/index.html"><span
 style='font-size:10.5pt'>HTTP REST Tool</span></a></span></p>
 
-<p><span style='font-size:10.5pt'>å¤‡æ³¨ï¼š<span lang=EN-US>HTTP</span>è¯·æ±‚è¿˜å¯ä»¥ä½¿ç”¨<span
-lang=EN-US>Linux</span>çš„å·¥å…·<code><span lang=EN-US>curl</span></code>ï¼Œå¸¸è§çš„è¯·æ±‚å¦‚ä¸‹ï¼š</span></p>
+<p><span style='font-size:10.5pt'>±¸×¢£º<span lang=EN-US>HTTP</span>ÇëÇó»¹¿ÉÒÔÊ¹ÓÃ<span
+lang=EN-US>Linux</span>µÄ¹¤¾ß<code><span lang=EN-US>curl</span></code>£¬³£¼ûµÄÇëÇóÈçÏÂ£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>curl -v -X GET http://192.168.1.170:1985/api/v1/clients/426 &amp;&amp; echo &quot;&quot;</span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>curl -v -X DELETE http://192.168.1.170:1985/api/v1/clients/426 &amp;&amp; echo &quot;&quot;</span></code></pre>
 
 <h4><a name="_Toc462219520"><span lang=EN-US>Persistence Config</span></a></h4>
 
-<p><span style='font-size:10.5pt'>å¯ä»¥å‘é€ä¿¡å·<code><span lang=EN-US>SIGUSR1</span></code>ç»™<span
-lang=EN-US>SRS</span>ï¼Œç”¨æ¥å°†å½“å‰ç³»ç»Ÿçš„é…ç½®å†™å…¥é…ç½®æ–‡ä»¶ã€‚ä¸»è¦ç”¨äºŽï¼š</span></p>
+<p><span style='font-size:10.5pt'>¿ÉÒÔ·¢ËÍÐÅºÅ<code><span lang=EN-US>SIGUSR1</span></code>¸ø<span
+lang=EN-US>SRS</span>£¬ÓÃÀ´½«µ±Ç°ÏµÍ³µÄÅäÖÃÐ´ÈëÅäÖÃÎÄ¼þ¡£Ö÷ÒªÓÃÓÚ£º</span></p>
 
 <ol start=1 type=1>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>åŽ»æŽ‰æ³¨é‡Šï¼Œæ²¡æœ‰ç”¨çš„é…ç½®ï¼Œæ ¼å¼åŒ–é…ç½®ã€‚</span></li>
- <li class=MsoNormal style='text-align:left'><span style='font-family:å®‹ä½“'>æ”¯æŒ</span><span
-     lang=EN-US>HTTP API</span><span style='font-family:å®‹ä½“'>å†™å…¥é…ç½®ï¼Œé€šè¿‡</span><span
-     lang=EN-US>HTTP API</span><span style='font-family:å®‹ä½“'>æ”¹å˜é…ç½®åŽå†™å…¥ç„¶åŽ</span><span
-     lang=EN-US>Reload</span><span style='font-family:å®‹ä½“'>ï¼Œå‚è€ƒï¼š</span><span
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>È¥µô×¢ÊÍ£¬Ã»ÓÐÓÃµÄÅäÖÃ£¬¸ñÊ½»¯ÅäÖÃ¡£</span></li>
+ <li class=MsoNormal style='text-align:left'><span style='font-family:ËÎÌå'>Ö§³Ö</span><span
+     lang=EN-US>HTTP API</span><span style='font-family:ËÎÌå'>Ð´ÈëÅäÖÃ£¬Í¨¹ý</span><span
+     lang=EN-US>HTTP API</span><span style='font-family:ËÎÌå'>¸Ä±äÅäÖÃºóÐ´ÈëÈ»ºó</span><span
+     lang=EN-US>Reload</span><span style='font-family:ËÎÌå'>£¬²Î¿¼£º</span><span
      lang=EN-US><a href="https://github.com/ossrs/srs/issues/319">HTTP RAW API</a></span><span
      lang=EN-US>.</span></li>
 </ol>
 
-<p><span style='font-size:10.5pt'>å‘½ä»¤å®žä¾‹ï¼š</span></p>
+<p><span style='font-size:10.5pt'>ÃüÁîÊµÀý£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>killall -s SIGUSR1 srs</span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>killall -30 srs</span></code></pre>
 
-<p><span style='font-size:10.5pt'>å†™å‡ºæ¥çš„é…ç½®æ–‡ä»¶å¯èƒ½æ˜¯ï¼š</span></p>
+<p><span style='font-size:10.5pt'>Ð´³öÀ´µÄÅäÖÃÎÄ¼þ¿ÉÄÜÊÇ£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>listen 1935;</span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>max_connections 1000;</span></code></pre><pre><code><span
@@ -5818,15 +7511,15 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
 <h4><a name="_Toc462219521"><span lang=EN-US>HTTP RAW API</span></a></h4>
 
 <p style='text-indent:15.75pt'><span lang=EN-US style='font-size:10.5pt'>SRS</span><span
-style='font-size:10.5pt'>æ”¯æŒ<span lang=EN-US>RAW API</span>ï¼Œä¸€èˆ¬çš„æœåŠ¡å™¨åªèƒ½æä¾›è¯»<span
-lang=EN-US>(Read)</span>å½¢å¼çš„<span lang=EN-US>API</span>ï¼Œè­¬å¦‚èŽ·å–ç³»ç»ŸçŠ¶æ€ä¹‹ç±»ï¼Œä½†æ˜¯<span
-lang=EN-US>SRS</span>æä¾›å†™<span lang=EN-US>(Write)</span>å½¢å¼çš„<span lang=EN-US>API</span>ï¼Œè­¬å¦‚<span
-lang=EN-US>Reload</span>å’Œä¿®æ”¹ç³»ç»Ÿé…ç½®ç­‰æ‰€æœ‰æ”¹å†™ç³»ç»Ÿçš„è¡Œä¸ºã€‚</span></p>
+style='font-size:10.5pt'>Ö§³Ö<span lang=EN-US>RAW API</span>£¬Ò»°ãµÄ·þÎñÆ÷Ö»ÄÜÌá¹©¶Á<span
+lang=EN-US>(Read)</span>ÐÎÊ½µÄ<span lang=EN-US>API</span>£¬Æ©Èç»ñÈ¡ÏµÍ³×´Ì¬Ö®Àà£¬µ«ÊÇ<span
+lang=EN-US>SRS</span>Ìá¹©Ð´<span lang=EN-US>(Write)</span>ÐÎÊ½µÄ<span lang=EN-US>API</span>£¬Æ©Èç<span
+lang=EN-US>Reload</span>ºÍÐÞ¸ÄÏµÍ³ÅäÖÃµÈËùÓÐ¸ÄÐ´ÏµÍ³µÄÐÐÎª¡£</span></p>
 
-<p><b><span style='font-size:10.5pt'>æ³¨æ„<span lang=EN-US>:</span></span></b><span
-lang=EN-US style='font-size:10.5pt'> </span><span style='font-size:10.5pt'>å¿…é¡»åœ¨<code><span
-lang=EN-US>http_api</span></code>é…ç½®ä¸­ï¼Œå¼€å¯<code><span lang=EN-US>http_api.raw_api.enabled</span></code>æ‰èƒ½å…è®¸<span
-lang=EN-US>HTTP RAW API</span>ï¼Œå¦åˆ™ä¼šè¿”å›žé”™è¯¯ä»£ç æ˜¯<span lang=EN-US>1061</span>ã€‚</span></p>
+<p><b><span style='font-size:10.5pt'>×¢Òâ<span lang=EN-US>:</span></span></b><span
+lang=EN-US style='font-size:10.5pt'> </span><span style='font-size:10.5pt'>±ØÐëÔÚ<code><span
+lang=EN-US>http_api</span></code>ÅäÖÃÖÐ£¬¿ªÆô<code><span lang=EN-US>http_api.raw_api.enabled</span></code>²ÅÄÜÔÊÐí<span
+lang=EN-US>HTTP RAW API</span>£¬·ñÔò»á·µ»Ø´íÎó´úÂëÊÇ<span lang=EN-US>1061</span>¡£</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>http_api {</span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp; enabled&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; on;</span></code></pre><pre><code><span
@@ -5840,33 +7533,33 @@ lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp; }</span></code></pre><pre
 lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>æ”¯æŒçš„<span lang=EN-US>HTTP RAW API</span>åŒ…æ‹¬ï¼š</span></p>
+10.5pt'>Ö§³ÖµÄ<span lang=EN-US>HTTP RAW API</span>°üÀ¨£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US><a
      href="https://github.com/ossrs/srs/wiki/v3_CN_HTTPApi#raw">Raw</a></span><span
-     lang=EN-US>: </span><span style='font-family:å®‹ä½“'>æŸ¥çœ‹</span><span
-     lang=EN-US>HTTP RAW API</span><span style='font-family:å®‹ä½“'>çš„é…ç½®ã€‚</span></li>
+     lang=EN-US>: </span><span style='font-family:ËÎÌå'>²é¿´</span><span
+     lang=EN-US>HTTP RAW API</span><span style='font-family:ËÎÌå'>µÄÅäÖÃ¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US><a
      href="https://github.com/ossrs/srs/wiki/v3_CN_HTTPApi#reload">Reload</a></span><span
-     lang=EN-US>: </span><span style='font-family:å®‹ä½“'>æ”¯æŒ</span><span
-     lang=EN-US>reload</span><span style='font-family:å®‹ä½“'>é…ç½®ã€‚</span></li>
+     lang=EN-US>: </span><span style='font-family:ËÎÌå'>Ö§³Ö</span><span
+     lang=EN-US>reload</span><span style='font-family:ËÎÌå'>ÅäÖÃ¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US><a
      href="https://github.com/ossrs/srs/wiki/v3_CN_HTTPApi#raw-query">Query</a></span><span
-     lang=EN-US>: </span><span style='font-family:å®‹ä½“'>æŸ¥è¯¢å…¨å±€å’Œ</span><span
-     lang=EN-US>Vhost</span><span style='font-family:å®‹ä½“'>é…ç½®ã€‚</span></li>
+     lang=EN-US>: </span><span style='font-family:ËÎÌå'>²éÑ¯È«¾ÖºÍ</span><span
+     lang=EN-US>Vhost</span><span style='font-family:ËÎÌå'>ÅäÖÃ¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US><a
      href="https://github.com/ossrs/srs/wiki/v3_CN_HTTPApi#raw-update">Update</a></span><span
-     lang=EN-US>: </span><span style='font-family:å®‹ä½“'>æ›´æ–°å…¨å±€å’Œ</span><span
-     lang=EN-US>Vhost</span><span style='font-family:å®‹ä½“'>é…ç½®ã€‚</span></li>
+     lang=EN-US>: </span><span style='font-family:ËÎÌå'>¸üÐÂÈ«¾ÖºÍ</span><span
+     lang=EN-US>Vhost</span><span style='font-family:ËÎÌå'>ÅäÖÃ¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US><a
      href="https://github.com/ossrs/srs/wiki/v3_CN_HTTPApi#raw-vhost">Vhost</a></span><span
-     lang=EN-US>: Vhost</span><span style='font-family:å®‹ä½“'>æ“ä½œæ˜¯</span><span
-     lang=EN-US>Update</span><span style='font-family:å®‹ä½“'>çš„å­é›†ã€‚</span></li>
+     lang=EN-US>: Vhost</span><span style='font-family:ËÎÌå'>²Ù×÷ÊÇ</span><span
+     lang=EN-US>Update</span><span style='font-family:ËÎÌå'>µÄ×Ó¼¯¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US><a
      href="https://github.com/ossrs/srs/wiki/v3_CN_HTTPApi#raw-dvr">DVR</a></span><span
-     lang=EN-US>: DVR</span><span style='font-family:å®‹ä½“'>æ“ä½œæ˜¯</span><span
-     lang=EN-US>Update</span><span style='font-family:å®‹ä½“'>çš„å­é›†ã€‚</span></li>
+     lang=EN-US>: DVR</span><span style='font-family:ËÎÌå'>²Ù×÷ÊÇ</span><span
+     lang=EN-US>Update</span><span style='font-family:ËÎÌå'>µÄ×Ó¼¯¡£</span></li>
 </ul>
 
 <h5><span lang=EN-US>Raw</span></h5>
@@ -5890,9 +7583,9 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=460 style='width:345.05pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æŸ¥è¯¢æœåŠ¡å™¨ç«¯</span><span
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>²éÑ¯·þÎñÆ÷¶Ë</span><span
   lang=EN-US style='color:black'>HTTP RAW API</span><span style='font-family:
-  å®‹ä½“;color:black'>çš„é…ç½®</span></p>
+  ËÎÌå;color:black'>µÄÅäÖÃ</span></p>
   </td>
  </tr>
  <tr>
@@ -5917,7 +7610,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>config</span></p>
   </td>
   <td width=460 style='width:345.05pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>ä¸éœ€è¦</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>²»ÐèÒª</span></p>
   </td>
  </tr>
  <tr>
@@ -5925,7 +7618,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>params</span></p>
   </td>
   <td width=460 style='width:345.05pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æ— å‚æ•°</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÎÞ²ÎÊý</span></p>
   </td>
  </tr>
 </table>
@@ -5953,9 +7646,9 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=460 style='width:345.05pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>å¯ä»¥é‡æ–°åŠ è½½é…ç½®ï¼Œå’Œ</span><code><span
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>¿ÉÒÔÖØÐÂ¼ÓÔØÅäÖÃ£¬ºÍ</span><code><span
   lang=EN-US style='font-size:12.0pt;color:black'>killall -1 srs</span></code><span
-  style='font-family:å®‹ä½“;color:black'>çš„æ•ˆæžœæ˜¯ä¸€æ ·çš„</span></p>
+  style='font-family:ËÎÌå;color:black'>µÄÐ§¹ûÊÇÒ»ÑùµÄ</span></p>
   </td>
  </tr>
  <tr>
@@ -5989,7 +7682,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>params</span></p>
   </td>
   <td width=460 style='width:345.05pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æ— å‚æ•°</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÎÞ²ÎÊý</span></p>
   </td>
  </tr>
 </table>
@@ -6015,7 +7708,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;color:black'>feature</span></p>
   </td>
   <td width=507 style='width:380.45pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-size:9.0pt;font-family:å®‹ä½“;color:black'>æŸ¥è¯¢æœåŠ¡å™¨å…¨å±€é…ç½®</span></p>
+  <p class=MsoNormal><span style='font-size:9.0pt;font-family:ËÎÌå;color:black'>²éÑ¯·þÎñÆ÷È«¾ÖÅäÖÃ</span></p>
   </td>
  </tr>
  <tr>
@@ -6050,7 +7743,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=507 style='width:380.45pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='font-size:9.0pt;color:black'>scope=global</span></code><span
-  style='font-size:9.0pt;font-family:å®‹ä½“;color:black'>ï¼ŒæŸ¥è¯¢æœåŠ¡å™¨çš„å…¨å±€é…ç½®</span></p>
+  style='font-size:9.0pt;font-family:ËÎÌå;color:black'>£¬²éÑ¯·þÎñÆ÷µÄÈ«¾ÖÅäÖÃ</span></p>
   </td>
  </tr>
  <tr>
@@ -6084,7 +7777,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;color:black'>feature</span></p>
   </td>
   <td width=520 style='width:389.95pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-size:9.0pt;font-family:å®‹ä½“;color:black'>æŸ¥è¯¢æœåŠ¡å™¨æœ€å°å…¨å±€é…ç½®</span></p>
+  <p class=MsoNormal><span style='font-size:9.0pt;font-family:ËÎÌå;color:black'>²éÑ¯·þÎñÆ÷×îÐ¡È«¾ÖÅäÖÃ</span></p>
   </td>
  </tr>
  <tr>
@@ -6119,7 +7812,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=520 style='width:389.95pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='font-size:9.0pt;color:black'>scope=minimal</span></code><span
-  style='font-size:9.0pt;font-family:å®‹ä½“;color:black'>ï¼ŒæŸ¥è¯¢æœåŠ¡å™¨çš„æœ€å°å…¨å±€é…ç½®</span></p>
+  style='font-size:9.0pt;font-family:ËÎÌå;color:black'>£¬²éÑ¯·þÎñÆ÷µÄ×îÐ¡È«¾ÖÅäÖÃ</span></p>
   </td>
  </tr>
 </table>
@@ -6145,9 +7838,9 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;color:black'>feature</span></p>
   </td>
   <td width=506 style='width:379.85pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-size:9.0pt;font-family:å®‹ä½“;color:black'>æŸ¥è¯¢æœåŠ¡å™¨æŒ‡å®šçš„</span><span
+  <p class=MsoNormal><span style='font-size:9.0pt;font-family:ËÎÌå;color:black'>²éÑ¯·þÎñÆ÷Ö¸¶¨µÄ</span><span
   lang=EN-US style='font-size:9.0pt;color:black'>Vhost</span><span
-  style='font-size:9.0pt;font-family:å®‹ä½“;color:black'>é…ç½®</span></p>
+  style='font-size:9.0pt;font-family:ËÎÌå;color:black'>ÅäÖÃ</span></p>
   </td>
  </tr>
  <tr>
@@ -6182,9 +7875,9 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=506 style='width:379.85pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='font-size:9.0pt;color:black'>scope=vhost&amp;vhost=xxx</span></code><span
-  style='font-size:9.0pt;font-family:å®‹ä½“;color:black'>ï¼ŒæŸ¥è¯¢æœåŠ¡å™¨çš„æŒ‡å®šçš„</span><span
+  style='font-size:9.0pt;font-family:ËÎÌå;color:black'>£¬²éÑ¯·þÎñÆ÷µÄÖ¸¶¨µÄ</span><span
   lang=EN-US style='font-size:9.0pt;color:black'>Vhost</span><span
-  style='font-size:9.0pt;font-family:å®‹ä½“;color:black'>çš„é…ç½®</span></p>
+  style='font-size:9.0pt;font-family:ËÎÌå;color:black'>µÄÅäÖÃ</span></p>
   </td>
  </tr>
 </table>
@@ -6210,7 +7903,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æ›´æ–°æœåŠ¡å™¨ä¾¦å¬ç«¯å£</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>¸üÐÂ·þÎñÆ÷ÕìÌý¶Ë¿Ú</span></p>
   </td>
  </tr>
  <tr>
@@ -6245,7 +7938,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='color:black'>scope=listen&amp;value=1935,1936</span></code><span
-  style='font-family:å®‹ä½“;color:black'>ï¼ŒæŒ‡å®šä¾¦å¬çš„ç«¯å£åˆ—è¡¨</span></p>
+  style='font-family:ËÎÌå;color:black'>£¬Ö¸¶¨ÕìÌýµÄ¶Ë¿ÚÁÐ±í</span></p>
   </td>
  </tr>
  <tr>
@@ -6253,7 +7946,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>require</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>å‚æ•°å¿…é¡»æ˜¯æ•´æ•°ç«¯å£åˆ—è¡¨ï¼Œå¤šä¸ªç«¯å£æ—¶ä»¥é€—å·åˆ†å‰²ï¼Œè­¬å¦‚ï¼š</span><span
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>²ÎÊý±ØÐëÊÇÕûÊý¶Ë¿ÚÁÐ±í£¬¶à¸ö¶Ë¿ÚÊ±ÒÔ¶ººÅ·Ö¸î£¬Æ©Èç£º</span><span
   lang=EN-US style='color:black'>1935,1936,1937</span></p>
   </td>
  </tr>
@@ -6280,9 +7973,9 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æ›´æ–°æœåŠ¡å™¨</span><span
-  lang=EN-US style='color:black'>PID</span><span style='font-family:å®‹ä½“;
-  color:black'>æ–‡ä»¶</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>¸üÐÂ·þÎñÆ÷</span><span
+  lang=EN-US style='color:black'>PID</span><span style='font-family:ËÎÌå;
+  color:black'>ÎÄ¼þ</span></p>
   </td>
  </tr>
  <tr>
@@ -6317,8 +8010,8 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='color:black'>scope=pid&amp;value=./objs/srs.pid</span></code><span
-  style='font-family:å®‹ä½“;color:black'>ï¼ŒæŒ‡å®šæ–°çš„</span><span lang=EN-US
-  style='color:black'>PID</span><span style='font-family:å®‹ä½“;color:black'>æ–‡ä»¶</span></p>
+  style='font-family:ËÎÌå;color:black'>£¬Ö¸¶¨ÐÂµÄ</span><span lang=EN-US
+  style='color:black'>PID</span><span style='font-family:ËÎÌå;color:black'>ÎÄ¼þ</span></p>
   </td>
  </tr>
  <tr>
@@ -6326,13 +8019,13 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>require</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æ–‡ä»¶è·¯å¾„å¿…é¡»ä»¥</span><span
-  lang=EN-US style='color:black'>./</span><span style='font-family:å®‹ä½“;
-  color:black'>ï¼Œ</span><span lang=EN-US style='color:black'>/tmp/</span><span
-  style='font-family:å®‹ä½“;color:black'>æˆ–</span><span lang=EN-US style='color:
-  black'>/var/</span><span style='font-family:å®‹ä½“;color:black'>å¼€å¤´ï¼Œå¹¶ä¸”æ‰©å±•åå¿…é¡»æ˜¯</span><span
-  lang=EN-US style='color:black'>.pid</span><span style='font-family:å®‹ä½“;
-  color:black'>ï¼Œè­¬å¦‚ï¼š</span><span lang=EN-US style='color:black'>/var/srs.pid</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÎÄ¼þÂ·¾¶±ØÐëÒÔ</span><span
+  lang=EN-US style='color:black'>./</span><span style='font-family:ËÎÌå;
+  color:black'>£¬</span><span lang=EN-US style='color:black'>/tmp/</span><span
+  style='font-family:ËÎÌå;color:black'>»ò</span><span lang=EN-US style='color:
+  black'>/var/</span><span style='font-family:ËÎÌå;color:black'>¿ªÍ·£¬²¢ÇÒÀ©Õ¹Ãû±ØÐëÊÇ</span><span
+  lang=EN-US style='color:black'>.pid</span><span style='font-family:ËÎÌå;
+  color:black'>£¬Æ©Èç£º</span><span lang=EN-US style='color:black'>/var/srs.pid</span></p>
   </td>
  </tr>
 </table>
@@ -6358,9 +8051,9 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>è®¾ç½®</span><span
-  lang=EN-US style='color:black'>RTMP</span><span style='font-family:å®‹ä½“;
-  color:black'>å…¨å±€</span><span lang=EN-US style='color:black'>chunk_size</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÉèÖÃ</span><span
+  lang=EN-US style='color:black'>RTMP</span><span style='font-family:ËÎÌå;
+  color:black'>È«¾Ö</span><span lang=EN-US style='color:black'>chunk_size</span></p>
   </td>
  </tr>
  <tr>
@@ -6394,7 +8087,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='color:black'>scope=chunk_size&amp;value=60000</span></code><span
-  style='font-family:å®‹ä½“;color:black'>ï¼ŒæŒ‡å®šæ–°çš„å…¨å±€</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:black'>£¬Ö¸¶¨ÐÂµÄÈ«¾Ö</span><span lang=EN-US
   style='color:black'>chunk_size</span></p>
   </td>
  </tr>
@@ -6404,9 +8097,9 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span lang=EN-US style='color:black'>chunk_size</span><span
-  style='font-family:å®‹ä½“;color:black'>å¿…é¡»æ˜¯æ•°å­—ï¼Œå¹¶ä¸”åœ¨</span><span lang=EN-US
-  style='color:black'>[128, 65535]</span><span style='font-family:å®‹ä½“;
-  color:black'>ä¸­ï¼Œè­¬å¦‚ï¼š</span><span lang=EN-US style='color:black'>60000</span></p>
+  style='font-family:ËÎÌå;color:black'>±ØÐëÊÇÊý×Ö£¬²¢ÇÒÔÚ</span><span lang=EN-US
+  style='color:black'>[128, 65535]</span><span style='font-family:ËÎÌå;
+  color:black'>ÖÐ£¬Æ©Èç£º</span><span lang=EN-US style='color:black'>60000</span></p>
   </td>
  </tr>
 </table>
@@ -6432,9 +8125,9 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>è®¾ç½®</span><span
-  lang=EN-US style='color:black'>ffmpeg</span><span style='font-family:å®‹ä½“;
-  color:black'>çš„å…¨å±€æ—¥å¿—è·¯å¾„</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÉèÖÃ</span><span
+  lang=EN-US style='color:black'>ffmpeg</span><span style='font-family:ËÎÌå;
+  color:black'>µÄÈ«¾ÖÈÕÖ¾Â·¾¶</span></p>
   </td>
  </tr>
  <tr>
@@ -6469,7 +8162,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='color:black'>scope=ff_log_dir&amp;value=./objs</span></code><span
-  style='font-family:å®‹ä½“;color:black'>ï¼ŒæŒ‡å®šæ–°çš„å…¨å±€</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:black'>£¬Ö¸¶¨ÐÂµÄÈ«¾Ö</span><span lang=EN-US
   style='color:black'>ff_log_dir</span></p>
   </td>
  </tr>
@@ -6479,10 +8172,10 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span lang=EN-US style='color:black'>ff_log_dir</span><span
-  style='font-family:å®‹ä½“;color:black'>å¿…é¡»ä»¥</span><span lang=EN-US
-  style='color:black'>./, /tmp/</span><span style='font-family:å®‹ä½“;color:black'>æˆ–</span><span
-  lang=EN-US style='color:black'>/var/</span><span style='font-family:å®‹ä½“;
-  color:black'>å¼€å¤´ã€‚è­¬å¦‚ï¼š</span><span lang=EN-US style='color:black'>./objs</span></p>
+  style='font-family:ËÎÌå;color:black'>±ØÐëÒÔ</span><span lang=EN-US
+  style='color:black'>./, /tmp/</span><span style='font-family:ËÎÌå;color:black'>»ò</span><span
+  lang=EN-US style='color:black'>/var/</span><span style='font-family:ËÎÌå;
+  color:black'>¿ªÍ·¡£Æ©Èç£º</span><span lang=EN-US style='color:black'>./objs</span></p>
   </td>
  </tr>
 </table>
@@ -6508,9 +8201,9 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>è®¾ç½®</span><span
-  lang=EN-US style='color:black'>SRS</span><span style='font-family:å®‹ä½“;
-  color:black'>çš„æ—¥å¿—å®¹å™¨</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÉèÖÃ</span><span
+  lang=EN-US style='color:black'>SRS</span><span style='font-family:ËÎÌå;
+  color:black'>µÄÈÕÖ¾ÈÝÆ÷</span></p>
   </td>
  </tr>
  <tr>
@@ -6544,7 +8237,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='color:black'>scope=srs_log_tank&amp;value=file</span></code><span
-  style='font-family:å®‹ä½“;color:black'>ï¼Œè®¾ç½®æ–°çš„æ—¥å¿—å®¹å™¨</span></p>
+  style='font-family:ËÎÌå;color:black'>£¬ÉèÖÃÐÂµÄÈÕÖ¾ÈÝÆ÷</span></p>
   </td>
  </tr>
  <tr>
@@ -6553,10 +8246,10 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span lang=EN-US style='color:black'>srs_log_tank</span><span
-  style='font-family:å®‹ä½“;color:black'>å¿…é¡»æ˜¯</span><span lang=EN-US
-  style='color:black'>file</span><span style='font-family:å®‹ä½“;color:black'>æˆ–</span><span
-  lang=EN-US style='color:black'>console</span><span style='font-family:å®‹ä½“;
-  color:black'>ã€‚è­¬å¦‚ï¼š</span><span lang=EN-US style='color:black'>file</span></p>
+  style='font-family:ËÎÌå;color:black'>±ØÐëÊÇ</span><span lang=EN-US
+  style='color:black'>file</span><span style='font-family:ËÎÌå;color:black'>»ò</span><span
+  lang=EN-US style='color:black'>console</span><span style='font-family:ËÎÌå;
+  color:black'>¡£Æ©Èç£º</span><span lang=EN-US style='color:black'>file</span></p>
   </td>
  </tr>
 </table>
@@ -6582,9 +8275,9 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>è®¾ç½®</span><span
-  lang=EN-US style='color:black'>SRS</span><span style='font-family:å®‹ä½“;
-  color:black'>çš„æ—¥å¿—çº§åˆ«</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÉèÖÃ</span><span
+  lang=EN-US style='color:black'>SRS</span><span style='font-family:ËÎÌå;
+  color:black'>µÄÈÕÖ¾¼¶±ð</span></p>
   </td>
  </tr>
  <tr>
@@ -6619,7 +8312,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='color:black'>scope=srs_log_level&amp;value=trace</span></code><span
-  style='font-family:å®‹ä½“;color:black'>ï¼Œè®¾ç½®æ–°çš„æ—¥å¿—çº§åˆ«</span></p>
+  style='font-family:ËÎÌå;color:black'>£¬ÉèÖÃÐÂµÄÈÕÖ¾¼¶±ð</span></p>
   </td>
  </tr>
  <tr>
@@ -6628,9 +8321,9 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span lang=EN-US style='color:black'>srs_log_level</span><span
-  style='font-family:å®‹ä½“;color:black'>å¿…é¡»æ˜¯</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:black'>±ØÐëÊÇ</span><span lang=EN-US
   style='color:black'>verbose,info,trace,warn,error</span><span
-  style='font-family:å®‹ä½“;color:black'>ã€‚è­¬å¦‚ï¼š</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:black'>¡£Æ©Èç£º</span><span lang=EN-US
   style='color:black'>trace</span></p>
   </td>
  </tr>
@@ -6657,9 +8350,9 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>è®¾ç½®</span><span
-  lang=EN-US style='color:black'>SRS</span><span style='font-family:å®‹ä½“;
-  color:black'>çš„æ—¥å¿—æ–‡ä»¶è·¯å¾„</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÉèÖÃ</span><span
+  lang=EN-US style='color:black'>SRS</span><span style='font-family:ËÎÌå;
+  color:black'>µÄÈÕÖ¾ÎÄ¼þÂ·¾¶</span></p>
   </td>
  </tr>
  <tr>
@@ -6693,7 +8386,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='color:black'>scope=srs_log_file&amp;value=./objs/srs.log</span></code><span
-  style='font-family:å®‹ä½“;color:black'>ï¼Œè®¾ç½®æ–°çš„æ—¥å¿—æ–‡ä»¶è·¯å¾„</span></p>
+  style='font-family:ËÎÌå;color:black'>£¬ÉèÖÃÐÂµÄÈÕÖ¾ÎÄ¼þÂ·¾¶</span></p>
   </td>
  </tr>
  <tr>
@@ -6702,10 +8395,10 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span lang=EN-US style='color:black'>srs_log_file</span><span
-  style='font-family:å®‹ä½“;color:black'>å¿…é¡»æ˜¯</span><span lang=EN-US
-  style='color:black'>.log</span><span style='font-family:å®‹ä½“;color:black'>ç±»åž‹ï¼Œå¹¶ä¸”åœ¨</span><span
+  style='font-family:ËÎÌå;color:black'>±ØÐëÊÇ</span><span lang=EN-US
+  style='color:black'>.log</span><span style='font-family:ËÎÌå;color:black'>ÀàÐÍ£¬²¢ÇÒÔÚ</span><span
   lang=EN-US style='color:black'>./, /var/, /tmp/</span><span style='font-family:
-  å®‹ä½“;color:black'>å¼€å¤´ã€‚è­¬å¦‚ï¼š</span><span lang=EN-US style='color:black'>./objs/srs.log</span></p>
+  ËÎÌå;color:black'>¿ªÍ·¡£Æ©Èç£º</span><span lang=EN-US style='color:black'>./objs/srs.log</span></p>
   </td>
  </tr>
 </table>
@@ -6731,11 +8424,11 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>è®¾ç½®</span><span
-  lang=EN-US style='color:black'>SRS</span><span style='font-family:å®‹ä½“;
-  color:black'>èƒ½æœåŠ¡çš„æœ€å¤§è¿žæŽ¥æ•°ï¼ŒåŒ…å«</span><span lang=EN-US style='color:black'>RTMP</span><span
-  style='font-family:å®‹ä½“;color:black'>å’Œ</span><span lang=EN-US style='color:
-  black'>HTTP</span><span style='font-family:å®‹ä½“;color:black'>è¿žæŽ¥</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÉèÖÃ</span><span
+  lang=EN-US style='color:black'>SRS</span><span style='font-family:ËÎÌå;
+  color:black'>ÄÜ·þÎñµÄ×î´óÁ¬½ÓÊý£¬°üº¬</span><span lang=EN-US style='color:black'>RTMP</span><span
+  style='font-family:ËÎÌå;color:black'>ºÍ</span><span lang=EN-US style='color:
+  black'>HTTP</span><span style='font-family:ËÎÌå;color:black'>Á¬½Ó</span></p>
   </td>
  </tr>
  <tr>
@@ -6769,7 +8462,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='color:black'>scope=max_connections&amp;value=1000</span></code><span
-  style='font-family:å®‹ä½“;color:black'>ï¼Œè®¾ç½®æ–°çš„æœ€å¤§è¿žæŽ¥æ•°</span></p>
+  style='font-family:ËÎÌå;color:black'>£¬ÉèÖÃÐÂµÄ×î´óÁ¬½ÓÊý</span></p>
   </td>
  </tr>
  <tr>
@@ -6778,8 +8471,8 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span lang=EN-US style='color:black'>max_connections</span><span
-  style='font-family:å®‹ä½“;color:black'>å¿…é¡»æ˜¯æ•´åž‹ï¼Œå¹¶ä¸”åœ¨</span><span lang=EN-US
-  style='color:black'>[10, 65535]</span><span style='font-family:å®‹ä½“;color:black'>èŒƒå›´å†…ã€‚è­¬å¦‚ï¼š</span><span
+  style='font-family:ËÎÌå;color:black'>±ØÐëÊÇÕûÐÍ£¬²¢ÇÒÔÚ</span><span lang=EN-US
+  style='color:black'>[10, 65535]</span><span style='font-family:ËÎÌå;color:black'>·¶Î§ÄÚ¡£Æ©Èç£º</span><span
   lang=EN-US style='color:black'>1000</span></p>
   </td>
  </tr>
@@ -6814,10 +8507,10 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æ˜¯å¦å¼€å¯</span><span
-  lang=EN-US style='color:black'>utc</span><span style='font-family:å®‹ä½“;
-  color:black'>æ—¶é—´ï¼Œå½±å“æ—¥å¿—å’ŒåŒ…å«æ—¶é—´çš„è·¯å¾„ï¼Œè­¬å¦‚</span><span lang=EN-US style='color:black'>DVR</span><span
-  style='font-family:å®‹ä½“;color:black'>å’Œ</span><span lang=EN-US style='color:
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÊÇ·ñ¿ªÆô</span><span
+  lang=EN-US style='color:black'>utc</span><span style='font-family:ËÎÌå;
+  color:black'>Ê±¼ä£¬Ó°ÏìÈÕÖ¾ºÍ°üº¬Ê±¼äµÄÂ·¾¶£¬Æ©Èç</span><span lang=EN-US style='color:black'>DVR</span><span
+  style='font-family:ËÎÌå;color:black'>ºÍ</span><span lang=EN-US style='color:
   black'>HLS</span></p>
   </td>
  </tr>
@@ -6853,8 +8546,8 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='color:black'>scope=utc_time&amp;value=false</span></code><span
-  style='font-family:å®‹ä½“;color:black'>ï¼Œè®¾ç½®æ˜¯å¦å¼€å¯</span><span lang=EN-US
-  style='color:black'>utc</span><span style='font-family:å®‹ä½“;color:black'>æ—¶é—´</span></p>
+  style='font-family:ËÎÌå;color:black'>£¬ÉèÖÃÊÇ·ñ¿ªÆô</span><span lang=EN-US
+  style='color:black'>utc</span><span style='font-family:ËÎÌå;color:black'>Ê±¼ä</span></p>
   </td>
  </tr>
  <tr>
@@ -6863,11 +8556,11 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span lang=EN-US style='color:black'>utc_time</span><span
-  style='font-family:å®‹ä½“;color:black'>æ˜¯</span><span lang=EN-US style='color:
-  black'>bool</span><span style='font-family:å®‹ä½“;color:black'>ï¼Œå¿…é¡»æ˜¯</span><span
-  lang=EN-US style='color:black'>true</span><span style='font-family:å®‹ä½“;
-  color:black'>æˆ–</span><span lang=EN-US style='color:black'>false</span><span
-  style='font-family:å®‹ä½“;color:black'>ã€‚è­¬å¦‚ï¼š</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:black'>ÊÇ</span><span lang=EN-US style='color:
+  black'>bool</span><span style='font-family:ËÎÌå;color:black'>£¬±ØÐëÊÇ</span><span
+  lang=EN-US style='color:black'>true</span><span style='font-family:ËÎÌå;
+  color:black'>»ò</span><span lang=EN-US style='color:black'>false</span><span
+  style='font-family:ËÎÌå;color:black'>¡£Æ©Èç£º</span><span lang=EN-US
   style='color:black'>false</span></p>
   </td>
  </tr>
@@ -6894,9 +8587,9 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>è®¾ç½®å…¨å±€çš„</span><span
-  lang=EN-US style='color:black'>pithy</span><span style='font-family:å®‹ä½“;
-  color:black'>æ‰“å°æ—¶é—´é—´éš”</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÉèÖÃÈ«¾ÖµÄ</span><span
+  lang=EN-US style='color:black'>pithy</span><span style='font-family:ËÎÌå;
+  color:black'>´òÓ¡Ê±¼ä¼ä¸ô</span></p>
   </td>
  </tr>
  <tr>
@@ -6930,8 +8623,8 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='color:black'>scope=pithy_print_ms&amp;value=10000</span></code><span
-  style='font-family:å®‹ä½“;color:black'>ï¼Œè®¾ç½®æ–°çš„</span><span lang=EN-US
-  style='color:black'>pithy</span><span style='font-family:å®‹ä½“;color:black'>æ‰“å°æ—¶é—´é—´éš”</span></p>
+  style='font-family:ËÎÌå;color:black'>£¬ÉèÖÃÐÂµÄ</span><span lang=EN-US
+  style='color:black'>pithy</span><span style='font-family:ËÎÌå;color:black'>´òÓ¡Ê±¼ä¼ä¸ô</span></p>
   </td>
  </tr>
  <tr style='height:22.85pt'>
@@ -6942,9 +8635,9 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt;
   height:22.85pt'>
   <p class=MsoNormal><span lang=EN-US style='color:black'>pithy_print_ms</span><span
-  style='font-family:å®‹ä½“;color:black'>å•ä½æ˜¯æ¯«ç§’ï¼Œåœ¨</span><span lang=EN-US
-  style='color:black'>[100,300000]</span><span style='font-family:å®‹ä½“;
-  color:black'>èŒƒå›´å†…ã€‚è­¬å¦‚ï¼š</span><span lang=EN-US style='color:black'>10000</span></p>
+  style='font-family:ËÎÌå;color:black'>µ¥Î»ÊÇºÁÃë£¬ÔÚ</span><span lang=EN-US
+  style='color:black'>[100,300000]</span><span style='font-family:ËÎÌå;
+  color:black'>·¶Î§ÄÚ¡£Æ©Èç£º</span><span lang=EN-US style='color:black'>10000</span></p>
   </td>
  </tr>
 </table>
@@ -6952,7 +8645,7 @@ lang=EN-US style='font-size:10.5pt'>}</span></code></pre>
 <h5><span lang=EN-US>RAW Vhost</span></h5>
 
 <p><span lang=EN-US style='font-size:10.5pt'>Vhost</span><span
-style='font-size:10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã€‚</span></p>
+style='font-size:10.5pt'>²Ù×÷ÊÇ<span lang=EN-US>Update</span>µÄÒ»¸ö×Ó¼¯¡£</span></p>
 
 <table class=MsoNormalTable border=0 cellspacing=30 cellpadding=0
  style='background:#E5E5E5'>
@@ -6973,10 +8666,10 @@ style='font-size:10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æ–°å¢ž</span><span
-  lang=EN-US style='color:black'>vhost</span><span style='font-family:å®‹ä½“;
-  color:black'>ï¼ŒæŒ‡å®š</span><span lang=EN-US style='color:black'>vhost</span><span
-  style='font-family:å®‹ä½“;color:black'>åç§°</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÐÂÔö</span><span
+  lang=EN-US style='color:black'>vhost</span><span style='font-family:ËÎÌå;
+  color:black'>£¬Ö¸¶¨</span><span lang=EN-US style='color:black'>vhost</span><span
+  style='font-family:ËÎÌå;color:black'>Ãû³Æ</span></p>
   </td>
  </tr>
  <tr>
@@ -7010,7 +8703,7 @@ style='font-size:10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='color:black'>scope=vhost&amp;value=ossrs.net&amp;param=create</span></code><span
-  style='font-family:å®‹ä½“;color:black'>ï¼Œåˆ›å»ºæ–°çš„</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:black'>£¬´´½¨ÐÂµÄ</span><span lang=EN-US
   style='color:black'>vhost</span></p>
   </td>
  </tr>
@@ -7019,11 +8712,11 @@ style='font-size:10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã
   <p class=MsoNormal><span lang=EN-US style='color:black'>require</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>æ–°åˆ›å»ºçš„</span><span
-  lang=EN-US style='color:black'>vhost</span><span style='font-family:å®‹ä½“;
-  color:black'>å¿…é¡»æ˜¯ä¸å­˜åœ¨çš„ã€‚æ³¨æ„ç¦ç”¨çš„</span><span lang=EN-US style='color:black'>vhost</span><span
-  style='font-family:å®‹ä½“;color:black'>ä¹Ÿç®—æ˜¯å­˜åœ¨çš„</span><span lang=EN-US
-  style='color:black'>vhost</span><span style='font-family:å®‹ä½“;color:black'>ã€‚</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÐÂ´´½¨µÄ</span><span
+  lang=EN-US style='color:black'>vhost</span><span style='font-family:ËÎÌå;
+  color:black'>±ØÐëÊÇ²»´æÔÚµÄ¡£×¢Òâ½ûÓÃµÄ</span><span lang=EN-US style='color:black'>vhost</span><span
+  style='font-family:ËÎÌå;color:black'>Ò²ËãÊÇ´æÔÚµÄ</span><span lang=EN-US
+  style='color:black'>vhost</span><span style='font-family:ËÎÌå;color:black'>¡£</span></p>
   </td>
  </tr>
 </table>
@@ -7049,9 +8742,9 @@ style='font-size:10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>ä¿®æ”¹ç¦ç”¨çš„</span><span
-  lang=EN-US style='color:black'>vhost</span><span style='font-family:å®‹ä½“;
-  color:black'>åç§°</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÐÞ¸Ä½ûÓÃµÄ</span><span
+  lang=EN-US style='color:black'>vhost</span><span style='font-family:ËÎÌå;
+  color:black'>Ãû³Æ</span></p>
   </td>
  </tr>
  <tr>
@@ -7086,8 +8779,8 @@ style='font-size:10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='color:black'>scope=vhost&amp;value=ossrs.net&amp;param=update&amp;data=new.ossrs.net</span></code><span
-  style='font-family:å®‹ä½“;color:black'>ï¼Œä¿®æ”¹</span><span lang=EN-US
-  style='color:black'>vhost</span><span style='font-family:å®‹ä½“;color:black'>åç§°ä¸ºæ–°åç§°</span></p>
+  style='font-family:ËÎÌå;color:black'>£¬ÐÞ¸Ä</span><span lang=EN-US
+  style='color:black'>vhost</span><span style='font-family:ËÎÌå;color:black'>Ãû³ÆÎªÐÂÃû³Æ</span></p>
   </td>
  </tr>
  <tr>
@@ -7095,9 +8788,9 @@ style='font-size:10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã
   <p class=MsoNormal><span lang=EN-US style='color:black'>require</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>éœ€è¦ä¿®æ”¹çš„</span><span
-  lang=EN-US style='color:black'>vhost</span><span style='font-family:å®‹ä½“;
-  color:black'>å¿…é¡»å­˜åœ¨ï¼Œå¹¶ä¸”æ˜¯ç¦ç”¨çŠ¶æ€ã€‚</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÐèÒªÐÞ¸ÄµÄ</span><span
+  lang=EN-US style='color:black'>vhost</span><span style='font-family:ËÎÌå;
+  color:black'>±ØÐë´æÔÚ£¬²¢ÇÒÊÇ½ûÓÃ×´Ì¬¡£</span></p>
   </td>
  </tr>
 </table>
@@ -7123,7 +8816,7 @@ style='font-size:10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>ç¦ç”¨</span><span
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>½ûÓÃ</span><span
   lang=EN-US style='color:black'>vhost</span></p>
   </td>
  </tr>
@@ -7158,7 +8851,7 @@ style='font-size:10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='color:black'>scope=vhost&amp;value=ossrs.net&amp;param=disable</span></code><span
-  style='font-family:å®‹ä½“;color:black'>ï¼Œç¦ç”¨</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:black'>£¬½ûÓÃ</span><span lang=EN-US
   style='color:black'>vhost</span></p>
   </td>
  </tr>
@@ -7167,9 +8860,9 @@ style='font-size:10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã
   <p class=MsoNormal><span lang=EN-US style='color:black'>require</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>è¦ç¦ç”¨çš„</span><span
-  lang=EN-US style='color:black'>vhost</span><span style='font-family:å®‹ä½“;
-  color:black'>å¿…é¡»å­˜åœ¨å¹¶ä¸”æ˜¯å¯ç”¨çŠ¶æ€ã€‚</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>Òª½ûÓÃµÄ</span><span
+  lang=EN-US style='color:black'>vhost</span><span style='font-family:ËÎÌå;
+  color:black'>±ØÐë´æÔÚ²¢ÇÒÊÇÆôÓÃ×´Ì¬¡£</span></p>
   </td>
  </tr>
 </table>
@@ -7195,7 +8888,7 @@ style='font-size:10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã
   <p class=MsoNormal><span lang=EN-US style='color:black'>feature</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>å¯ç”¨</span><span
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÆôÓÃ</span><span
   lang=EN-US style='color:black'>vhost</span></p>
   </td>
  </tr>
@@ -7231,7 +8924,7 @@ style='font-size:10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><code><span lang=EN-US style='color:black'>scope=vhost&amp;value=ossrs.net&amp;param=enable</span></code><span
-  style='font-family:å®‹ä½“;color:black'>ï¼Œå¯ç”¨</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:black'>£¬ÆôÓÃ</span><span lang=EN-US
   style='color:black'>vhost</span></p>
   </td>
  </tr>
@@ -7240,9 +8933,9 @@ style='font-size:10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã
   <p class=MsoNormal><span lang=EN-US style='color:black'>require</span></p>
   </td>
   <td width=488 style='width:365.65pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span style='font-family:å®‹ä½“;color:black'>è¦å¯ç”¨çš„</span><span
-  lang=EN-US style='color:black'>vhost</span><span style='font-family:å®‹ä½“;
-  color:black'>å¿…é¡»å­˜åœ¨å¹¶ä¸”æ˜¯ç¦ç”¨çŠ¶æ€ã€‚</span></p>
+  <p class=MsoNormal><span style='font-family:ËÎÌå;color:black'>ÒªÆôÓÃµÄ</span><span
+  lang=EN-US style='color:black'>vhost</span><span style='font-family:ËÎÌå;
+  color:black'>±ØÐë´æÔÚ²¢ÇÒÊÇ½ûÓÃ×´Ì¬¡£</span></p>
   </td>
  </tr>
 </table>
@@ -7250,7 +8943,7 @@ style='font-size:10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã
 <h5><span lang=EN-US>RAW DVR</span></h5>
 
 <p><span lang=EN-US style='font-size:10.5pt'>DVR</span><span style='font-size:
-10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã€‚</span></p>
+10.5pt'>²Ù×÷ÊÇ<span lang=EN-US>Update</span>µÄÒ»¸ö×Ó¼¯¡£</span></p>
 
 <table class=MsoNormalTable border=0 cellspacing=30 cellpadding=0
  style='background:#E5E5E5'>
@@ -7258,80 +8951,80 @@ style='font-size:10.5pt'>æ“ä½œæ˜¯<span lang=EN-US>Update</span>çš„ä¸€ä¸ªå­é›†ã
   <tr>
    <td width=76 style='width:2.0cm;padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   lang=EN-US style='font-family:å®‹ä½“'>Key</span></b></p>
+   lang=EN-US style='font-family:ËÎÌå'>Key</span></b></p>
    </td>
    <td width=478 style='width:358.6pt;padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   lang=EN-US style='font-family:å®‹ä½“;color:black'>DESC</span></b></p>
+   lang=EN-US style='font-family:ËÎÌå;color:black'>DESC</span></b></p>
    </td>
   </tr>
  </thead>
  <tr>
   <td width=76 style='width:2.0cm;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>feature</span></p>
+  style='font-family:ËÎÌå;color:black'>feature</span></p>
   </td>
   <td width=478 style='width:358.6pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span style='font-family:
-  å®‹ä½“;color:black'>å¼€å¯<span lang=EN-US>Vhost</span>çš„æŸä¸ªæµçš„<span lang=EN-US>DVR</span></span></p>
+  ËÎÌå;color:black'>¿ªÆô<span lang=EN-US>Vhost</span>µÄÄ³¸öÁ÷µÄ<span lang=EN-US>DVR</span></span></p>
   </td>
  </tr>
  <tr>
   <td width=76 style='width:2.0cm;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>url</span></p>
+  style='font-family:ËÎÌå;color:black'>url</span></p>
   </td>
   <td width=478 style='width:358.6pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>/api/v1/raw?rpc=update&amp;scope=dvr&amp;value=ossrs.net&amp;param=enable&amp;data=live/livestream</span></p>
+  style='font-family:ËÎÌå;color:black'>/api/v1/raw?rpc=update&amp;scope=dvr&amp;value=ossrs.net&amp;param=enable&amp;data=live/livestream</span></p>
   </td>
  </tr>
  <tr>
   <td width=76 style='width:2.0cm;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>curl</span></p>
+  style='font-family:ËÎÌå;color:black'>curl</span></p>
   </td>
   <td width=478 style='width:358.6pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>curl 'http://127.0.0.1:1985/api/v1/raw?rpc=update&amp;scope=dvr&amp;value=ossrs.net&amp;param=enable&amp;data=live/livestream'</span></p>
+  style='font-family:ËÎÌå;color:black'>curl 'http://127.0.0.1:1985/api/v1/raw?rpc=update&amp;scope=dvr&amp;value=ossrs.net&amp;param=enable&amp;data=live/livestream'</span></p>
   </td>
  </tr>
  <tr>
   <td width=76 style='width:2.0cm;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>config</span></p>
+  style='font-family:ËÎÌå;color:black'>config</span></p>
   </td>
   <td width=478 style='width:358.6pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>allow_update on;</span></p>
+  style='font-family:ËÎÌå;color:black'>allow_update on;</span></p>
   </td>
  </tr>
  <tr>
   <td width=76 style='width:2.0cm;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>params</span></p>
+  style='font-family:ËÎÌå;color:black'>params</span></p>
   </td>
   <td width=478 style='width:358.6pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>scope=dvr&amp;value=ossrs.net&amp;param=enable&amp;data=live/livestream</span><span
-  style='font-family:å®‹ä½“;color:black'>ï¼Œå¯¹<span lang=EN-US>Vhost</span>çš„<span
-  lang=EN-US>Stream</span>å¼€å¯<span lang=EN-US>DVR</span></span></p>
+  style='font-family:ËÎÌå;color:black'>scope=dvr&amp;value=ossrs.net&amp;param=enable&amp;data=live/livestream</span><span
+  style='font-family:ËÎÌå;color:black'>£¬¶Ô<span lang=EN-US>Vhost</span>µÄ<span
+  lang=EN-US>Stream</span>¿ªÆô<span lang=EN-US>DVR</span></span></p>
   </td>
  </tr>
  <tr>
   <td width=76 style='width:2.0cm;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>require</span></p>
+  style='font-family:ËÎÌå;color:black'>require</span></p>
   </td>
   <td width=478 style='width:358.6pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span style='font-family:
-  å®‹ä½“;color:black'>å¿…é¡»<span lang=EN-US>Vhost</span>çš„<span lang=EN-US>DVR</span>æ˜¯å¼€å¯çŠ¶æ€ã€‚</span></p>
+  ËÎÌå;color:black'>±ØÐë<span lang=EN-US>Vhost</span>µÄ<span lang=EN-US>DVR</span>ÊÇ¿ªÆô×´Ì¬¡£</span></p>
   </td>
  </tr>
 </table>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-family:å®‹ä½“;display:none'>&nbsp;</span></p>
+style='font-family:ËÎÌå;display:none'>&nbsp;</span></p>
 
 <table class=MsoNormalTable border=0 cellspacing=30 cellpadding=0
  style='background:#F2F2F2'>
@@ -7339,74 +9032,74 @@ style='font-family:å®‹ä½“;display:none'>&nbsp;</span></p>
   <tr>
    <td width=76 style='width:2.0cm;padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   lang=EN-US style='font-family:å®‹ä½“'>Key</span></b></p>
+   lang=EN-US style='font-family:ËÎÌå'>Key</span></b></p>
    </td>
    <td width=478 style='width:358.6pt;padding:.75pt .75pt .75pt .75pt'>
    <p class=MsoNormal align=center style='text-align:center'><b><span
-   lang=EN-US style='font-family:å®‹ä½“;color:black'>DESC</span></b></p>
+   lang=EN-US style='font-family:ËÎÌå;color:black'>DESC</span></b></p>
    </td>
   </tr>
  </thead>
  <tr>
   <td width=76 style='width:2.0cm;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>feature</span></p>
+  style='font-family:ËÎÌå;color:black'>feature</span></p>
   </td>
   <td width=478 style='width:358.6pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span style='font-family:
-  å®‹ä½“;color:black'>å…³é—­<span lang=EN-US>Vhost</span>çš„æŸä¸ªæµçš„<span lang=EN-US>DVR</span></span></p>
+  ËÎÌå;color:black'>¹Ø±Õ<span lang=EN-US>Vhost</span>µÄÄ³¸öÁ÷µÄ<span lang=EN-US>DVR</span></span></p>
   </td>
  </tr>
  <tr>
   <td width=76 style='width:2.0cm;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>url</span></p>
+  style='font-family:ËÎÌå;color:black'>url</span></p>
   </td>
   <td width=478 style='width:358.6pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>/api/v1/raw?rpc=update&amp;scope=dvr&amp;value=ossrs.net&amp;param=disable&amp;data=live/livestream</span></p>
+  style='font-family:ËÎÌå;color:black'>/api/v1/raw?rpc=update&amp;scope=dvr&amp;value=ossrs.net&amp;param=disable&amp;data=live/livestream</span></p>
   </td>
  </tr>
  <tr>
   <td width=76 style='width:2.0cm;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>curl</span></p>
+  style='font-family:ËÎÌå;color:black'>curl</span></p>
   </td>
   <td width=478 style='width:358.6pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>curl 'http://127.0.0.1:1985/api/v1/raw?rpc=update&amp;scope=dvr&amp;value=ossrs.net&amp;param=disable&amp;data=live/livestream'</span></p>
+  style='font-family:ËÎÌå;color:black'>curl 'http://127.0.0.1:1985/api/v1/raw?rpc=update&amp;scope=dvr&amp;value=ossrs.net&amp;param=disable&amp;data=live/livestream'</span></p>
   </td>
  </tr>
  <tr>
   <td width=76 style='width:2.0cm;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>config</span></p>
+  style='font-family:ËÎÌå;color:black'>config</span></p>
   </td>
   <td width=478 style='width:358.6pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>allow_update on;</span></p>
+  style='font-family:ËÎÌå;color:black'>allow_update on;</span></p>
   </td>
  </tr>
  <tr>
   <td width=76 style='width:2.0cm;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>params</span></p>
+  style='font-family:ËÎÌå;color:black'>params</span></p>
   </td>
   <td width=478 style='width:358.6pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>scope=dvr&amp;value=ossrs.net&amp;param=disable&amp;data=live/livestream</span><span
-  style='font-family:å®‹ä½“;color:black'>ï¼Œå¯¹<span lang=EN-US>Vhost</span>çš„<span
-  lang=EN-US>Stream</span>å…³é—­<span lang=EN-US>DVR</span></span></p>
+  style='font-family:ËÎÌå;color:black'>scope=dvr&amp;value=ossrs.net&amp;param=disable&amp;data=live/livestream</span><span
+  style='font-family:ËÎÌå;color:black'>£¬¶Ô<span lang=EN-US>Vhost</span>µÄ<span
+  lang=EN-US>Stream</span>¹Ø±Õ<span lang=EN-US>DVR</span></span></p>
   </td>
  </tr>
  <tr>
   <td width=76 style='width:2.0cm;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-  style='font-family:å®‹ä½“;color:black'>require</span></p>
+  style='font-family:ËÎÌå;color:black'>require</span></p>
   </td>
   <td width=478 style='width:358.6pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal align=left style='text-align:left'><span style='font-family:
-  å®‹ä½“;color:black'>å¿…é¡»<span lang=EN-US>Vhost</span>çš„<span lang=EN-US>DVR</span>æ˜¯å¼€å¯çŠ¶æ€ã€‚</span></p>
+  ËÎÌå;color:black'>±ØÐë<span lang=EN-US>Vhost</span>µÄ<span lang=EN-US>DVR</span>ÊÇ¿ªÆô×´Ì¬¡£</span></p>
   </td>
  </tr>
 </table>
@@ -7422,17 +9115,17 @@ href="https://github.com/ossrs/srs/wiki/v3_CN_HTTPApi">https://github.com/ossrs/
 
 <h3><a name="_Toc26097970"></a><a name="_Toc462219523"></a><a
 name="_Toc456260531"><span lang=EN-US>RTMP</span></a><span style='font-family:
-å®‹ä½“'>æµ‹é€Ÿ</span></h3>
+ËÎÌå'>²âËÙ</span></h3>
 
-<p><span style='font-size:10.5pt'>è§†é¢‘å¾ˆå¡ï¼Œæ’­æ”¾ä¸äº†ï¼Œç¼“å†²åŒºçªç„¶å¾ˆå¤§ï¼ŒæŽ¨æµä¸Šä¸æ¥ï¼Œéƒ½æœ‰å¯èƒ½æ˜¯å¸¦å®½è¿‡ä½Žï¼Œ<span
-lang=EN-US>SRS</span>æ”¯æŒæµ‹è¯•å®¢æˆ·ç«¯åˆ°æœåŠ¡å™¨çš„å¸¦å®½ã€‚</span></p>
+<p><span style='font-size:10.5pt'>ÊÓÆµºÜ¿¨£¬²¥·Å²»ÁË£¬»º³åÇøÍ»È»ºÜ´ó£¬ÍÆÁ÷ÉÏ²»À´£¬¶¼ÓÐ¿ÉÄÜÊÇ´ø¿í¹ýµÍ£¬<span
+lang=EN-US>SRS</span>Ö§³Ö²âÊÔ¿Í»§¶Ëµ½·þÎñÆ÷µÄ´ø¿í¡£</span></p>
 
 <h4><a name="_Toc462219524"><span lang=EN-US>SRS</span></a><span
-style='font-family:å®‹ä½“'>é…ç½®</span></h4>
+style='font-family:ËÎÌå'>ÅäÖÃ</span></h4>
 
 <p><span lang=EN-US style='font-size:10.5pt'>SRS</span><span style='font-size:
-10.5pt'>é…ç½®ä¸€èˆ¬æ˜¯å•ç‹¬åŠ ä¸€ä¸ª<span lang=EN-US>vhost</span>æ”¯æŒæµ‹é€Ÿã€‚<span lang=EN-US>SRS</span>çš„é…ç½®<code><span
-lang=EN-US>conf/bandwidth.conf</span></code>ã€‚è­¬å¦‚ï¼š</span></p>
+10.5pt'>ÅäÖÃÒ»°ãÊÇµ¥¶À¼ÓÒ»¸ö<span lang=EN-US>vhost</span>Ö§³Ö²âËÙ¡£<span lang=EN-US>SRS</span>µÄÅäÖÃ<code><span
+lang=EN-US>conf/bandwidth.conf</span></code>¡£Æ©Èç£º</span></p>
 
 <pre><span lang=EN-US style='font-size:10.5pt'>listen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;1935<span
 class=pl-k>;</span></span></pre><pre><span lang=EN-US style='font-size:10.5pt'>vhost __defaultVhost__ {</span></pre><pre><span
@@ -7451,88 +9144,88 @@ class=pl-k>;</span></span></pre><pre><span lang=EN-US style='font-size:10.5pt'>&
 class=pl-k>;</span></span></pre><pre><span lang=EN-US style='font-size:10.5pt'>&nbsp;&nbsp;&nbsp; }</span></pre><pre><span
 lang=EN-US style='font-size:10.5pt'>}</span></pre>
 
-<p><span style='font-size:10.5pt'>å…¶ä¸­ï¼š</span></p>
+<p><span style='font-size:10.5pt'>ÆäÖÐ£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>key</span><span
-     style='font-family:å®‹ä½“'>ï¼šæœåŠ¡å™¨çš„</span><span lang=EN-US>key</span><span
-     style='font-family:å®‹ä½“'>ï¼Œè‹¥å®¢æˆ·ç«¯ç»™å‡ºçš„</span><span lang=EN-US>key</span><span
-     style='font-family:å®‹ä½“'>å’Œé…ç½®çš„ä¸ä¸€è‡´ï¼Œæ–­å¼€è¿žæŽ¥ã€‚</span></li>
+     style='font-family:ËÎÌå'>£º·þÎñÆ÷µÄ</span><span lang=EN-US>key</span><span
+     style='font-family:ËÎÌå'>£¬Èô¿Í»§¶Ë¸ø³öµÄ</span><span lang=EN-US>key</span><span
+     style='font-family:ËÎÌå'>ºÍÅäÖÃµÄ²»Ò»ÖÂ£¬¶Ï¿ªÁ¬½Ó¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>interval</span><span
-     style='font-family:å®‹ä½“'>ï¼šæµ‹é€Ÿçš„é—´éš”ï¼Œå•ä½ä¸ºç§’ï¼Œå¯ä¸ºå°æ•°ã€‚è‹¥è¿žç»­å‘èµ·æµ‹é€Ÿï¼Œæ—¶é—´é—´éš”å°äºŽ</span><span
-     lang=EN-US>interval</span><span style='font-family:å®‹ä½“'>ï¼ŒæœåŠ¡å™¨æ‹’ç»è¿žæŽ¥ã€‚</span></li>
+     style='font-family:ËÎÌå'>£º²âËÙµÄ¼ä¸ô£¬µ¥Î»ÎªÃë£¬¿ÉÎªÐ¡Êý¡£ÈôÁ¬Ðø·¢Æð²âËÙ£¬Ê±¼ä¼ä¸ôÐ¡ÓÚ</span><span
+     lang=EN-US>interval</span><span style='font-family:ËÎÌå'>£¬·þÎñÆ÷¾Ü¾øÁ¬½Ó¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>limit_kbps</span><span
-     style='font-family:å®‹ä½“'>ï¼šæµ‹é€Ÿçš„æœ€å¤§å¸¦å®½ï¼Œå³å¯ä»¥æµ‹å‡ºæ¥çš„æœ€å¤§å¸¦å®½ï¼Œé˜²æ­¢æœåŠ¡å™¨æ”¶åˆ°æ”»å‡»ã€‚</span></li>
+     style='font-family:ËÎÌå'>£º²âËÙµÄ×î´ó´ø¿í£¬¼´¿ÉÒÔ²â³öÀ´µÄ×î´ó´ø¿í£¬·ÀÖ¹·þÎñÆ÷ÊÕµ½¹¥»÷¡£</span></li>
 </ul>
 
-<p><strong><span style='font-size:10.5pt;font-family:å®‹ä½“'>å‡è®¾æœåŠ¡å™¨çš„<span
-lang=EN-US>IP</span>æ˜¯ï¼š<span lang=EN-US>192.168.1.170</span></span></strong></p>
+<p><strong><span style='font-size:10.5pt;font-family:ËÎÌå'>¼ÙÉè·þÎñÆ÷µÄ<span
+lang=EN-US>IP</span>ÊÇ£º<span lang=EN-US>192.168.1.170</span></span></strong></p>
 
 <h4><a name="_Toc462219525"><span lang=EN-US>Flash</span></a><span
-style='font-family:å®‹ä½“'>æµ‹é€Ÿå·¥å…·</span></h4>
+style='font-family:ËÎÌå'>²âËÙ¹¤¾ß</span></h4>
 
-<p><span style='font-size:10.5pt'>å¯åŠ¨åŽç”¨å¸¦å®½æµ‹è¯•å®¢æˆ·ç«¯å°±å¯ä»¥æŸ¥çœ‹ï¼š</span><span lang=EN-US><a
+<p><span style='font-size:10.5pt'>Æô¶¯ºóÓÃ´ø¿í²âÊÔ¿Í»§¶Ë¾Í¿ÉÒÔ²é¿´£º</span><span lang=EN-US><a
 href="http://winlinvip.github.io/srs.release/trunk/research/players/srs_bwt.html?server=192.168.1.170"><span
 style='font-size:10.5pt'>http://winlinvip.github.io/srs.release/trunk/research/players/srs_bwt.html?server=192.168.1.170</span></a></span></p>
 
-<p><span style='font-size:10.5pt'>å¤‡æ³¨ï¼šè¯·å°†æ‰€æœ‰å®žä¾‹çš„<span lang=EN-US>IP</span>åœ°å€<span
-lang=EN-US>192.168.1.170</span>éƒ½æ¢æˆéƒ¨ç½²çš„æœåŠ¡å™¨<span lang=EN-US>IP</span>åœ°å€ã€‚</span></p>
+<p><span style='font-size:10.5pt'>±¸×¢£ºÇë½«ËùÓÐÊµÀýµÄ<span lang=EN-US>IP</span>µØÖ·<span
+lang=EN-US>192.168.1.170</span>¶¼»»³É²¿ÊðµÄ·þÎñÆ÷<span lang=EN-US>IP</span>µØÖ·¡£</span></p>
 
-<p><span style='font-size:10.5pt'>æ£€æµ‹å®Œæ¯•åŽä¼šæç¤ºå¸¦å®½ï¼Œè­¬å¦‚ï¼š</span></p>
+<p><span style='font-size:10.5pt'>¼ì²âÍê±Ïºó»áÌáÊ¾´ø¿í£¬Æ©Èç£º</span></p>
 
-<pre><span style='font-size:10.5pt'>æ£€æµ‹ç»“æŸ<span lang=EN-US>: 192.168.1.170 </span>ä¸Šè¡Œ<span
-lang=EN-US>: 1965 kbps </span>ä¸‹è¡Œ<span lang=EN-US>: 3631 kbps </span>æµ‹è¯•æ—¶é—´<span
-lang=EN-US>: 6.0 </span>ç§’</span></pre><pre><span lang=EN-US style='font-size:
+<pre><span style='font-size:10.5pt'>¼ì²â½áÊø<span lang=EN-US>: 192.168.1.170 </span>ÉÏÐÐ<span
+lang=EN-US>: 1965 kbps </span>ÏÂÐÐ<span lang=EN-US>: 3631 kbps </span>²âÊÔÊ±¼ä<span
+lang=EN-US>: 6.0 </span>Ãë</span></pre><pre><span lang=EN-US style='font-size:
 10.5pt'>server:SRS 0.9.156 (github.com/winlinvip/simple-rtmp-server), </span></pre><pre><span
 lang=EN-US style='font-size:10.5pt'>authors:winlin,wenjie.zhao, srs_id:123, srs_pid:32057, ip:192.168.1.170</span></pre>
 
-<h4><a name="_Toc462219526"><span style='font-family:å®‹ä½“'>æµ‹é€Ÿåº“</span></a></h4>
+<h4><a name="_Toc462219526"><span style='font-family:ËÎÌå'>²âËÙ¿â</span></a></h4>
 
-<p><span style='font-size:10.5pt'>æˆ‘æä¾›äº†<span lang=EN-US>AS</span>å’Œ<span
-lang=EN-US>JS</span>çš„åº“ï¼Œå¯ä»¥ç›´æŽ¥è°ƒç”¨æ¥å’ŒæœåŠ¡å™¨æµ‹é€Ÿã€‚</span></p>
+<p><span style='font-size:10.5pt'>ÎÒÌá¹©ÁË<span lang=EN-US>AS</span>ºÍ<span
+lang=EN-US>JS</span>µÄ¿â£¬¿ÉÒÔÖ±½Óµ÷ÓÃÀ´ºÍ·þÎñÆ÷²âËÙ¡£</span></p>
 
 <p><span lang=EN-US style='font-size:10.5pt'>AS</span><span style='font-size:
-10.5pt'>çš„åº“ï¼Œç›´æŽ¥æ‹·è´æ–‡ä»¶<code><span lang=EN-US>SrsBandwidth.as</span></code>åˆ°å·¥ç¨‹ï¼Œè°ƒç”¨å³å¯ï¼ˆå‚è€ƒæ³¨é‡Šè¯´æ˜Žï¼‰ï¼š</span></p>
+10.5pt'>µÄ¿â£¬Ö±½Ó¿½±´ÎÄ¼þ<code><span lang=EN-US>SrsBandwidth.as</span></code>µ½¹¤³Ì£¬µ÷ÓÃ¼´¿É£¨²Î¿¼×¢ÊÍËµÃ÷£©£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>AS</span><span
-     style='font-family:å®‹ä½“'>åº“å¯¹è±¡ï¼š</span><span lang=EN-US><a
+     style='font-family:ËÎÌå'>¿â¶ÔÏó£º</span><span lang=EN-US><a
      href="https://github.com/ossrs/srs/blob/master/trunk/research/players/srs_bwt/src/SrsBandwidth.as">SrsBandwidth.as</a></span><span
      lang=EN-US> </span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>AS</span><span
-     style='font-family:å®‹ä½“'>è°ƒç”¨å¯¹è±¡ï¼ˆä¸»å¯¹è±¡ï¼‰ï¼š</span><span lang=EN-US><a
+     style='font-family:ËÎÌå'>µ÷ÓÃ¶ÔÏó£¨Ö÷¶ÔÏó£©£º</span><span lang=EN-US><a
      href="https://github.com/ossrs/srs/blob/master/trunk/research/players/srs_bwt/src/srs_bwt.as">srs_bwt.as</a></span><span
-     style='font-family:å®‹ä½“'>ï¼Œå¦‚ä½•è°ƒç”¨</span><code><span lang=EN-US>SrsBandwidth.as</span></code><span
-     style='font-family:å®‹ä½“'>çš„å®žä¾‹ã€‚</span></li>
+     style='font-family:ËÎÌå'>£¬ÈçºÎµ÷ÓÃ</span><code><span lang=EN-US>SrsBandwidth.as</span></code><span
+     style='font-family:ËÎÌå'>µÄÊµÀý¡£</span></li>
 </ul>
 
 <p><span lang=EN-US style='font-size:10.5pt'>JS</span><span style='font-size:
-10.5pt'>çš„åº“ï¼Œéœ€è¦æ‹·è´<code><span lang=EN-US>srs_bwt.swf</span></code>å’Œ<code><span
-lang=EN-US>srs.bandwidth.js</span></code>ï¼Œè°ƒç”¨æ–¹æ³•å‚è€ƒ<span lang=EN-US>js</span>è¯´æ˜Žï¼š</span></p>
+10.5pt'>µÄ¿â£¬ÐèÒª¿½±´<code><span lang=EN-US>srs_bwt.swf</span></code>ºÍ<code><span
+lang=EN-US>srs.bandwidth.js</span></code>£¬µ÷ÓÃ·½·¨²Î¿¼<span lang=EN-US>js</span>ËµÃ÷£º</span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>JS</span><span
-     style='font-family:å®‹ä½“'>åº“å¯¹è±¡ï¼š</span><span lang=EN-US><a
+     style='font-family:ËÎÌå'>¿â¶ÔÏó£º</span><span lang=EN-US><a
      href="https://github.com/ossrs/srs/blob/master/trunk/research/players/srs_bwt/src/srs.bandwidth.js">srs.bandwidth.js</a></span><span
      lang=EN-US> </span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>JS</span><span
-     style='font-family:å®‹ä½“'>è°ƒç”¨å¯¹è±¡ï¼ˆé¡µé¢ï¼‰ï¼š</span><span lang=EN-US><a
+     style='font-family:ËÎÌå'>µ÷ÓÃ¶ÔÏó£¨Ò³Ãæ£©£º</span><span lang=EN-US><a
      href="https://github.com/ossrs/srs/blob/master/trunk/research/players/srs_bwt.html">srs_bwt.html</a></span><span
-     style='font-family:å®‹ä½“'>ï¼Œå¦‚ä½•è°ƒç”¨</span><code><span lang=EN-US>srs.bandwidth.js</span></code><span
-     style='font-family:å®‹ä½“'>çš„å®žä¾‹ã€‚</span></li>
+     style='font-family:ËÎÌå'>£¬ÈçºÎµ÷ÓÃ</span><code><span lang=EN-US>srs.bandwidth.js</span></code><span
+     style='font-family:ËÎÌå'>µÄÊµÀý¡£</span></li>
 </ul>
 
-<p><span style='font-size:10.5pt'>å¤‡æ³¨ï¼š<span lang=EN-US>JS</span>éœ€è¦è°ƒç”¨<span
-lang=EN-US>swf</span>å¯¼å‡ºçš„<span lang=EN-US>js</span>å‡½æ•°ï¼Œç”±<span lang=EN-US>Flash</span>å‘é€<span
-lang=EN-US>RTMP</span>åŒ…æµ‹é€Ÿï¼Œå› æ­¤<span lang=EN-US>js</span>åº“ä¾èµ–äºŽ<span lang=EN-US>as</span>ã€‚å¯ä»¥å¯¼å…¥<span
-lang=EN-US>Flex</span>å·¥ç¨‹è‡ªå·±ç¼–è¯‘ï¼Œæˆ–è€…ä½¿ç”¨å·²ç»ç¼–è¯‘å¥½çš„</span><span lang=EN-US><a
+<p><span style='font-size:10.5pt'>±¸×¢£º<span lang=EN-US>JS</span>ÐèÒªµ÷ÓÃ<span
+lang=EN-US>swf</span>µ¼³öµÄ<span lang=EN-US>js</span>º¯Êý£¬ÓÉ<span lang=EN-US>Flash</span>·¢ËÍ<span
+lang=EN-US>RTMP</span>°ü²âËÙ£¬Òò´Ë<span lang=EN-US>js</span>¿âÒÀÀµÓÚ<span lang=EN-US>as</span>¡£¿ÉÒÔµ¼Èë<span
+lang=EN-US>Flex</span>¹¤³Ì×Ô¼º±àÒë£¬»òÕßÊ¹ÓÃÒÑ¾­±àÒëºÃµÄ</span><span lang=EN-US><a
 href="https://github.com/ossrs/srs/blob/master/trunk/research/players/srs_bwt/release/srs_bwt.swf"><span
 style='font-size:10.5pt'>srs_bwt.swf</span></a></span></p>
 
 <h4><a name="_Toc462219527"><span lang=EN-US>Linux</span></a><span
-style='font-family:å®‹ä½“'>å·¥å…·æµ‹é€Ÿ</span></h4>
+style='font-family:ËÎÌå'>¹¤¾ß²âËÙ</span></h4>
 
-<p><span style='font-size:10.5pt'>å¦å¤–ï¼Œ<span lang=EN-US>SRS</span>è¿˜æä¾›äº†å¸¦å®½æ£€æµ‹å‘½ä»¤è¡Œå·¥å…·ï¼š</span></p>
+<p><span style='font-size:10.5pt'>ÁíÍâ£¬<span lang=EN-US>SRS</span>»¹Ìá¹©ÁË´ø¿í¼ì²âÃüÁîÐÐ¹¤¾ß£º</span></p>
 
 <pre><span lang=EN-US style='font-size:10.5pt'>[winlin@dev6 srs]$ <span
 class=pl-c1>cd</span> objs/research/librtmp/</span></pre><pre><span lang=EN-US
@@ -7550,7 +9243,7 @@ class=pl-k>?</span>key=35c9b402c12a7246868752e2878f7e0e,vhost=bandcheck.srs.com<
 class=pl-k>&gt;</span>/dev/null</span></pre><pre><span lang=EN-US
 style='font-size:10.5pt'>@remark, output text to stdout, <span class=pl-k>while</span> json to stderr.</span></pre>
 
-<p><span style='font-size:10.5pt'>ç›´æŽ¥æ‰§è¡Œå°†æ‰“å°æ–‡æœ¬å’Œ<span lang=EN-US>json</span>ä¿¡æ¯ï¼š</span></p>
+<p><span style='font-size:10.5pt'>Ö±½ÓÖ´ÐÐ½«´òÓ¡ÎÄ±¾ºÍ<span lang=EN-US>json</span>ÐÅÏ¢£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:10.5pt'>[winlin@dev6 librtmp]$ ./srs_bandwidth_check rtmp://127.0.0.1:1935/app?key=35c9b402c12a7246868752e2878f7e0e,vhost=bandcheck.srs.com</span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>RTMP bandwidth check/test with server.</span></code></pre><pre><code><span
@@ -7581,8 +9274,8 @@ lang=EN-US style='font-size:10.5pt'>&quot;play_duration&quot;:3165, </span></cod
 lang=EN-US style='font-size:10.5pt'>&quot;play_kbps&quot;:3148, </span></code></pre><pre><code><span
 lang=EN-US style='font-size:10.5pt'>&quot;publish_kbps&quot;:3578}</span></code></pre>
 
-<p>å¯ä»¥åªæ‰“å°<span lang=EN-US>json</span>ä¿¡æ¯ï¼Œå°†<span lang=EN-US>stdout</span>å®šå‘åˆ°<span
-lang=EN-US>/dev/null</span>ï¼š</p>
+<p>¿ÉÒÔÖ»´òÓ¡<span lang=EN-US>json</span>ÐÅÏ¢£¬½«<span lang=EN-US>stdout</span>¶¨Ïòµ½<span
+lang=EN-US>/dev/null</span>£º</p>
 
 <pre><code><span lang=EN-US>[winlin@dev6 librtmp]$ ./srs_bandwidth_check rtmp://127.0.0.1:1935/app?key=35c9b402c12a7246868752e2878f7e0e,vhost=bandcheck.srs.com&gt;/dev/null </span></code></pre><pre><code><span
 lang=EN-US>{&quot;code&quot;:0,</span></code></pre><pre><code><span lang=EN-US>&quot;srs_server&quot;:&quot;SRS 0.9.158 (github.com/winlinvip/simple-rtmp-server)&quot;, </span></code></pre><pre><code><span
@@ -7604,9 +9297,9 @@ href="https://github.com/ossrs/srs/wiki/v1_CN_BandwidthTestTool">https://github.
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
 <h2><a name="_Toc26097971"></a><a name="_Toc462219529"><span style='font-family:
-å®‹ä½“'>å…¶ä»–åŠŸèƒ½</span></a></h2>
+ËÎÌå'>ÆäËû¹¦ÄÜ</span></a></h2>
 
-<p><span lang=EN-US>SRS</span>æä¾›äº†ä¸€äº›ç‰¹æ®Šçš„é…ç½®ï¼Œä¸»è¦ç”¨æ¥å’Œå„ç§ç³»ç»Ÿå¯¹æŽ¥çš„è®¾ç½®ã€‚</p>
+<p><span lang=EN-US>SRS</span>Ìá¹©ÁËÒ»Ð©ÌØÊâµÄÅäÖÃ£¬Ö÷ÒªÓÃÀ´ºÍ¸÷ÖÖÏµÍ³¶Ô½ÓµÄÉèÖÃ¡£</p>
 
 <h3><a name="_Toc26097972"></a><a name="_Toc462219530"><span lang=EN-US>Send
 Minimal Interval</span></a></h3>
@@ -7761,27 +9454,27 @@ lang=EN-US style='font-size:9.0pt'>}</span></code></pre>
 RTMP EXEC</span></a></h3>
 
 <p><span lang=EN-US style='font-size:10.5pt'>NGINX-RTMP</span><span
-style='font-size:10.5pt'>æ”¯æŒçš„<span lang=EN-US>EXEC</span>æ–¹å¼ï¼Œå‚è€ƒ</span><span
+style='font-size:10.5pt'>Ö§³ÖµÄ<span lang=EN-US>EXEC</span>·½Ê½£¬²Î¿¼</span><span
 lang=EN-US><a
 href="https://github.com/arut/nginx-rtmp-module/wiki/Directives#exec"><span
 style='font-size:10.5pt'>nginx exec</span></a></span><span style='font-size:
-10.5pt'>ï¼Œ<span lang=EN-US>SRS</span>åªæ”¯æŒå¸¸ç”¨çš„å‡ ç§ã€‚ä¸‹é¢æ˜¯<span lang=EN-US>exec</span>çš„æ”¯æŒæƒ…å†µï¼š</span></p>
+10.5pt'>£¬<span lang=EN-US>SRS</span>Ö»Ö§³Ö³£ÓÃµÄ¼¸ÖÖ¡£ÏÂÃæÊÇ<span lang=EN-US>exec</span>µÄÖ§³ÖÇé¿ö£º</span></p>
 
 <ol start=1 type=1>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>exec/exec_publish:
-     </span><span style='font-family:å®‹ä½“'>å½“å‘å¸ƒæµæ—¶è°ƒç”¨ï¼Œæ”¯æŒã€‚</span></li>
+     </span><span style='font-family:ËÎÌå'>µ±·¢²¼Á÷Ê±µ÷ÓÃ£¬Ö§³Ö¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>exec_pull: </span><span
-     style='font-family:å®‹ä½“'>ä¸æ”¯æŒã€‚</span></li>
+     style='font-family:ËÎÌå'>²»Ö§³Ö¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>exec_play: </span><span
-     style='font-family:å®‹ä½“'>ä¸æ”¯æŒã€‚</span></li>
+     style='font-family:ËÎÌå'>²»Ö§³Ö¡£</span></li>
  <li class=MsoNormal style='text-align:left'><span lang=EN-US>exec_record_done:
-     </span><span style='font-family:å®‹ä½“'>ä¸æ”¯æŒã€‚</span></li>
+     </span><span style='font-family:ËÎÌå'>²»Ö§³Ö¡£</span></li>
 </ol>
 
 <h4><a name="_Toc462219542"><span lang=EN-US>Config</span></a></h4>
 
 <p><span lang=EN-US style='font-size:9.0pt'>SRS EXEC</span><span
-style='font-size:9.0pt'>çš„é…ç½®å‚è€ƒ<code><span lang=EN-US>conf/exec.conf</span></code>ï¼Œå¦‚ä¸‹ï¼š</span></p>
+style='font-size:9.0pt'>µÄÅäÖÃ²Î¿¼<code><span lang=EN-US>conf/exec.conf</span></code>£¬ÈçÏÂ£º</span></p>
 
 <pre><code><span lang=EN-US style='font-size:9.0pt'>vhost __defaultVhost__ {</span></code></pre><pre><code><span
 lang=EN-US style='font-size:9.0pt'>&nbsp;&nbsp;&nbsp; # the exec used to fork process when got some event.</span></code></pre><pre><code><span
@@ -7808,10 +9501,10 @@ lang=EN-US style='font-size:9.0pt'>}</span></code></pre>
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
 <h2><a name="_Toc26097984"></a><a name="_Toc462219543"><span lang=EN-US>SRS</span></a><span
-style='font-family:å®‹ä½“'>ä¸Žå…¶ä»–æµåª’ä½“æ¯”è¾ƒ</span></h2>
+style='font-family:ËÎÌå'>ÓëÆäËûÁ÷Ã½Ìå±È½Ï</span></h2>
 
 <h3><a name="_Toc26097985"></a><a name="_Toc462219544"><span style='font-family:
-å®‹ä½“'>æµå‘åˆ†</span> <span lang=EN-US>Stream Delivery</span></a></h3>
+ËÎÌå'>Á÷·¢·Ö</span> <span lang=EN-US>Stream Delivery</span></a></h3>
 
 <table class=MsoNormalTable border=0 cellspacing=30 cellpadding=0
  style='background:#E5E5E5'>
@@ -7966,7 +9659,7 @@ style='font-family:å®‹ä½“'>ä¸Žå…¶ä»–æµåª’ä½“æ¯”è¾ƒ</span></h2>
 </table>
 
 <h3><a name="_Toc26097986"></a><a name="_Toc462219545"><span style='font-family:
-å®‹ä½“;color:white'>é›†ç¾¤</span> <span lang=EN-US>Cluster</span></a></h3>
+ËÎÌå;color:white'>¼¯Èº</span> <span lang=EN-US>Cluster</span></a></h3>
 
 <table class=MsoNormalTable border=0 cellspacing=30 cellpadding=0
  style='background:#E5E5E5'>
@@ -8121,7 +9814,7 @@ style='font-family:å®‹ä½“'>ä¸Žå…¶ä»–æµåª’ä½“æ¯”è¾ƒ</span></h2>
 </table>
 
 <h3><a name="_Toc26097987"></a><a name="_Toc462219546"><span style='font-family:
-å®‹ä½“;color:white'>æµå¤„ç†æœåŠ¡</span> <span lang=EN-US>Stream Service</span></a></h3>
+ËÎÌå;color:white'>Á÷´¦Àí·þÎñ</span> <span lang=EN-US>Stream Service</span></a></h3>
 
 <table class=MsoNormalTable border=0 cellspacing=30 cellpadding=0
  style='background:#E5E5E5'>
@@ -8755,62 +10448,62 @@ style='color:white'>Others</span></a></h3>
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
 <h3><a name="_Toc26097993"></a><a name="_Toc462219552"><span style='font-family:
-å®‹ä½“;color:black;background:white'>å¸‚é¢ä¸»è¦çš„æµåª’ä½“æœåŠ¡å™¨å¯¹æ¯”</span></a></h3>
+ËÎÌå;color:black;background:white'>ÊÐÃæÖ÷ÒªµÄÁ÷Ã½Ìå·þÎñÆ÷¶Ô±È</span></a></h3>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>ç›®å‰å¸‚é¢ä¸Šä¸»æµçš„æµåª’ä½“æœåŠ¡å™¨ï¼Œæœ‰ä»¥</span><span
-lang=EN-US>Adobe&nbsp;FMS</span><span style='font-family:å®‹ä½“'>ã€</span><span
-lang=EN-US>Real&nbsp;Helix</span><span style='font-family:å®‹ä½“'>ã€</span><span
-lang=EN-US>Wowza</span><span style='font-family:å®‹ä½“'>ä¸ºä»£è¡¨çš„ç¬¬ä¸€ä»£äº§å“ï¼Œå®ƒä»¬çš„ç‰¹ç‚¹æ˜¯å•è¿›ç¨‹å¤šçº¿ç¨‹ã€‚åŸºäºŽ</span><span
-lang=EN-US>Linux2.7&nbsp;epoll</span><span style='font-family:å®‹ä½“'>æŠ€æœ¯ï¼Œå‡ºçŽ°äº†ä»¥å¤šè¿›ç¨‹å•çº¿ç¨‹ä¸ºç‰¹ç‚¹çš„ç¬¬äºŒä»£æµåª’ä½“æœåŠ¡å™¨ï¼Œ</span><span
-lang=EN-US>NginxRTMP</span><span style='font-family:å®‹ä½“'>ã€</span><span
-lang=EN-US>Crtmpd</span><span style='font-family:å®‹ä½“'>ä¸ºå…¶ä¼˜ç§€çš„ä»£è¡¨ï¼Œå¦å¤–è¿˜æœ‰åŸºäºŽ</span><span
-lang=EN-US>JAVA</span><span style='font-family:å®‹ä½“'>çš„æµåª’ä½“ç¥–å…ˆ</span><span
-lang=EN-US>Red5</span><span style='font-family:å®‹ä½“'>ç­‰ã€‚</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>Ä¿Ç°ÊÐÃæÉÏÖ÷Á÷µÄÁ÷Ã½Ìå·þÎñÆ÷£¬ÓÐÒÔ</span><span
+lang=EN-US>Adobe&nbsp;FMS</span><span style='font-family:ËÎÌå'>¡¢</span><span
+lang=EN-US>Real&nbsp;Helix</span><span style='font-family:ËÎÌå'>¡¢</span><span
+lang=EN-US>Wowza</span><span style='font-family:ËÎÌå'>Îª´ú±íµÄµÚÒ»´ú²úÆ·£¬ËüÃÇµÄÌØµãÊÇµ¥½ø³Ì¶àÏß³Ì¡£»ùÓÚ</span><span
+lang=EN-US>Linux2.7&nbsp;epoll</span><span style='font-family:ËÎÌå'>¼¼Êõ£¬³öÏÖÁËÒÔ¶à½ø³Ìµ¥Ïß³ÌÎªÌØµãµÄµÚ¶þ´úÁ÷Ã½Ìå·þÎñÆ÷£¬</span><span
+lang=EN-US>NginxRTMP</span><span style='font-family:ËÎÌå'>¡¢</span><span
+lang=EN-US>Crtmpd</span><span style='font-family:ËÎÌå'>ÎªÆäÓÅÐãµÄ´ú±í£¬ÁíÍâ»¹ÓÐ»ùÓÚ</span><span
+lang=EN-US>JAVA</span><span style='font-family:ËÎÌå'>µÄÁ÷Ã½Ìå×æÏÈ</span><span
+lang=EN-US>Red5</span><span style='font-family:ËÎÌå'>µÈ¡£</span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>å¼€æºæµåª’ä½“æœåŠ¡å™¨</span><span
-lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>ï¼ˆ</span><span lang=EN-US>Simple&nbsp;RTMP&nbsp;Server</span><span
-style='font-family:å®‹ä½“'>ï¼‰ï¼Œå‡­å€Ÿå…¶åŠŸèƒ½å¼ºå¤§ã€è½»é‡æ˜“ç”¨ã€ç‰¹åˆ«é€‚åˆäº’åŠ¨ç›´æ’­ç­‰è¯¸å¤šç‰¹ç‚¹å¤‡å—æµ·å†…å¤–è§†é¢‘ä»Žä¸šè€…çš„é’çã€‚è“æ±›</span><span
-lang=EN-US>Chiancache</span><span style='font-family:å®‹ä½“'>æ›¾ç”¨</span><span
-lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>æ‰¿è½½å…¶ç›´æ’­è¾¹ç¼˜åˆ†å‘ä¸šåŠ¡ï¼Œé«˜å‡</span><span
-lang=EN-US>CDN</span><span style='font-family:å®‹ä½“'>åŸºäºŽ</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>æ­å»ºå…¶æµåª’ä½“åŸºç¡€å¹³å°ï¼Œå…¶å®ƒè¿˜æœ‰èµ›ç»´å®‰è®¯ã€</span><span lang=EN-US>VeryCDN</span><span
-style='font-family:å®‹ä½“'>ã€</span><span lang=EN-US>VeryCloud</span><span
-style='font-family:å®‹ä½“'>ã€äº‘åšè§†ç­‰ä¹Ÿå°†</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>åº”ç”¨åˆ°äº†è‡ªèº«çš„ä¸šåŠ¡å½“ä¸­ã€‚å„å®¶è§†é¢‘äº‘ã€äº‘è®¡ç®—å¹³å°åœ¨æºç«™çš„å¯¹æŽ¥ä¸Šä¹Ÿéžå¸¸æ³¨é‡å¯¹</span><span
-lang=EN-US>SRS</span><span style='font-family:å®‹ä½“'>çš„æ”¯æŒã€‚</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>ä½œä¸ºçº¯å›½äº§çš„å¼€æº</span><span lang=EN-US>Server</span><span
-style='font-family:å®‹ä½“'>ï¼Œåœ¨ä¸­å›½æµåª’ä½“ä¸šç•Œå®žå±žéš¾èƒ½å¯è´µã€‚</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>¿ªÔ´Á÷Ã½Ìå·þÎñÆ÷</span><span
+lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>£¨</span><span lang=EN-US>Simple&nbsp;RTMP&nbsp;Server</span><span
+style='font-family:ËÎÌå'>£©£¬Æ¾½èÆä¹¦ÄÜÇ¿´ó¡¢ÇáÁ¿Ò×ÓÃ¡¢ÌØ±ðÊÊºÏ»¥¶¯Ö±²¥µÈÖî¶àÌØµã±¸ÊÜº£ÄÚÍâÊÓÆµ´ÓÒµÕßµÄÇàíù¡£À¶Ñ´</span><span
+lang=EN-US>Chiancache</span><span style='font-family:ËÎÌå'>ÔøÓÃ</span><span
+lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>³ÐÔØÆäÖ±²¥±ßÔµ·Ö·¢ÒµÎñ£¬¸ßÉý</span><span
+lang=EN-US>CDN</span><span style='font-family:ËÎÌå'>»ùÓÚ</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>´î½¨ÆäÁ÷Ã½Ìå»ù´¡Æ½Ì¨£¬ÆäËü»¹ÓÐÈüÎ¬°²Ñ¶¡¢</span><span lang=EN-US>VeryCDN</span><span
+style='font-family:ËÎÌå'>¡¢</span><span lang=EN-US>VeryCloud</span><span
+style='font-family:ËÎÌå'>¡¢ÔÆ²©ÊÓµÈÒ²½«</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>Ó¦ÓÃµ½ÁË×ÔÉíµÄÒµÎñµ±ÖÐ¡£¸÷¼ÒÊÓÆµÔÆ¡¢ÔÆ¼ÆËãÆ½Ì¨ÔÚÔ´Õ¾µÄ¶Ô½ÓÉÏÒ²·Ç³£×¢ÖØ¶Ô</span><span
+lang=EN-US>SRS</span><span style='font-family:ËÎÌå'>µÄÖ§³Ö¡£</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>×÷Îª´¿¹ú²úµÄ¿ªÔ´</span><span lang=EN-US>Server</span><span
+style='font-family:ËÎÌå'>£¬ÔÚÖÐ¹úÁ÷Ã½ÌåÒµ½çÊµÊôÄÑÄÜ¿É¹ó¡£</span></p>
 
 <p class=MsoNormal align=center style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:center;line-height:15.75pt'><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'><img border=0
-width=698 height=678 id="å›¾ç‰‡ 16" src="srs_wiki.files/image008.jpg"
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'><img border=0
+width=698 height=678 id="Í¼Æ¬ 16" src="srs_wiki.files/image008.jpg"
 alt="https://h5.weiyun.com/tx_tls_gate=img7.wtoutiao.com/?url=http://mmbiz.qpic.cn/mmbiz/ibqXNcZwc8ZficAW5LaxzmE8WU7RSHXA8zy8gXvr2LPX5gRznHLTGYyUwuSfREpQ8gBM3Y6p6UT0WXkAxL2fx4mQ/0?wx_fmt=jpeg"></span></p>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US>BMS</span><span
-style='font-family:å®‹ä½“'>ï¼ˆ</span><span lang=EN-US>Bravo Media Server</span><span
-style='font-family:å®‹ä½“'>ï¼‰æ˜¯</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>çš„å•†ä¸šç‰ˆï¼Œ</span><span lang=EN-US>BMS</span><span
-style='font-family:å®‹ä½“'>åœ¨</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>åŸºç¡€ä¸Šå¢žå¼ºäº†</span><span lang=EN-US>11</span><span
-style='font-family:å®‹ä½“'>é¡¹å¤§åŠŸèƒ½ï¼Œæ–°å¢žäº†</span><span lang=EN-US>9</span><span
-style='font-family:å®‹ä½“'>ä¸ªå¤§åŠŸèƒ½ï¼š</span> <b><span style='font-family:å®‹ä½“;color:red'>æ³¨æ„</span><span
-lang=EN-US style='color:red'>:</span></b><b><span style='font-family:å®‹ä½“;
-color:red'>è¡¨ä¸­æ¯”è¾ƒæ˜¯</span><span lang=EN-US style='color:red'>srs 1.0 release</span></b><b><span
-style='font-family:å®‹ä½“;color:red'>ç‰ˆæœ¬ï¼Œæœ‰äº›åŠŸèƒ½åœ¨</span><span lang=EN-US
-style='color:red'>srs2.0,srs3.0</span></b><b><span style='font-family:å®‹ä½“;
-color:red'>ä¸­ä»¥åŠå®žçŽ°ï¼Œåªæ˜¯æ²¡æœ‰</span><span lang=EN-US style='color:red'>release</span></b><b><span
-style='font-family:å®‹ä½“;color:red'>ç‰ˆæœ¬ï¼Œ</span><span lang=EN-US style='color:red'>
-BMS</span></b><b><span style='font-family:å®‹ä½“;color:red'>æ˜¯ç»“åˆ</span><span
+style='font-family:ËÎÌå'>£¨</span><span lang=EN-US>Bravo Media Server</span><span
+style='font-family:ËÎÌå'>£©ÊÇ</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>µÄÉÌÒµ°æ£¬</span><span lang=EN-US>BMS</span><span
+style='font-family:ËÎÌå'>ÔÚ</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>»ù´¡ÉÏÔöÇ¿ÁË</span><span lang=EN-US>11</span><span
+style='font-family:ËÎÌå'>Ïî´ó¹¦ÄÜ£¬ÐÂÔöÁË</span><span lang=EN-US>9</span><span
+style='font-family:ËÎÌå'>¸ö´ó¹¦ÄÜ£º</span> <b><span style='font-family:ËÎÌå;color:red'>×¢Òâ</span><span
+lang=EN-US style='color:red'>:</span></b><b><span style='font-family:ËÎÌå;
+color:red'>±íÖÐ±È½ÏÊÇ</span><span lang=EN-US style='color:red'>srs 1.0 release</span></b><b><span
+style='font-family:ËÎÌå;color:red'>°æ±¾£¬ÓÐÐ©¹¦ÄÜÔÚ</span><span lang=EN-US
+style='color:red'>srs2.0,srs3.0</span></b><b><span style='font-family:ËÎÌå;
+color:red'>ÖÐÒÔ¼°ÊµÏÖ£¬Ö»ÊÇÃ»ÓÐ</span><span lang=EN-US style='color:red'>release</span></b><b><span
+style='font-family:ËÎÌå;color:red'>°æ±¾£¬</span><span lang=EN-US style='color:red'>
+BMS</span></b><b><span style='font-family:ËÎÌå;color:red'>ÊÇ½áºÏ</span><span
 lang=EN-US style='color:red'>srs2.0 </span></b><b><span style='font-family:
-å®‹ä½“;color:red'>ä¸Ž</span><span lang=EN-US style='color:red'>srs3.0</span></b><b><span
-style='font-family:å®‹ä½“;color:red'>æ˜¯åœ¨è¿™ä¸ªåŸºç¡€å‡ºå‘å‡ºæ¥çš„ã€‚</span></b></p>
+ËÎÌå;color:red'>Óë</span><span lang=EN-US style='color:red'>srs3.0</span></b><b><span
+style='font-family:ËÎÌå;color:red'>ÊÇÔÚÕâ¸ö»ù´¡³ö·¢³öÀ´µÄ¡£</span></b></p>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
 lang=EN style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#333333'>BMS</span><span
-style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å’Œ</span><span lang=EN
+style='font-size:12.0pt;font-family:ËÎÌå;color:#333333'>ºÍ</span><span lang=EN
 style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#333333'>SRS</span><span
-style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>çš„ä¸»è¦åŒºåˆ«å¦‚ä¸‹ï¼š</span></p>
+style='font-size:12.0pt;font-family:ËÎÌå;color:#333333'>µÄÖ÷ÒªÇø±ðÈçÏÂ£º</span></p>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse'>
@@ -8841,54 +10534,54 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>çš„ä¸»è¦åŒºåˆ«å¦‚ä¸‹ï
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>çº§åˆ«</span></p>
+  style='font-family:ËÎÌå;color:#333333'>¼¶±ð</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å·¥ä¸šçº§</span></p>
+  style='font-family:ËÎÌå;color:#333333'>¹¤Òµ¼¶</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å·¥ä¸šçº§</span></p>
+  style='font-family:ËÎÌå;color:#333333'>¹¤Òµ¼¶</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å‘è¡Œç‰ˆæœ¬éƒ½æ˜¯å·¥ä¸šçº§é›†ç¾¤æ ‡å‡†</span></p>
+  style='font-family:ËÎÌå;color:#333333'>·¢ÐÐ°æ±¾¶¼ÊÇ¹¤Òµ¼¶¼¯Èº±ê×¼</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å¼€æº</span></p>
+  style='font-family:ËÎÌå;color:#333333'>¿ªÔ´</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ˜¯</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÊÇ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å¦</span></p>
+  style='font-family:ËÎÌå;color:#333333'>·ñ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>BMS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸ºé—­æºå•†ä¸šè½¯ä»¶ï¼Œæä¾›å”®å‰å’¨è¯¢å’Œå”®åŽæœåŠ¡ï¼Œ</span><span
+  style='font-family:ËÎÌå;color:#333333'>Îª±ÕÔ´ÉÌÒµÈí¼þ£¬Ìá¹©ÊÛÇ°×ÉÑ¯ºÍÊÛºó·þÎñ£¬</span><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'><br>
-  </span><span style='font-family:å®‹ä½“;color:#333333'>ä»¥åŠå®šåˆ¶åŒ–å¼€å‘ï¼Œç³»ç»Ÿå¯¹æŽ¥ç­‰</span></p>
+  </span><span style='font-family:ËÎÌå;color:#333333'>ÒÔ¼°¶¨ÖÆ»¯¿ª·¢£¬ÏµÍ³¶Ô½ÓµÈ</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å‘è¡Œç‰ˆ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>·¢ÐÐ°æ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
@@ -8904,116 +10597,116 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>çš„ä¸»è¦åŒºåˆ«å¦‚ä¸‹ï
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>SRS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ç›®å‰å‘è¡Œç‰ˆä¸º</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ä¿Ç°·¢ÐÐ°æÎª</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>1.0</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ï¼Œ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>£¬</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>SRS2</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸º</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Îª</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>alpha</span><span
-  style='font-family:å®‹ä½“;color:#333333'>æµ‹è¯•ç‰ˆã€‚</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>²âÊÔ°æ¡£</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'><br>
-  BMS</span><span style='font-family:å®‹ä½“;color:#333333'>åˆå¹¶äº†</span><span
+  BMS</span><span style='font-family:ËÎÌå;color:#333333'>ºÏ²¢ÁË</span><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>SRS2</span><span
-  style='font-family:å®‹ä½“;color:#333333'>å’Œ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>ºÍ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>SRS3</span><span
-  style='font-family:å®‹ä½“;color:#333333'>çš„åŠŸèƒ½ï¼Œä¸ºå‘è¡Œç‰ˆ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>µÄ¹¦ÄÜ£¬Îª·¢ÐÐ°æ</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å‘¨æœŸ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÖÜÆÚ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>1-2</span><span
-  style='font-family:å®‹ä½“;color:#333333'>å¹´</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Äê</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>3-6</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸ªæœˆ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>¸öÔÂ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>SRS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>çš„ç‰ˆæœ¬å‘è¡Œå‘¨æœŸä¸º</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>µÄ°æ±¾·¢ÐÐÖÜÆÚÎª</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>1</span><span
-  style='font-family:å®‹ä½“;color:#333333'>åˆ°</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>µ½</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>2</span><span
-  style='font-family:å®‹ä½“;color:#333333'>å¹´</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Äê</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä»£ç é‡</span></p>
+  style='font-family:ËÎÌå;color:#333333'>´úÂëÁ¿</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>5.95</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸‡è¡Œ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÍòÐÐ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>13.3</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸‡è¡Œ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÍòÐÐ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>åŒ…å«æœåŠ¡å™¨çš„æ³¨é‡Šå’Œå•å…ƒæµ‹è¯•</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>°üº¬·þÎñÆ÷µÄ×¢ÊÍºÍµ¥Ôª²âÊÔ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'><br>
-  BMS</span><span style='font-family:å®‹ä½“;color:#333333'>æ˜¯</span><span
+  BMS</span><span style='font-family:ËÎÌå;color:#333333'>ÊÇ</span><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>SRS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ä»£ç é‡çš„</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>´úÂëÁ¿µÄ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>2.23</span><span
-  style='font-family:å®‹ä½“;color:#333333'>å€ã€‚</span></p>
+  style='font-family:ËÎÌå;color:#333333'>±¶¡£</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>è‡ªåŠ¨æµ‹è¯•</span></p>
+  style='font-family:ËÎÌå;color:#333333'>×Ô¶¯²âÊÔ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ— </span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÎÞ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>BMS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>åŒ…å«è‡ªåŠ¨åŒ–æµ‹è¯•ç³»ç»Ÿï¼Œæ¯æ¬¡æäº¤è‡ªåŠ¨å›žå½’æµ‹è¯•</span></p>
+  style='font-family:ËÎÌå;color:#333333'>°üº¬×Ô¶¯»¯²âÊÔÏµÍ³£¬Ã¿´ÎÌá½»×Ô¶¯»Ø¹é²âÊÔ</span></p>
   </td>
  </tr>
 </table>
 
 <p class=MsoNoSpacing><span lang=EN style='color:black'>BMS</span><span
-style='font-family:å®‹ä½“'>é™¤äº†æœ‰</span><span lang=EN>SRS</span><span
-style='font-family:å®‹ä½“'>çš„</span><span lang=EN>10</span><span style='font-family:
-å®‹ä½“'>ä¸ªåŸºç¡€åŠŸèƒ½ï¼Œè¿˜å¢žå¼ºäº†</span><span lang=EN>13</span><span style='font-family:å®‹ä½“'>é¡¹å¤§åŠŸèƒ½ï¼Œæ–°å¢žäº†</span><span
-lang=EN>22</span><span style='font-family:å®‹ä½“'>ä¸ªå¤§åŠŸèƒ½ã€‚è¯¦ç»†å¯¹æ¯”å¦‚ä¸‹ï¼ˆæ³¨æ„å¯¹æ¯”çš„æ˜¯å‘è¡Œç‰ˆï¼Œå³</span><span
-lang=EN>SRS1</span><span style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN>BMS3</span><span
-style='font-family:å®‹ä½“'>ï¼‰ã€‚</span></p>
+style='font-family:ËÎÌå'>³ýÁËÓÐ</span><span lang=EN>SRS</span><span
+style='font-family:ËÎÌå'>µÄ</span><span lang=EN>10</span><span style='font-family:
+ËÎÌå'>¸ö»ù´¡¹¦ÄÜ£¬»¹ÔöÇ¿ÁË</span><span lang=EN>13</span><span style='font-family:ËÎÌå'>Ïî´ó¹¦ÄÜ£¬ÐÂÔöÁË</span><span
+lang=EN>22</span><span style='font-family:ËÎÌå'>¸ö´ó¹¦ÄÜ¡£ÏêÏ¸¶Ô±ÈÈçÏÂ£¨×¢Òâ¶Ô±ÈµÄÊÇ·¢ÐÐ°æ£¬¼´</span><span
+lang=EN>SRS1</span><span style='font-family:ËÎÌå'>ºÍ</span><span lang=EN>BMS3</span><span
+style='font-family:ËÎÌå'>£©¡£</span></p>
 
-<p class=MsoNoSpacing><span style='font-family:å®‹ä½“'>ä»¥ä¸‹æ˜¯</span><span lang=EN>BMS</span><span
-style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN>SRS</span><span style='font-family:
-å®‹ä½“'>éƒ½æœ‰çš„åŠŸèƒ½ï¼š</span></p>
+<p class=MsoNoSpacing><span style='font-family:ËÎÌå'>ÒÔÏÂÊÇ</span><span lang=EN>BMS</span><span
+style='font-family:ËÎÌå'>ºÍ</span><span lang=EN>SRS</span><span style='font-family:
+ËÎÌå'>¶¼ÓÐµÄ¹¦ÄÜ£º</span></p>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse'>
@@ -9045,44 +10738,44 @@ style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN>SRS</span><span style='font-f
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>HTTP</span><span
-  style='font-family:å®‹ä½“;color:#333333'>å›žè°ƒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>»Øµ÷</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å’Œå¤–éƒ¨ä¸šåŠ¡ç³»ç»Ÿå¯¹æŽ¥</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ºÍÍâ²¿ÒµÎñÏµÍ³¶Ô½Ó</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æµ‹é€Ÿ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²âËÙ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒæœåŠ¡å™¨ä¸Šè¡Œå’Œä¸‹è¡Œé€Ÿåº¦æµ‹è¯•</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö·þÎñÆ÷ÉÏÐÐºÍÏÂÐÐËÙ¶È²âÊÔ</span></p>
   </td>
  </tr>
  <tr>
@@ -9090,22 +10783,22 @@ style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN>SRS</span><span style='font-f
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>TS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>çŸ«æ­£</span></p>
+  style='font-family:ËÎÌå;color:#333333'>½ÃÕý</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒæ—¶é—´æˆ³çŸ«æ­£ï¼Œé¿å…é‡æŽ¨å’Œè·³å˜å¼•èµ·æ’­æ”¾å™¨å¡æ­»</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³ÖÊ±¼ä´Á½ÃÕý£¬±ÜÃâÖØÍÆºÍÌø±äÒýÆð²¥·ÅÆ÷¿¨ËÀ</span></p>
   </td>
  </tr>
  <tr>
@@ -9113,25 +10806,25 @@ style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN>SRS</span><span style='font-f
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>Gop</span><span
-  style='font-family:å®‹ä½“;color:#333333'>åˆå¹¶</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ºÏ²¢</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>HLS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>æŒ‰ç…§</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>°´ÕÕ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>GOP</span><span
-  style='font-family:å®‹ä½“;color:#333333'>è¾“å‡ºåˆ‡ç‰‡</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Êä³öÇÐÆ¬</span></p>
   </td>
  </tr>
  <tr>
@@ -9143,105 +10836,105 @@ style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN>SRS</span><span style='font-f
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒç»å¯¹æ—¶é—´æˆ³</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö¾ø¶ÔÊ±¼ä´Á</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>è¾¹ç¼˜</span></p>
+  style='font-family:ËÎÌå;color:#333333'>±ßÔµ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æºç«™å’Œè¾¹ç¼˜ç»„æˆæµåª’ä½“åˆ†å‘é›†ç¾¤</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ô´Õ¾ºÍ±ßÔµ×é³ÉÁ÷Ã½Ìå·Ö·¢¼¯Èº</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ—¥å¿—</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÈÕÖ¾</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æä¾›å¯è¿½æº¯çš„æŽ’é”™æ—¥å¿—</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ìá¹©¿É×·ËÝµÄÅÅ´íÈÕÖ¾</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>é‡‡é›†</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²É¼¯</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å°†å¤–éƒ¨æµé‡‡é›†åˆ°æœåŠ¡å™¨</span></p>
+  style='font-family:ËÎÌå;color:#333333'>½«Íâ²¿Á÷²É¼¯µ½·þÎñÆ÷</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>è½¬å‘</span></p>
+  style='font-family:ËÎÌå;color:#333333'>×ª·¢</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å°†æµè½¬å‘ç»™å…¶ä»–æœåŠ¡å™¨</span></p>
+  style='font-family:ËÎÌå;color:#333333'>½«Á÷×ª·¢¸øÆäËû·þÎñÆ÷</span></p>
   </td>
  </tr>
  <tr>
@@ -9253,26 +10946,26 @@ style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN>SRS</span><span style='font-f
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å®žéªŒæ€§</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÊµÑéÐÔ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å®žéªŒæ€§</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÊµÑéÐÔ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>Adobe HDS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>åˆ†å‘</span></p>
+  style='font-family:ËÎÌå;color:#333333'>·Ö·¢</span></p>
   </td>
  </tr>
 </table>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>ä»¥ä¸‹ä¸º</span><span lang=EN
+style='font-size:12.0pt;font-family:ËÎÌå;color:#333333'>ÒÔÏÂÎª</span><span lang=EN
 style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#333333'>BMS</span><span
-style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å¢žå¼ºçš„åŠŸèƒ½ï¼š</span></p>
+style='font-size:12.0pt;font-family:ËÎÌå;color:#333333'>ÔöÇ¿µÄ¹¦ÄÜ£º</span></p>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse'>
@@ -9303,7 +10996,7 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å¢žå¼ºçš„åŠŸèƒ½ï¼š</sp
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>è¾“å…¥</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÊäÈë</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
@@ -9319,14 +11012,14 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å¢žå¼ºçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æŽ¨æµåˆ°æœåŠ¡å™¨çš„è¾“å…¥æ–¹å¼</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÍÆÁ÷µ½·þÎñÆ÷µÄÊäÈë·½Ê½</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>è¾“å‡º</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Êä³ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
@@ -9342,14 +11035,14 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å¢žå¼ºçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æœåŠ¡å™¨åˆ†å‘ç»™å®¢æˆ·ç«¯çš„æ–¹å¼</span></p>
+  style='font-family:ËÎÌå;color:#333333'>·þÎñÆ÷·Ö·¢¸ø¿Í»§¶ËµÄ·½Ê½</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>è¾¹ç¼˜å›žæº</span></p>
+  style='font-family:ËÎÌå;color:#333333'>±ßÔµ»ØÔ´</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
@@ -9365,11 +11058,11 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å¢žå¼ºçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>è¾¹ç¼˜æ”¯æŒä»¥</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>±ßÔµÖ§³ÖÒÔ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>RTMP</span><span
-  style='font-family:å®‹ä½“;color:#333333'>æˆ–</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>»ò</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>HTTP FLV/HLS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>æ–¹å¼å›žæº</span></p>
+  style='font-family:ËÎÌå;color:#333333'>·½Ê½»ØÔ´</span></p>
   </td>
  </tr>
  <tr>
@@ -9382,28 +11075,28 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å¢žå¼ºçš„åŠŸèƒ½ï¼š</sp
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>FLV</span><span
-  style='font-family:å®‹ä½“;color:#333333'>æ–‡ä»¶</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÎÄ¼þ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>å¯¹æŽ¥è§‚æ­¢æ”¶å½•ç³»ç»Ÿ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>¶Ô½Ó¹ÛÖ¹ÊÕÂ¼ÏµÍ³</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒå½•åˆ¶</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³ÖÂ¼ÖÆ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>RTMP</span><span
-  style='font-family:å®‹ä½“;color:#333333'>åˆ°</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>µ½</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>FLV</span><span
-  style='font-family:å®‹ä½“;color:#333333'>æ–‡ä»¶</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÎÄ¼þ</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä½Žå»¶è¿Ÿ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>µÍÑÓ³Ù</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
@@ -9418,14 +11111,14 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å¢žå¼ºçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä½Žå»¶è¿Ÿæ¨¡å¼</span></p>
+  style='font-family:ËÎÌå;color:#333333'>µÍÑÓ³ÙÄ£Ê½</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>è½¬ç </span></p>
+  style='font-family:ËÎÌå;color:#333333'>×ªÂë</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
@@ -9435,12 +11128,12 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å¢žå¼ºçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>å¯¹æŽ¥è§‚æ­¢è½¬ç äº‘</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>¶Ô½Ó¹ÛÖ¹×ªÂëÔÆ</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>è½¬ç æ¶ˆè€—éžå¸¸å¤šçš„ç³»ç»Ÿèµ„æº</span></p>
+  style='font-family:ËÎÌå;color:#333333'>×ªÂëÏûºÄ·Ç³£¶àµÄÏµÍ³×ÊÔ´</span></p>
   </td>
  </tr>
  <tr>
@@ -9452,27 +11145,27 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å¢žå¼ºçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ç®€ç‰ˆ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>¼ò°æ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>å®Œå–„çš„</span></i></b><b><i><span
+  style='font-family:ËÎÌå;color:#333333'>ÍêÉÆµÄ</span></i></b><b><i><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>API</span></i></b><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>API</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸ºæœåŠ¡å™¨æä¾›ç»™å¤–éƒ¨çš„æŽ¥å£</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Îª·þÎñÆ÷Ìá¹©¸øÍâ²¿µÄ½Ó¿Ú</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸‹è¡Œå¹¶å‘</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÏÂÐÐ²¢·¢</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
@@ -9487,16 +11180,16 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å¢žå¼ºçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸‹è¡Œ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>ÏÂÐÐ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>RTMP/FLV</span><span
-  style='font-family:å®‹ä½“;color:#333333'>çš„å¹¶å‘</span></p>
+  style='font-family:ËÎÌå;color:#333333'>µÄ²¢·¢</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸Šè¡Œå¹¶å‘</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÉÏÐÐ²¢·¢</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
@@ -9511,16 +11204,16 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å¢žå¼ºçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸Šè¡ŒæŽ¨æµ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>ÉÏÐÐÍÆÁ÷</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>RTMP</span><span
-  style='font-family:å®‹ä½“;color:#333333'>çš„å¹¶å‘</span></p>
+  style='font-family:ËÎÌå;color:#333333'>µÄ²¢·¢</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>çƒ­å¤‡</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÈÈ±¸</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
@@ -9536,7 +11229,7 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å¢žå¼ºçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>è¾¹ç¼˜åœ¨ä¸Šå±‚æœåŠ¡å™¨æ•…éšœæ—¶ï¼Œåˆ‡æ¢åˆ°å¤‡ç”¨æœåŠ¡å™¨</span></p>
+  style='font-family:ËÎÌå;color:#333333'>±ßÔµÔÚÉÏ²ã·þÎñÆ÷¹ÊÕÏÊ±£¬ÇÐ»»µ½±¸ÓÃ·þÎñÆ÷</span></p>
   </td>
  </tr>
  <tr>
@@ -9548,25 +11241,25 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å¢žå¼ºçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å®žéªŒæ€§</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÊµÑéÐÔ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>å•†ç”¨æœåŠ¡å™¨</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>ÉÌÓÃ·þÎñÆ÷</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å†…ç½®</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>ÄÚÖÃ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>HTTP</span><span
-  style='font-family:å®‹ä½“;color:#333333'>æœåŠ¡å™¨ï¼Œå®žçŽ°</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>·þÎñÆ÷£¬ÊµÏÖ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>HTTP</span><span
-  style='font-family:å®‹ä½“;color:#333333'>æµã€</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Á÷¡¢</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>API</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ã€å†…å­˜</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>¡¢ÄÚ´æ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>HLS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>çš„åˆ†å‘</span></p>
+  style='font-family:ËÎÌå;color:#333333'>µÄ·Ö·¢</span></p>
   </td>
  </tr>
  <tr>
@@ -9578,66 +11271,66 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>å¢žå¼ºçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>å¤š</span></i></b><b><i><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>¶à</span></i></b><b><i><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>GOP</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ç¼“å­˜æœ€è¿‘çš„</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>»º´æ×î½üµÄ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>Gop</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ï¼Œè®©æ’­æ”¾å™¨å¿«é€Ÿå¯åŠ¨</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>£¬ÈÃ²¥·ÅÆ÷¿ìËÙÆô¶¯</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>(&lt;0.1s)</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ï¼Œ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>£¬</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>BMS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>cache</span><span
-  style='font-family:å®‹ä½“;color:#333333'>å¤šä¸ª</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>¶à¸ö</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>gop</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ï¼Œæ›´å¿«å¯åŠ¨</span></p>
+  style='font-family:ËÎÌå;color:#333333'>£¬¸ü¿ìÆô¶¯</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å›žæºåˆ‡æ¢</span></p>
+  style='font-family:ËÎÌå;color:#333333'>»ØÔ´ÇÐ»»</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>é”™è¯¯æ—¶åˆ‡æ¢</span></p>
+  style='font-family:ËÎÌå;color:#333333'>´íÎóÊ±ÇÐ»»</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>é”™è¯¯æ—¶åˆ‡æ¢ï¼Œ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>´íÎóÊ±ÇÐ»»£¬</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'><br>
-  <b><i>API</i></b></span><b><i><span style='font-family:å®‹ä½“;color:#333333'>æ— ç¼åˆ‡æ¢</span></i></b><span
+  <b><i>API</i></b></span><b><i><span style='font-family:ËÎÌå;color:#333333'>ÎÞ·ìÇÐ»»</span></i></b><span
   style='font-family:"Segoe UI",sans-serif;color:#333333'> </span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>SRS/BMS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>åœ¨é”™è¯¯æ—¶åˆ‡æ¢æºç«™ï¼Œ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>ÔÚ´íÎóÊ±ÇÐ»»Ô´Õ¾£¬</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>BMS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>API</span><span
-  style='font-family:å®‹ä½“;color:#333333'>è°ƒç”¨åˆ‡æ¢æºç«™</span></p>
+  style='font-family:ËÎÌå;color:#333333'>µ÷ÓÃÇÐ»»Ô´Õ¾</span></p>
   </td>
  </tr>
 </table>
 
 <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>ä»¥ä¸‹ä¸º</span><span lang=EN
+style='font-size:12.0pt;font-family:ËÎÌå;color:#333333'>ÒÔÏÂÎª</span><span lang=EN
 style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;color:#333333'>BMS</span><span
-style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>æ–°å¢žçš„åŠŸèƒ½ï¼š</span></p>
+style='font-size:12.0pt;font-family:ËÎÌå;color:#333333'>ÐÂÔöµÄ¹¦ÄÜ£º</span></p>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse'>
@@ -9668,24 +11361,24 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>æ–°å¢žçš„åŠŸèƒ½ï¼š</sp
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æºç«™é›†ç¾¤</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ô´Õ¾¼¯Èº</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ— </span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÎÞ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>åŸºäºŽ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>»ùÓÚ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>Redis</span><span
-  style='font-family:å®‹ä½“;color:#333333'>çš„æºç«™é›†ç¾¤ï¼Œè¾¹ç¼˜è‡ªåŠ¨è´Ÿè½½å‡è¡¡å’Œå®¹é”™</span></p>
+  style='font-family:ËÎÌå;color:#333333'>µÄÔ´Õ¾¼¯Èº£¬±ßÔµ×Ô¶¯¸ºÔØ¾ùºâºÍÈÝ´í</span></p>
   </td>
  </tr>
  <tr>
@@ -9697,43 +11390,43 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>æ–°å¢žçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ— </span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÎÞ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒæµæ¨¡å¼åˆ†å‘</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³ÖÁ÷Ä£Ê½·Ö·¢</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>HLS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>åˆ‡ç‰‡ï¼Œè¾¹ç¼˜è½¬å°è£…ï¼ŒåŒä¸€å¥—æµåª’ä½“åˆ†å‘ï¼ˆä¸ç”¨èµ°</span><span
+  style='font-family:ËÎÌå;color:#333333'>ÇÐÆ¬£¬±ßÔµ×ª·â×°£¬Í¬Ò»Ì×Á÷Ã½Ìå·Ö·¢£¨²»ÓÃ×ß</span><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>HTTP</span><span
-  style='font-family:å®‹ä½“;color:#333333'>é›†ç¾¤ï¼‰</span></p>
+  style='font-family:ËÎÌå;color:#333333'>¼¯Èº£©</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ—¶ç§»</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ê±ÒÆ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ— </span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÎÞ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>å¯¹æŽ¥è§‚æ­¢æ—¶ç§»ç³»ç»Ÿ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>¶Ô½Ó¹ÛÖ¹Ê±ÒÆÏµÍ³</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>åœ¨æ—¶ç§»çš„åŸºç¡€ä¸Šå¯ä»¥åšé«˜çº§æ”¶å½•å’Œ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>ÔÚÊ±ÒÆµÄ»ù´¡ÉÏ¿ÉÒÔ×ö¸ß¼¶ÊÕÂ¼ºÍ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>P2P</span></p>
   </td>
  </tr>
@@ -9742,48 +11435,48 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>æ–°å¢žçš„åŠŸèƒ½ï¼š</sp
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>CDN</span><span
-  style='font-family:å®‹ä½“;color:#333333'>é¢„æŽ¨</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ô¤ÍÆ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ— </span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÎÞ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å°†</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>½«</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>HLS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>é¢„æŽ¨åˆ°</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ô¤ÍÆµ½</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>CDN</span><span
-  style='font-family:å®‹ä½“;color:#333333'>èŠ‚ç‚¹</span></p>
+  style='font-family:ËÎÌå;color:#333333'>½Úµã</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>è®¡è´¹</span></p>
+  style='font-family:ËÎÌå;color:#333333'>¼Æ·Ñ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ— </span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÎÞ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒå¯¹æŽ¥è®¡è´¹ç³»ç»Ÿ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö¶Ô½Ó¼Æ·ÑÏµÍ³</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>è®¡è´¹ç³»ç»Ÿåšå®šåˆ¶å’Œå¯¹æŽ¥</span></p>
+  style='font-family:ËÎÌå;color:#333333'>¼Æ·ÑÏµÍ³×ö¶¨ÖÆºÍ¶Ô½Ó</span></p>
   </td>
  </tr>
  <tr>
@@ -9791,26 +11484,26 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>æ–°å¢žçš„åŠŸèƒ½ï¼š</sp
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>HLS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>çº¯éŸ³é¢‘</span></p>
+  style='font-family:ËÎÌå;color:#333333'>´¿ÒôÆµ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b><b><i><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b><b><i><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>MP3</span></i></b><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>å’Œ</span></i></b><b><i><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>ºÍ</span></i></b><b><i><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>AAC</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>HLS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>çº¯éŸ³é¢‘å³æ²¡æœ‰è§†é¢‘æµ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>´¿ÒôÆµ¼´Ã»ÓÐÊÓÆµÁ÷</span></p>
   </td>
  </tr>
  <tr>
@@ -9818,22 +11511,22 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>æ–°å¢žçš„åŠŸèƒ½ï¼š</sp
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>Vhost</span><span
-  style='font-family:å®‹ä½“;color:#333333'>è½¬æ¢</span></p>
+  style='font-family:ËÎÌå;color:#333333'>×ª»»</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>è¾¹ç¼˜å›žæºï¼Œä»¥åŠå¤æ‚ä¸šåŠ¡ç³»ç»Ÿéœ€è¦è½¬æ¢</span><span
+  style='font-family:ËÎÌå;color:#333333'>±ßÔµ»ØÔ´£¬ÒÔ¼°¸´ÔÓÒµÎñÏµÍ³ÐèÒª×ª»»</span><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>Vhost</span></p>
   </td>
  </tr>
@@ -9846,68 +11539,68 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>æ–°å¢žçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å¯¹æŽ¥åˆ°</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>¶Ô½Óµ½</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>Kafka</span><span
-  style='font-family:å®‹ä½“;color:#333333'>å¤§æ•°æ®é›†ç¾¤ï¼Œå‚è€ƒ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>´óÊý¾Ý¼¯Èº£¬²Î¿¼</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>BIG</span><span
-  style='font-family:å®‹ä½“;color:#333333'>æŠ€æœ¯</span></p>
+  style='font-family:ËÎÌå;color:#333333'>¼¼Êõ</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>åŠ¨æ€é…ç½®</span></p>
+  style='font-family:ËÎÌå;color:#333333'>¶¯Ì¬ÅäÖÃ</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>é€šè¿‡</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Í¨¹ý</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>HTTP API</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ä»Žä¸šåŠ¡ç³»ç»ŸåŠ¨æ€åŠ è½½é…ç½®</span></p>
+  style='font-family:ËÎÌå;color:#333333'>´ÓÒµÎñÏµÍ³¶¯Ì¬¼ÓÔØÅäÖÃ</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ—¥å¿—åˆ‡å‰²</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÈÕÖ¾ÇÐ¸î</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
   lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#333333'>nginx</span><span
-  style='font-family:å®‹ä½“;color:#333333'>é£Žæ ¼çš„æ—¥å¿—åˆ‡å‰²</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>·ç¸ñµÄÈÕÖ¾ÇÐ¸î</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>LogRotate</span></p>
   </td>
  </tr>
@@ -9920,123 +11613,123 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>æ–°å¢žçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>HLS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>å¤šæºç«™å¹¶å‘å›žæº</span></p>
+  style='font-family:ËÎÌå;color:#333333'>¶àÔ´Õ¾²¢·¢»ØÔ´</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ¯«ç§’å¼€</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ºÁÃë¿ª</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>FastStartup</span><span
-  style='font-family:å®‹ä½“;color:#333333'>æ¯«ç§’çº§çŒæ»¡æ’­æ”¾å™¨ç¼“å†²åŒºï¼Œæ¯”ç§’å¼€æ›´å¿«</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ºÁÃë¼¶¹àÂú²¥·ÅÆ÷»º³åÇø£¬±ÈÃë¿ª¸ü¿ì</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å†…å­˜è½¬å‚¨</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÄÚ´æ×ª´¢</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒåˆ†æžå½“å‰æœåŠ¡å™¨çš„å†…å­˜æ¶ˆè€—</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö·ÖÎöµ±Ç°·þÎñÆ÷µÄÄÚ´æÏûºÄ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>MemoryApi</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ï¼Œæ–¹ä¾¿è¿ç»´</span></p>
+  style='font-family:ËÎÌå;color:#333333'>£¬·½±ãÔËÎ¬</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>è½¯çŸ©é˜µ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Èí¾ØÕó</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>M</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ç»„æ¯ç»„</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>×éÃ¿×é</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>N</span><span
-  style='font-family:å®‹ä½“;color:#333333'>è·¯è¾“å…¥ä¸€è·¯è¾“å‡ºï¼Œå³</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Â·ÊäÈëÒ»Â·Êä³ö£¬¼´</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>M*N</span><span
-  style='font-family:å®‹ä½“;color:#333333'>è¾“å…¥</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>ÊäÈë</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>M</span><span
-  style='font-family:å®‹ä½“;color:#333333'>è¾“å‡º</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Êä³ö</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>å»¶æ’­</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÑÓ²¥</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒå»¶è¿Ÿæ’­å‡º</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³ÖÑÓ³Ù²¥³ö</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>(</span><span
-  style='font-family:å®‹ä½“;color:#333333'>æµå®¡æ ¸</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Á÷ÉóºË</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>)</span><span
-  style='font-family:å®‹ä½“;color:#333333'>å’Œæ—¶ç§»ï¼Œæ”¯æŒå†…å­˜å’Œç£ç›˜</span></p>
+  style='font-family:ËÎÌå;color:#333333'>ºÍÊ±ÒÆ£¬Ö§³ÖÄÚ´æºÍ´ÅÅÌ</span></p>
   </td>
  </tr>
  <tr>
@@ -10048,27 +11741,27 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>æ–°å¢žçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>FLV Live Streaming</span><span
-  style='font-family:å®‹ä½“;color:#333333'>å°†</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>½«</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>HLS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>çš„</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>µÄ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>TS</span><span
-  style='font-family:å®‹ä½“;color:#333333'>æ¢æˆ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>»»³É</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>FLV</span><span
-  style='font-family:å®‹ä½“;color:#333333'>åˆ‡ç‰‡ï¼ŒåŽ»æŽ‰</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>ÇÐÆ¬£¬È¥µô</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>M3u8</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ç´¢å¼•</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ë÷Òý</span></p>
   </td>
  </tr>
  <tr>
@@ -10080,21 +11773,21 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>æ–°å¢žçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>Referer</span><span
-  style='font-family:å®‹ä½“;color:#333333'>å’Œ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>ºÍ</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>Token</span><span
-  style='font-family:å®‹ä½“;color:#333333'>é˜²ç›—é“¾ï¼Œè¸¢æµå’Œç¦æ’­ç­‰</span></p>
+  style='font-family:ËÎÌå;color:#333333'>·ÀµÁÁ´£¬ÌßÁ÷ºÍ½û²¥µÈ</span></p>
   </td>
  </tr>
  <tr>
@@ -10106,95 +11799,95 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>æ–°å¢žçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>å·²è§„åˆ’</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>ÒÑ¹æ»®</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒåº”ç”¨å±‚å›žæºæ™ºèƒ½è·¯ç”±</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ö§³ÖÓ¦ÓÃ²ã»ØÔ´ÖÇÄÜÂ·ÓÉ</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æˆªå›¾</span></p>
+  style='font-family:ËÎÌå;color:#333333'>½ØÍ¼</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>å·²è§„åˆ’</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>ÒÑ¹æ»®</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒå¿«é€Ÿæˆªå›¾</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö¿ìËÙ½ØÍ¼</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>Snapshot</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ï¼Œä¾›é‰´é»„å’Œé¢„è§ˆç­‰</span></p>
+  style='font-family:ËÎÌå;color:#333333'>£¬¹©¼ø»ÆºÍÔ¤ÀÀµÈ</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>éŸ³é¢‘è½¬ç </span></p>
+  style='font-family:ËÎÌå;color:#333333'>ÒôÆµ×ªÂë</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>å·²è§„åˆ’</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>ÒÑ¹æ»®</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>AT</span><span
-  style='font-family:å®‹ä½“;color:#333333'>éŸ³é¢‘è½¬ç ï¼Œ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>ÒôÆµ×ªÂë£¬</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>speex</span><span
-  style='font-family:å®‹ä½“;color:#333333'>è½¬</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>×ª</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>aac</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ï¼Œæ‹“å±•</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>£¬ÍØÕ¹</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>flash</span><span
-  style='font-family:å®‹ä½“;color:#333333'>é¡µé¢æŽ¨æµæ–¹å¼</span></p>
+  style='font-family:ËÎÌå;color:#333333'>Ò³ÃæÍÆÁ÷·½Ê½</span></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid #DDDDDD 1.0pt;border-top:none;background:white;
   padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ··éŸ³</span></p>
+  style='font-family:ËÎÌå;color:#333333'>»ìÒô</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>å·²è§„åˆ’</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>ÒÑ¹æ»®</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>AM</span><span
-  style='font-family:å®‹ä½“;color:#333333'>å¤šè·¯éŸ³é¢‘æ··åˆï¼Œæ”¯æŒè¿žéº¦å’Œä¼šè®®ç­‰ä¸šåŠ¡</span></p>
+  style='font-family:ËÎÌå;color:#333333'>¶àÂ·ÒôÆµ»ìºÏ£¬Ö§³ÖÁ¬ÂóºÍ»áÒéµÈÒµÎñ</span></p>
   </td>
  </tr>
  <tr>
@@ -10206,231 +11899,231 @@ style='font-size:12.0pt;font-family:å®‹ä½“;color:#333333'>æ–°å¢žçš„åŠŸèƒ½ï¼š</sp
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¸æ”¯æŒ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>²»Ö§³Ö</span></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><b><i><span
-  style='font-family:å®‹ä½“;color:#333333'>å·²è§„åˆ’</span></i></b></p>
+  style='font-family:ËÎÌå;color:#333333'>ÒÑ¹æ»®</span></i></b></p>
   </td>
   <td style='border-top:none;border-left:none;border-bottom:solid #DDDDDD 1.0pt;
   border-right:solid #DDDDDD 1.0pt;background:white;padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal align=left style='margin-bottom:12.0pt;text-align:left'><span
-  style='font-family:å®‹ä½“;color:#333333'>æ”¯æŒ</span><span lang=EN-US
+  style='font-family:ËÎÌå;color:#333333'>Ö§³Ö</span><span lang=EN-US
   style='font-family:"Segoe UI",sans-serif;color:#333333'>UDP</span><span
-  style='font-family:å®‹ä½“;color:#333333'>ä¼ è¾“ï¼Œæ›´ä½Žçº§åˆ«çš„ç³»ç»Ÿå»¶è¿Ÿ</span></p>
+  style='font-family:ËÎÌå;color:#333333'>´«Êä£¬¸üµÍ¼¶±ðµÄÏµÍ³ÑÓ³Ù</span></p>
   </td>
  </tr>
 </table>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“;
-color:black'>æµåª’ä½“</span><span lang=EN-US>Server</span><span style='font-family:
-å®‹ä½“'>çš„è¯è¯´æ¥ä¹Ÿä¸çŸ­ï¼Œä¸Šè¿°åˆ—ä¸¾çš„ç›®å‰å¸‚é¢ä¸Šä¸»æµæµåª’ä½“æœåŠ¡å™¨ä¸­ï¼Œæœ‰åå‰¯å…¶å®žçš„å…ˆçƒˆ</span><span lang=EN-US>RED5</span><span
-style='font-family:å®‹ä½“'>ï¼Œæœ‰ç”Ÿä¸é€¢æ—¶çš„</span><span lang=EN-US>CRTMPD</span><span
-style='font-family:å®‹ä½“'>ï¼Œéƒ½æœªå¤§è§„æ¨¡å•†ç”¨å°±ä¸è¿‡äºŽè®¨è®ºäº†ã€‚å…¶ä¸­åº”ç”¨æœ€ä¸ºå¹¿æ³›èŽ«å±ž</span><span lang=EN-US>nginx-rtmp</span><span
-style='font-family:å®‹ä½“'>ï¼Œä»¥ä¸‹æ˜¯</span><span lang=EN-US>nginx-rtmp</span><span
-style='font-family:å®‹ä½“'>å‡ ä¸ªç››è¡ŒäºŽä¸–çš„é‡è¦å› ç´ ï¼š</span></p>
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå;
+color:black'>Á÷Ã½Ìå</span><span lang=EN-US>Server</span><span style='font-family:
+ËÎÌå'>µÄ»°ËµÀ´Ò²²»¶Ì£¬ÉÏÊöÁÐ¾ÙµÄÄ¿Ç°ÊÐÃæÉÏÖ÷Á÷Á÷Ã½Ìå·þÎñÆ÷ÖÐ£¬ÓÐÃû¸±ÆäÊµµÄÏÈÁÒ</span><span lang=EN-US>RED5</span><span
+style='font-family:ËÎÌå'>£¬ÓÐÉú²»·êÊ±µÄ</span><span lang=EN-US>CRTMPD</span><span
+style='font-family:ËÎÌå'>£¬¶¼Î´´ó¹æÄ£ÉÌÓÃ¾Í²»¹ýÓÚÌÖÂÛÁË¡£ÆäÖÐÓ¦ÓÃ×îÎª¹ã·ºÄªÊô</span><span lang=EN-US>nginx-rtmp</span><span
+style='font-family:ËÎÌå'>£¬ÒÔÏÂÊÇ</span><span lang=EN-US>nginx-rtmp</span><span
+style='font-family:ËÎÌå'>¼¸¸öÊ¢ÐÐÓÚÊÀµÄÖØÒªÒòËØ£º</span></p>
 
 <p class=MsoNormal align=left style='margin-left:24.0pt;text-align:left;
 text-indent:-18.0pt'><span lang=EN-US style='font-size:10.0pt;font-family:Symbol;
-color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>2012</span><span
-style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>å¹´<span lang=EN-US>CDN</span>ä¸šåŠ¡å¼€å§‹æžå¢žé•¿ï¼Œéšä¹‹ç›´æ’­éœ€æ±‚ä¹Ÿå¤šäº†èµ·æ¥ï¼Œå½¼æ—¶ä¸šç•Œéƒ½è¿˜æ²¡æœ‰ä¸€å¥—å…¬è®¤çš„ç‰¹åˆ«æ»¡æ„çš„æµåª’ä½“æœåŠ¡å™¨ï¼›</span></p>
+color:black'>¡¤<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>2012</span><span
+style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>Äê<span lang=EN-US>CDN</span>ÒµÎñ¿ªÊ¼¼«Ôö³¤£¬ËæÖ®Ö±²¥ÐèÇóÒ²¶àÁËÆðÀ´£¬±ËÊ±Òµ½ç¶¼»¹Ã»ÓÐÒ»Ì×¹«ÈÏµÄÌØ±ðÂúÒâµÄÁ÷Ã½Ìå·þÎñÆ÷£»</span></p>
 
 <p class=MsoNormal align=left style='margin-left:24.0pt;text-align:left;
 text-indent:-18.0pt'><span lang=EN-US style='font-size:10.0pt;font-family:Symbol;
-color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>Nginx</span><span
-style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>æ˜¯<span lang=EN-US>HTTP</span>é¢†åŸŸç»å¯¹çš„éœ¸ä¸»ï¼Œå¤§å®¶ï¼ˆå°¤å…¶æ˜¯<span
-lang=EN-US>CDN</span>è¿ç»´ï¼‰å¯¹<span lang=EN-US>Nginx</span>ç†Ÿæ‚‰ç¨‹åº¦å¾ˆé«˜ï¼Œä¾¿äºŽä¸Šæ‰‹ç»´æŠ¤ï¼›</span></p>
+color:black'>¡¤<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>Nginx</span><span
+style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>ÊÇ<span lang=EN-US>HTTP</span>ÁìÓò¾ø¶ÔµÄ°ÔÖ÷£¬´ó¼Ò£¨ÓÈÆäÊÇ<span
+lang=EN-US>CDN</span>ÔËÎ¬£©¶Ô<span lang=EN-US>Nginx</span>ÊìÏ¤³Ì¶ÈºÜ¸ß£¬±ãÓÚÉÏÊÖÎ¬»¤£»</span></p>
 
 <p class=MsoNormal align=left style='margin-left:24.0pt;text-align:left;
 text-indent:-18.0pt'><span lang=EN-US style='font-size:10.0pt;font-family:Symbol;
-color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>åŸºäºŽ<span
-lang=EN-US>Nginx</span>ï¼Œç›´æ’­ç‚¹æ’­ä½¿ç”¨ä¸€å¥—æœåŠ¡å™¨ï¼Œè¿™ä¹Ÿæžå…·è¯±æƒ‘åŠ›ï¼Œä¸€å¥—ç®¡ç†èµ·æ¥æ€»æ¯”å¤šå¥—è¦ç®€å•ï¼›</span></p>
+color:black'>¡¤<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>»ùÓÚ<span
+lang=EN-US>Nginx</span>£¬Ö±²¥µã²¥Ê¹ÓÃÒ»Ì×·þÎñÆ÷£¬ÕâÒ²¼«¾ßÓÕ»óÁ¦£¬Ò»Ì×¹ÜÀíÆðÀ´×Ü±È¶àÌ×Òª¼òµ¥£»</span></p>
 
 <p class=MsoNormal align=left style='margin-left:24.0pt;text-align:left;
 text-indent:-18.0pt'><span lang=EN-US style='font-size:10.0pt;font-family:Symbol;
-color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>CDN</span><span
-style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>æ˜¯é è¿ç»´çš„è¡Œå½“ï¼Œè¿ç»´çš„ä¿¡å¿ƒéƒ½æ˜¯é•¿å¹´è¿å‡ºæ¥çš„ï¼Œ<span
-lang=EN-US>Nginx</span>åœ¨å›¾æ–‡ä¸Šé‚£ä¹ˆä¼˜ç§€ï¼Œ<span lang=EN-US>Nginx RTMP</span>ä¹Ÿå·®ä¸äº†ã€‚</span></p>
+color:black'>¡¤<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>CDN</span><span
+style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>ÊÇ¿¿ÔËÎ¬µÄÐÐµ±£¬ÔËÎ¬µÄÐÅÐÄ¶¼ÊÇ³¤ÄêÔË³öÀ´µÄ£¬<span
+lang=EN-US>Nginx</span>ÔÚÍ¼ÎÄÉÏÄÇÃ´ÓÅÐã£¬<span lang=EN-US>Nginx RTMP</span>Ò²²î²»ÁË¡£</span></p>
 
 <p class=MsoNormal align=left style='margin-top:3.75pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>&nbsp;</span></p>
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>&nbsp;</span></p>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US>nginx-rtmp</span><span
-style='font-family:å®‹ä½“'>ç¡®å®žç”Ÿæ¥å°±è‡ªå¸¦å…‰çŽ¯å¤–ï¼Œæ€§èƒ½ä¹Ÿçš„ç¡®æ˜¯é«˜ï¼Œæ¯”</span><span lang=EN-US>Crtmpd</span><span
-style='font-family:å®‹ä½“'>è¿˜è¦é«˜ã€‚ç„¶è€Œï¼Œæ—¶è¿‡å¢ƒè¿ï¼Œéšç€äº’åŠ¨ç›´æ’­ã€ç§»åŠ¨ç›´æ’­çš„å¼ºåŠ¿å…´èµ·çš„å¤§ç›´æ’­æ—¶ä»£ï¼Œé€‰æ‹©</span><span
-lang=EN-US>nginx-rtmp</span><span style='font-family:å®‹ä½“'>åˆ°åº•æ˜¯ç¦è¿˜æ˜¯ç¥¸ï¼Ÿ</span></p>
+style='font-family:ËÎÌå'>È·ÊµÉúÀ´¾Í×Ô´ø¹â»·Íâ£¬ÐÔÄÜÒ²µÄÈ·ÊÇ¸ß£¬±È</span><span lang=EN-US>Crtmpd</span><span
+style='font-family:ËÎÌå'>»¹Òª¸ß¡£È»¶ø£¬Ê±¹ý¾³Ç¨£¬Ëæ×Å»¥¶¯Ö±²¥¡¢ÒÆ¶¯Ö±²¥µÄÇ¿ÊÆÐËÆðµÄ´óÖ±²¥Ê±´ú£¬Ñ¡Ôñ</span><span
+lang=EN-US>nginx-rtmp</span><span style='font-family:ËÎÌå'>µ½µ×ÊÇ¸£»¹ÊÇ»ö£¿</span></p>
 
-<p class=MsoNoSpacing><span style='font-family:å®‹ä½“'>ä¸‹é¢å°ç¼–å°†ä»Ž<b><span
-style='color:#FF6827'>åè®®æ”¯æŒã€ä½“ç³»æž¶æž„ã€æ ¸å¿ƒåŠŸèƒ½æ”¯æŒã€é…ç½®è¿ç»´ã€æ€§èƒ½ã€æœåŠ¡å™¨æ—¥å¿—ã€æ•°æ®</span></b>è¿™ä¸ƒå¤§ç»´åº¦å°†ç›®å‰å¸‚é¢ä¸»æµçš„æµåª’ä½“</span><span
-lang=EN-US>Server</span><span style='font-family:å®‹ä½“'>åšä¸€ä¸ªæ¨ªå‘å¯¹æ¯”ï¼Œä¾›è§†é¢‘ä»Žä¸šè€…æ ¹æ®è‡ªèº«ä¸šåŠ¡åœºæ™¯ç‰¹æ€§æ‹©ä¼˜é€‰ç”¨ã€‚</span></p>
+<p class=MsoNoSpacing><span style='font-family:ËÎÌå'>ÏÂÃæÐ¡±à½«´Ó<b><span
+style='color:#FF6827'>Ð­ÒéÖ§³Ö¡¢ÌåÏµ¼Ü¹¹¡¢ºËÐÄ¹¦ÄÜÖ§³Ö¡¢ÅäÖÃÔËÎ¬¡¢ÐÔÄÜ¡¢·þÎñÆ÷ÈÕÖ¾¡¢Êý¾Ý</span></b>ÕâÆß´óÎ¬¶È½«Ä¿Ç°ÊÐÃæÖ÷Á÷µÄÁ÷Ã½Ìå</span><span
+lang=EN-US>Server</span><span style='font-family:ËÎÌå'>×öÒ»¸öºáÏò¶Ô±È£¬¹©ÊÓÆµ´ÓÒµÕß¸ù¾Ý×ÔÉíÒµÎñ³¡¾°ÌØÐÔÔñÓÅÑ¡ÓÃ¡£</span></p>
 
-<h4><a name="_Toc462219553"><span class=4><span style='font-family:å®‹ä½“;
-font-weight:normal'>ç½‘ç»œåè®®å¯¹æ¯”</span></span></a></h4>
+<h4><a name="_Toc462219553"><span class=4><span style='font-family:ËÎÌå;
+font-weight:normal'>ÍøÂçÐ­Òé¶Ô±È</span></span></a></h4>
 
 <p class=MsoNormal align=center style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:center;line-height:15.75pt'><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'><img border=0
-width=549 height=349 id="å›¾ç‰‡ 13" src="srs_wiki.files/image009.jpg"
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'><img border=0
+width=549 height=349 id="Í¼Æ¬ 13" src="srs_wiki.files/image009.jpg"
 alt="https://h5.weiyun.com/tx_tls_gate=img7.wtoutiao.com/?url=http://mmbiz.qpic.cn/mmbiz/ibqXNcZwc8ZficAW5LaxzmE8WU7RSHXA8z68Zy3Aw6zC7VQKv74JHq2vkGt67XBrXwDSZbUTgEmqUtB5ueoWoqQQ/0?wx_fmt=png"></span></p>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US>BMS</span><span
-style='font-family:å®‹ä½“'>æ”¯æŒ</span><span lang=EN-US>HDS</span><span
-style='font-family:å®‹ä½“'>ã€</span><span lang=EN-US>DASH</span><span
-style='font-family:å®‹ä½“'>ã€</span><span lang=EN-US>RTMPE/S/T</span><span
-style='font-family:å®‹ä½“'>ç­‰åè®®çš„åˆ†å‘ï¼Œè¿™å°†æ”¯æŒæ›´å¤šä¸šåŠ¡åº”ç”¨åœºæ™¯ï¼Œ</span><span lang=EN-US>FLASH P2P</span><span
-style='font-family:å®‹ä½“'>çš„æ”¯æŒèƒ½å¤Ÿæ˜¾è‘—é™ä½Žç½‘ç»œå¸¦å®½æˆæœ¬ã€‚</span></p>
+style='font-family:ËÎÌå'>Ö§³Ö</span><span lang=EN-US>HDS</span><span
+style='font-family:ËÎÌå'>¡¢</span><span lang=EN-US>DASH</span><span
+style='font-family:ËÎÌå'>¡¢</span><span lang=EN-US>RTMPE/S/T</span><span
+style='font-family:ËÎÌå'>µÈÐ­ÒéµÄ·Ö·¢£¬Õâ½«Ö§³Ö¸ü¶àÒµÎñÓ¦ÓÃ³¡¾°£¬</span><span lang=EN-US>FLASH P2P</span><span
+style='font-family:ËÎÌå'>µÄÖ§³ÖÄÜ¹»ÏÔÖø½µµÍÍøÂç´ø¿í³É±¾¡£</span></p>
 
-<h4><a name="_Toc462219554"><span style='font-family:å®‹ä½“'>ä½“ç³»æž¶æž„å¯¹æ¯”</span></a></h4>
+<h4><a name="_Toc462219554"><span style='font-family:ËÎÌå'>ÌåÏµ¼Ü¹¹¶Ô±È</span></a></h4>
 
 <p class=MsoNormal align=center style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:center;line-height:15.75pt'><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'><img border=0
-width=567 height=325 id="å›¾ç‰‡ 12" src="srs_wiki.files/image010.jpg"
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'><img border=0
+width=567 height=325 id="Í¼Æ¬ 12" src="srs_wiki.files/image010.jpg"
 alt="https://h5.weiyun.com/tx_tls_gate=img7.wtoutiao.com/?url=http://mmbiz.qpic.cn/mmbiz/ibqXNcZwc8ZficAW5LaxzmE8WU7RSHXA8zFTLCrZwgEhxUCFSDgXZl4316jZqzNUeq5Sg9iavz270lJZNFmmVXcMQ/0?wx_fmt=png"></span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>æž¶æž„æ–¹é¢ï¼Œè¾ƒä¹‹äºŽ</span><span
-lang=EN-US>nginx-rtmp</span><span style='font-family:å®‹ä½“'>çš„</span><span
-lang=EN-US>16</span><span style='font-family:å®‹ä½“'>ä¸‡è¡Œä»£ç ï¼Œ</span><b><span
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>¼Ü¹¹·½Ãæ£¬½ÏÖ®ÓÚ</span><span
+lang=EN-US>nginx-rtmp</span><span style='font-family:ËÎÌå'>µÄ</span><span
+lang=EN-US>16</span><span style='font-family:ËÎÌå'>ÍòÐÐ´úÂë£¬</span><b><span
 lang=EN-US style='color:#FF6827'>SRS</span></b><b><span style='font-family:
-å®‹ä½“;color:#FF6827'>ä»…ç”¨äº†</span><span lang=EN-US style='color:#FF6827'>6.5</span></b><b><span
-style='font-family:å®‹ä½“;color:#FF6827'>ä¸‡è¡Œä»£ç å°±å®žçŽ°äº†æ¯”</span><span lang=EN-US
+ËÎÌå;color:#FF6827'>½öÓÃÁË</span><span lang=EN-US style='color:#FF6827'>6.5</span></b><b><span
+style='font-family:ËÎÌå;color:#FF6827'>ÍòÐÐ´úÂë¾ÍÊµÏÖÁË±È</span><span lang=EN-US
 style='color:#FF6827'>nginx-rtmp&nbsp;</span></b><b><span style='font-family:
-å®‹ä½“;color:#FF6827'>å¤šäº†</span><span lang=EN-US style='color:#FF6827'>230%</span></b><b><span
-style='font-family:å®‹ä½“;color:#FF6827'>çš„åŠŸèƒ½</span></b><span style='font-family:
-å®‹ä½“;color:#FF6827'>ï¼Œ</span><span lang=EN-US>nginx-rtmp</span><span
-style='font-family:å®‹ä½“'>æ³¨é‡ŠçŽ‡ä¸º</span><span lang=EN-US>3%</span><span
-style='font-family:å®‹ä½“'>ï¼Œè€Œ</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>æ˜¯</span><span lang=EN-US>23.7%</span><span
-style='font-family:å®‹ä½“'>ã€‚ç”±æ­¤å¯è§</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>åœ¨ä½“ç³»æž¶æž„ä¸Šçš„è½»ï¼Œ</span><span lang=EN-US>Simple</span><span
-style='font-family:å®‹ä½“'>ã€‚</span></p>
+ËÎÌå;color:#FF6827'>¶àÁË</span><span lang=EN-US style='color:#FF6827'>230%</span></b><b><span
+style='font-family:ËÎÌå;color:#FF6827'>µÄ¹¦ÄÜ</span></b><span style='font-family:
+ËÎÌå;color:#FF6827'>£¬</span><span lang=EN-US>nginx-rtmp</span><span
+style='font-family:ËÎÌå'>×¢ÊÍÂÊÎª</span><span lang=EN-US>3%</span><span
+style='font-family:ËÎÌå'>£¬¶ø</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>ÊÇ</span><span lang=EN-US>23.7%</span><span
+style='font-family:ËÎÌå'>¡£ÓÉ´Ë¿É¼û</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>ÔÚÌåÏµ¼Ü¹¹ÉÏµÄÇá£¬</span><span lang=EN-US>Simple</span><span
+style='font-family:ËÎÌå'>¡£</span></p>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US>BMS</span><span
-style='font-family:å®‹ä½“'>åœ¨</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>çš„åŸºç¡€ä¸Šæ–°å¢žäº†<b><span style='color:#FF6827'>å¤šè¿›ç¨‹æ”¯æŒã€æºç«™é›†ç¾¤ã€åŠ¨æ€é…ç½®ã€å¯è¿½æº¯æ—¥å¿—</span></b>ç­‰æ–¹é¢èƒ½åŠ›ã€‚æºç«™é›†ç¾¤å­ç³»ç»Ÿæ‰“é€šäº†è·¨ç½‘è·¨åœ°åŒºçš„æºç«™åˆ†å¸ƒå¼éƒ¨ç½²éš¾é¢˜ï¼›åŠ¨æ€é…ç½®å­ç³»ç»Ÿä»Žä¸šåŠ¡ç³»ç»Ÿè¯»å–é…ç½®ï¼Œä¾æ®æ›´æ–°æœºåˆ¶åŠ¨æ€æ›´æ–°é…ç½®ï¼Œä¿è¯ç›´æ’­ä¸šåŠ¡é…ç½®å˜åŒ–æ—¶ä¾ç„¶ä¸ä¸­æ–­ï¼›ç«¯åˆ°ç«¯çš„å¯è¿½æº¯æ—¥å¿—åŠç›‘æŽ§æŽ’é”™å­ç³»ç»Ÿå°†ç›´æ’­æ•…éšœå®šä½æ—¶é—´ç¼©çŸ­åˆ°äº†åˆ†é’Ÿçº§åˆ«ã€‚</span></p>
+style='font-family:ËÎÌå'>ÔÚ</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>µÄ»ù´¡ÉÏÐÂÔöÁË<b><span style='color:#FF6827'>¶à½ø³ÌÖ§³Ö¡¢Ô´Õ¾¼¯Èº¡¢¶¯Ì¬ÅäÖÃ¡¢¿É×·ËÝÈÕÖ¾</span></b>µÈ·½ÃæÄÜÁ¦¡£Ô´Õ¾¼¯Èº×ÓÏµÍ³´òÍ¨ÁË¿çÍø¿çµØÇøµÄÔ´Õ¾·Ö²¼Ê½²¿ÊðÄÑÌâ£»¶¯Ì¬ÅäÖÃ×ÓÏµÍ³´ÓÒµÎñÏµÍ³¶ÁÈ¡ÅäÖÃ£¬ÒÀ¾Ý¸üÐÂ»úÖÆ¶¯Ì¬¸üÐÂÅäÖÃ£¬±£Ö¤Ö±²¥ÒµÎñÅäÖÃ±ä»¯Ê±ÒÀÈ»²»ÖÐ¶Ï£»¶Ëµ½¶ËµÄ¿É×·ËÝÈÕÖ¾¼°¼à¿ØÅÅ´í×ÓÏµÍ³½«Ö±²¥¹ÊÕÏ¶¨Î»Ê±¼äËõ¶Ìµ½ÁË·ÖÖÓ¼¶±ð¡£</span></p>
 
-<h4><a name="_Toc462219555"><span style='font-family:å®‹ä½“'>æ ¸å¿ƒåŠŸèƒ½å¯¹æ¯”</span></a></h4>
+<h4><a name="_Toc462219555"><span style='font-family:ËÎÌå'>ºËÐÄ¹¦ÄÜ¶Ô±È</span></a></h4>
 
 <p class=MsoNormal align=center style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:center;line-height:15.75pt'><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'><img border=0
-width=563 height=441 id="å›¾ç‰‡ 11" src="srs_wiki.files/image011.jpg"
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'><img border=0
+width=563 height=441 id="Í¼Æ¬ 11" src="srs_wiki.files/image011.jpg"
 alt="https://h5.weiyun.com/tx_tls_gate=img7.wtoutiao.com/?url=http://mmbiz.qpic.cn/mmbiz/ibqXNcZwc8ZficAW5LaxzmE8WU7RSHXA8zVhL4zicvUfzS1RicNYk7iccVVAyfiaDK6WqcBRXiciasokULxG77HDO3j6Ug/0?wx_fmt=png"></span></p>
 
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“'>æ ¸å¿ƒåŠŸèƒ½æ–¹é¢ï¼Œ</span><span
-lang=EN-US>BMS</span><span style='font-family:å®‹ä½“'>æ”¯æŒäº†<b><span style='color:
-#FF6827'>å½“æœŸäº’åŠ¨ç›´æ’­ã€ç§»åŠ¨ç›´æ’­æ€¥éœ€çš„å¤§è§„æ¨¡ç›´æ’­æµå®žæ—¶è½¬ç ã€å¤§è§„æ¨¡å½•åˆ¶ã€ç§’çº§ä½Žå»¶è¿Ÿã€</span></b></span><b><span
+<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>ºËÐÄ¹¦ÄÜ·½Ãæ£¬</span><span
+lang=EN-US>BMS</span><span style='font-family:ËÎÌå'>Ö§³ÖÁË<b><span style='color:
+#FF6827'>µ±ÆÚ»¥¶¯Ö±²¥¡¢ÒÆ¶¯Ö±²¥¼±ÐèµÄ´ó¹æÄ£Ö±²¥Á÷ÊµÊ±×ªÂë¡¢´ó¹æÄ£Â¼ÖÆ¡¢Ãë¼¶µÍÑÓ³Ù¡¢</span></b></span><b><span
 lang=EN-US style='color:#FF6827'>HLS+</span></b><b><span style='font-family:
-å®‹ä½“;color:#FF6827'>ã€å¹¶å‘å›žæº</span></b><span style='font-family:å®‹ä½“'>ç­‰å…¶å®ƒæ‰€æœ‰æµåª’ä½“ç³»ç»Ÿä¸å…·å¤‡çš„åŠŸèƒ½ã€‚</span><span
-lang=EN-US>HLS+</span><span style='font-family:å®‹ä½“'>åŸºäºŽæ¯ä¸ªæ’­æ”¾è¯·æ±‚å®žçŽ°äº†æµåª’ä½“çš„â€œè™šæ‹Ÿè¿žæŽ¥</span><span
-lang=EN-US>&nbsp;</span><span style='font-family:å®‹ä½“'>â€ï¼ˆ</span><span lang=EN-US>UUID</span><span
-style='font-family:å®‹ä½“'>æ ‡è¯†ï¼‰ï¼Œåœ¨å‡å°å›žæºé‡ã€æŽ’é”™ã€é˜²ç›—é“¾ã€ç§»åŠ¨</span><span lang=EN-US>Web</span><span
-style='font-family:å®‹ä½“'>ç«¯ä½Žå»¶è¿Ÿç­‰æ–¹é¢å…·æœ‰è¯¸å¤šä¼˜åŠ¿ã€‚å¹¶å‘å›žæºèƒ½å¤Ÿè§£å†³å›žæºç½‘ç»œçŠ¶å†µå·®ã€è·¨å›½ä¼ è¾“ä¸¢åŒ…ä¸¥é‡ç­‰æ–¹é¢èƒ½å¤Ÿæ˜¾è‘—æå‡å›žæºè´¨é‡ã€‚</span></p>
+ËÎÌå;color:#FF6827'>¡¢²¢·¢»ØÔ´</span></b><span style='font-family:ËÎÌå'>µÈÆäËüËùÓÐÁ÷Ã½ÌåÏµÍ³²»¾ß±¸µÄ¹¦ÄÜ¡£</span><span
+lang=EN-US>HLS+</span><span style='font-family:ËÎÌå'>»ùÓÚÃ¿¸ö²¥·ÅÇëÇóÊµÏÖÁËÁ÷Ã½ÌåµÄ¡°ÐéÄâÁ¬½Ó</span><span
+lang=EN-US>&nbsp;</span><span style='font-family:ËÎÌå'>¡±£¨</span><span lang=EN-US>UUID</span><span
+style='font-family:ËÎÌå'>±êÊ¶£©£¬ÔÚ¼õÐ¡»ØÔ´Á¿¡¢ÅÅ´í¡¢·ÀµÁÁ´¡¢ÒÆ¶¯</span><span lang=EN-US>Web</span><span
+style='font-family:ËÎÌå'>¶ËµÍÑÓ³ÙµÈ·½Ãæ¾ßÓÐÖî¶àÓÅÊÆ¡£²¢·¢»ØÔ´ÄÜ¹»½â¾ö»ØÔ´ÍøÂç×´¿ö²î¡¢¿ç¹ú´«Êä¶ª°üÑÏÖØµÈ·½ÃæÄÜ¹»ÏÔÖøÌáÉý»ØÔ´ÖÊÁ¿¡£</span></p>
 
-<h4><a name="_Toc462219556"><span style='font-family:å®‹ä½“'>é…ç½®è¿ç»´å¯¹æ¯”</span></a></h4>
+<h4><a name="_Toc462219556"><span style='font-family:ËÎÌå'>ÅäÖÃÔËÎ¬¶Ô±È</span></a></h4>
 
 <p class=MsoNormal style='margin-top:12.0pt;margin-right:0cm;margin-bottom:
-12.0pt;margin-left:0cm;line-height:15.75pt'><span style='font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>ä»¥ä¸‹ä»…æ˜¯æµåª’ä½“ä¼—å¤šé…ç½®ä¹‹ä¸­å‡ ä¸ªå¸¸ç”¨ä¾‹å­ï¼Œè¿ç»´æ—¥å¸¸å·¥ä½œä¸­ï¼Œéœ€è¦æ“ä½œçš„é…ç½®æ•°é‡æ›´å¤šã€‚</span></p>
+12.0pt;margin-left:0cm;line-height:15.75pt'><span style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;
+color:black'>ÒÔÏÂ½öÊÇÁ÷Ã½ÌåÖÚ¶àÅäÖÃÖ®ÖÐ¼¸¸ö³£ÓÃÀý×Ó£¬ÔËÎ¬ÈÕ³£¹¤×÷ÖÐ£¬ÐèÒª²Ù×÷µÄÅäÖÃÊýÁ¿¸ü¶à¡£</span></p>
 
-<h5><span style='font-family:å®‹ä½“'>ï¼ˆ</span><span lang=EN-US>1</span><span
-style='font-family:å®‹ä½“'>ï¼‰</span><span lang=EN-US>vhost</span><span
-style='font-family:å®‹ä½“'>é…ç½®</span></h5>
+<h5><span style='font-family:ËÎÌå'>£¨</span><span lang=EN-US>1</span><span
+style='font-family:ËÎÌå'>£©</span><span lang=EN-US>vhost</span><span
+style='font-family:ËÎÌå'>ÅäÖÃ</span></h5>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>FMS</span></b></p>
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>FMS</span></b></p>
 
 <p class=MsoNormal align=left style='text-align:left;line-height:15.75pt;
 background:#EEEEEE;vertical-align:baseline'><span style='font-size:9.0pt;
-font-family:"å¾®è½¯é›…é»‘",sans-serif;color:#3E3E3E'>æ‹·è´é»˜è®¤<span lang=EN-US>vhost</span>ç›®å½•ï¼š<span
+font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:#3E3E3E'>¿½±´Ä¬ÈÏ<span lang=EN-US>vhost</span>Ä¿Â¼£º<span
 lang=EN-US>sudo cp -r conf/_defaultRoot_/_defaultVHost_ conf/_defaultRoot_/bravo.sina.com</span></span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>nginx-rtmp</span></b></p>
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>nginx-rtmp</span></b></p>
 
 <p class=MsoNormal align=left style='text-align:left;line-height:15.75pt;
 background:#EEEEEE;vertical-align:baseline'><span style='font-size:9.0pt;
-font-family:"å¾®è½¯é›…é»‘",sans-serif;color:#3E3E3E'>ä¸æ”¯æŒ</span></p>
+font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:#3E3E3E'>²»Ö§³Ö</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>SRS/BMS</span></b></p>
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>SRS/BMS</span></b></p>
 
 <p class=MsoNormal align=left style='text-align:left;line-height:15.75pt;
 background:#EEEEEE;vertical-align:baseline'><span style='font-size:9.0pt;
-font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>åŠ¨æ€èŽ·å–é…ç½®æ–‡ä»¶ï¼š<span lang=EN-US>vhost&nbsp;bravo.sina.com&nbsp;{&nbsp;}</span></span></p>
+font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>¶¯Ì¬»ñÈ¡ÅäÖÃÎÄ¼þ£º<span lang=EN-US>vhost&nbsp;bravo.sina.com&nbsp;{&nbsp;}</span></span></p>
 
 <p class=MsoNormal align=left style='margin-top:11.25pt;margin-right:0cm;
 margin-bottom:3.75pt;margin-left:0cm;text-align:left;line-height:15.75pt'><span
-style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:#FF6827'>ç»“è®ºï¼š<span lang=EN-US>BMS</span>åŠ¨æ€èŽ·å–é…ç½®æœ€ç®€å•</span></p>
+style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:#FF6827'>½áÂÛ£º<span lang=EN-US>BMS</span>¶¯Ì¬»ñÈ¡ÅäÖÃ×î¼òµ¥</span></p>
 
-<h5><span style='font-family:å®‹ä½“'>ï¼ˆ</span><span lang=EN-US>2</span><span
-style='font-family:å®‹ä½“'>ï¼‰</span><span lang=EN-US>app</span><span
-style='font-family:å®‹ä½“'>é…ç½®</span></h5>
+<h5><span style='font-family:ËÎÌå'>£¨</span><span lang=EN-US>2</span><span
+style='font-family:ËÎÌå'>£©</span><span lang=EN-US>app</span><span
+style='font-family:ËÎÌå'>ÅäÖÃ</span></h5>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>&nbsp;FMS</span></b></p>
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>&nbsp;FMS</span></b></p>
 
 <p class=MsoNormal align=left style='text-align:left;line-height:15.75pt;
 background:#EEEEEE;vertical-align:baseline'><span style='font-size:9.0pt;
-font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>æ‹·è´é»˜è®¤<span lang=EN-US>app</span>ç›®å½•ï¼š<span
+font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>¿½±´Ä¬ÈÏ<span lang=EN-US>app</span>Ä¿Â¼£º<span
 lang=EN-US>cp&nbsp;applications/live&nbsp;applications/mylive&nbsp;-r</span></span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>nginx-rtmp</span></b></p>
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>nginx-rtmp</span></b></p>
 
 <p class=MsoNormal align=left style='text-align:left;line-height:15.75pt;
 background:#EEEEEE;vertical-align:baseline'><span style='font-size:9.0pt;
-font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ä¿®æ”¹é…ç½®æ–‡ä»¶ï¼Œå¢žåŠ å¦‚ä¸‹å†…å®¹ï¼š<span lang=EN-US>application&nbsp;live&nbsp;{&nbsp;&nbsp;live&nbsp;on;&nbsp;}</span></span></p>
+font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>ÐÞ¸ÄÅäÖÃÎÄ¼þ£¬Ôö¼ÓÈçÏÂÄÚÈÝ£º<span lang=EN-US>application&nbsp;live&nbsp;{&nbsp;&nbsp;live&nbsp;on;&nbsp;}</span></span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>SRS/BMS</span></b></p>
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>SRS/BMS</span></b></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
-vertical-align:baseline'><span style='font-size:9.0pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>æ— éœ€é…ç½®</span></p>
+vertical-align:baseline'><span style='font-size:9.0pt;font-family:"Î¢ÈíÑÅºÚ",sans-serif;
+color:black'>ÎÞÐèÅäÖÃ</span></p>
 
 <p class=MsoNormal align=left style='margin-top:7.5pt;margin-right:0cm;
 margin-bottom:3.75pt;margin-left:0cm;text-align:left;line-height:15.75pt'><span
-style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:#FF6827'>ç»“è®ºï¼š<span lang=EN-US>BMS</span>æ— éœ€é…ç½®ï¼Œæœ€ç®€å•</span><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:#3E3E3E'>&nbsp;</span></p>
+style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:#FF6827'>½áÂÛ£º<span lang=EN-US>BMS</span>ÎÞÐèÅäÖÃ£¬×î¼òµ¥</span><span
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:#3E3E3E'>&nbsp;</span></p>
 
-<h5><span style='font-family:å®‹ä½“'>ï¼ˆ</span><span lang=EN-US>3</span><span
-style='font-family:å®‹ä½“'>ï¼‰</span><span lang=EN-US>http</span><span
-style='font-family:å®‹ä½“'>é…ç½®</span></h5>
+<h5><span style='font-family:ËÎÌå'>£¨</span><span lang=EN-US>3</span><span
+style='font-family:ËÎÌå'>£©</span><span lang=EN-US>http</span><span
+style='font-family:ËÎÌå'>ÅäÖÃ</span></h5>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><span
-style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>åœ¨è¾“å‡ºä¸º<span lang=EN-US>hls</span>ã€<span
-lang=EN-US>http-flv</span>ç­‰åŸºäºŽ<span lang=EN-US>http</span>åè®®çš„ç›´æ’­æµæ—¶ï¼Œéœ€è¦é…ç½®<span
-lang=EN-US>http</span>æœåŠ¡</span></p>
+style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>ÔÚÊä³öÎª<span lang=EN-US>hls</span>¡¢<span
+lang=EN-US>http-flv</span>µÈ»ùÓÚ<span lang=EN-US>http</span>Ð­ÒéµÄÖ±²¥Á÷Ê±£¬ÐèÒªÅäÖÃ<span
+lang=EN-US>http</span>·þÎñ</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>FMS</span></b></p>
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>FMS</span></b></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
-vertical-align:baseline'><span style='font-size:9.0pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>é…ç½®<span lang=EN-US>FMS</span>å†…ç½®çš„<span lang=EN-US>Apache</span>æœåŠ¡å™¨æ–‡ä»¶ï¼š<span
+vertical-align:baseline'><span style='font-size:9.0pt;font-family:"Î¢ÈíÑÅºÚ",sans-serif;
+color:black'>ÅäÖÃ<span lang=EN-US>FMS</span>ÄÚÖÃµÄ<span lang=EN-US>Apache</span>·þÎñÆ÷ÎÄ¼þ£º<span
 lang=EN-US>Apache2.2/conf/httpd.conf</span></span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
-vertical-align:baseline'><span style='font-size:9.0pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>å†ä¿®æ”¹å¦‚ä¸‹å­—æ®µï¼š</span></p>
+vertical-align:baseline'><span style='font-size:9.0pt;font-family:"Î¢ÈíÑÅºÚ",sans-serif;
+color:black'>ÔÙÐÞ¸ÄÈçÏÂ×Ö¶Î£º</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
@@ -10479,18 +12172,18 @@ vertical-align:baseline'><span lang=EN-US style='font-size:9.0pt;font-family:
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>nginx-rtmp</span></b></p>
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>nginx-rtmp</span></b></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
 vertical-align:baseline'><span lang=EN-US style='font-size:9.0pt;font-family:
-"å¾®è½¯é›…é»‘",sans-serif;color:black'>nginx</span><span style='font-size:9.0pt;
-font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>æœ¬èº«å°±æ˜¯ä¸€ä¸ª<span lang=EN-US>http</span>æœåŠ¡å™¨ï¼Œ</span></p>
+"Î¢ÈíÑÅºÚ",sans-serif;color:black'>nginx</span><span style='font-size:9.0pt;
+font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>±¾Éí¾ÍÊÇÒ»¸ö<span lang=EN-US>http</span>·þÎñÆ÷£¬</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
-vertical-align:baseline'><span style='font-size:9.0pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>ä¿®æ”¹å…¶é…ç½®æ–‡ä»¶ï¼š</span></p>
+vertical-align:baseline'><span style='font-size:9.0pt;font-family:"Î¢ÈíÑÅºÚ",sans-serif;
+color:black'>ÐÞ¸ÄÆäÅäÖÃÎÄ¼þ£º</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
@@ -10499,8 +12192,8 @@ vertical-align:baseline'><span lang=EN-US style='font-size:9.0pt;font-family:
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
-vertical-align:baseline'><span style='font-size:9.0pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>è®¾ç½®ç«¯å£å’Œæ ¹ç›®å½•ï¼š</span></p>
+vertical-align:baseline'><span style='font-size:9.0pt;font-family:"Î¢ÈíÑÅºÚ",sans-serif;
+color:black'>ÉèÖÃ¶Ë¿ÚºÍ¸ùÄ¿Â¼£º</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
@@ -10574,12 +12267,12 @@ vertical-align:baseline'><span lang=EN-US style='font-size:9.0pt;font-family:
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>SRS/BMS</span></b></p>
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>SRS/BMS</span></b></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
-vertical-align:baseline'><span style='font-size:9.0pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>ä¿®æ”¹å…¶é…ç½®æ–‡ä»¶ï¼š</span></p>
+vertical-align:baseline'><span style='font-size:9.0pt;font-family:"Î¢ÈíÑÅºÚ",sans-serif;
+color:black'>ÐÞ¸ÄÆäÅäÖÃÎÄ¼þ£º</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
@@ -10588,8 +12281,8 @@ vertical-align:baseline'><span lang=EN-US style='font-size:9.0pt;font-family:
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
-vertical-align:baseline'><span style='font-size:9.0pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>è®¾ç½®ç«¯å£å’Œæ ¹ç›®å½•ï¼š</span></p>
+vertical-align:baseline'><span style='font-size:9.0pt;font-family:"Î¢ÈíÑÅºÚ",sans-serif;
+color:black'>ÉèÖÃ¶Ë¿ÚºÍ¸ùÄ¿Â¼£º</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
@@ -10618,36 +12311,36 @@ vertical-align:baseline'><span lang=EN-US style='font-size:9.0pt;font-family:
 
 <p class=MsoNormal align=left style='margin-top:7.5pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:#FF6827'>ç»“è®ºï¼š<span lang=EN-US>nginx-rtmp</span>éœ€æŒ‡å®šä¸Ž<span
-lang=EN-US>app</span>å¯¹åº”çš„<span lang=EN-US>ts</span>æ–‡ä»¶å­˜æ”¾ç›®å½•ï¼Œ<span lang=EN-US>SRS/BMS</span>ä¼šè‡ªåŠ¨ç”Ÿæˆï¼Œæ›´ç®€å•ã€‚</span></b></p>
+style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:#FF6827'>½áÂÛ£º<span lang=EN-US>nginx-rtmp</span>ÐèÖ¸¶¨Óë<span
+lang=EN-US>app</span>¶ÔÓ¦µÄ<span lang=EN-US>ts</span>ÎÄ¼þ´æ·ÅÄ¿Â¼£¬<span lang=EN-US>SRS/BMS</span>»á×Ô¶¯Éú³É£¬¸ü¼òµ¥¡£</span></b></p>
 
-<h5><span style='font-family:å®‹ä½“'>ï¼ˆ</span><span lang=EN-US>4</span><span
-style='font-family:å®‹ä½“'>ï¼‰æŽ¨æµã€æ’­æ”¾</span><span lang=EN-US>URL</span><span
-style='font-family:å®‹ä½“'>é…ç½®</span></h5>
+<h5><span style='font-family:ËÎÌå'>£¨</span><span lang=EN-US>4</span><span
+style='font-family:ËÎÌå'>£©ÍÆÁ÷¡¢²¥·Å</span><span lang=EN-US>URL</span><span
+style='font-family:ËÎÌå'>ÅäÖÃ</span></h5>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>RTMP</span><span
-style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ç›´æ’­æ—¶ï¼Œå„å¤§æœåŠ¡å™¨æŽ¨æµã€æ’­æµ<span
-lang=EN-US>URL</span>å‡ä¸ºï¼š</span></p>
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>RTMP</span><span
+style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>Ö±²¥Ê±£¬¸÷´ó·þÎñÆ÷ÍÆÁ÷¡¢²¥Á÷<span
+lang=EN-US>URL</span>¾ùÎª£º</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;text-indent:24.0pt;
-line-height:15.75pt'><span lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;
+line-height:15.75pt'><span lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;
 color:black'>rtmp://server_ip_or_dns/app/stream</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><span
-style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ç”¨ä½œ<span lang=EN-US>HLS</span>ç›´æ’­æ—¶ï¼Œ</span></p>
+style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>ÓÃ×÷<span lang=EN-US>HLS</span>Ö±²¥Ê±£¬</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>FMS&nbsp;</span></b></p>
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>FMS&nbsp;</span></b></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
-vertical-align:baseline'><span style='font-size:9.0pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>æŽ¨æµåŸŸåï¼š</span></p>
+vertical-align:baseline'><span style='font-size:9.0pt;font-family:"Î¢ÈíÑÅºÚ",sans-serif;
+color:black'>ÍÆÁ÷ÓòÃû£º</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
@@ -10656,8 +12349,8 @@ vertical-align:baseline'><span lang=EN-US style='font-size:9.0pt;font-family:
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
-vertical-align:baseline'><span style='font-size:9.0pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>æ’­æµåŸŸåï¼š</span></p>
+vertical-align:baseline'><span style='font-size:9.0pt;font-family:"Î¢ÈíÑÅºÚ",sans-serif;
+color:black'>²¥Á÷ÓòÃû£º</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
@@ -10666,12 +12359,12 @@ vertical-align:baseline'><span lang=EN-US style='font-size:9.0pt;font-family:
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>nginx-rtmp</span></b></p>
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>nginx-rtmp</span></b></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
-vertical-align:baseline'><span style='font-size:9.0pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>æŽ¨æµåŸŸåï¼š</span></p>
+vertical-align:baseline'><span style='font-size:9.0pt;font-family:"Î¢ÈíÑÅºÚ",sans-serif;
+color:black'>ÍÆÁ÷ÓòÃû£º</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
@@ -10680,8 +12373,8 @@ vertical-align:baseline'><span lang=EN-US style='font-size:9.0pt;font-family:
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
-vertical-align:baseline'><span style='font-size:9.0pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>æ’­æµåŸŸåï¼š</span></p>
+vertical-align:baseline'><span style='font-size:9.0pt;font-family:"Î¢ÈíÑÅºÚ",sans-serif;
+color:black'>²¥Á÷ÓòÃû£º</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
@@ -10690,328 +12383,180 @@ vertical-align:baseline'><span lang=EN-US style='font-size:9.0pt;font-family:
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>SRS/BMS</span></b></p>
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>SRS/BMS</span></b></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
-vertical-align:baseline'><span style='font-size:9.0pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>åŒ</span><span lang=EN-US style='font-size:9.0pt;font-family:"Simsun",serif;
+vertical-align:baseline'><span style='font-size:9.0pt;font-family:"Î¢ÈíÑÅºÚ",sans-serif;
+color:black'>Í¬</span><span lang=EN-US style='font-size:9.0pt;font-family:"Simsun",serif;
 color:black'>nginx-rtmp</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:3.75pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:#FF6827'>ç»“è®ºï¼š<span lang=EN-US>nginx-rtmp</span>ã€<span
-lang=EN-US>SRS/BMS</span>å‡ç®€å•ï¼Œ<span lang=EN-US>FMS</span>è¾ƒå¤æ‚ã€‚</span></b></p>
+style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:#FF6827'>½áÂÛ£º<span lang=EN-US>nginx-rtmp</span>¡¢<span
+lang=EN-US>SRS/BMS</span>¾ù¼òµ¥£¬<span lang=EN-US>FMS</span>½Ï¸´ÔÓ¡£</span></b></p>
 
-<h4><a name="_Toc462219557"><span style='font-family:å®‹ä½“'>æ€§èƒ½</span></a></h4>
+<h4><a name="_Toc462219557"><span style='font-family:ËÎÌå'>ÐÔÄÜ</span></a></h4>
 
 <p class=MsoNormal align=left style='margin-top:3.75pt;margin-right:0cm;
 margin-bottom:3.75pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>å…ˆè¯´ç»“è®ºï¼š</span></b></p>
+style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>ÏÈËµ½áÂÛ£º</span></b></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><b><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:#FF6827'>SRS</span></b><b><span
-style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:#FF6827'>å•è¿›ç¨‹èƒ½æ”¯æŒ<span lang=EN-US>9000</span>å¹¶å‘ï¼Œ<span
-lang=EN-US>nginx-rtmp</span>å•è¿›ç¨‹æœ€å¤šæ”¯æŒ<span lang=EN-US>3000</span>ä¸ªï¼Œå•è¿›ç¨‹çš„æ€§èƒ½<span
-lang=EN-US>SRS</span>æ˜¯<span lang=EN-US>nginx-rtmp</span>çš„ä¸‰å€ã€‚å•è¿›ç¨‹æ€§èƒ½<span
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:#FF6827'>SRS</span></b><b><span
+style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:#FF6827'>µ¥½ø³ÌÄÜÖ§³Ö<span lang=EN-US>9000</span>²¢·¢£¬<span
+lang=EN-US>nginx-rtmp</span>µ¥½ø³Ì×î¶àÖ§³Ö<span lang=EN-US>3000</span>¸ö£¬µ¥½ø³ÌµÄÐÔÄÜ<span
+lang=EN-US>SRS</span>ÊÇ<span lang=EN-US>nginx-rtmp</span>µÄÈý±¶¡£µ¥½ø³ÌÐÔÄÜ<span
 lang=EN-US>SRS&nbsp;&gt;&nbsp;nginx-rtmp&nbsp;&gt;&nbsp;crtmpd&nbsp;&gt;&nbsp;wowza&nbsp;&gt;&nbsp;fms&nbsp;&gt;&nbsp;RED5</span></span></b></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;line-height:15.75pt'><span
-lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>&nbsp;</span><span
-style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>å†ä¾‹ä¸¾<span lang=EN-US>SRS</span>æ€§èƒ½å¦‚æ­¤é«˜çš„å‡ ä¸ªåŽŸå› ï¼š</span></p>
+lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>&nbsp;</span><span
+style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;color:black'>ÔÙÀý¾Ù<span lang=EN-US>SRS</span>ÐÔÄÜÈç´Ë¸ßµÄ¼¸¸öÔ­Òò£º</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>1.&nbsp;st-load</span><span
-style='font-family:å®‹ä½“'>ï¼Œè¿™ä¸ªæ˜¯</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>èƒ½åšåˆ°é«˜æ€§èƒ½çš„æœ€é‡è¦çš„åŽŸå› ï¼Œä¸€ä¸ª</span><span lang=EN-US>st-load</span><span
-style='font-family:å®‹ä½“'>å¯ä»¥æ¨¡æ‹Ÿ</span><span lang=EN-US>2000+</span><span
-style='font-family:å®‹ä½“'>çš„å®¢æˆ·ç«¯ï¼Œå¦‚æžœæ²¡æœ‰</span><span lang=EN-US>st-load</span><span
-style='font-family:å®‹ä½“'>ï¼Œå¦‚ä½•çŸ¥é“ç³»ç»Ÿçš„æ€§èƒ½ç“¶é¢ˆåœ¨å“ªé‡Œï¼Ÿæ€»ä¸èƒ½æ‰“å¼€</span><span lang=EN-US>3000</span><span
-style='font-family:å®‹ä½“'>ä¸ª</span><span lang=EN-US>flash</span><span
-style='font-family:å®‹ä½“'>é¡µé¢æ’­æ”¾</span><span lang=EN-US>rtmp</span><span
-style='font-family:å®‹ä½“'>æµå§ï¼Ÿå¼€å¯</span><span lang=EN-US>3000</span><span
-style='font-family:å®‹ä½“'>ä¸ª</span><span lang=EN-US>ffmpeg</span><span
-style='font-family:å®‹ä½“'>æ¥æŠ“æµï¼Ÿé«˜æ€§èƒ½ä¸æ˜¯æƒ³è±¡å’ŒçŒœæµ‹å‡ºæ¥çš„ï¼Œè€Œæ˜¯åå¤æµ‹è¯•ã€è°ƒè¯•å’Œæ”¹è¿›å‡ºæ¥çš„ã€‚</span></p>
+style='font-family:ËÎÌå'>£¬Õâ¸öÊÇ</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>ÄÜ×öµ½¸ßÐÔÄÜµÄ×îÖØÒªµÄÔ­Òò£¬Ò»¸ö</span><span lang=EN-US>st-load</span><span
+style='font-family:ËÎÌå'>¿ÉÒÔÄ£Äâ</span><span lang=EN-US>2000+</span><span
+style='font-family:ËÎÌå'>µÄ¿Í»§¶Ë£¬Èç¹ûÃ»ÓÐ</span><span lang=EN-US>st-load</span><span
+style='font-family:ËÎÌå'>£¬ÈçºÎÖªµÀÏµÍ³µÄÐÔÄÜÆ¿¾±ÔÚÄÄÀï£¿×Ü²»ÄÜ´ò¿ª</span><span lang=EN-US>3000</span><span
+style='font-family:ËÎÌå'>¸ö</span><span lang=EN-US>flash</span><span
+style='font-family:ËÎÌå'>Ò³Ãæ²¥·Å</span><span lang=EN-US>rtmp</span><span
+style='font-family:ËÎÌå'>Á÷°É£¿¿ªÆô</span><span lang=EN-US>3000</span><span
+style='font-family:ËÎÌå'>¸ö</span><span lang=EN-US>ffmpeg</span><span
+style='font-family:ËÎÌå'>À´×¥Á÷£¿¸ßÐÔÄÜ²»ÊÇÏëÏóºÍ²Â²â³öÀ´µÄ£¬¶øÊÇ·´¸´²âÊÔ¡¢µ÷ÊÔºÍ¸Ä½ø³öÀ´µÄ¡£</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>2.&nbsp;gperf/gprof</span><span
-style='font-family:å®‹ä½“'>æ€§èƒ½ï¼Œç¼–è¯‘</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>æ—¶ï¼Œå°±å¯ä»¥æ‰“å¼€</span><span lang=EN-US>gcp</span><span
-style='font-family:å®‹ä½“'>æˆ–è€…</span><span lang=EN-US>gprof</span><span
-style='font-family:å®‹ä½“'>çš„æ€§èƒ½åˆ†æžé€‰é¡¹ï¼Œéžå¸¸æ–¹ä¾¿çš„æ‹¿åˆ°æ•°æ®ã€‚ç¼©çŸ­äº†æ”¹è¿›å’Œä¼˜åŒ–å¼€å‘å‘¨æœŸã€‚</span></p>
+style='font-family:ËÎÌå'>ÐÔÄÜ£¬±àÒë</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>Ê±£¬¾Í¿ÉÒÔ´ò¿ª</span><span lang=EN-US>gcp</span><span
+style='font-family:ËÎÌå'>»òÕß</span><span lang=EN-US>gprof</span><span
+style='font-family:ËÎÌå'>µÄÐÔÄÜ·ÖÎöÑ¡Ïî£¬·Ç³£·½±ãµÄÄÃµ½Êý¾Ý¡£Ëõ¶ÌÁË¸Ä½øºÍÓÅ»¯¿ª·¢ÖÜÆÚ¡£</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>3.&nbsp;</span><span style='font-family:
-å®‹ä½“'>å¼•ç”¨è®¡æ•°çš„</span><span lang=EN-US>msgs</span><span style='font-family:å®‹ä½“'>é¿å…å†…å­˜æ‹·è´ã€‚</span></p>
+ËÎÌå'>ÒýÓÃ¼ÆÊýµÄ</span><span lang=EN-US>msgs</span><span style='font-family:ËÎÌå'>±ÜÃâÄÚ´æ¿½±´¡£</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>4.&nbsp;</span><span style='font-family:
-å®‹ä½“'>ä½¿ç”¨</span><span lang=EN-US>writev</span><span style='font-family:å®‹ä½“'>å‘é€</span><span
-lang=EN-US>chunked</span><span style='font-family:å®‹ä½“'>åŒ…ï¼Œé¿å…æ¶ˆæ¯åˆ°</span><span
-lang=EN-US>chunked</span><span style='font-family:å®‹ä½“'>åŒ…çš„å†…å­˜æ‹·è´ã€‚</span></p>
+ËÎÌå'>Ê¹ÓÃ</span><span lang=EN-US>writev</span><span style='font-family:ËÎÌå'>·¢ËÍ</span><span
+lang=EN-US>chunked</span><span style='font-family:ËÎÌå'>°ü£¬±ÜÃâÏûÏ¢µ½</span><span
+lang=EN-US>chunked</span><span style='font-family:ËÎÌå'>°üµÄÄÚ´æ¿½±´¡£</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>5.&nbsp;mw(merged-write)</span><span
-style='font-family:å®‹ä½“'>æŠ€æœ¯ï¼Œå³ä¸€æ¬¡å‘é€å¤šä¸ªæ¶ˆæ¯ã€‚</span></p>
+style='font-family:ËÎÌå'>¼¼Êõ£¬¼´Ò»´Î·¢ËÍ¶à¸öÏûÏ¢¡£</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>6.&nbsp;</span><span style='font-family:
-å®‹ä½“'>å‡å°‘</span><span lang=EN-US>timeout&nbsp;recv</span><span style='font-family:
-å®‹ä½“'>ï¼Œæ¯ä¸ªè¿žæŽ¥éƒ½æ˜¯ä¸€ä¸ª</span><span lang=EN-US>st-thread</span><span style='font-family:
-å®‹ä½“'>åœ¨æœåŠ¡ã€‚</span></p>
+ËÎÌå'>¼õÉÙ</span><span lang=EN-US>timeout&nbsp;recv</span><span style='font-family:
+ËÎÌå'>£¬Ã¿¸öÁ¬½Ó¶¼ÊÇÒ»¸ö</span><span lang=EN-US>st-thread</span><span style='font-family:
+ËÎÌå'>ÔÚ·þÎñ¡£</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>7.&nbsp;fast&nbsp;buffer</span><span
-style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN-US>cache</span><span
-style='font-family:å®‹ä½“'>ã€‚</span></p>
+style='font-family:ËÎÌå'>ºÍ</span><span lang=EN-US>cache</span><span
+style='font-family:ËÎÌå'>¡£</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>8.&nbsp;vector</span><span
-style='font-family:å®‹ä½“'>è¿˜æ˜¯</span><span lang=EN-US>list</span><span
-style='font-family:å®‹ä½“'>ï¼Ÿ</span><span lang=EN-US>vector</span><span
-style='font-family:å®‹ä½“'>ï¼</span><span lang=EN-US>vector</span><span
-style='font-family:å®‹ä½“'>æ¯”</span><span lang=EN-US>list</span><span
-style='font-family:å®‹ä½“'>é«˜</span><span lang=EN-US>10%</span><span
-style='font-family:å®‹ä½“'>æ€§èƒ½ã€‚</span></p>
+style='font-family:ËÎÌå'>»¹ÊÇ</span><span lang=EN-US>list</span><span
+style='font-family:ËÎÌå'>£¿</span><span lang=EN-US>vector</span><span
+style='font-family:ËÎÌå'>£¡</span><span lang=EN-US>vector</span><span
+style='font-family:ËÎÌå'>±È</span><span lang=EN-US>list</span><span
+style='font-family:ËÎÌå'>¸ß</span><span lang=EN-US>10%</span><span
+style='font-family:ËÎÌå'>ÐÔÄÜ¡£</span></p>
 
-<h4><a name="_Toc462219558"><span style='font-family:å®‹ä½“'>æœåŠ¡å™¨æ—¥å¿—</span></a></h4>
+<h4><a name="_Toc462219558"><span style='font-family:ËÎÌå'>·þÎñÆ÷ÈÕÖ¾</span></a></h4>
 
-<p class=MsoNoSpacing><span style='font-family:å®‹ä½“'>æ—¥å¿—æ˜¯å®šä½æ•…éšœçš„å”¯ä¸€é€”å¾„ï¼Œå®šä½æ•…éšœæ‰èƒ½å¿«é€ŸæŽ’é”™ã€‚å¯ä»¥è¿™ä¹ˆè¯´ï¼Œå¯¹äºŽç›´æ’­ï¼Œ</span><span
-lang=EN-US>10</span><span style='font-family:å®‹ä½“'>åˆ†é’Ÿçš„æŽ’é”™ï¼Œè°éƒ½ä¼šè§‰å¾—é•¿ã€‚ç„¶è€Œï¼Œå½“å‰çš„è§†é¢‘äº‘æˆ–</span><span
-lang=EN-US>CDN</span><span style='font-family:å®‹ä½“'>ï¼Œè°åˆèƒ½åšåˆ°</span><span
-lang=EN-US>10</span><span style='font-family:å®‹ä½“'>åˆ†é’Ÿå‘¢ï¼Ÿ</span></p>
+<p class=MsoNoSpacing><span style='font-family:ËÎÌå'>ÈÕÖ¾ÊÇ¶¨Î»¹ÊÕÏµÄÎ¨Ò»Í¾¾¶£¬¶¨Î»¹ÊÕÏ²ÅÄÜ¿ìËÙÅÅ´í¡£¿ÉÒÔÕâÃ´Ëµ£¬¶ÔÓÚÖ±²¥£¬</span><span
+lang=EN-US>10</span><span style='font-family:ËÎÌå'>·ÖÖÓµÄÅÅ´í£¬Ë­¶¼»á¾õµÃ³¤¡£È»¶ø£¬µ±Ç°µÄÊÓÆµÔÆ»ò</span><span
+lang=EN-US>CDN</span><span style='font-family:ËÎÌå'>£¬Ë­ÓÖÄÜ×öµ½</span><span
+lang=EN-US>10</span><span style='font-family:ËÎÌå'>·ÖÖÓÄØ£¿</span></p>
 
-<p class=MsoNoSpacing><span style='font-family:å®‹ä½“'>æ¥çœ‹çœ‹æ—¥å¿—å§ã€‚</span></p>
+<p class=MsoNoSpacing><span style='font-family:ËÎÌå'>À´¿´¿´ÈÕÖ¾°É¡£</span></p>
 
 <p class=MsoNormal style='margin-top:12.0pt;margin-right:0cm;margin-bottom:
 3.75pt;margin-left:0cm;line-height:15.75pt'><span lang=EN-US style='font-family:
-"å¾®è½¯é›…é»‘",sans-serif;color:black'>FMS</span><span style='font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>çš„æ—¥å¿—æ˜¯è¿™æ ·çš„ï¼Œæ•æˆ‘æ„šé’ï¼Œä½ èƒ½çœ‹å¾—å‡ºä»€ä¹ˆä¿¡æ¯ä¹ˆï¼Ÿ</span></p>
+"Î¢ÈíÑÅºÚ",sans-serif;color:black'>FMS</span><span style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;
+color:black'>µÄÈÕÖ¾ÊÇÕâÑùµÄ£¬Ë¡ÎÒÓÞ¶Û£¬ÄãÄÜ¿´µÃ³öÊ²Ã´ÐÅÏ¢Ã´£¿</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
 vertical-align:baseline'><span lang=EN-US style='font-size:9.0pt;font-family:
-"å¾®è½¯é›…é»‘",sans-serif;color:black'>2015-03-24 12:23:58
+"Î¢ÈíÑÅºÚ",sans-serif;color:black'>2015-03-24 12:23:58
 3409&nbsp;(s)2641173&nbsp;Accepted&nbsp;a&nbsp;connection&nbsp;from&nbsp;IP:192.168.1.141,&nbsp;referrer:http://www.ossrs.net/players/srs_player/release/srs_player.swf?_versi&gt;</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
 vertical-align:baseline'><span lang=EN-US style='font-size:9.0pt;font-family:
-"å¾®è½¯é›…é»‘",sans-serif;color:black'>702111234525315439&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3130&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3448&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;normal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;livestream&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rtmp://192.168.1.185:1935/live/livestream&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rtmp://192.168.1.185:1935/live/livestream&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;http://www.ossrs.net/players/srs_player.html?vhost=dev&amp;stream=livestream&amp;server=dev&amp;port=1935&nbsp;&nbsp;&nbsp;&nbsp;-1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-1.000000
-&nbsp; &nbsp;</span><span lang=EN-US style='font-family:"å¾®è½¯é›…é»‘",sans-serif;
+"Î¢ÈíÑÅºÚ",sans-serif;color:black'>702111234525315439&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3130&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3448&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;normal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;livestream&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rtmp://192.168.1.185:1935/live/livestream&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rtmp://192.168.1.185:1935/live/livestream&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;http://www.ossrs.net/players/srs_player.html?vhost=dev&amp;stream=livestream&amp;server=dev&amp;port=1935&nbsp;&nbsp;&nbsp;&nbsp;-1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-1.000000
+&nbsp; &nbsp;</span><span lang=EN-US style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;
 color:black'>&nbsp; &nbsp; &nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:3.75pt;margin-right:0cm;margin-bottom:
 3.75pt;margin-left:0cm;line-height:15.75pt'><span lang=EN-US style='font-family:
-"å¾®è½¯é›…é»‘",sans-serif;color:black'>crtmpd</span><span style='font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>çš„æ—¥å¿—è¯¦ç»†ï¼Œä½†æˆ‘åˆæ„šé’ï¼Œè‹¥æ˜¯ä¸Šåƒäººåœ¨çº¿ï¼Œä½ åˆèƒ½çœ‹å‡ºä»€ä¹ˆæœ‰ç”¨çš„ä¸œè¥¿ä¹ˆï¼Ÿ</span></p>
+"Î¢ÈíÑÅºÚ",sans-serif;color:black'>crtmpd</span><span style='font-family:"Î¢ÈíÑÅºÚ",sans-serif;
+color:black'>µÄÈÕÖ¾ÏêÏ¸£¬µ«ÎÒÓÖÓÞ¶Û£¬ÈôÊÇÉÏÇ§ÈËÔÚÏß£¬ÄãÓÖÄÜ¿´³öÊ²Ã´ÓÐÓÃµÄ¶«Î÷Ã´£¿</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
 vertical-align:baseline'><span lang=EN-US style='font-size:9.0pt;font-family:
-"å¾®è½¯é›…é»‘",sans-serif;color:black'>/home/winlin/tools/crtmpserver.20130514.794/sources/thelib/src/netio/epoll/iohandlermanager.cpp:120Handlers&nbsp;count&nbsp;changed:&nbsp;15-&gt;16&nbsp;IOHT_TCP_CARRIER</span></p>
+"Î¢ÈíÑÅºÚ",sans-serif;color:black'>/home/winlin/tools/crtmpserver.20130514.794/sources/thelib/src/netio/epoll/iohandlermanager.cpp:120Handlers&nbsp;count&nbsp;changed:&nbsp;15-&gt;16&nbsp;IOHT_TCP_CARRIER</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
 vertical-align:baseline'><span lang=EN-US style='font-size:9.0pt;font-family:
-"å¾®è½¯é›…é»‘",sans-serif;color:black'>/home/winlin/tools/crtmpserver.20130514.794/sources/thelib/src/netio/epoll/tcpacceptor.cpp:185Client&nbsp;connected:&nbsp;192.168.1.141:54823&nbsp;-&gt;&nbsp;192.168.1.173:1935</span></p>
+"Î¢ÈíÑÅºÚ",sans-serif;color:black'>/home/winlin/tools/crtmpserver.20130514.794/sources/thelib/src/netio/epoll/tcpacceptor.cpp:185Client&nbsp;connected:&nbsp;192.168.1.141:54823&nbsp;-&gt;&nbsp;192.168.1.173:1935</span></p>
 
 <p class=MsoNormal align=left style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:left;background:#EEEEEE;
 vertical-align:baseline'><span lang=EN-US style='font-size:9.0pt;font-family:
-"å¾®è½¯é›…é»‘",sans-serif;color:black'>/home/winlin/tools/crtmpserver.20130514.794/sources/applications/appselector/src/rtmpap</span></p>
+"Î¢ÈíÑÅºÚ",sans-serif;color:black'>/home/winlin/tools/crtmpserver.20130514.794/sources/applications/appselector/src/rtmpap</span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
-<h3><a name="_Toc26097994"></a><a name="_Toc462219559"><span lang=EN-US>SRS</span></a><span
-style='font-family:å®‹ä½“'>å•†ä¸šç‰ˆï¼ˆ</span><span lang=EN-US>BMS</span><span
-style='font-family:å®‹ä½“'>ï¼‰ç®€ä»‹</span></h3>
-
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:å®‹ä½“;
-color:black;background:white'>å…‰æœ‰ä¼˜ç§€çš„æµåª’ä½“æœåŠ¡å™¨ï¼Œåªä»…ä»…å…·å¤‡äº†æ•´ä¸ª</span><span lang=EN-US
-style='color:black;background:white'>CDN</span><span style='font-family:å®‹ä½“;
-color:black;background:white'>ç³»ç»Ÿçš„å¾ˆå°çš„ä¸€éƒ¨åˆ†ï¼Œè¦å»ºè®¾ä¸€å¥—èƒ½å¤ŸæœåŠ¡ç™¾ä¸‡æµçº§åˆ«çš„</span><span lang=EN-US
-style='color:black;background:white'>CDN</span><span style='font-family:å®‹ä½“;
-color:black;background:white'>åˆ†å‘ç³»ç»Ÿï¼Œå…‰æœ‰</span><span lang=EN-US style='color:black;
-background:white'>SRS/BMS</span><span style='font-family:å®‹ä½“;color:black;
-background:white'>è¿˜ä¸å¤Ÿã€‚ä»¥ä¸‹æ˜¯åŸºäºŽ</span><span lang=EN-US style='color:black;
-background:white'>BMS</span><span style='font-family:å®‹ä½“;color:black;background:
-white'>æž„å»º</span><span style='font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ç›´æ’­<span
-lang=EN-US>CDN</span>æºç«™ç»“æž„å›¾ï¼Œè¿˜ä¸åŒ…æ‹¬æŠ€æœ¯ç›¸å¯¹ç®€å•çš„é‡‡é›†ç«¯å’Œæ’­æ”¾ç«¯éƒ¨åˆ†ï¼Œ</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US><img border=0 width=511 height=343
-id="å›¾ç‰‡ 14" src="srs_wiki.files/image012.jpg"></span></p>
-
-<p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>å…¶ä¸­ï¼š</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-24.0pt;text-indent:-18.0pt;background:white'><span lang=EN-US style='font-size:
-10.0pt;font-family:Symbol;color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><strong><span style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>åŸºæœ¬æŽ¥å£ï¼ˆ<span lang=EN-US>Basic</span>ï¼‰</span></strong><span
-style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ï¼Œæä¾›çš„æ¶‰åŠè¿è¥ç­‰çš„åŸºæœ¬æŽ¥å£ï¼Œå¦‚è®¡è´¹ã€ç›‘æŽ§ã€è°ƒåº¦ç­‰åŸºç¡€æ€§æŽ¥å£ï¼›</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-24.0pt;text-indent:-18.0pt;background:white'><span lang=EN-US style='font-size:
-10.0pt;font-family:Symbol;color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><strong><span style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>ç¢§æ± ï¼ˆ<span lang=EN-US>Bitch</span>ï¼‰</span></strong><span
-style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ï¼Œä¸º<span
-lang=EN-US>BMS</span>åŠ¨æ€é…ç½®å­ç³»ç»Ÿï¼Œå¯ä»¥ä»Žä¸šåŠ¡ç³»ç»Ÿè¯»å–é…ç½®ï¼Œä¾æ®æ›´æ–°æœºåˆ¶ä¸»åŠ¨æ›´æ–°é…ç½®ï¼Œç¢§æ± ä½¿ç”¨<span lang=EN-US>http-api</span>å’Œå¤–éƒ¨å¯¹æŽ¥ï¼Œå¯ä»¥æ”¯æŒä»»ä½•ç¬¦åˆæ¡ä»¶çš„é…ç½®å­˜å‚¨å’Œç®¡ç†æ–¹å¼ï¼›</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-24.0pt;text-indent:-18.0pt;background:white'><span lang=EN-US style='font-size:
-10.0pt;font-family:Symbol;color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><strong><span style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>ä¸å¡ï¼ˆ<span lang=EN-US>Bocar</span>ï¼‰</span></strong><span
-style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ï¼Œ<span
-lang=EN-US>BMS</span>çš„æºç«™é›†ç¾¤å­ç³»ç»Ÿï¼Œæ‰“é€šäº†çœŸæ­£çš„åˆ†å¸ƒå¼<span lang=EN-US>CDN</span>æºç«™å…³é”®çŽ¯èŠ‚ï¼Œä½¿å¾—<span
-lang=EN-US>CDN</span>æºç«™èƒ½åˆ†å¸ƒåœ¨å„åœ°ã€‚ä¸å¡å¯¹å¤–ä½¿ç”¨<span lang=EN-US>http-api</span>ï¼Œå¯ä»¥å¯¹æŽ¥åˆ°ç¬¦åˆæ ‡å‡†çš„ä¸šåŠ¡ç³»ç»Ÿï¼Œå¦‚å…ƒæ•°æ®ç®¡ç†ç­‰ï¼›è¯·å‚é˜…ï¼šã€Šä½ ä¸å¤ªäº†è§£çš„è§‚æ­¢äº‘åˆ†å‘ä¹‹äºŒï¼šæºç«™é›†ç¾¤ã€‹</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-24.0pt;text-indent:-18.0pt;background:white'><span lang=EN-US style='font-size:
-10.0pt;font-family:Symbol;color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><strong><span style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>é—ªç”µï¼ˆ<span lang=EN-US>Bott</span>ï¼‰</span></strong><span
-style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ï¼Œ<span
-lang=EN-US>BMS</span>çš„è½¬ç å­ç³»ç»Ÿï¼Œå¯¹æŽ¥è§‚æ­¢äº‘å¤§è§„æ¨¡å®žæ—¶è½¬ç é›†ç¾¤ï¼›</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-24.0pt;text-indent:-18.0pt;background:white'><span lang=EN-US style='font-size:
-10.0pt;font-family:Symbol;color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><strong><span lang=EN-US style='font-size:10.5pt;font-family:
-"å¾®è½¯é›…é»‘",sans-serif;color:black'>HLS+</span></strong><span style='font-size:10.5pt;
-font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ï¼Œ<span lang=EN-US>BMS</span>æä¾›çš„æµå¼<span
-lang=EN-US>HLS</span>åŠŸèƒ½ï¼Œå…·æœ‰å›žæºé‡å°ã€ç³»ç»Ÿç®€å•ã€æŽ’é”™å®¹æ˜“ã€é˜²ç›—é“¾ã€ä½Žå»¶è¿Ÿç­‰ä¼˜åŠ¿ã€‚è¯·å‚é˜…ï¼šã€Šæ‰‹æœºç›´æ’­å»¶æ—¶ç›´é™<span
-lang=EN-US>90% HLS+</span>æ¨ªç©ºå‡ºä¸–ã€‹</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-24.0pt;text-indent:-18.0pt;background:white'><span lang=EN-US style='font-size:
-10.0pt;font-family:Symbol;color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><strong><span lang=EN-US style='font-size:10.5pt;font-family:
-"å¾®è½¯é›…é»‘",sans-serif;color:black'>BIG</span></strong><strong><span
-style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ï¼Œ<span
-lang=EN-US>BMS</span>å¤§æ•°æ®å­ç³»ç»Ÿ</span></strong><span style='font-size:10.5pt;
-font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ï¼Œæ‰¿è½½æ•´ä¸ªåˆ†å‘ç³»ç»Ÿå¯è¿½è¸ªæ—¥å¿—å’Œé‡è¦çš„æœåŠ¡æ•°æ®ï¼›</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-24.0pt;text-indent:-18.0pt;background:white'><span lang=EN-US style='font-size:
-10.0pt;font-family:Symbol;color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><strong><span lang=EN-US style='font-size:10.5pt;font-family:
-"å¾®è½¯é›…é»‘",sans-serif;color:black'>HLS-CUP(hls-concurrency-upstream)</span></strong><span
-style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ï¼Œ<span
-lang=EN-US>BMS</span>æä¾›çš„å¹¶å‘å›žæºæŠ€æœ¯ï¼Œè§£å†³ç½‘ç»œæƒ…å†µä¸ä½³æ—¶ã€è·¨å›½ä¼ è¾“æ—¶ä¸¢åŒ…ä¸¥é‡æ—¶ç­‰ç­‰çš„å›žæºé—®é¢˜ï¼›</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-24.0pt;text-indent:-18.0pt;background:white'><span lang=EN-US style='font-size:
-10.0pt;font-family:Symbol;color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><strong><span lang=EN-US style='font-size:10.5pt;font-family:
-"å¾®è½¯é›…é»‘",sans-serif;color:black'>BAR</span></strong><span style='font-size:10.5pt;
-font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ï¼Œåº”ç”¨å±‚æ™ºèƒ½è·¯ç”±ï¼Œåœ¨<span lang=EN-US>CDN</span>çš„å¤šå±‚ç»“æž„ä¸­ï¼Œå¤šå±‚è¾¹ç¼˜å›žæºåœ¨é€‰æ‹©ä¸Šå±‚æœåŠ¡å™¨æ—¶æ ¹æ®æ•´ä¸ªé“¾è·¯æ™ºèƒ½å›žæºï¼›</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-24.0pt;text-indent:-18.0pt;background:white'><span lang=EN-US style='font-size:
-10.0pt;font-family:Symbol;color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><strong><span lang=EN-US style='font-size:10.5pt;font-family:
-"å¾®è½¯é›…é»‘",sans-serif;color:black'>DNS</span></strong><span style='font-size:10.5pt;
-font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ï¼Œè§‚æ­¢äº‘éžé˜»å¡ž<span lang=EN-US>DNS</span>ï¼›</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-24.0pt;text-indent:-18.0pt;background:white'><span lang=EN-US style='font-size:
-10.0pt;font-family:Symbol;color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><strong><span style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>å½•åˆ¶ï¼ˆ<span lang=EN-US>Record</span>ï¼‰</span></strong><span
-style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ï¼Œè§‚æ­¢äº‘å¤§è§„æ¨¡å®žæ—¶æµå½•åˆ¶å­ç³»ç»Ÿï¼›</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-24.0pt;text-indent:-18.0pt;background:white'><span lang=EN-US style='font-size:
-10.0pt;font-family:Symbol;color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><strong><span style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>æ—¶ç§»ï¼ˆ<span lang=EN-US>Time-shift</span>ï¼‰</span></strong><span
-style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ï¼Œè§‚æ­¢äº‘ç›´æ’­æ—¶ç§»ç³»ç»Ÿï¼›</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-24.0pt;text-indent:-18.0pt;background:white'><span lang=EN-US style='font-size:
-10.0pt;font-family:Symbol;color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><strong><span style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>å»¶æ—¶æ’­å‡ºï¼ˆ<span lang=EN-US>Delay</span>ï¼‰</span></strong><span
-style='font-size:10.5pt;font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ï¼Œè§‚æ­¢äº‘å»¶æ—¶æ’­å‡ºå­ç³»ç»Ÿï¼›</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-24.0pt;text-indent:-18.0pt;background:white'><span lang=EN-US style='font-size:
-10.0pt;font-family:Symbol;color:black'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><strong><span lang=EN-US style='font-size:10.5pt;font-family:
-"å¾®è½¯é›…é»‘",sans-serif;color:black'>P2P</span></strong><span style='font-size:10.5pt;
-font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ï¼Œè§‚æ­¢äº‘é€šç”¨å¹³å°<span lang=EN-US>P2P</span>åˆ†å‘å­ç³»ç»Ÿã€‚è¯·å‚é˜…ï¼šã€Šå¤§ç›´æ’­æ—¶ä»£ï¼Œ<span
-lang=EN-US>P2P</span>æ‰æ˜¯é™ä½Žæˆæœ¬çš„å¿…æ€æŠ€ã€‹</span></p>
-
-<p style='margin-top:12.0pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:
-0cm;line-height:15.75pt;background:white'><span style='font-size:10.5pt;
-font-family:"å¾®è½¯é›…é»‘",sans-serif;color:black'>ä»Ž<span lang=EN-US>CDN</span>çš„ç»“æž„å›¾ä¸­å¯çœ‹å‡ºä¸€ä¸ªå®Œå–„çš„è¿è¥çº§ç›´æ’­<span
-lang=EN-US>CDN</span>ç³»ç»Ÿçš„æžåº¦å¤æ‚æ€§ï¼Œä¸¾ä¸€ä¸ªå®žé™…ä¾‹å­ï¼š</span></p>
-
-<p class=MsoNoSpacing><strong><span style='font-family:"å¾®è½¯é›…é»‘",sans-serif;
-color:black'>éžé˜»å¡ž<span lang=EN-US>DNS</span>ï¼š</span></strong><span
-style='font-family:å®‹ä½“'>è¿™ä¸ªè™½ç„¶æ¯”è¾ƒç®€å•ï¼Œä½†æ˜¯å¯¹äºŽç›´æ’­åˆ†å‘æ•ˆæžœçš„å½±å“ç¡®æ˜¯å¾ˆå¤§ã€‚å¦‚æžœæœåŠ¡å™¨å›žæºæˆ–è€…è°ƒç”¨æŽ¥å£æ—¶æ˜¯åŸŸåï¼Œè­¬å¦‚</span><span
-lang=EN-US>DRM</span><span style='font-family:å®‹ä½“'>å›žè°ƒå®¢æˆ·çš„</span><span lang=EN-US>API</span><span
-style='font-family:å®‹ä½“'>æ˜¯ä¸ªåŸŸååœ°å€ï¼Œé‚£ä¹ˆå°±éœ€è¦</span><span lang=EN-US> DNS</span><span
-style='font-family:å®‹ä½“'>ï¼Œè§£æžåŸŸååˆ°</span><span lang=EN-US>IP</span><span
-style='font-family:å®‹ä½“'>åœ°å€ï¼Œæ˜¯è°ƒç”¨</span><span lang=EN-US>gethostbyname</span><span
-style='font-family:å®‹ä½“'>å®žçŽ°ï¼Œè¿™ä¸ªæ˜¯æœ‰ç½‘ç»œ</span><span lang=EN-US>IO</span><span
-style='font-family:å®‹ä½“'>çš„ï¼Œå‘åŒ…â€”â€”è¿™ä¸ªåšè¿‡æœåŠ¡å™¨å°±çŸ¥é“ï¼Œä¼šé˜»å¡žå½“å‰è¿›ç¨‹ã€‚</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>å’Œ</span><span lang=EN-US> NGINX</span><span
-style='font-family:å®‹ä½“'>éƒ½å­˜åœ¨è¿™ä¸ªå¤§å‘ï¼Œç„¶è€Œ</span><span lang=EN-US>SRS</span><span
-style='font-family:å®‹ä½“'>å¡«è¿™ä¸ªå‘åªç”¨äº†</span><span lang=EN-US>1</span><span
-style='font-family:å®‹ä½“'>ä¸ªå·¥ä½œæ—¥ï¼Œä½†</span><span lang=EN-US>NGINX</span><span
-style='font-family:å®‹ä½“'>è¦æžå®šè¿™ä¸ªå°±ç¨å¾®æœ‰ç‚¹éš¾åº¦äº†ã€‚</span></p>
-
-<h1><a name="_Toc26097995"></a><a name="_Toc462219560">å¸¸ç”¨çš„ç›´æ’­å¹³å°ç½‘ç«™</a></h1>
+<h1><a name="_Toc26097995"></a><a name="_Toc462219560">³£ÓÃµÄÖ±²¥Æ½Ì¨ÍøÕ¾</a></h1>
 
 <p class=MsoNormal><span lang=EN>&nbsp;&nbsp; </span><span lang=EN-US><a
-href="https://github.com/winlinvip/simple-rtmp-server"><span lang=EN>https://github.com/winlinvip/simple-rtmp-server</span></a></span><span
-lang=EN>&nbsp;&nbsp;&nbsp; SRS</span><span style='font-family:å®‹ä½“'>å®˜ç½‘</span></p>
+href="https://github.com/ossrs/srs"><span style='font-family:"Segoe UI",sans-serif;
+color:#095EAB;background:white'>https://github.com/ossrs/srs</span></a></span><span
+lang=EN>&nbsp;&nbsp;&nbsp; SRS</span><span style='font-family:ËÎÌå'>¹ÙÍø</span></p>
 
 <p class=MsoNormal><span lang=EN>&nbsp;&nbsp; </span><span lang=EN-US><a
 href="https://github.com/arut/nginx-rtmp-module"><span lang=EN>https://github.com/arut/nginx-rtmp-module</span></a></span><span
-lang=EN>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;nginx rtmp</span><span
-style='font-family:å®‹ä½“'>å®˜ç½‘</span></p>
+lang=EN>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; nginx rtmp</span><span
+style='font-family:ËÎÌå'>¹ÙÍø</span></p>
 
 <p class=MsoNormal><span lang=EN>&nbsp;&nbsp; </span><span lang=EN-US><a
 href="https://www.qcloud.com/product/LVB.html"><span lang=EN>https://www.qcloud.com/product/LVB.html</span></a></span><span
 lang=EN>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='font-family:å®‹ä½“'>è…¾è®¯äº‘ç›´æ’­</span></p>
+style='font-family:ËÎÌå'>ÌÚÑ¶ÔÆÖ±²¥</span></p>
 
 <p class=MsoNormal><span lang=EN>&nbsp;&nbsp; </span><span lang=EN-US><a
 href="https://www.aliyun.com/product/live?spm=5176.7960203.237031.164.Ve6N2d"><span
 lang=EN>https://www.aliyun.com/product/live?spm=5176.7960203.237031.164.Ve6N2d</span></a></span><span
-lang=EN> </span><span style='font-family:å®‹ä½“'>é˜¿é‡Œäº‘ç›´æ’­</span></p>
+lang=EN> </span><span style='font-family:ËÎÌå'>°¢ÀïÔÆÖ±²¥</span></p>
 
 <p class=MsoNormal><span lang=EN>&nbsp;&nbsp; </span><span lang=EN-US><a
 href="https://bce.baidu.com/product/lss.html"><span lang=EN>https://bce.baidu.com/product/lss.html</span></a></span><span
-lang=EN>&nbsp;&nbsp; </span><span style='font-family:å®‹ä½“'>ç™¾åº¦äº‘ç›´æ’­</span></p>
+lang=EN>&nbsp;&nbsp; </span><span style='font-family:ËÎÌå'>°Ù¶ÈÔÆÖ±²¥</span></p>
 
 <p class=MsoNormal><span lang=EN>&nbsp;&nbsp; </span><span lang=EN-US><a
 href="http://www.lecloud.com/zh-cn/product/live.html"><span lang=EN>http://www.lecloud.com/zh-cn/product/live.html</span></a></span><span
-lang=EN>&nbsp;&nbsp; </span><span style='font-family:å®‹ä½“'>ä¹è§†äº‘ç›´æ’­</span></p>
+lang=EN>&nbsp;&nbsp; </span><span style='font-family:ËÎÌå'>ÀÖÊÓÔÆÖ±²¥</span></p>
 
 <p class=MsoNormal><span lang=EN>&nbsp;&nbsp; </span><span lang=EN-US><a
 href="https://www.upyun.com/products/video.html"><span lang=EN>https://www.upyun.com/products/video.html</span></a></span><span
-lang=EN>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style='font-family:å®‹ä½“'>åˆæ‹äº‘ç›´æ’­</span></p>
+lang=EN>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style='font-family:ËÎÌå'>ÓÖÅÄÔÆÖ±²¥</span></p>
 
 <p class=MsoNormal><span lang=EN>&nbsp;&nbsp; </span><span lang=EN-US><a
 href="http://www.qiniu.com/products/live"><span lang=EN>http://www.qiniu.com/products/live</span></a></span><span
-lang=EN>&nbsp;&nbsp;&nbsp;&nbsp; </span><span style='font-family:å®‹ä½“'>ä¸ƒç‰›äº‘ç›´æ’­</span></p>
+lang=EN>&nbsp;&nbsp;&nbsp;&nbsp; </span><span style='font-family:ËÎÌå'>ÆßÅ£ÔÆÖ±²¥</span></p>
 
 <p class=MsoNormal><span lang=EN>&nbsp;&nbsp; </span><span lang=EN-US><a
-href="http://www.bravovcloud.com"><span lang=EN>http://www.bravovcloud.com</span></a></span><span
-lang=EN>&nbsp;&nbsp;&nbsp; </span><span style='font-family:å®‹ä½“'>è§‚æ­¢äº‘</span> <span
-style='font-family:å®‹ä½“'>ï¼ˆ</span><span lang=EN>SRS</span><span style='font-family:
-å®‹ä½“'>å¼€æºä½œè€…ç›®å‰æ‰€åœ¨å…¬å¸ï¼‰</span></p>
-
-<p class=MsoNormal><span lang=EN>&nbsp;&nbsp;&nbsp;</span><span lang=EN-US><a
 href="http://xycdn.com/site/solution"><span lang=EN>http://xycdn.com/site/solution</span></a></span><span
-lang=EN>&nbsp;&nbsp; </span><span style='font-family:å®‹ä½“'>æ˜ŸåŸŸäº‘</span><span
-lang=EN>(</span><span style='font-family:å®‹ä½“'>è®¯é›·æ——ä¸‹çš„å…¬å¸</span><span lang=EN>)</span></p>
+lang=EN>&nbsp;&nbsp; </span><span style='font-family:ËÎÌå'>ÐÇÓòÔÆ</span><span
+lang=EN>(</span><span style='font-family:ËÎÌå'>Ñ¶À×ÆìÏÂµÄ¹«Ë¾</span><span lang=EN>)</span></p>
 
 <p class=MsoNormal><span lang=EN>&nbsp;&nbsp; </span><span lang=EN-US><a
 href="http://www.easydarwin.org"><span lang=EN>http://www.easydarwin.org</span></a></span><span
 lang=EN>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RTSP</span><span style='font-family:
-å®‹ä½“'>å¼€æºå¹³å°</span></p>
+ËÎÌå'>¿ªÔ´Æ½Ì¨</span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 

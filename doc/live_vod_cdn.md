@@ -22,6 +22,9 @@
 	{font-family:Cambria;
 	panose-1:2 4 5 3 5 4 6 3 2 4;}
 @font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
 	{font-family:"\@ËÎÌå";
 	panose-1:2 1 6 0 3 1 1 1 1 1;}
 @font-face
@@ -275,195 +278,196 @@ ul
 
 <div class=WordSection1 style='layout-grid:15.6pt'>
 
-<h1><a name="_Toc435713708"></a><a name="_Toc26094550"><span style='font-family:
+<h1><a name="_Toc435713708"></a><a name="_Toc33272370"><span style='font-family:
 ËÎÌå'>Ö±µã²¥Æ½Ì¨</span><span lang=EN-US>CDN</span></a><span style='font-family:ËÎÌå'>·½°¸</span><span
 lang=EN-US>-</span><span style='font-family:ËÎÌå'>£¨»ùÓÚ¿ªÔ´ÏîÄ¿£©</span></h1>
 
 <p class=MsoTocHeading><span style='font-family:ËÎÌå'>Ä¿Â¼</span></p>
 
-<p class=MsoToc1><a href="#_Toc26094550"><span style='font-family:ËÎÌå'>Ö±µã²¥Æ½Ì¨¼¯Èº·½°¸</span><span
-lang=EN-US>-</span><span style='font-family:ËÎÌå'>£¨»ùÓÚ¿ªÔ´ÏîÄ¿£©</span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>... </span><span
+<p class=MsoToc1><a href="#_Toc33272370"><span style='font-family:ËÎÌå'>Ö±µã²¥Æ½Ì¨</span><span
+lang=EN-US>CDN</span><span style='font-family:ËÎÌå'>·½°¸</span><span lang=EN-US>-</span><span
+style='font-family:ËÎÌå'>£¨»ùÓÚ¿ªÔ´ÏîÄ¿£©</span><span lang=EN-US style='color:windowtext;
+display:none;text-decoration:none'>... </span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc1><a href="#_Toc26094551"><span lang=EN-US>1.</span><span
+<p class=MsoToc1><a href="#_Toc33272371"><span lang=EN-US>1.</span><span
 style='font-family:ËÎÌå'>¼ò½é</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>2</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc1><a href="#_Toc26094552"><span lang=EN-US>2.</span><span
+<p class=MsoToc1><a href="#_Toc33272372"><span lang=EN-US>2.</span><span
 style='font-family:ËÎÌå'>¼¯ÈºÓë¸ºÔØ¾ùºâ¼°Ó¦ÓÃ</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>3</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc2><a href="#_Toc26094553"><span lang=EN-US>2.1 </span><span
+<p class=MsoToc2><a href="#_Toc33272373"><span lang=EN-US>2.1 </span><span
 style='font-family:ËÎÌå'>ËÄ²ã¸ºÔØ¾ùºâ</span><span lang=EN-US>LVS</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>. </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>7</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094554"><span lang=EN-US>2.1.1 LVS</span><span
+<p class=MsoToc3><a href="#_Toc33272374"><span lang=EN-US>2.1.1 LVS</span><span
 style='font-family:ËÎÌå'>¼¯ÈºµÄ×é³É</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>7</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094555"><span lang=EN-US>2.1.2 IP</span><span
+<p class=MsoToc3><a href="#_Toc33272375"><span lang=EN-US>2.1.2 IP</span><span
 style='font-family:ËÎÌå'>¸ºÔØ¾ùºâ¼¼Êõ</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>9</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094556"><span lang=EN-US>2.1.3 </span><span
+<p class=MsoToc3><a href="#_Toc33272376"><span lang=EN-US>2.1.3 </span><span
 style='font-family:ËÎÌå'>µ÷¶ÈËã·¨</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>10</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc2><a href="#_Toc26094557"><span lang=EN-US>2.2 </span><span
+<p class=MsoToc2><a href="#_Toc33272377"><span lang=EN-US>2.2 </span><span
 style='font-family:ËÎÌå'>¸ß¿ÉÓÃÈí¼ş</span><span lang=EN-US> Keepalived</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>. </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>11</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc2><a href="#_Toc26094558"><span lang=EN-US>2.3 </span><span
-style='font-family:ËÎÌå'>Á÷Ã½ÌåÖ±²¥·şÎñÆ÷</span><span lang=EN-US>Simple Rtmp Server</span><span
+<p class=MsoToc2><a href="#_Toc33272378"><span lang=EN-US>2.3 </span><span
+style='font-family:ËÎÌå'>Á÷Ã½ÌåÖ±²¥·şÎñÆ÷</span><span lang=EN-US>SRS</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>. </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>12</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc2><a href="#_Toc26094559"><span lang=EN-US>2.4 Web</span><span
+<p class=MsoToc2><a href="#_Toc33272379"><span lang=EN-US>2.4 Web</span><span
 style='font-family:ËÎÌå'>»º³å·şÎñÆ÷</span><span lang=EN-US>Squid</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>. </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>12</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc2><a href="#_Toc26094560"><span lang=EN-US>2.5 </span><span
+<p class=MsoToc2><a href="#_Toc33272380"><span lang=EN-US>2.5 </span><span
 style='font-family:ËÎÌå'>¸ºÔØ¾ùºâÓ¦ÓÃ</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>13</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094561"><span lang=EN-US>2.5.1 </span><span
+<p class=MsoToc3><a href="#_Toc33272381"><span lang=EN-US>2.5.1 </span><span
 style='font-family:ËÎÌå'>ÏµÍ³»·¾³</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>13</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094562"><span lang=EN-US>2.5.2 </span><span
+<p class=MsoToc3><a href="#_Toc33272382"><span lang=EN-US>2.5.2 </span><span
 style='font-family:ËÎÌå'>ÅäÖÃÕæÊµÖ÷»ú</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>13</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094563"><span lang=EN-US>2.5.3 </span><span
+<p class=MsoToc3><a href="#_Toc33272383"><span lang=EN-US>2.5.3 </span><span
 style='font-family:ËÎÌå'>ÅäÖÃ</span><span lang=EN-US>lvs</span><span
 style='font-family:ËÎÌå'>Óë</span><span lang=EN-US>keepalived</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>. </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>15</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc1><a href="#_Toc26094564"><span lang=EN-US>3.</span><span
+<p class=MsoToc1><a href="#_Toc33272384"><span lang=EN-US>3.</span><span
 style='font-family:ËÎÌå'>È«¾Ö¸ºÔØ¾ùºâ¼°ÊµÏÖ</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>23</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc2><a href="#_Toc26094565"><span lang=EN-US>3.1 DSN</span><span
+<p class=MsoToc2><a href="#_Toc33272385"><span lang=EN-US>3.1 DSN</span><span
 style='font-family:ËÎÌå'>¼ò½é</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>24</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094566"><span lang=EN-US>3.1.1</span><span
+<p class=MsoToc3><a href="#_Toc33272386"><span lang=EN-US>3.1.1</span><span
 style='font-family:ËÎÌå'>¸ùÓòÓë¶¥¼¶ÓòÃû·şÎñÆ÷</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>24</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094567"><span lang=EN-US>3.1.2</span><span
+<p class=MsoToc3><a href="#_Toc33272387"><span lang=EN-US>3.1.2</span><span
 style='font-family:ËÎÌå'>±¾µØ</span><span lang=EN-US>DNS</span><span
 style='font-family:ËÎÌå'>·şÎñÆ÷</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>24</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094568"><span lang=EN-US>3.1.3</span><span
+<p class=MsoToc3><a href="#_Toc33272388"><span lang=EN-US>3.1.3</span><span
 style='font-family:ËÎÌå'>ÓòÃû×ÊÔ´¼ÇÂ¼ÀàĞÍ</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>25</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc2><a href="#_Toc26094569"><span lang=EN-US>3.2 </span><span
+<p class=MsoToc2><a href="#_Toc33272389"><span lang=EN-US>3.2 </span><span
 style='font-family:ËÎÌå'>»ùÓÚ</span><span lang=EN-US>DNS</span><span
 style='font-family:ËÎÌå'>½âÎöÊµÏÖ</span><span lang=EN-US>GSLB</span><span
 style='font-family:ËÎÌå'>·½·¨</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>26</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc2><a href="#_Toc26094570"><span lang=EN-US>3.3 BIND</span><span
+<p class=MsoToc2><a href="#_Toc33272390"><span lang=EN-US>3.3 BIND</span><span
 style='font-family:ËÎÌå'>¿ªÔ´ÓòÃû·şÎñÆ÷</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>26</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc2><a href="#_Toc26094571"><span lang=EN-US>3.4 </span><span
+<p class=MsoToc2><a href="#_Toc33272391"><span lang=EN-US>3.4 </span><span
 style='font-family:ËÎÌå'>È«¾Ö¸ºÔØ¾ùºâÊµÏÖ</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>27</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094572"><span lang=EN-US>3.4.1 </span><span
+<p class=MsoToc3><a href="#_Toc33272392"><span lang=EN-US>3.4.1 </span><span
 style='font-family:ËÎÌå'>ÏµÍ³»·¾³</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>27</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094573"><span lang=EN-US>3.4.2 </span><span
+<p class=MsoToc3><a href="#_Toc33272393"><span lang=EN-US>3.4.2 </span><span
 style='font-family:ËÎÌå'>°²×°Óë±àÒë</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>27</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094574"><span lang=EN-US>3.4.3</span><span
+<p class=MsoToc3><a href="#_Toc33272394"><span lang=EN-US>3.4.3</span><span
 style='font-family:ËÎÌå'>ÅäÖÃ</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>28</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094575"><span lang=EN-US>3.4.4 </span><span
+<p class=MsoToc3><a href="#_Toc33272395"><span lang=EN-US>3.4.4 </span><span
 style='font-family:ËÎÌå'>²âÊÔ</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>31</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc1><a href="#_Toc26094576"><span lang=EN-US>4.</span><span
+<p class=MsoToc1><a href="#_Toc33272396"><span lang=EN-US>4.</span><span
 style='font-family:ËÎÌå'>ÍøÂç´æ´¢¼°ÊµÏÖ</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>33</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc2><a href="#_Toc26094577"><span lang=EN-US>4.1</span><span
+<p class=MsoToc2><a href="#_Toc33272397"><span lang=EN-US>4.1</span><span
 style='font-family:ËÎÌå'>ÍøÂç´æ´¢¼¼Êõ</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>33</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094578"><span lang=EN-US>4.1.1</span><span
+<p class=MsoToc3><a href="#_Toc33272398"><span lang=EN-US>4.1.1</span><span
 style='font-family:ËÎÌå'>Ö±½Ó¸½¼Ó´æ´¢</span><span lang=EN-US>(DAS)</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'> </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>33</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094579"><span lang=EN-US>4.1.2</span><span
+<p class=MsoToc3><a href="#_Toc33272399"><span lang=EN-US>4.1.2</span><span
 style='font-family:ËÎÌå'>ÍøÂç¸½¼Ó´æ´¢</span><span lang=EN-US>(NAS)</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'> </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>33</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094580"><span lang=EN-US>4.1.3</span><span
+<p class=MsoToc3><a href="#_Toc33272400"><span lang=EN-US>4.1.3</span><span
 style='font-family:ËÎÌå'>´æ´¢ÇøÓòÍø</span><span lang=EN-US>(SAN)</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'> </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>33</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094581"><span lang=EN-US>4.1.4 iSCSI</span><span
+<p class=MsoToc3><a href="#_Toc33272401"><span lang=EN-US>4.1.4 iSCSI</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'> </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>34</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc2><a href="#_Toc26094582"><span lang=EN-US>4.2</span><span
+<p class=MsoToc2><a href="#_Toc33272402"><span lang=EN-US>4.2</span><span
 style='font-family:ËÎÌå'>·Ö²¼Ê½´æ´¢</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>34</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094583"><span lang=EN-US>4.2.1</span><span
+<p class=MsoToc3><a href="#_Toc33272403"><span lang=EN-US>4.2.1</span><span
 style='font-family:ËÎÌå'>·Ö²¼Ê½´æ´¢ÊµÏÖÊµÀı</span><span lang=EN-US>MooseFS</span><span
 lang=EN-US style='color:windowtext;display:none;text-decoration:none'>. </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>35</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
-<p class=MsoToc3><a href="#_Toc26094584"><span lang=EN-US>4.2.2Moosefs</span><span
+<p class=MsoToc3><a href="#_Toc33272404"><span lang=EN-US>4.2.2Moosefs</span><span
 style='font-family:ËÎÌå'>°²×°ÓëÅäÖÃ</span><span lang=EN-US style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-lang=EN-US style='color:windowtext;display:none;text-decoration:none'>38</span></a></p>
+lang=EN-US style='color:windowtext;display:none;text-decoration:none'>1</span></a></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:22.0pt'>&nbsp;</span></p>
 
-<h1><a name="_Toc26094551"></a><a name="_Toc436141397"><span lang=EN-US>1.</span></a><span
+<h1><a name="_Toc33272371"></a><a name="_Toc436141397"><span lang=EN-US>1.</span></a><span
 style='font-family:ËÎÌå'>¼ò½é</span></h1>
 
 <p class=MsoNormal style='text-indent:26.25pt'><span style='font-family:ËÎÌå'>¸ÃÎÄµµÖ÷Òª½éÉÜÀûÓÃÏÖÔÚÒ»Ğ©³ÉÊìµÄ¿ªÔ´ÏîÄ¿£¬ÈçºÎ´î½¨Ò»Ì×¸ß¿ÉÓÃ¼¯Èºµã²¥ÓëÖ±²¥ÏµÍ³£¬¸ºÔØ¾ùºâ»º³å¼¯Èº£¬ÔÙÅäºÏ»ùÓÚ</span><span
@@ -506,7 +510,7 @@ style='font-family:ËÎÌå'>ÕÂ½Ú»áÏêÏ¸½éÉÜ¡£</span></p>
 <p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp; <img width=678
 height=708 src="live_vod_cdn.files/image001.png"></span></p>
 
-<h1><a name="_Toc26094552"></a><a name="_Toc436141398"></a><a
+<h1><a name="_Toc33272372"></a><a name="_Toc436141398"></a><a
 name="_Toc435713709"><span lang=EN-US>2.</span></a><span style='font-family:
 ËÎÌå'>¼¯ÈºÓë¸ºÔØ¾ùºâ¼°</span><span style='font-family:ËÎÌå'>Ó¦ÓÃ</span></h1>
 
@@ -578,7 +582,7 @@ lang=EN-US>lvs</span><span style='font-family:ËÎÌå'>ĞéÄâµØÖ·½ÓÈëÏµÍ³£¬¿ÉÒÔ·¢²¼Ö±
 
 <p class=MsoNormal><span style='font-family:ËÎÌå'>Çë²Î¿¼ÈçÏÂÏµÍ³¼Ü¹¹Í¼¡£</span></p>
 
-<h2><a name="_Toc26094553"></a><a name="_Toc436141399"></a><a
+<h2><a name="_Toc33272373"></a><a name="_Toc436141399"></a><a
 name="_Toc435713710"><span lang=EN-US>2.1 </span></a><span style='font-family:
 ËÎÌå'>ËÄ²ã¸ºÔØ¾ùºâ</span><span lang=EN-US>LVS</span></h2>
 
@@ -596,7 +600,7 @@ style='font-family:ËÎÌå'>¡¢</span><span lang=EN-US>Cache</span><span
 style='font-family:ËÎÌå'>ºÍ</span><span lang=EN-US>Media</span><span
 style='font-family:ËÎÌå'>µÈÍøÂç·şÎñ¡£²¢ÔÚ´Ë»ù´¡ÉÏ¿ª·¢Ö§³ÖÅÓ´óÓÃ»§ÊıµÄ¡¢¿ÉÉìËõµÄ¡¢¸ß¿ÉÓÃµÄÓ¦ÓÃ¡£</span></p>
 
-<h3><a name="_Toc26094554"><span lang=EN-US>2.1.1 LVS</span></a><span
+<h3><a name="_Toc33272374"><span lang=EN-US>2.1.1 LVS</span></a><span
 style='font-family:ËÎÌå'>¼¯ÈºµÄ×é³É</span></h3>
 
 <p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp;&nbsp;&nbsp;</span><span
@@ -653,7 +657,7 @@ style='font-family:ËÎÌå'>ºÍ</span><span lang=EN-US>VS/DR</span><span
 style='font-family:ËÎÌå'>£©£»Ê®ÖÖµ÷¶ÈËã·¨£¨</span><span lang=EN-US>rr|wrr|lc|wlc|lblc|lblcr|dh|sh|sed|nq</span><span
 style='font-family:ËÎÌå'>£©¡£</span></p>
 
-<h3><a name="_Toc26094555"><span lang=EN-US>2.1.2 IP</span></a><span
+<h3><a name="_Toc33272375"><span lang=EN-US>2.1.2 IP</span></a><span
 style='font-family:ËÎÌå'>¸ºÔØ¾ùºâ¼¼Êõ</span></h3>
 
 <h5><span lang=EN-US>NAT</span><span style='font-family:ËÎÌå'>Ä£Ê½£¨</span><span
@@ -773,7 +777,7 @@ lang=EN-US>VS-DR</span><span style='font-family:ËÎÌå'>ÕâÖÖÊµÏÖ·½Ê½²»ĞèÒªËíµÀ½á¹¹
 <p class=MsoNoSpacing style='margin-left:31.6pt;text-indent:-31.6pt'><b><span
 style='font-family:ËÎÌå'>È±µã£º</span></b><span style='font-family:ËÎÌå'>£¨²»ÄÜËµÈ±µã£¬Ö»ÄÜËµÊÇ²»×ã£©ÒªÇó¸ºÔØ¾ùºâÆ÷µÄÍø¿¨±ØĞëÓëÎïÀíÍø¿¨ÔÚÒ»¸öÎïÀí¶ÎÉÏ¡£</span></p>
 
-<h3><a name="_Toc26094556"><span lang=EN-US>2.1.3 </span></a><span
+<h3><a name="_Toc33272376"><span lang=EN-US>2.1.3 </span></a><span
 style='font-family:ËÎÌå'>µ÷¶ÈËã·¨</span></h3>
 
 <h5><span lang=EN-US>1</span><span style='font-family:ËÎÌå'>¡¢¾²Ì¬µ÷¶È</span></h5>
@@ -916,7 +920,7 @@ lang=EN-US>Keepalived</span></p>
 
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span lang=EN-US>&nbsp;</span></p>
 
-<h2><a name="_Toc26094557"></a><a name="_Toc436141400"></a><a
+<h2><a name="_Toc33272377"></a><a name="_Toc436141400"></a><a
 name="_Toc435713711"><span lang=EN-US>2.2 </span></a><span style='font-family:
 ËÎÌå'>¸ß¿ÉÓÃÈí¼ş</span> <span lang=EN-US>Keepalived</span></h2>
 
@@ -954,13 +958,12 @@ lang=EN-US>LVS</span><span style='font-family:ËÎÌå'>¿ØÖÆÆ÷Ö÷±¸Ä£Ê½±ÜÃâµ¥µã¹ÊÕÏÒÔ
 <p class=MsoNoSpacing style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>¹ÙÍø</span><span
 lang=EN-US>: <a href="http://www.keepalived.org">http://www.keepalived.org</a></span></p>
 
-<h2><a name="_Toc26094558"></a><a name="_Toc436141401"></a><a
+<h2><a name="_Toc33272378"></a><a name="_Toc436141401"></a><a
 name="_Toc435713712"><span lang=EN-US>2.3 </span></a><span style='font-family:
-ËÎÌå'>Á÷Ã½ÌåÖ±²¥·şÎñÆ÷</span><span lang=EN-US>Simple Rtmp Server</span></h2>
+ËÎÌå'>Á÷Ã½ÌåÖ±²¥·şÎñÆ÷</span><span lang=EN-US>SRS</span></h2>
 
 <p class=MsoNoSpacing style='text-indent:15.75pt'><span lang=EN-US>SRS</span><span
-style='font-family:ËÎÌå'>ÊÇ¹úÄÚ×÷ÕßµÄ¿ªÔ´ÏîÄ¿£¬×÷ÕßÔÚ¹úÄÚÒ»Ïß</span><span lang=EN-US>cdn</span><span
-style='font-family:ËÎÌå'>³§ÉÌÀ¶Ñ´¹¤×÷¹ı£¬ÔÚ¸Ã¹«Ë¾¸ºÔğÁ÷Ã½ÌåÖ±²¥ÏµÍ³£¬×î³õ¿ª·¢</span><span lang=EN-US>SRS</span><span
+style='font-family:ËÎÌå'>ÊÇ¹úÄÚ¸öÈËÓÅĞãµÄ¿ªÔ´ÏîÄ¿£¬×î³õ¿ª·¢</span><span lang=EN-US>SRS</span><span
 style='font-family:ËÎÌå'>°æ±¾Ê±£¬Ëû²Î¿¼ÁË¿ªÔ´</span><span lang=EN-US>nginx+rtmp</span><span
 style='font-family:ËÎÌå'>¼Ü¹¹£¬ÉÌÓÃµÄ</span><span lang=EN-US>FMS</span><span
 style='font-family:ËÎÌå'>µÈÁ÷Ã½ÌåÖ±²¥ÏµÍ³£¬ÒÔ¼°</span><span lang=EN-US>cdn</span><span
@@ -1000,11 +1003,14 @@ style='font-family:ËÎÌå'>²âËÙ¡£</span></p>
 ËÎÌå'>ÔÚ´Ë·½°¸ÖĞ£¬Ö÷ÒªÍê³É<span lang=EN-US>rtmp</span>Ö±²¥Á÷±ßÔµ»º³å¹¦ÄÜ</span></p>
 
 <p class=MsoNoSpacing style='text-indent:15.75pt'><span style='font-family:
-ËÎÌå'>¹ÙÍø</span><span lang=EN-US>: <a href="https://github.com/simple-rtmp-server">https://github.com/simple-rtmp-server</a></span></p>
+ËÎÌå'>¹ÙÍø</span><span lang=EN-US>:</span><span lang=EN-US style='font-family:"Segoe UI",sans-serif;
+color:#40485B;background:white'> </span><span lang=EN-US><a
+href="https://github.com/ossrs/srs"><span style='font-family:"Segoe UI",sans-serif;
+background:white'>https://github.com/ossrs/srs</span></a></span></p>
 
 <p class=MsoNoSpacing style='text-indent:15.75pt'><span lang=EN-US>&nbsp;</span></p>
 
-<h2><a name="_Toc26094559"></a><a name="_Toc436141402"></a><a
+<h2><a name="_Toc33272379"></a><a name="_Toc436141402"></a><a
 name="_Toc435713713"><span lang=EN-US>2.4 Web</span></a><span style='font-family:
 ËÎÌå'>»º³å·şÎñÆ÷</span><span lang=EN-US>Squid</span></h2>
 
@@ -1037,12 +1043,12 @@ href="http://www.squid-cache.org"><span style='font-family:ËÎÌå'>http://www.squi
 <p class=MsoNoSpacing><span class=MsoHyperlink><span lang=EN-US
 style='font-family:ËÎÌå'><span style='text-decoration:none'>&nbsp;</span></span></span></p>
 
-<h2><a name="_Toc26094560"></a><a name="_Toc436141403"></a><a
+<h2><a name="_Toc33272380"></a><a name="_Toc436141403"></a><a
 name="_Toc435713714"><span lang=EN-US>2.5 </span></a><span style='font-family:
 ËÎÌå'>¸ºÔØ¾ùºâ</span><span style='font-family:ËÎÌå'>Ó¦ÓÃ</span></h2>
 
 <h3><a name="_Toc436141405"></a><a name="_Toc435713716"></a><a
-name="_Toc26094561"></a><a name="_Toc436141404"></a><a name="_Toc435713715"><span
+name="_Toc33272381"></a><a name="_Toc436141404"></a><a name="_Toc435713715"><span
 lang=EN-US>2.5.1 </span></a><span style='font-family:ËÎÌå'>ÏµÍ³»·¾³</span></h3>
 
 <p class=MsoNoSpacing><span style='font-family:ËÎÌå'>ÏµÍ³Æ½Ì¨£º</span><span
@@ -1060,7 +1066,7 @@ lang=EN-US>: srs-2.0a2</span></p>
 <p class=MsoNoSpacing><span lang=EN-US>squid</span><span style='font-family:
 ËÎÌå'>°æ±¾</span><span lang=EN-US>: squid-3.5.11.tar.gz</span></p>
 
-<h3><a name="_Toc26094562"><span lang=EN-US>2.5.2 </span></a><span
+<h3><a name="_Toc33272382"><span lang=EN-US>2.5.2 </span></a><span
 style='font-family:ËÎÌå'>ÅäÖÃÕæÊµÖ÷»ú</span></h3>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>ÔÚÕæÊµÖ÷»ú</span><span
@@ -1074,7 +1080,9 @@ lang=EN-US>) </span><span style='font-family:ËÎÌå'>°²×°ÓëÅäÖÃÖ±²¥Á÷Ã½Ìå·şÎñÆ÷</s
 lang=EN-US>simple rtmp server(srs)</span></h4>
 
 <p class=MsoNormal><span lang=EN-US>1.</span><span style='font-family:ËÎÌå'>¹Ù·½ÏÂÔØ</span><span
-lang=EN-US><a href="https://github.com/winlinvip/simple-rtmp-server">https://github.com/winlinvip/simple-rtmp-server</a></span></p>
+lang=EN-US style='font-family:"Segoe UI",sans-serif;color:#40485B;background:
+white'>&nbsp;</span><span lang=EN-US><a href="https://github.com/ossrs/srs"><span
+style='font-family:"Segoe UI",sans-serif;color:#005980;background:white'>https://github.com/ossrs/srs</span></a></span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
 style='font-size:12.0pt;font-family:ËÎÌå'>2.</span><span style='font-size:12.0pt;
@@ -1107,8 +1115,8 @@ objs/edge.pid;</span></p>
 <p class=MsoListParagraph style='margin-left:54.75pt'><span lang=EN-US>srs_log_file&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ./objs/edge.log;</span></p>
 
-<p class=MsoListParagraph style='margin-left:54.75pt'><span lang=EN-US>vhost __defaultVhost__
-{</span></p>
+<p class=MsoListParagraph style='margin-left:54.75pt'><span lang=EN-US>vhost
+__defaultVhost__ {</span></p>
 
 <p class=MsoListParagraph style='margin-left:54.75pt'><span lang=EN-US>&nbsp;&nbsp;&nbsp;
 mode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; remote;</span></p>
@@ -1238,7 +1246,7 @@ src="live_vod_cdn.files/image009.png"></span></p>
 <p class=MsoNormal><span style='font-family:ËÎÌå'>½á¹ûÏÔÊ¾³É¹¦Á¬½Óµ½</span><span
 lang=EN-US>192.168.111.99:8080 nginx Web</span><span style='font-family:ËÎÌå'>·şÎñÆ÷ÉÏ¡£</span></p>
 
-<h3><a name="_Toc26094563"></a><a name="_Toc436141406"></a><a
+<h3><a name="_Toc33272383"></a><a name="_Toc436141406"></a><a
 name="_Toc435713717"><span lang=EN-US>2.5.3 </span></a><span style='font-family:
 ËÎÌå'>ÅäÖÃ</span><span lang=EN-US>lvs</span><span style='font-family:ËÎÌå'>Óë</span><span
 lang=EN-US>keepalived</span></h3>
@@ -1418,8 +1426,9 @@ server</span>µÄ³¬Ê±Ê±¼ä</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US style='font-family:ËÎÌå;color:black'>&nbsp;&nbsp;
 router_id
-LVS_DEVEL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-#</span><span style='font-family:ËÎÌå;color:black'>±íÊ¾ÔËĞĞ<span lang=EN-US>keepalived</span>·şÎñÆ÷µÄÒ»¸ö±êÊ¶¡£·¢ÓÊ¼şÊ±ÏÔÊ¾ÔÚÓÊ¼şÖ÷ÌâµÄĞÅÏ¢</span></p>
+LVS_DEVEL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#</span><span
+style='font-family:ËÎÌå;color:black'>±íÊ¾ÔËĞĞ<span lang=EN-US>keepalived</span>·şÎñÆ÷µÄÒ»¸ö±êÊ¶¡£·¢ÓÊ¼şÊ±ÏÔÊ¾ÔÚÓÊ¼şÖ÷ÌâµÄĞÅÏ¢</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US style='font-family:ËÎÌå;color:black'>}</span></p>
 
@@ -1453,18 +1462,18 @@ lang=EN-US>MASTER</span>µÄÓÅÏÈ¼¶±ØĞë´óÓÚ<span lang=EN-US>BACKUP</span>µÄÓÅÏÈ¼¶</
 
 <p class=MsoNoSpacing style='margin-left:157.5pt;text-indent:-157.5pt'><span
 lang=EN-US style='font-family:ËÎÌå;color:black'>&nbsp;&nbsp;&nbsp; advert_int
-1&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#</span><span
-style='font-family:ËÎÌå;color:black'>Éè¶¨<span lang=EN-US>MASTER</span>Óë<span
+1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#</span><span style='font-family:ËÎÌå;color:black'>Éè¶¨<span lang=EN-US>MASTER</span>Óë<span
 lang=EN-US>BACKUP</span>¸ºÔØ¾ùºâÆ÷Ö®¼äÍ¬²½¼ì²éµÄÊ±¼ä¼ä¸ô£¬µ¥Î»ÊÇÃë</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US style='font-family:ËÎÌå;color:black'>&nbsp;&nbsp;&nbsp;
 authentication {&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #</span><span
 style='font-family:ËÎÌå;color:black'>ÉèÖÃÑéÖ¤ÀàĞÍºÍÃÜÂë</span></p>
 
-<p class=MsoNoSpacing><span lang=EN-US style='font-family:ËÎÌå;color:black'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-auth_type PASS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #</span><span
-style='font-family:ËÎÌå;color:black'>ÉèÖÃÑéÖ¤ÀàĞÍ£¬Ö÷ÒªÓĞ<span lang=EN-US>PASS</span>ºÍ<span
-lang=EN-US>AH</span>Á½ÖÖ</span></p>
+<p class=MsoNoSpacing><span lang=EN-US style='font-family:ËÎÌå;color:black'>&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;auth_type
+PASS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #</span><span style='font-family:
+ËÎÌå;color:black'>ÉèÖÃÑéÖ¤ÀàĞÍ£¬Ö÷ÒªÓĞ<span lang=EN-US>PASS</span>ºÍ<span lang=EN-US>AH</span>Á½ÖÖ</span></p>
 
 <p class=MsoNoSpacing style='margin-left:157.5pt;text-indent:-157.5pt'><span
 lang=EN-US style='font-family:ËÎÌå;color:black'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1524,8 +1533,8 @@ style='font-family:ËÎÌå;color:black'>»á»°±£³ÖÊ±¼ä£¬µ¥Î»ÊÇÃë¡£Õâ¸öÑ¡Ïî¶Ô¶¯Ì¬ÍøÒ³Ê
 lang=EN-US>session</span>¹²ÏíÌá¹©ÁËÒ»¸öºÜºÃµÄ½â¾ö·½°¸¡£</span></p>
 
 <p class=MsoNoSpacing style='margin-left:189.0pt;text-indent:-189.0pt'><span
-lang=EN-US style='font-family:ËÎÌå;color:black'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#</span><span style='font-family:ËÎÌå;color:black'>ÓĞÁËÕâ¸ö»á»°±£³Ö¹¦ÄÜ£¬ÓÃ»§µÄÇëÇó»á±»Ò»Ö±·Ö·¢µ½Ä³¸ö·şÎñ½Úµã£¬Ö±µ½³¬¹ıÕâ¸ö»á»°µÄ±£³ÖÊ±¼ä¡£</span></p>
+lang=EN-US style='font-family:ËÎÌå;color:black'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#</span><span style='font-family:ËÎÌå;color:black'>ÓĞÁËÕâ¸ö»á»°±£³Ö¹¦ÄÜ£¬ÓÃ»§µÄÇëÇó»á±»Ò»Ö±·Ö·¢µ½Ä³¸ö·şÎñ½Úµã£¬Ö±µ½³¬¹ıÕâ¸ö»á»°µÄ±£³ÖÊ±¼ä¡£</span></p>
 
 <p class=MsoNoSpacing style='margin-left:189.0pt;text-indent:-189.0pt'><span
 lang=EN-US style='font-family:ËÎÌå;color:black'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1538,8 +1547,9 @@ lang=EN-US style='font-family:ËÎÌå;color:black'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 lang=EN-US>50</span>ÃëµÄÊ±¼äÏŞÖÆ</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US style='font-family:ËÎÌå;color:black'>&nbsp;&nbsp;&nbsp;
-protocol TCP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#</span><span
-style='font-family:ËÎÌå;color:black'>Ö¸¶¨×ª·¢Ğ­ÒéÀàĞÍ£¬ÓĞ<span lang=EN-US>TCP</span>ºÍ<span
+protocol
+TCP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#</span><span style='font-family:ËÎÌå;color:black'>Ö¸¶¨×ª·¢Ğ­ÒéÀàĞÍ£¬ÓĞ<span lang=EN-US>TCP</span>ºÍ<span
 lang=EN-US>UDP</span>Á½ÖÖ</span></p>
 
 <p class=MsoNoSpacing style='margin-left:199.5pt;text-indent:-178.5pt'><span
@@ -1970,8 +1980,8 @@ style='font-family:ËÎÌå'>ÊµÏÖ½ûÖ¹ÏìÓ¦¶Ô</span><span lang=EN-US>VIP</span><span
 style='font-family:ËÎÌå'>µÄ</span><span lang=EN-US>ARP</span><span
 style='font-family:ËÎÌå'>ÇëÇó</span></p>
 
-<p class=MsoNormal style='text-indent:36.75pt'><span lang=EN-US>echo
-&quot;2&quot; &gt;/proc/sys/net/ipv4/conf/all/arp_announce</span></p>
+<p class=MsoNormal style='text-indent:36.75pt'><span lang=EN-US>echo &quot;2&quot;
+&gt;/proc/sys/net/ipv4/conf/all/arp_announce</span></p>
 
 <p class=MsoNormal style='text-indent:36.75pt'><span lang=EN-US>sysctl ¨Cp</span></p>
 
@@ -2024,7 +2034,8 @@ lang=EN-US>LVS-MASTER</span><span style='font-family:ËÎÌå'>ÉÏµÄ</span><span
 lang=EN-US>keepalived</span><span style='font-family:ËÎÌå'>·şÎñÍ£µô£¬È»ºó¹Û²ì</span><span
 lang=EN-US>LVS-BACKUP</span><span style='font-family:ËÎÌå'>ÉÏµÄÈÕÖ¾£¬ĞÅÏ¢ÈçÏÂ</span></p>
 
-<p class=MsoNoSpacing style='text-indent:5.25pt'><span lang=EN-US>tail -f /var/log/messages</span></p>
+<p class=MsoNoSpacing style='text-indent:5.25pt'><span lang=EN-US>tail -f
+/var/log/messages</span></p>
 
 <p class=MsoNoSpacing><span lang=EN-US><img border=0 width=554 height=115
 id="Í¼Æ¬ 1" src="live_vod_cdn.files/image014.jpg"></span></p>
@@ -2081,7 +2092,7 @@ style='font-family:ËÎÌå'>¿Í»§¶ËÖ±²¥Óëµã²¥²âÊÔ</span></b></p>
 
 <p class=MsoNoSpacing><span lang=EN-US>&nbsp;</span></p>
 
-<h1><a name="_Toc26094564"></a><a name="_Toc436141407"></a><a
+<h1><a name="_Toc33272384"></a><a name="_Toc436141407"></a><a
 name="_Toc435713718"><span lang=EN-US>3.</span></a><span style='font-family:
 ËÎÌå'>È«¾Ö¸ºÔØ¾ùºâ¼°ÊµÏÖ</span></h1>
 
@@ -2099,11 +2110,11 @@ style='font-family:ËÎÌå'>Ê×ÏÈ¶Ô</span><span lang=EN-US>DNS</span><span
 style='font-family:ËÎÌå'>ÏµÍ³Ò»Ğ©»ù±¾¸ÅÄî×öÏÂ¼òµ¥½éÉÜ£¬¶ÔÒÔºóÕÂ½ÚÖĞÊµÏÖ</span><span lang=EN-US>GSLB</span><span
 style='font-family:ËÎÌå'>¼¼ÊõÓĞ¸ü¼ÓÉî¿ÌµÄÁË½â¡£</span></p>
 
-<h2><a name="_Toc26094565"></a><a name="_Toc436141408"></a><a
+<h2><a name="_Toc33272385"></a><a name="_Toc436141408"></a><a
 name="_Toc435713719"><span lang=EN-US>3.1 DSN</span></a><span style='font-family:
 ËÎÌå'>¼ò½é</span></h2>
 
-<h3><a name="_Toc26094566"></a><a name="_Toc436141409"></a><a
+<h3><a name="_Toc33272386"></a><a name="_Toc436141409"></a><a
 name="_Toc435713720"><span lang=EN-US>3.1.1</span></a><span style='font-family:
 ËÎÌå'>¸ùÓòÓë¶¥¼¶ÓòÃû·şÎñÆ÷</span></h3>
 
@@ -2138,7 +2149,7 @@ lang=EN-US>DNS</span><span style='font-family:ËÎÌå'>·şÎñÆ÷¹²Í¬×é³ÉÁË</span><span
 lang=EN-US>DNS</span><span style='font-family:ËÎÌå'>·şÎñÆ÷²ã£¬¹²Í¬Î¬»¤·Ö²¼Ê½£¬²ã´Î»¯µÄ</span><span
 lang=EN-US>DNS</span><span style='font-family:ËÎÌå'>Êı¾İ¿â¡£¶ÔÓò½øĞĞÊÚÈ¨£¬¾ÍÊÇÓò¹ÜÀí×éÖ¯°Ñ×ÓÓòÊÚÈ¨¸øÆäËû×éÖ¯½øĞĞ¹ÜÀí£¬ÓÉ×ÓÓò¹ÜÀíÕßÀ´Î¬»¤×ÓÓòÖĞµÄÊı¾İ£¬¿ÉÒÔ×ÔÓÉ¸Ä¶¯Êı¾İ£¬°üÀ¨¶Ô×ÓÓòÔÙ½øĞĞ»®·Ö£¬ÔÙÊÚÈ¨¡£</span></p>
 
-<h3><a name="_Toc26094567"></a><a name="_Toc436141410"></a><a
+<h3><a name="_Toc33272387"></a><a name="_Toc436141410"></a><a
 name="_Toc435713721"><span lang=EN-US>3.1.2</span></a><span style='font-family:
 ËÎÌå'>±¾µØ</span><span lang=EN-US>DNS</span><span style='font-family:ËÎÌå'>·şÎñÆ÷</span></h3>
 
@@ -2157,7 +2168,7 @@ lang=EN-US>DNS</span><span style='font-family:ËÎÌå'>·şÎñÆ÷Ö»½«×Ô¼ºÖªµÀµÄ×îºÏÊÊµÄ
 <p class=MsoNormal><span lang=EN-US><img border=0 width=554 height=281 id="Í¼Æ¬ 7"
 src="live_vod_cdn.files/image019.png"></span></p>
 
-<h3><a name="_Toc26094568"></a><a name="_Toc436141411"></a><a
+<h3><a name="_Toc33272388"></a><a name="_Toc436141411"></a><a
 name="_Toc435713722"><span lang=EN-US>3.1.3</span></a><span style='font-family:
 ËÎÌå'>ÓòÃû×ÊÔ´¼ÇÂ¼ÀàĞÍ</span></h3>
 
@@ -2211,7 +2222,7 @@ style='font-family:ËÎÌå'>¼ÇÂ¼ÓÃÓÚÃèÊö</span><span lang=EN-US>IP</span><span
 style='font-family:ËÎÌå'>µØÖ·µ½ÓòÃûµÄÓ³Éä¹ØÏµ¡£ÕâÖÖÃèÊö·½Ê½Ö»´æÔÚÓÚ</span><span lang=EN-US>in-addr.arpa</span><span
 style='font-family:ËÎÌå'>Õâ¸öÌØÊâµÄÓòÖĞ¡£</span></p>
 
-<h2><a name="_Toc26094569"></a><a name="_Toc436141412"></a><a
+<h2><a name="_Toc33272389"></a><a name="_Toc436141412"></a><a
 name="_Toc435713723"><span lang=EN-US style='line-height:173%'>3.2 </span></a><span
 style='line-height:173%;font-family:ËÎÌå'>»ùÓÚ</span><span lang=EN-US
 style='line-height:173%'>DNS</span><span style='line-height:173%;font-family:
@@ -2270,7 +2281,7 @@ lang=EN-US>VIP</span><span style='font-family:ËÎÌå'>µØÖ·¡£Ö±ÕıµÄÈ¨Íş</span><span
 lang=EN-US>DNS</span><span style='font-family:ËÎÌå'>·şÎñÆ÷Õı³£ÏìÓ¦ä¯ÀÀÆ÷µÄ</span><span
 lang=EN-US>DNS</span><span style='font-family:ËÎÌå'>ÇëÇó£¬·µ»ØÓòÃû½âÎö½á¹ûÁĞ±í£¬Õâ¸öÏìÓ¦»áÏÈ·¢ËÍµ½¸ºÔØ¾ùºâÆ÷£¬</span></p>
 
-<h2><a name="_Toc26094570"></a><a name="_Toc436141413"></a><a
+<h2><a name="_Toc33272390"></a><a name="_Toc436141413"></a><a
 name="_Toc435713724"><span lang=EN-US>3.3 BIND</span></a><span
 style='font-family:ËÎÌå'>¿ªÔ´ÓòÃû·şÎñÆ÷</span></h2>
 
@@ -2287,11 +2298,11 @@ style='font-family:ËÎÌå'>Æ½Ì¨¡£</span></p>
 <p class=MsoNormal style='text-indent:15.75pt'><span style='font-family:ËÎÌå'>¹ÙÍø</span><span
 lang=EN-US>: <a href="http://www.isc.org/downloads/">http://www.isc.org/downloads/</a></span></p>
 
-<h2><a name="_Toc26094571"></a><a name="_Toc436141414"></a><a
+<h2><a name="_Toc33272391"></a><a name="_Toc436141414"></a><a
 name="_Toc435713725"><span lang=EN-US>3.4 </span></a><span style='font-family:
 ËÎÌå'>È«¾Ö¸ºÔØ¾ùºâÊµÏÖ</span></h2>
 
-<h3><a name="_Toc26094572"></a><a name="_Toc436141415"></a><a
+<h3><a name="_Toc33272392"></a><a name="_Toc436141415"></a><a
 name="_Toc435713726"><span lang=EN-US>3.4.1 </span></a><span style='font-family:
 ËÎÌå'>ÏµÍ³»·¾³</span></h3>
 
@@ -2326,7 +2337,7 @@ lang=EN-US>::192.168.230..130</span></p>
 <p class=MsoNormal><span lang=EN-US><img border=0 width=681 height=523
 src="live_vod_cdn.files/image020.png"></span></p>
 
-<h3><a name="_Toc26094573"></a><a name="_Toc436141416"></a><a
+<h3><a name="_Toc33272393"></a><a name="_Toc436141416"></a><a
 name="_Toc435713727"><span lang=EN-US>3.4.2 </span></a><span style='font-family:
 ËÎÌå'>°²×°Óë±àÒë</span></h3>
 
@@ -2340,7 +2351,7 @@ name="_Toc435713727"><span lang=EN-US>3.4.2 </span></a><span style='font-family:
 
 <p class=MsoNoSpacing><span lang=EN-US>yum install bind</span></p>
 
-<h3><a name="_Toc26094574"></a><a name="_Toc436141417"></a><a
+<h3><a name="_Toc33272394"></a><a name="_Toc436141417"></a><a
 name="_Toc435713728"><span lang=EN-US>3.4.3</span></a><span style='font-family:
 ËÎÌå'>ÅäÖÃ</span></h3>
 
@@ -2707,7 +2718,7 @@ lang=EN-US>/var/named/testcdn.com.zone.lt</span></p>
 <p class=MsoNoSpacing><span lang=EN-US>@&nbsp;&nbsp; IN&nbsp; A&nbsp;
 192.168.230.134</span></p>
 
-<h3><a name="_Toc26094575"></a><a name="_Toc436141418"></a><a
+<h3><a name="_Toc33272395"></a><a name="_Toc436141418"></a><a
 name="_Toc435713729"><span lang=EN-US>3.4.4 </span></a><span style='font-family:
 ËÎÌå'>²âÊÔ</span></h3>
 
@@ -2749,10 +2760,10 @@ href="http://www.testcdn.com">www.testcdn.com</a></span></p>
 <p class=MsoNoSpacing><span lang=EN-US><img border=0 width=554 height=357
 id="Í¼Æ¬ 9" src="live_vod_cdn.files/image022.jpg"></span></p>
 
-<h1><a name="_Toc26094576"></a><a name="_Toc436141419"><span lang=EN-US>4.</span></a><span
+<h1><a name="_Toc33272396"></a><a name="_Toc436141419"><span lang=EN-US>4.</span></a><span
 style='font-family:ËÎÌå'>ÍøÂç´æ´¢¼°ÊµÏÖ</span></h1>
 
-<h2><a name="_Toc26094577"></a><a name="_Toc436141420"><span lang=EN-US>4.1</span></a><span
+<h2><a name="_Toc33272397"></a><a name="_Toc436141420"><span lang=EN-US>4.1</span></a><span
 style='font-family:ËÎÌå'>ÍøÂç´æ´¢¼¼Êõ</span></h2>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>Ä¿Ç°¸ß¶Ë·şÎñÆ÷Ê¹ÓÃµÄ×¨ÒµÍøÂç´æ´¢¼¼Êõ´ó¸Å·ÖÎªËÄÖÖ£¬ÓĞ</span><span
@@ -2762,7 +2773,7 @@ style='font-family:ËÎÌå'>¡¢</span><span lang=EN-US>ISCSL</span><span
 style='font-family:ËÎÌå'>£¬ËüÃÇ¿ÉÒÔÊ¹ÓÃ</span><span lang=EN-US>RAID</span><span
 style='font-family:ËÎÌå'>ÕóÁĞÌá¹©¸ßĞ§µÄ°²È«´æ´¢¿Õ¼ä¡£</span></p>
 
-<h3><a name="_Toc26094578"></a><a name="_Toc436141421"><span lang=EN-US>4.1.1</span></a><span
+<h3><a name="_Toc33272398"></a><a name="_Toc436141421"><span lang=EN-US>4.1.1</span></a><span
 style='font-family:ËÎÌå'>Ö±½Ó¸½¼Ó´æ´¢</span><span lang=EN-US>(DAS)</span></h3>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>&nbsp;</span><span
@@ -2789,7 +2800,7 @@ lang=EN-US>;</span></p>
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>(4)</span><span
 style='font-family:ËÎÌå'>Êı¾İ±¸·İ²Ù×÷¸´ÔÓ¡£</span></p>
 
-<h3><a name="_Toc26094579"></a><a name="_Toc436141422"><span lang=EN-US>4.1.2</span></a><span
+<h3><a name="_Toc33272399"></a><a name="_Toc436141422"><span lang=EN-US>4.1.2</span></a><span
 style='font-family:ËÎÌå'>ÍøÂç¸½¼Ó´æ´¢</span><span lang=EN-US>(NAS)</span></h3>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>&nbsp;NAS</span><span
@@ -2817,7 +2828,7 @@ style='font-family:ËÎÌå'>´æ´¢Ö»ÄÜÒÔÎÄ¼ş·½Ê½·ÃÎÊ£¬¶ø²»ÄÜÏñÆÕÍ¨ÎÄ¼şÏµÍ³Ò»ÑùÖ±½Ó·ÃÎ
 lang=EN-US>&nbsp; </span><span style='font-family:ËÎÌå'>¾Í²»ÄÜÊ¹ÓÃ</span><span
 lang=EN-US>NAS.</span></p>
 
-<h3><a name="_Toc26094580"></a><a name="_Toc436141423"><span class=3><span
+<h3><a name="_Toc33272400"></a><a name="_Toc436141423"><span class=3><span
 lang=EN-US>4.1.3</span></span></a><span class=3><span style='font-family:ËÎÌå'>´æ´¢ÇøÓòÍø</span><span
 lang=EN-US>(SAN</span></span><span lang=EN-US>)</span></h3>
 
@@ -2847,7 +2858,7 @@ lang=EN-US>;</span></p>
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>(2)</span><span
 style='font-family:ËÎÌå'>ĞèÒªµ¥¶À½¨Á¢¹âÏËÍøÂç£¬ÒìµØÀ©Õ¹±È½ÏÀ§ÄÑ</span><span lang=EN-US>;</span></p>
 
-<h3><a name="_Toc26094581"></a><a name="_Toc436141424"><span lang=EN-US>4.1.4 iSCSI</span></a></h3>
+<h3><a name="_Toc33272401"></a><a name="_Toc436141424"><span lang=EN-US>4.1.4 iSCSI</span></a></h3>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>&nbsp;</span><span
 style='font-family:ËÎÌå'>Ê¹ÓÃ×¨ÃÅµÄ´æ´¢ÇøÓòÍø³É±¾ºÜ¸ß£¬¶øÀûÓÃÆÕÍ¨µÄÊı¾İÍøÀ´´«Êä</span><span lang=EN-US>SCSI</span><span
@@ -2889,7 +2900,7 @@ lang=EN-US>SAN</span><span style='font-family:ËÎÌå'>·½°¸</span><span lang=EN-US>
 style='font-family:ËÎÌå'>¶ÔÓÚÏ£ÍûÊ¹ÓÃ´æ´¢µÄ·şÎñÆ÷Ïà¶Ô±È½Ï·ÖÉ¢£¬ÓÖ¶ÔĞÔÄÜÒªÇó²»ÊÇºÜ¸ßµÄ£¬¿ÉÒÔ¿¼ÂÇ²ÉÓÃ</span><span
 lang=EN-US>iSCSI</span><span style='font-family:ËÎÌå'>·½°¸¡£</span></p>
 
-<h2><a name="_Toc26094582"></a><a name="_Toc436141425"><span lang=EN-US>4.2</span></a><span
+<h2><a name="_Toc33272402"></a><a name="_Toc436141425"><span lang=EN-US>4.2</span></a><span
 style='font-family:ËÎÌå'>·Ö²¼Ê½´æ´¢</span></h2>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:ËÎÌå'>ÔÚÁ÷Ã½ÌåÏµÍ³µÄ»º³åÉè±¸Óë</span><span
@@ -2909,7 +2920,7 @@ lang=EN-US>CDN</span><span style='font-family:ËÎÌå'>ÏµÍ³µÄ´æ´¢½â¾ö·½°¸Ö®Ò»¡£³£ÓÃ
 lang=EN-US>2-3</span><span style='font-family:ËÎÌå'>·İ£©¡¢´ÅÅÌÈßÓà</span><span
 lang=EN-US>(Raid1,Raid10,Raid5)</span><span style='font-family:ËÎÌå'>µÈ¼¼Êõ£¬Í¨³£¿ÉÒÔÌá¹©Á¼ºÃµÄÊı¾İÈİ´í»úÖÆ£¬µ±µ¥Ì¨´æ´¢Éè±¸¶Ïµç»òÕßµ¥¸ö´æ´¢´ÅÅÌÊ§Ğ§Ê±£¬Õû¸ö´æ´¢ÏµÍ³ÈÔÄÜÕı³£¹¤×÷¡£·Ö²¼Ê½ÎÄ¼şÏµÍ³¸ü³£¼ûÓÚ¸ßĞÔÄÜ¼ÆËãÁìÓò</span></p>
 
-<h3><a name="_Toc26094583"></a><a name="_Toc436141426"><span lang=EN-US>4.2.1</span></a><span
+<h3><a name="_Toc33272403"></a><a name="_Toc436141426"><span lang=EN-US>4.2.1</span></a><span
 style='font-family:ËÎÌå'>·Ö²¼Ê½´æ´¢ÊµÏÖÊµÀı</span><span lang=EN-US>MooseFS</span></h3>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>&nbsp;MooseFS</span><span
@@ -3056,7 +3067,7 @@ id="Í¼Æ¬ 17" src="live_vod_cdn.files/image025.png"></span></p>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>&nbsp;</span></p>
 
-<h3><a name="_Toc26094584"></a><a name="_Toc436141427"><span lang=EN-US>4.2.2Moosefs</span></a><span
+<h3><a name="_Toc33272404"></a><a name="_Toc436141427"><span lang=EN-US>4.2.2Moosefs</span></a><span
 style='font-family:ËÎÌå'>°²×°ÓëÅäÖÃ</span></h3>
 
 <h4><span lang=EN-US>4.2.2.1</span><span style='font-family:ËÎÌå'>ÔªÊı¾İ·şÎñÆ÷°²×°ºÍÅäÖÃ</span></h4>
