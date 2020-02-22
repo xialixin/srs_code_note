@@ -1,9 +1,5 @@
 ## SRS3.0源代码分析  
 该文档根据阅读srs3.0源代码编写的代码分析笔记(v1.00)  
-[开源中国]
-[github]
-[开源中国]:https://gitee.com/kyxlx550/srs_code_note  
-[github]:https://github.com/xialixin/srs_code_note  
 
 #### 1 SRS简介  
 #### 2 SRS架构  
