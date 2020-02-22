@@ -21,11 +21,11 @@ GitHub:  https://github.com/xialixin/srs_code_note
 
 
 
-[开源直播服务器SRS3.0源代码分析]:srs3.0_node.md
+[开源直播服务器SRS3.0源代码分析]:doc/srs_node.md
 [SRS_WIKI整理文档]:doc/srs_wiki.md
-[基于开源项目cdn原理实现]:.
-[连麦方案设计]:.
-[会议直播与录相方案]:.
+[基于开源项目cdn原理实现]:doc/live_vod_cdn.md
+[连麦方案设计]:doc/live_talk.md
+[会议直播与录相方案]:doc/conf_live_record.md
 [FreeSwitch会方直播流程]:.
 [第三方sip客户端接入方案]:.
 [直播点播转码系统集群方案]:.
