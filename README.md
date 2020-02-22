@@ -1,7 +1,7 @@
 
 # 直播点播,RTC等相关学习资料  
 直播，实时音视频RTC等学习资料，有些来自于网络整理， 内容不断完善中...  
- 
+内容包括:srs3.0源代码分析,cdn原理实现，连麦，会议直播录相，微信小程序会议接入，sip客户端会议接入等方案文档，物联网调查报告等
    
 开源中国:  https://gitee.com/kyxlx550/srs_code_note  
 GitHub:  https://github.com/xialixin/srs_code_note
