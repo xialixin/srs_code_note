@@ -245,26 +245,30 @@ style='color:windowtext;display:none;text-decoration:none'>5</span></a></span></
 
 <p class=MsoToc3><span lang=EN-US><a href="#_Toc14873737"><span lang=EN-US><span
 lang=EN-US>一个SIP</span></span><span lang=EN-US><span lang=EN-US>客户端(</span></span><span
-lang=EN-US><span lang=EN-US>单流)</span></span><span lang=EN-US><span lang=EN-US>与有会客户端</span></span><span
+lang=EN-US><span lang=EN-US>单流)</span></span><span lang=EN-US><span lang=EN-US>与</span></span><span
+lang=EN-US><span lang=EN-US>会议</span></span><span lang=EN-US><span lang=EN-US>客户端</span></span><span
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
 style='color:windowtext;display:none;text-decoration:none'>5</span></a></span></p>
 
 <p class=MsoToc3><span lang=EN-US><a href="#_Toc14873738"><span lang=EN-US><span
 lang=EN-US>一个SIP</span></span><span lang=EN-US><span lang=EN-US>客户端(</span></span><span
-lang=EN-US><span lang=EN-US>单流)</span></span><span lang=EN-US><span lang=EN-US>与有会客户端(</span></span><span
+lang=EN-US><span lang=EN-US>单流)</span></span><span lang=EN-US><span lang=EN-US>与</span></span><span
+lang=EN-US><span lang=EN-US>会议</span></span><span lang=EN-US><span lang=EN-US>客户端(</span></span><span
 lang=EN-US><span lang=EN-US>共享屏幕)</span></span><span style='color:windowtext;
 display:none;text-decoration:none'> </span><span
 style='color:windowtext;display:none;text-decoration:none'>5</span></a></span></p>
 
 <p class=MsoToc3><span lang=EN-US><a href="#_Toc14873739"><span lang=EN-US><span
 lang=EN-US>一个SIP</span></span><span lang=EN-US><span lang=EN-US>客户端(</span></span><span
-lang=EN-US><span lang=EN-US>双流)</span></span><span lang=EN-US><span lang=EN-US>与有会客户端</span></span><span
+lang=EN-US><span lang=EN-US>双流)</span></span><span lang=EN-US><span lang=EN-US>与</span></span><span
+lang=EN-US><span lang=EN-US>会议</span></span><span lang=EN-US><span lang=EN-US>客户端</span></span><span
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
 style='color:windowtext;display:none;text-decoration:none'>5</span></a></span></p>
 
 <p class=MsoToc3><span lang=EN-US><a href="#_Toc14873740"><span lang=EN-US><span
 lang=EN-US>一个SIP</span></span><span lang=EN-US><span lang=EN-US>客户端(</span></span><span
-lang=EN-US><span lang=EN-US>双流)</span></span><span lang=EN-US><span lang=EN-US>与有会客户端(</span></span><span
+lang=EN-US><span lang=EN-US>双流)</span></span><span lang=EN-US><span lang=EN-US>与</span></span><span
+lang=EN-US><span lang=EN-US>会议</span></span><span lang=EN-US><span lang=EN-US>客户端(</span></span><span
 lang=EN-US><span lang=EN-US>共享屏幕)</span></span><span style='color:windowtext;
 display:none;text-decoration:none'> </span><span
 style='color:windowtext;display:none;text-decoration:none'>6</span></a></span></p>
@@ -281,20 +285,23 @@ display:none;text-decoration:none'> </span><span
 style='color:windowtext;display:none;text-decoration:none'>6</span></a></span></p>
 
 <p class=MsoToc3><span lang=EN-US><a href="#_Toc14873743"><span lang=EN-US><span
-lang=EN-US>两个SIP</span></span><span lang=EN-US><span lang=EN-US>客户端与一个有会客户端</span></span><span
+lang=EN-US>两个SIP</span></span><span lang=EN-US><span lang=EN-US>客户端与一个</span></span><span
+lang=EN-US><span lang=EN-US>会议</span></span><span lang=EN-US><span lang=EN-US>客户端</span></span><span
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
 style='color:windowtext;display:none;text-decoration:none'>7</span></a></span></p>
 
 <p class=MsoToc3><span lang=EN-US><a href="#_Toc14873744"><span lang=EN-US><span
-lang=EN-US>两个SIP</span></span><span lang=EN-US><span lang=EN-US>客户端与一个有会客户端(</span></span><span
+lang=EN-US>两个SIP</span></span><span lang=EN-US><span lang=EN-US>客户端与一个</span></span><span
+lang=EN-US><span lang=EN-US>会议</span></span><span lang=EN-US><span lang=EN-US>客户端(</span></span><span
 lang=EN-US><span lang=EN-US>共享屏幕)</span></span><span style='color:windowtext;
 display:none;text-decoration:none'> </span><span
 style='color:windowtext;display:none;text-decoration:none'>7</span></a></span></p>
 
 <p class=MsoToc3><span lang=EN-US><a href="#_Toc14873745"><span lang=EN-US><span
 lang=EN-US>两个SIP</span></span><span lang=EN-US><span lang=EN-US>客户端(</span></span><span
-lang=EN-US><span lang=EN-US>共享屏<span lang=EN-US>幕)</span></span></span><span
-lang=EN-US><span lang=EN-US>与一个有会客户端</span></span><span style='color:windowtext;
+lang=EN-US><span lang=EN-US>共享屏幕)</span></span><span lang=EN-US><span
+lang=EN-US>与一个</span></span><span lang=EN-US><span lang=EN-US>会议</span></span><span
+lang=EN-US><span lang=EN-US>客户端</span></span><span style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
 style='color:windowtext;display:none;text-decoration:none'>8</span></a></span></p>
 
@@ -309,9 +316,8 @@ display:none;text-decoration:none'>... </span><span
 style='color:windowtext;display:none;text-decoration:none'>9</span></a></span></p>
 
 <p class=MsoToc2><span lang=EN-US><a href="#_Toc14873748">sip<span lang=EN-US><span
-lang=EN-US>客户端与会议系统信令与媒体<span lang=EN-US>交互(</span></span></span><span
-lang=EN-US><span lang=EN-US>混屏)</span></span><span style='color:windowtext;
-display:none;text-decoration:none'> </span><span
+lang=EN-US>客户端与会议系统信令与媒体交互(</span></span><span lang=EN-US><span lang=EN-US>混屏)</span></span><span
+style='color:windowtext;display:none;text-decoration:none'> </span><span
 style='color:windowtext;display:none;text-decoration:none'>9</span></a></span></p>
 
 <p class=MsoToc1><span lang=EN-US><a href="#_Toc14873749"><span lang=EN-US><span
@@ -369,7 +375,7 @@ lang=EN-US>sip main</span>通道。</span></p>
 12.0pt;font-family:宋体'>针对一个会议系统，不同客户端同时加入会议时，有不同类型的客户端</span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:宋体'><img
-width=456 height=207 src="sip_conf_client.files/image001.png"></span></p>
+width=456 height=206 src="sip_conf_client.files/image001.png"></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;font-family:宋体'>各个客户端在不同场合下，一般有这些使用场景</span></p>
 
@@ -628,27 +634,27 @@ lang=EN-US>mas</span>将共享视频，转发给<span lang=EN-US>sip</span>媒体网关</span
 <h2><a name="_Toc14873736">客户端视频流交互</a></h2>
 
 <h3><a name="_Toc14873737">一个<span lang=EN-US>SIP</span>客户端<span lang=EN-US>(</span>单流<span
-lang=EN-US>)</span>与有会客户端</a></h3>
+lang=EN-US>)</span>与会议客户端</a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=999 height=141
 src="sip_conf_client.files/image005.png"></span></p>
 
 <h3><a name="_Toc14873738">一个<span lang=EN-US>SIP</span>客户端<span lang=EN-US>(</span>单流<span
-lang=EN-US>)</span>与有会客户端<span lang=EN-US>(</span>共享屏幕<span lang=EN-US>)</span></a></h3>
+lang=EN-US>)</span>与会议客户端<span lang=EN-US>(</span>共享屏幕<span lang=EN-US>)</span></a></h3>
 
-<p class=MsoNormal><span lang=EN-US><img width=1008 height=304
+<p class=MsoNormal><span lang=EN-US><img width=1007 height=304
 src="sip_conf_client.files/image006.png"></span></p>
 
 <p class=MsoNormal><span lang=EN-US>S:</span>代表共享视频，屏幕视频</p>
 
 <h3><a name="_Toc14873739">一个<span lang=EN-US>SIP</span>客户端<span lang=EN-US>(</span>双流<span
-lang=EN-US>)</span>与有会客户端</a></h3>
+lang=EN-US>)</span>与会议客户端</a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=1026 height=145
 src="sip_conf_client.files/image007.png"></span></p>
 
 <h3><a name="_Toc14873740">一个<span lang=EN-US>SIP</span>客户端<span lang=EN-US>(</span>双流<span
-lang=EN-US>)</span>与有会客户端<span lang=EN-US>(</span>共享屏幕<span lang=EN-US>)</span></a></h3>
+lang=EN-US>)</span>与会议客户端<span lang=EN-US>(</span>共享屏幕<span lang=EN-US>)</span></a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=1036 height=163
 src="sip_conf_client.files/image008.png"></span></p>
@@ -666,26 +672,26 @@ lang=EN-US>)</span></a></h3>
 <p class=MsoNormal><span lang=EN-US><img width=1036 height=749
 src="sip_conf_client.files/image010.png"></span></p>
 
-<h3><a name="_Toc14873743">两个<span lang=EN-US>SIP</span>客户端与一个有会客户端</a></h3>
+<h3><a name="_Toc14873743">两个<span lang=EN-US>SIP</span>客户端与一个会议客户端</a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=1015 height=721
 src="sip_conf_client.files/image011.png"></span></p>
 
-<h3><a name="_Toc14873744">两个<span lang=EN-US>SIP</span>客户端与一个有会客户端<span
+<h3><a name="_Toc14873744">两个<span lang=EN-US>SIP</span>客户端与一个会议客户端<span
 lang=EN-US>(</span>共享屏幕<span lang=EN-US>)</span></a></h3>
 
-<p class=MsoNormal><span lang=EN-US><img width=1008 height=716
+<p class=MsoNormal><span lang=EN-US><img width=1007 height=715
 src="sip_conf_client.files/image012.png"></span></p>
 
 <h3><a name="_Toc14873745">两个<span lang=EN-US>SIP</span>客户端<span lang=EN-US>(</span>共享屏幕<span
-lang=EN-US>)</span>与一个有会客户端</a></h3>
+lang=EN-US>)</span>与一个会议客户端</a></h3>
 
-<p class=MsoNormal><span lang=EN-US><img width=1008 height=716
+<p class=MsoNormal><span lang=EN-US><img width=1007 height=715
 src="sip_conf_client.files/image013.png"></span></p>
 
 <h2><a name="_Toc14873746">客户端音视交互</a></h2>
 
-<p class=MsoNormal><span lang=EN-US><img width=1008 height=716
+<p class=MsoNormal><span lang=EN-US><img width=1007 height=715
 src="sip_conf_client.files/image014.png"></span></p>
 
 <h2><a name="_Toc14873747"><span lang=EN-US>sip</span>客户端与会议系统信令与媒体交互</a></h2>
@@ -811,15 +817,15 @@ lang=EN-US>&nbsp;1</span>不从<span lang=EN-US>mas</span>拉流</p>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span lang=EN-US>sip</span>客户端加入会议后，有会客户端没有共享屏幕</p>
+</span></span><span lang=EN-US>sip</span>客户端加入会议后，会议客户端没有共享屏幕</p>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span lang=EN-US>sip</span>客户端加入会议后，有会客户端已开共享屏幕</p>
+</span></span><span lang=EN-US>sip</span>客户端加入会议后，会议客户端已开共享屏幕</p>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span lang=EN-US>sip</span>客户端，有会客户端加入会议后，再开启共享屏幕</p>
+</span></span><span lang=EN-US>sip</span>客户端，会议客户端加入会议后，再开启共享屏幕</p>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -827,7 +833,7 @@ lang=EN-US>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>有会客户端退出会议，</p>
+</span></span>会议客户端退出会议，</p>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -847,19 +853,19 @@ lang=EN-US>9.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US>10.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span>所有<span
-lang=EN-US>sip</span>客户端退出会议，只剩有会客户端</p>
+lang=EN-US>sip</span>客户端退出会议，只剩会议客户端</p>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
-lang=EN-US>11.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span>有会客户端已开共享屏幕，
+lang=EN-US>11.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span>会议客户端已开共享屏幕，
 双流<span lang=EN-US>sip</span>客户端再开共享屏幕</p>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US>12.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-lang=EN-US>sip</span>客户端双流加入会议后，有会已开启共享屏幕，再关闭共享屏幕</p>
+lang=EN-US>sip</span>客户端双流加入会议后，会议已开启共享屏幕，再关闭共享屏幕</p>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US>13.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-lang=EN-US>sip</span>客户端单流加入会议后，有会已开启共享屏幕，再关闭共享屏幕</p>
+lang=EN-US>sip</span>客户端单流加入会议后，会议已开启共享屏幕，再关闭共享屏幕</p>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
 lang=EN-US>&nbsp;</span></p>

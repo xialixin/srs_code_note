@@ -166,110 +166,110 @@ lang=EN-US>(v1.00)</span></p>
 
 <p class=MsoTocHeading>目录</p>
 
-<p class=MsoToc1><span lang=EN-US><span class=MsoHyperlink><a
-href="#_Toc33270492">SRS3.0<span lang=EN-US><span lang=EN-US>代码分析</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc1><span lang=EN-US><a href="#_Toc33270492">SRS3.0<span
+lang=EN-US><span lang=EN-US>代码分析</span></span><span style='color:windowtext;
+display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc1><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270493">SRS<span lang=EN-US><span lang=EN-US>简介</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc1><span lang=EN-US><a href="#_Toc33270493">SRS<span lang=EN-US><span
+lang=EN-US>简介</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc1><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270494">SRS<span lang=EN-US><span lang=EN-US>架构</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc1><span lang=EN-US><a href="#_Toc33270494">SRS<span lang=EN-US><span
+lang=EN-US>架构</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270495">SRS<span lang=EN-US><span lang=EN-US>系统架构</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc33270495">SRS<span lang=EN-US><span
+lang=EN-US>系统架构</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270496">SRS<span lang=EN-US><span lang=EN-US>模块结构</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc33270496">SRS<span lang=EN-US><span
+lang=EN-US>模块结构</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270497">SRS<span lang=EN-US><span lang=EN-US>媒体流发送架构</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc33270497">SRS<span lang=EN-US><span
+lang=EN-US>媒体流发送架构</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc1><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270498">SRS<span lang=EN-US><span lang=EN-US>类图</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc1><span lang=EN-US><a href="#_Toc33270498">SRS<span lang=EN-US><span
+lang=EN-US>类图</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270499"><span lang=EN-US><span lang=EN-US>类关系</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc33270499"><span lang=EN-US><span
+lang=EN-US>类关系</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270500">SrsServer<span lang=EN-US><span lang=EN-US>类</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc33270500">SrsServer<span
+lang=EN-US><span lang=EN-US>类</span></span><span style='color:windowtext;
+display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270501">SrsConnection<span lang=EN-US><span lang=EN-US>类</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc33270501">SrsConnection<span
+lang=EN-US><span lang=EN-US>类</span></span><span style='color:windowtext;
+display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270502">SrsSource<span lang=EN-US><span lang=EN-US>类</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc33270502">SrsSource<span
+lang=EN-US><span lang=EN-US>类</span></span><span style='color:windowtext;
+display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270503">SRS<span lang=EN-US><span lang=EN-US>媒体流与类的关系</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc33270503">SRS<span lang=EN-US><span
+lang=EN-US>媒体流与类的关系</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc1><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270504">SRS<span lang=EN-US><span lang=EN-US>线程架构</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc1><span lang=EN-US><a href="#_Toc33270504">SRS<span lang=EN-US><span
+lang=EN-US>线程架构</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270505">SRS<span lang=EN-US><span lang=EN-US>通用线程模型</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc33270505">SRS<span lang=EN-US><span
+lang=EN-US>通用线程模型</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270506">SRS<span lang=EN-US><span lang=EN-US>内部线程结构</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc33270506">SRS<span lang=EN-US><span
+lang=EN-US>内部线程结构</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc1><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270507">SRS<span lang=EN-US><span lang=EN-US>程序流程</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc1><span lang=EN-US><a href="#_Toc33270507">SRS<span lang=EN-US><span
+lang=EN-US>程序流程</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270508">SRS<span lang=EN-US><span lang=EN-US>启动流程</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc33270508">SRS<span lang=EN-US><span
+lang=EN-US>启动流程</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270509">RTMP<span lang=EN-US><span lang=EN-US>监听与连接流程</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc33270509">RTMP<span lang=EN-US><span
+lang=EN-US>监听与连接流程</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270510">RTMP<span lang=EN-US><span lang=EN-US>媒体流处理流程</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc33270510">RTMP<span lang=EN-US><span
+lang=EN-US>媒体流处理流程</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270511">RTMP<span lang=EN-US><span lang=EN-US>推流流程</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc33270511">RTMP<span lang=EN-US><span
+lang=EN-US>推流流程</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
-href="#_Toc33270512">RTMP<span lang=EN-US><span lang=EN-US>拉流流程</span></span><span
-style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc33270512">RTMP<span lang=EN-US><span
+lang=EN-US>拉流流程</span></span><span style='color:windowtext;display:none;
+text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
@@ -361,7 +361,7 @@ src="srs_note.files/image001.jpg"></span></p>
 <p class=MsoNormal><span lang=EN-US><img border=0 width=938 height=545 id="图片 2"
 src="srs_note.files/image002.jpg"></span></p>
 
-<h2><a name="_Toc33270497"><span lang=EN-US>SRS</span>媒体流发送架构</a></h2>
+<h2><a name="_Toc33270497"><span lang=EN-US>SRS</span>媒体流架构</a></h2>
 
 <p class=MsoNormal>图片来自<span lang=EN-US>srs</span>官网<span lang=EN-US>wiki</span></p>
 
