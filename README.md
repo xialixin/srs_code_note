@@ -8,6 +8,7 @@ GitHub:  https://github.com/xialixin/srs_code_note
  
 
 * [开源直播服务器SRS3.0源代码分析] 根据srs3.0源代码写的代码分析，内容不断完善中....
+* [SRS4.0支持GB28181对接] 支持gb28181对接， 基于sip over udp信令， ps over rtp,  ps 流格式h264/aac  
 * [SRS_WIKI整理文档] 整理srs官网wiki与网络相关资料生成doc文档，方便查阅，其中有些内容做了些补充
 * [基于开源项目cdn原理实现] 学习cdn原理时，自己尝试怎样利用一些开源项目来搭建一套直播点播cdn,只用于学习
 * [连麦方案设计] 直播连接常用的方案设计
@@ -21,6 +22,7 @@ GitHub:  https://github.com/xialixin/srs_code_note
 
 
 [开源直播服务器SRS3.0源代码分析]:doc/srs_note.md
+[SRS4.0支持GB28181对接]:doc/srs_gb28181.md
 [SRS_WIKI整理文档]:doc/srs_wiki.md
 [基于开源项目cdn原理实现]:doc/live_vod_cdn.md
 [连麦方案设计]:doc/live_talk.md
