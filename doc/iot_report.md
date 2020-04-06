@@ -332,8 +332,6 @@ ul
  margin-right:7.1pt'>
  <tr>
   <td width=511 valign=top style='width:383.6pt;padding:10.8pt 5.75pt 10.8pt 5.75pt'>
-  <p class=MsoNoSpacing><span style='font-family:宋体;color:#4F81BD'>夏立新</span></p>
-  <p class=MsoNoSpacing><span lang=EN-US style='color:#4F81BD'>2016/5/9</span></p>
   <p class=MsoNoSpacing><span lang=EN-US style='color:#4F81BD'>&nbsp;</span></p>
   </td>
  </tr>
@@ -2255,7 +2253,7 @@ lang=EN-US style='font-family:"Tahoma",sans-serif'>RFID</span><span
 style='font-family:宋体'>电子标签识别</span><span lang=EN-US style='font-family:"Tahoma",sans-serif'>+</span><span
 style='font-family:宋体'>车牌识别的方式，其中电子标签及识别设备要求采用满足行业标准的无源系统，系统由管理服务器、管理工作站、卡管理工作站、道口工作站、车辆综合控制器、车辆检测器、车牌识别设备、电子标签识别设备、网络设备及其它相关设备组成。</span><span
 lang=EN-US style='font-family:"Tahoma",sans-serif'><br>
-</span><span style='font-family:宋体'>人员进出管理在左岸电厂、右岸电厂、船闸南六、船闸南二、工程建设管理中心、地下电站（预留）和安防系统监控指挥大厅等部位建设人员出入管理系统</span><span
+</span><span style='font-family:宋体'>人员进出管理在电厂、船闸、工程建设管理中心、地下电站（预留）和安防系统监控指挥大厅等部位建设人员出入管理系统</span><span
 style='font-family:"Tahoma",sans-serif'> </span><span style='font-family:宋体'>，除监控指挥大厅内为单门双向通过式门禁外，系统其它部位所设门禁一律为无障碍通过方式</span></p>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:宋体'>该系统架构设计时参照上面的安防系统架构，该系统是定制项目，是按照标书要求来设计的。消息通信机制主要使用</span><span
