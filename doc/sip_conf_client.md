@@ -189,151 +189,135 @@ ul
 
 <div class=WordSection1 style='layout-grid:15.6pt'>
 
-<h1><a name="_Toc14873727"><span lang=EN-US>SIP</span>¿Í»§¶Ë½ÓÈë»áÒé·½°¸</a></h1>
+<h1><a name="_Toc37241465"><span lang=EN-US>SIP</span>¿Í»§¶Ë½ÓÈë»áÒé·½°¸</a></h1>
 
 <p class=MsoTocHeading>Ä¿Â¼</p>
 
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc14873727">SIP<span lang=EN-US><span
+<p class=MsoToc1><span lang=EN-US><a href="#_Toc37241465">SIP<span lang=EN-US><span
 lang=EN-US>¿Í»§¶Ë½ÓÈë»áÒé·½°¸</span></span><span style='color:windowtext;display:none;
 text-decoration:none'>... </span><span
 style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc14873728"><span lang=EN-US><span
+<p class=MsoToc1><span lang=EN-US><a href="#_Toc37241466"><span lang=EN-US><span
 lang=EN-US>ÐèÇó</span></span><span style='color:windowtext;display:none;
 text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>2</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc14873729"><span lang=EN-US><span
+<p class=MsoToc1><span lang=EN-US><a href="#_Toc37241467"><span lang=EN-US><span
 lang=EN-US>Ó¦ÓÃ³¡¾°</span></span><span style='color:windowtext;display:none;
 text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>2</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc14873730"><span lang=EN-US><span
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc37241468"><span lang=EN-US><span
 lang=EN-US>¿Í»§¶Ë½ÓÈë³¡¾°</span></span><span style='color:windowtext;display:none;
 text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>2</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc14873731"><span lang=EN-US><span
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc37241469"><span lang=EN-US><span
 lang=EN-US>Ðè»ìÆÁ³¡¾°</span></span><span style='color:windowtext;display:none;
 text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>3</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc14873732"><span lang=EN-US><span
+<p class=MsoToc1><span lang=EN-US><a href="#_Toc37241470"><span lang=EN-US><span
 lang=EN-US>ÏµÍ³Éè¼Æ</span></span><span style='color:windowtext;display:none;
 text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>3</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc14873733"><span lang=EN-US><span
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc37241471"><span lang=EN-US><span
 lang=EN-US>ÏµÍ³¼Ü¹¹</span></span><span style='color:windowtext;display:none;
 text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>3</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc14873734">SIP<span lang=EN-US><span
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc37241472">SIP<span lang=EN-US><span
 lang=EN-US>µ¥Á÷¼Ü¹¹</span></span><span style='color:windowtext;display:none;
 text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>4</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc14873735">SIP<span lang=EN-US><span
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc37241473">SIP<span lang=EN-US><span
 lang=EN-US>Ë«Á÷¼Ü¹¹</span></span><span style='color:windowtext;display:none;
 text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>4</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc14873736"><span lang=EN-US><span
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc37241474"><span lang=EN-US><span
 lang=EN-US>¿Í»§¶ËÊÓÆµÁ÷½»»¥</span></span><span style='color:windowtext;display:none;
 text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>5</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc14873737"><span lang=EN-US><span
+<p class=MsoToc3><span lang=EN-US><a href="#_Toc37241475"><span lang=EN-US><span
 lang=EN-US>Ò»¸öSIP</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶Ë(</span></span><span
-lang=EN-US><span lang=EN-US>µ¥Á÷)</span></span><span lang=EN-US><span lang=EN-US>Óë</span></span><span
-lang=EN-US><span lang=EN-US>»áÒé</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶Ë</span></span><span
+lang=EN-US><span lang=EN-US>µ¥Á÷)</span></span><span lang=EN-US><span lang=EN-US>Óë»áÒé¿Í»§¶Ë</span></span><span
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>5</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc14873738"><span lang=EN-US><span
+<p class=MsoToc3><span lang=EN-US><a href="#_Toc37241476"><span lang=EN-US><span
 lang=EN-US>Ò»¸öSIP</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶Ë(</span></span><span
-lang=EN-US><span lang=EN-US>µ¥Á÷)</span></span><span lang=EN-US><span lang=EN-US>Óë</span></span><span
-lang=EN-US><span lang=EN-US>»áÒé</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶Ë(</span></span><span
+lang=EN-US><span lang=EN-US>µ¥Á÷)</span></span><span lang=EN-US><span lang=EN-US>Óë»áÒé¿Í»§¶Ë(</span></span><span
 lang=EN-US><span lang=EN-US>¹²ÏíÆÁÄ»)</span></span><span style='color:windowtext;
 display:none;text-decoration:none'> </span><span
-style='color:windowtext;display:none;text-decoration:none'>5</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc14873739"><span lang=EN-US><span
+<p class=MsoToc3><span lang=EN-US><a href="#_Toc37241477"><span lang=EN-US><span
 lang=EN-US>Ò»¸öSIP</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶Ë(</span></span><span
-lang=EN-US><span lang=EN-US>Ë«Á÷)</span></span><span lang=EN-US><span lang=EN-US>Óë</span></span><span
-lang=EN-US><span lang=EN-US>»áÒé</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶Ë</span></span><span
+lang=EN-US><span lang=EN-US>Ë«Á÷)</span></span><span lang=EN-US><span lang=EN-US>Óë»áÒé¿Í»§¶Ë</span></span><span
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>5</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc14873740"><span lang=EN-US><span
+<p class=MsoToc3><span lang=EN-US><a href="#_Toc37241478"><span lang=EN-US><span
 lang=EN-US>Ò»¸öSIP</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶Ë(</span></span><span
-lang=EN-US><span lang=EN-US>Ë«Á÷)</span></span><span lang=EN-US><span lang=EN-US>Óë</span></span><span
-lang=EN-US><span lang=EN-US>»áÒé</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶Ë(</span></span><span
+lang=EN-US><span lang=EN-US>Ë«Á÷)</span></span><span lang=EN-US><span lang=EN-US>Óë»áÒé¿Í»§¶Ë(</span></span><span
 lang=EN-US><span lang=EN-US>¹²ÏíÆÁÄ»)</span></span><span style='color:windowtext;
 display:none;text-decoration:none'> </span><span
-style='color:windowtext;display:none;text-decoration:none'>6</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc14873741"><span lang=EN-US><span
+<p class=MsoToc3><span lang=EN-US><a href="#_Toc37241479"><span lang=EN-US><span
 lang=EN-US>Á½¸öSIP</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶Ë</span></span><span
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>6</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc14873742"><span lang=EN-US><span
+<p class=MsoToc3><span lang=EN-US><a href="#_Toc37241480"><span lang=EN-US><span
 lang=EN-US>Á½¸öSIP</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶Ë(</span></span><span
 lang=EN-US><span lang=EN-US>¹²ÏíÆÁÄ»)</span></span><span style='color:windowtext;
 display:none;text-decoration:none'> </span><span
-style='color:windowtext;display:none;text-decoration:none'>6</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc14873743"><span lang=EN-US><span
-lang=EN-US>Á½¸öSIP</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶ËÓëÒ»¸ö</span></span><span
-lang=EN-US><span lang=EN-US>»áÒé</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶Ë</span></span><span
+<p class=MsoToc3><span lang=EN-US><a href="#_Toc37241481"><span lang=EN-US><span
+lang=EN-US>Á½¸öSIP</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶ËÓëÒ»¸ö»áÒé¿Í»§¶Ë</span></span><span
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>7</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc14873744"><span lang=EN-US><span
-lang=EN-US>Á½¸öSIP</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶ËÓëÒ»¸ö</span></span><span
-lang=EN-US><span lang=EN-US>»áÒé</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶Ë(</span></span><span
+<p class=MsoToc3><span lang=EN-US><a href="#_Toc37241482"><span lang=EN-US><span
+lang=EN-US>Á½¸öSIP</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶ËÓëÒ»¸ö»áÒé¿Í»§¶Ë(</span></span><span
 lang=EN-US><span lang=EN-US>¹²ÏíÆÁÄ»)</span></span><span style='color:windowtext;
 display:none;text-decoration:none'> </span><span
-style='color:windowtext;display:none;text-decoration:none'>7</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc14873745"><span lang=EN-US><span
+<p class=MsoToc3><span lang=EN-US><a href="#_Toc37241483"><span lang=EN-US><span
 lang=EN-US>Á½¸öSIP</span></span><span lang=EN-US><span lang=EN-US>¿Í»§¶Ë(</span></span><span
-lang=EN-US><span lang=EN-US>¹²ÏíÆÁÄ»)</span></span><span lang=EN-US><span
-lang=EN-US>ÓëÒ»¸ö</span></span><span lang=EN-US><span lang=EN-US>»áÒé</span></span><span
-lang=EN-US><span lang=EN-US>¿Í»§¶Ë</span></span><span style='color:windowtext;
+lang=EN-US><span lang=EN-US>¹²ÏíÆÁ<span lang=EN-US>Ä»)</span></span></span><span
+lang=EN-US><span lang=EN-US>ÓëÒ»¸ö»áÒé¿Í»§¶Ë</span></span><span style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>8</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc14873746"><span lang=EN-US><span
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc37241484"><span lang=EN-US><span
 lang=EN-US>¿Í»§¶ËÒôÊÓ½»»¥</span></span><span style='color:windowtext;display:none;
 text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>8</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc14873747">sip<span lang=EN-US><span
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc37241485">sip<span lang=EN-US><span
 lang=EN-US>¿Í»§¶ËÓë»áÒéÏµÍ³ÐÅÁîÓëÃ½Ìå½»»¥</span></span><span style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>9</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc14873748">sip<span lang=EN-US><span
-lang=EN-US>¿Í»§¶ËÓë»áÒéÏµÍ³ÐÅÁîÓëÃ½Ìå½»»¥(</span></span><span lang=EN-US><span lang=EN-US>»ìÆÁ)</span></span><span
-style='color:windowtext;display:none;text-decoration:none'> </span><span
-style='color:windowtext;display:none;text-decoration:none'>9</span></a></span></p>
+<p class=MsoToc2><span lang=EN-US><a href="#_Toc37241486">sip<span lang=EN-US><span
+lang=EN-US>¿Í»§¶ËÓë»áÒéÏµÍ³ÐÅÁîÓëÃ½Ìå<span lang=EN-US>½»»¥(</span></span></span><span
+lang=EN-US><span lang=EN-US>»ìÆÁ)</span></span><span style='color:windowtext;
+display:none;text-decoration:none'> </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc14873749"><span lang=EN-US><span
-lang=EN-US>½Ó¿ÚÉè¼Æ</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>10</span></a></span></p>
-
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc14873750">mcs-&gt;sip<span
-lang=EN-US><span lang=EN-US>Ã½ÌåÍø¹ØÐÂÔö½Ó¿Ú</span></span><span style='color:windowtext;
-display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>10</span></a></span></p>
-
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc14873751"><span lang=EN-US><span
+<p class=MsoToc1><span lang=EN-US><a href="#_Toc37241487"><span lang=EN-US><span
 lang=EN-US>²âÊÔÓÃÀý</span></span><span style='color:windowtext;display:none;
 text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>11</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
@@ -352,7 +336,7 @@ style='font-size:22.0pt'>&nbsp;</span></b></p>
 <p class=MsoNormal align=left style='text-align:left'><b><span lang=EN-US
 style='font-size:22.0pt'>&nbsp;</span></b></p>
 
-<h1><a name="_Toc14873728">ÐèÇó</a></h1>
+<h1><a name="_Toc37241466">ÐèÇó</a></h1>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp;&nbsp;</span><span
 style='font-size:12.0pt;font-family:ËÎÌå'>»áÒéÏµÍ³ÐèÒª½ÓÈëµÚÈý·½¿Í»§¶Ë£¬Ä¿Ç°ÊÐ³¡ÉÏµÄµÚÈý·½¿Í»§¶ËÒ»°ã¶¼Ö§³Ö<span
@@ -367,9 +351,9 @@ lang=EN-US>sip</span>¿Í»§¶ËÏÔÊ¾¡£Èç¹ûÖ§³ÖË«Á÷£¬½«»áÒé¹²ÏíÊÓÆµ·µ»Ø<span lang=EN-U
 <p class=MsoNormal><span style='font-size:12.0pt;font-family:ËÎÌå'>·ñÔòÍ¬Ê±½«»áÒé¹²ÏíÊÓÆµÓë³ÉÔ±ÊÓÆµ»ì³ÉÒ»Â·£¬·µ»Ø¸ø<span
 lang=EN-US>sip main</span>Í¨µÀ¡£</span></p>
 
-<h1><a name="_Toc14873729">Ó¦ÓÃ³¡¾°</a></h1>
+<h1><a name="_Toc37241467">Ó¦ÓÃ³¡¾°</a></h1>
 
-<h2><a name="_Toc14873730">¿Í»§¶Ë½ÓÈë³¡¾°</a></h2>
+<h2><a name="_Toc37241468">¿Í»§¶Ë½ÓÈë³¡¾°</a></h2>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp; </span><span style='font-size:
 12.0pt;font-family:ËÎÌå'>Õë¶ÔÒ»¸ö»áÒéÏµÍ³£¬²»Í¬¿Í»§¶ËÍ¬Ê±¼ÓÈë»áÒéÊ±£¬ÓÐ²»Í¬ÀàÐÍµÄ¿Í»§¶Ë</span></p>
@@ -413,7 +397,7 @@ font-family:ËÎÌå'>¿Í»§¶ËÓÐµ¥Á÷ÓëË«Á÷Ö®·Ö¡£Õë¶Ôµ¥Á÷£¬Èç¹ûÖ»¿´ÆäÖÐÒ»ÈËÊÓÆµ£¬Ö±½Ó×ª
 <p class=MsoNormal style='margin-left:15.75pt'><span lang=EN-US
 style='font-size:12.0pt;font-family:ËÎÌå'>&nbsp;</span></p>
 
-<h2><a name="_Toc14873731">Ðè»ìÆÁ³¡¾°</a></h2>
+<h2><a name="_Toc37241469">Ðè»ìÆÁ³¡¾°</a></h2>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=548
  style='width:411.1pt;border-collapse:collapse'>
@@ -539,9 +523,9 @@ style='font-size:12.0pt;font-family:ËÎÌå'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-left:15.75pt'><span lang=EN-US
 style='font-size:12.0pt;font-family:ËÎÌå'>&nbsp;</span></p>
 
-<h1><a name="_Toc14873732">ÏµÍ³Éè¼Æ</a></h1>
+<h1><a name="_Toc37241470">ÏµÍ³Éè¼Æ</a></h1>
 
-<h2><a name="_Toc14873733">ÏµÍ³¼Ü¹¹</a></h2>
+<h2><a name="_Toc37241471">ÏµÍ³¼Ü¹¹</a></h2>
 
 <p class=MsoNormal><span lang=EN-US><img width=964 height=493
 src="sip_conf_client.files/image002.png"></span></p>
@@ -585,7 +569,7 @@ lang=EN-US style='font-size:12.0pt;font-family:ËÎÌå'>4.<span style='font:7.0pt "
 style='font-size:12.0pt;font-family:ËÎÌå'>¿Í»§¶Ë½ÓÊÕÆäËû³ÉÔ±ÊÓÆµÊ±£¬<span lang=EN-US>mas</span>½«Ã½Ìå×ª·¢µ½<span
 lang=EN-US>sip</span>Ã½ÌåÍø¹Ø£¬Ã½ÌåÍø¹ØÔÙ×ª·¢µ½<span lang=EN-US>sip</span>¿Í»§¶Ë</span></p>
 
-<h2><a name="_Toc14873734"><span lang=EN-US>SIP</span>µ¥Á÷¼Ü¹¹</a></h2>
+<h2><a name="_Toc37241472"><span lang=EN-US>SIP</span>µ¥Á÷¼Ü¹¹</a></h2>
 
 <p class=MsoNormal><span lang=EN-US><img width=1008 height=608
 src="sip_conf_client.files/image003.png"></span></p>
@@ -607,7 +591,7 @@ lang=EN-US style='font-size:12.0pt;font-family:ËÎÌå'>3.<span style='font:7.0pt "
 lang=EN-US>mas</span>µÄ³ÉÔ±ÊÓÆµ£¬½«¶àÈË³ÉÔ±ÊÓÆµÓë¹²ÏíÊÓÆµ×ª·¢¸ø<span lang=EN-US>mcu, mcu</span>»ìÆÁÖ®ºó£¬ÔÙ×ª·¢¸øÃ½ÌåÍø¹Ø</span></p>
 
 <h2><img width=1017 height=694 src="sip_conf_client.files/image004.png"
-align=left hspace=12><a name="_Toc14873735"><span lang=EN-US>SIP</span>Ë«Á÷¼Ü¹¹</a></h2>
+align=left hspace=12><a name="_Toc37241473"><span lang=EN-US>SIP</span>Ë«Á÷¼Ü¹¹</a></h2>
 
 <p class=MsoNormal><span lang=EN-US><br clear=all>
 </span></p>
@@ -631,15 +615,15 @@ lang=EN-US style='font-size:12.0pt;font-family:ËÎÌå'>3.<span style='font:7.0pt "
 </span></span><span style='font-size:12.0pt;font-family:ËÎÌå'>Èç¹ûÐèÒª¹²ÏíÊÓÆµ£¬Í¨Öª<span
 lang=EN-US>mas</span>½«¹²ÏíÊÓÆµ£¬×ª·¢¸ø<span lang=EN-US>sip</span>Ã½ÌåÍø¹Ø</span></p>
 
-<h2><a name="_Toc14873736">¿Í»§¶ËÊÓÆµÁ÷½»»¥</a></h2>
+<h2><a name="_Toc37241474">¿Í»§¶ËÊÓÆµÁ÷½»»¥</a></h2>
 
-<h3><a name="_Toc14873737">Ò»¸ö<span lang=EN-US>SIP</span>¿Í»§¶Ë<span lang=EN-US>(</span>µ¥Á÷<span
+<h3><a name="_Toc37241475">Ò»¸ö<span lang=EN-US>SIP</span>¿Í»§¶Ë<span lang=EN-US>(</span>µ¥Á÷<span
 lang=EN-US>)</span>Óë»áÒé¿Í»§¶Ë</a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=999 height=141
 src="sip_conf_client.files/image005.png"></span></p>
 
-<h3><a name="_Toc14873738">Ò»¸ö<span lang=EN-US>SIP</span>¿Í»§¶Ë<span lang=EN-US>(</span>µ¥Á÷<span
+<h3><a name="_Toc37241476">Ò»¸ö<span lang=EN-US>SIP</span>¿Í»§¶Ë<span lang=EN-US>(</span>µ¥Á÷<span
 lang=EN-US>)</span>Óë»áÒé¿Í»§¶Ë<span lang=EN-US>(</span>¹²ÏíÆÁÄ»<span lang=EN-US>)</span></a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=1007 height=304
@@ -647,54 +631,54 @@ src="sip_conf_client.files/image006.png"></span></p>
 
 <p class=MsoNormal><span lang=EN-US>S:</span>´ú±í¹²ÏíÊÓÆµ£¬ÆÁÄ»ÊÓÆµ</p>
 
-<h3><a name="_Toc14873739">Ò»¸ö<span lang=EN-US>SIP</span>¿Í»§¶Ë<span lang=EN-US>(</span>Ë«Á÷<span
+<h3><a name="_Toc37241477">Ò»¸ö<span lang=EN-US>SIP</span>¿Í»§¶Ë<span lang=EN-US>(</span>Ë«Á÷<span
 lang=EN-US>)</span>Óë»áÒé¿Í»§¶Ë</a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=1026 height=145
 src="sip_conf_client.files/image007.png"></span></p>
 
-<h3><a name="_Toc14873740">Ò»¸ö<span lang=EN-US>SIP</span>¿Í»§¶Ë<span lang=EN-US>(</span>Ë«Á÷<span
+<h3><a name="_Toc37241478">Ò»¸ö<span lang=EN-US>SIP</span>¿Í»§¶Ë<span lang=EN-US>(</span>Ë«Á÷<span
 lang=EN-US>)</span>Óë»áÒé¿Í»§¶Ë<span lang=EN-US>(</span>¹²ÏíÆÁÄ»<span lang=EN-US>)</span></a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=1036 height=163
 src="sip_conf_client.files/image008.png"></span></p>
 
-<h3><a name="_Toc14873741">Á½¸ö<span lang=EN-US>SIP</span>¿Í»§¶Ë</a></h3>
+<h3><a name="_Toc37241479">Á½¸ö<span lang=EN-US>SIP</span>¿Í»§¶Ë</a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=1043 height=508
 src="sip_conf_client.files/image009.png"></span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
-<h3><a name="_Toc14873742">Á½¸ö<span lang=EN-US>SIP</span>¿Í»§¶Ë<span lang=EN-US>(</span>¹²ÏíÆÁÄ»<span
+<h3><a name="_Toc37241480">Á½¸ö<span lang=EN-US>SIP</span>¿Í»§¶Ë<span lang=EN-US>(</span>¹²ÏíÆÁÄ»<span
 lang=EN-US>)</span></a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=1036 height=749
 src="sip_conf_client.files/image010.png"></span></p>
 
-<h3><a name="_Toc14873743">Á½¸ö<span lang=EN-US>SIP</span>¿Í»§¶ËÓëÒ»¸ö»áÒé¿Í»§¶Ë</a></h3>
+<h3><a name="_Toc37241481">Á½¸ö<span lang=EN-US>SIP</span>¿Í»§¶ËÓëÒ»¸ö»áÒé¿Í»§¶Ë</a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=1015 height=721
 src="sip_conf_client.files/image011.png"></span></p>
 
-<h3><a name="_Toc14873744">Á½¸ö<span lang=EN-US>SIP</span>¿Í»§¶ËÓëÒ»¸ö»áÒé¿Í»§¶Ë<span
+<h3><a name="_Toc37241482">Á½¸ö<span lang=EN-US>SIP</span>¿Í»§¶ËÓëÒ»¸ö»áÒé¿Í»§¶Ë<span
 lang=EN-US>(</span>¹²ÏíÆÁÄ»<span lang=EN-US>)</span></a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=1007 height=715
 src="sip_conf_client.files/image012.png"></span></p>
 
-<h3><a name="_Toc14873745">Á½¸ö<span lang=EN-US>SIP</span>¿Í»§¶Ë<span lang=EN-US>(</span>¹²ÏíÆÁÄ»<span
+<h3><a name="_Toc37241483">Á½¸ö<span lang=EN-US>SIP</span>¿Í»§¶Ë<span lang=EN-US>(</span>¹²ÏíÆÁÄ»<span
 lang=EN-US>)</span>ÓëÒ»¸ö»áÒé¿Í»§¶Ë</a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=1007 height=715
 src="sip_conf_client.files/image013.png"></span></p>
 
-<h2><a name="_Toc14873746">¿Í»§¶ËÒôÊÓ½»»¥</a></h2>
+<h2><a name="_Toc37241484">¿Í»§¶ËÒôÊÓ½»»¥</a></h2>
 
 <p class=MsoNormal><span lang=EN-US><img width=1007 height=715
 src="sip_conf_client.files/image014.png"></span></p>
 
-<h2><a name="_Toc14873747"><span lang=EN-US>sip</span>¿Í»§¶ËÓë»áÒéÏµÍ³ÐÅÁîÓëÃ½Ìå½»»¥</a></h2>
+<h2><a name="_Toc37241485"><span lang=EN-US>sip</span>¿Í»§¶ËÓë»áÒéÏµÍ³ÐÅÁîÓëÃ½Ìå½»»¥</a></h2>
 
 <p class=MsoNormal><span lang=EN-US><img width=1008 height=594
 src="sip_conf_client.files/image015.png"></span></p>
@@ -747,7 +731,7 @@ lang=EN-US>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
 lang=EN-US>&nbsp;</span></p>
 
-<h2><a name="_Toc14873748"><span lang=EN-US>sip</span>¿Í»§¶ËÓë»áÒéÏµÍ³ÐÅÁîÓëÃ½Ìå½»»¥<span
+<h2><a name="_Toc37241486"><span lang=EN-US>sip</span>¿Í»§¶ËÓë»áÒéÏµÍ³ÐÅÁîÓëÃ½Ìå½»»¥<span
 lang=EN-US>(</span>»ìÆÁ<span lang=EN-US>)</span></a></h2>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
@@ -781,39 +765,7 @@ lang=EN-US>CreateObserver</span>ÃüÁî£¬½«»ìÆÁÊä³öµ½<span lang=EN-US>sip</span>Ã½Ì
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
-<h1><a name="_Toc14873749">½Ó¿ÚÉè¼Æ</a></h1>
-
-<h2><span lang=EN-US>&nbsp;<a name="_Toc14873750">mcs-&gt;sip</a></span>Ã½ÌåÍø¹ØÐÂÔö½Ó¿Ú</h2>
-
-<p class=MsoListParagraph style='margin-left:23.25pt;text-indent:-18.0pt'><span
-lang=EN-US>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>Í¨Öª²ÎÊý</p>
-
-<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
-
-<p class=MsoNormal><span lang=EN-US>struct NotifyParam {</span></p>
-
-<p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1:i64&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; selfSsrc,</span></p>
-
-<p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2:i64&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; reqSsrc,</span></p>
-
-<p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3:i32&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mediatype,</span></p>
-
-<p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4:string&nbsp;&nbsp; ip,</span></p>
-
-<p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5:i32&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rtpport,</span></p>
-
-<p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6:i32&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rtcpport,</span></p>
-
-<p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7:i32&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; antipayload,</span></p>
-
-<p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8:i32&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-reqpush,&nbsp;&nbsp; 0&nbsp; </span>´Ó<span lang=EN-US>mas</span>À­Á÷ <span
-lang=EN-US>&nbsp;1</span>²»´Ó<span lang=EN-US>mas</span>À­Á÷</p>
-
-<p class=MsoNormal><span lang=EN-US>}</span></p>
-
-<h1><a name="_Toc14873751">²âÊÔÓÃÀý</a></h1>
+<h1><a name="_Toc37241487">²âÊÔÓÃÀý</a></h1>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;

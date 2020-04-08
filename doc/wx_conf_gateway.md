@@ -7,9 +7,6 @@
 <!--
  /* Font Definitions */
  @font-face
-	{font-family:Helvetica;
-	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
 	{font-family:ËÎÌå;
 	panose-1:2 1 6 0 3 1 1 1 1 1;}
 @font-face
@@ -218,137 +215,87 @@ ul
 
 <div class=WordSection1 style='layout-grid:15.6pt'>
 
-<h1><a name="_Toc26098376">Î¢ĞÅĞ¡³ÌĞòÍø¹Ø</a>Éè¼Æ·½°¸</h1>
+<h1><a name="_Toc37241872">Î¢ĞÅĞ¡³ÌĞòÍø¹ØÉè¼Æ·½°¸</a></h1>
 
 <p class=MsoTocHeading>Ä¿Â¼</p>
 
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc26098376"><span lang=EN-US><span
-lang=EN-US>Î¢ĞÅĞ¡³ÌĞòÍø¹ØÉè¼ÆÓëÊµÏÖ</span></span><span style='color:windowtext;display:
-none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc26098377"><span lang=EN-US><span
-lang=EN-US>ĞèÇó</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc26098378"><span lang=EN-US><span
-lang=EN-US>Ó¦ÓÃ³¡¾°</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26098379"><span lang=EN-US><span
-lang=EN-US>Ğ¡³ÌĞò½ö¼ÓÈë»áÒé</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26098380"><span lang=EN-US><span
-lang=EN-US>Ğ¡³ÌĞòÓëÒ»¸öAPP</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>. </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26098381"><span lang=EN-US><span
-lang=EN-US>Ğ¡³ÌĞòÓë¶à¸öAPP</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>. </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26098382"><span lang=EN-US><span
-lang=EN-US>Á½¸öĞ¡³ÌĞò</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26098383"><span lang=EN-US><span
-lang=EN-US>¶à¸öapp</span></span><span lang=EN-US><span lang=EN-US>Óë¶à¸öĞ¡³ÌĞò</span></span><span
+<p class=MsoToc1><span lang=EN-US><span class=MsoHyperlink><a
+href="#_Toc37241872"><span lang=EN-US><span lang=EN-US>Î¢ĞÅĞ¡³ÌĞòÍø¹ØÉè¼Æ·½°¸</span></span><span
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
 
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc26098384"><span lang=EN-US><span
-lang=EN-US>Ä£¿é</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26098385"><span lang=EN-US><span
-lang=EN-US>Î¢ĞÅÍø¹Ø½á¹¹Í¼</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26098386"><span lang=EN-US><span
-lang=EN-US>½»»¥Á÷³Ì</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26098387"><span lang=EN-US><span
-lang=EN-US>Ğ¡³ÌĞò¼ÓÈë»áÒéÁ÷³Ì</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26098388"><span lang=EN-US><span
-lang=EN-US>¶à¸öĞ¡³ÌĞòÇëÇóÍ¬Ò»app</span></span><span lang=EN-US><span lang=EN-US>ÊÓÆµ²»°üÀ¨ÉùÒôÁ÷³Ì</span></span><span
+<p class=MsoToc1><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241873"><span lang=EN-US><span lang=EN-US>ĞèÇó</span></span><span
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26098389"><span lang=EN-US><span
-lang=EN-US>Ğ¡³ÌĞòÇëÇóÊÓÆµÁ÷³Ì</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
+<p class=MsoToc1><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241874"><span lang=EN-US><span lang=EN-US>Ó¦ÓÃ³¡¾°</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
 
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc26098390"><span lang=EN-US><span
-lang=EN-US>½Ó¿Ú</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
+<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241875"><span lang=EN-US><span lang=EN-US>Ğ¡³ÌĞò½ö¼ÓÈë»áÒé</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
 
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26098391"><span
-style='font-family:"Helvetica",sans-serif'>MCS </span><span lang=EN-US><span
-lang=EN-US>Óë</span></span><span style='font-family:"Helvetica",sans-serif'>callroutegw</span><span
-lang=EN-US><span lang=EN-US>Ïà¹Ø½Ó¿Ú</span></span><span style='color:windowtext;
+<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241876"><span lang=EN-US><span lang=EN-US>Ğ¡³ÌĞòÓëÒ»¸öAPP</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>. </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241877"><span lang=EN-US><span lang=EN-US>Ğ¡³ÌĞòÓë¶à¸öAPP</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>. </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241878"><span lang=EN-US><span lang=EN-US>Á½¸öĞ¡³ÌĞò</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241879"><span lang=EN-US><span lang=EN-US>¶à¸öapp</span></span><span
+lang=EN-US><span lang=EN-US>Óë¶à¸öĞ¡³ÌĞò</span></span><span style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26098392"><span lang=EN-US><span
-lang=EN-US>¼ÓÈë»áÒé wxjoinconf</span></span><span style='color:windowtext;
-display:none;text-decoration:none'> </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26098393"><span lang=EN-US><span
-lang=EN-US>ÍË³ö»áÒé &nbsp;wxquitconf</span></span><span style='color:windowtext;
-display:none;text-decoration:none'> </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26098394"><span lang=EN-US><span
-lang=EN-US>ÇëÇóÊÓÆµ wxreqvideo</span></span><span style='color:windowtext;
-display:none;text-decoration:none'>. </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26098395"><span lang=EN-US><span
-lang=EN-US>È¡ÏûÊÓÆµ wxcancelvideo</span></span><span style='color:windowtext;
-display:none;text-decoration:none'>. </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26098396"><span lang=EN-US><span
-lang=EN-US>ÇëÇóÊÓÆµ wxreqavsync</span></span><span style='color:windowtext;
-display:none;text-decoration:none'>. </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
-
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26098397">mcs <span lang=EN-US><span
-lang=EN-US>ºÍwxmgw</span></span><span lang=EN-US><span lang=EN-US>½»»¥</span></span><span
+<p class=MsoToc1><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241880"><span lang=EN-US><span lang=EN-US>Ä£¿é</span></span><span
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
 
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc26098398"><span lang=EN-US><span
-lang=EN-US>Êı¾İ</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
+<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241881"><span lang=EN-US><span lang=EN-US>Î¢ĞÅÍø¹Ø½á¹¹Í¼</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
 
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc26098399"><span lang=EN-US><span
-lang=EN-US>²âÊÔ</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></p>
+<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241882"><span lang=EN-US><span lang=EN-US>½»»¥Á÷³Ì</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241883"><span lang=EN-US><span lang=EN-US>Ğ¡³ÌĞò¼ÓÈë»áÒéÁ÷³Ì</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241884"><span lang=EN-US><span lang=EN-US>¶à¸öĞ¡³ÌĞòÇëÇóÍ¬Ò»app</span></span><span
+lang=EN-US><span lang=EN-US>ÊÓÆµ²»°üÀ¨ÉùÒôÁ÷³Ì</span></span><span style='color:windowtext;
+display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241885"><span lang=EN-US><span lang=EN-US>Ğ¡³ÌĞòÇëÇóÊÓÆµÁ÷³Ì</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
-<h1><a name="_Toc26098377">ĞèÇó</a></h1>
+<h1><a name="_Toc37241873">ĞèÇó</a></h1>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
 lang=EN-US>1.</span>Ğ¡³ÌĞò¼ÓÈë»áÒé£¬ÆäËû¿Í»§¶ËÄÜ¿´µ½Ğ¡³ÌĞò»áÒéµÄÊÓÆµÓëÉùÒô</p>
@@ -368,11 +315,11 @@ lang=EN-US>5.</span>Ğ¡³ÌĞò¿ÉÒÔ»ñÈ¡ÆäËûĞ¡³ÌĞòµÄ»áÒéÒôÊÓÆµ</p>
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
 lang=EN-US>&nbsp;</span></p>
 
-<h1><a name="_Toc26098378">Ó¦ÓÃ³¡¾°</a></h1>
+<h1><a name="_Toc37241874">Ó¦ÓÃ³¡¾°</a></h1>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp; </span>Ğ¡³ÌĞò¼ÓÈë»áÒéÓĞ¶àÖÖ³¡¾°</p>
 
-<h2><a name="_Toc26098379">Ğ¡³ÌĞò½ö¼ÓÈë»áÒé</a></h2>
+<h2><a name="_Toc37241875">Ğ¡³ÌĞò½ö¼ÓÈë»áÒé</a></h2>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp; <img width=827 height=185
 src="wx_conf_gateway.files/image001.png"></span></p>
@@ -382,7 +329,7 @@ src="wx_conf_gateway.files/image001.png"></span></p>
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
 lang=EN-US>&nbsp;</span></p>
 
-<h2><a name="_Toc26098380">Ğ¡³ÌĞòÓëÒ»¸ö<span lang=EN-US>APP</span></a></h2>
+<h2><a name="_Toc37241876">Ğ¡³ÌĞòÓëÒ»¸ö<span lang=EN-US>APP</span></a></h2>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
 lang=EN-US><img width=818 height=386 src="wx_conf_gateway.files/image002.png"></span></p>
@@ -394,7 +341,7 @@ lang=EN-US>app</span>Ò²ĞèÒª¿´µ½Ğ¡³ÌĞòµÄÊÓÆµ£¬Í¬Ê±Ìıµ½»áÒéµÄÉùÒô</p>
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
 lang=EN-US>&nbsp;</span></p>
 
-<h2><a name="_Toc26098381">Ğ¡³ÌĞòÓë¶à¸ö<span lang=EN-US>APP</span></a></h2>
+<h2><a name="_Toc37241877">Ğ¡³ÌĞòÓë¶à¸ö<span lang=EN-US>APP</span></a></h2>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
@@ -407,7 +354,7 @@ lang=EN-US><br>
 <br>
 </span></p>
 
-<h2><a name="_Toc26098382">Á½¸öĞ¡³ÌĞò</a></h2>
+<h2><a name="_Toc37241878">Á½¸öĞ¡³ÌĞò</a></h2>
 
 <p class=MsoNormal><span lang=EN-US><img width=854 height=431
 src="wx_conf_gateway.files/image004.png"></span></p>
@@ -417,7 +364,7 @@ lang=EN-US>2</span>µÄÊÓÆµ£¬ Ğ¡³ÌĞò<span lang=EN-US>2</span>ĞèÒª»áÒéÉùÒôÓëĞ¡³ÌĞò<
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
-<h2><a name="_Toc26098383">¶à¸ö<span lang=EN-US>app</span>Óë¶à¸öĞ¡³ÌĞò</a></h2>
+<h2><a name="_Toc37241879">¶à¸ö<span lang=EN-US>app</span>Óë¶à¸öĞ¡³ÌĞò</a></h2>
 
 <p class=MsoNormal><span lang=EN-US><img width=862 height=427
 src="wx_conf_gateway.files/image005.png"></span></p>
@@ -425,9 +372,9 @@ src="wx_conf_gateway.files/image005.png"></span></p>
 <p class=MsoNormal>¶à¸öĞ¡³ÌĞòÓë¶à¸ö<span lang=EN-US>app</span>¼ÓÈë»áÒéºó£¬ Ã¿¸ö<span
 lang=EN-US>app</span>»òĞ¡³ÌĞòĞèÒª¿´µ½ÆäËûËùÊÓÆµÒÔ¼°»áÒéµÄÉùÒô</p>
 
-<h1><a name="_Toc26098384">Ä£¿é</a></h1>
+<h1><a name="_Toc37241880">Ä£¿é</a></h1>
 
-<h2><a name="_Toc26098385">Î¢ĞÅÍø¹Ø½á¹¹Í¼</a></h2>
+<h2><a name="_Toc37241881">Î¢ĞÅÍø¹Ø½á¹¹Í¼</a></h2>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
 lang=EN-US><img width=806 height=583 src="wx_conf_gateway.files/image006.png"></span></p>
@@ -450,19 +397,19 @@ lang=EN-US>video pub, </span>Èç¹ûÓĞÆäËûĞ¡³ÌĞòĞèÒª¸ÃÊÓÆµ£¬Ö±½Ó¶©ÔÄÖ®ºó£¬ÔÙÍ¨¹ı<sp
 
 <p class=MsoListParagraph style='margin-left:18.0pt'><span style='color:red'>Í¬Ò»»áÒéµÄËùÓĞĞ¡³ÌĞòÒôÊÓÆµ´¦Àí£¬ĞèÒªÈ·±£ÔÚÍ¬Ò»¸öÎ¢ĞÅÍø¹Ø³ÌĞò´¦Àí£¬¼¯Èº»·¾³Ò²ĞèÒªÕâÑù</span></p>
 
-<h2><a name="_Toc26098386">½»»¥Á÷³Ì</a></h2>
+<h2><a name="_Toc37241882">½»»¥Á÷³Ì</a></h2>
 
-<h3><a name="_Toc26098387">Ğ¡³ÌĞò¼ÓÈë»áÒéÁ÷³Ì</a></h3>
+<h3><a name="_Toc37241883">Ğ¡³ÌĞò¼ÓÈë»áÒéÁ÷³Ì</a></h3>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
 lang=EN-US><img width=824 height=739 src="wx_conf_gateway.files/image007.png"></span></p>
 
-<h3><a name="_Toc26098388">¶à¸öĞ¡³ÌĞòÇëÇóÍ¬Ò»<span lang=EN-US>app</span>ÊÓÆµ²»°üÀ¨ÉùÒôÁ÷³Ì</a></h3>
+<h3><a name="_Toc37241884">¶à¸öĞ¡³ÌĞòÇëÇóÍ¬Ò»<span lang=EN-US>app</span>ÊÓÆµ²»°üÀ¨ÉùÒôÁ÷³Ì</a></h3>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
 lang=EN-US><img width=796 height=750 src="wx_conf_gateway.files/image008.png"></span></p>
 
-<h3><a name="_Toc26098389">Ğ¡³ÌĞòÇëÇóÊÓÆµÁ÷³Ì</a></h3>
+<h3><a name="_Toc37241885">Ğ¡³ÌĞòÇëÇóÊÓÆµÁ÷³Ì</a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=830 height=746
 src="wx_conf_gateway.files/image009.png"></span></p>
@@ -501,491 +448,6 @@ lang=EN-US>video, audio, </span>ÔÙ½«<span lang=EN-US>video</span>ÓëĞ¡³ÌĞò»ìÒô¸´º
 lang=EN-US>rtmp</span>Á÷</p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
-
-<h1><a name="_Toc26098390">½Ó¿Ú</a></h1>
-
-<h2><a name="_Toc26098391"><span lang=EN-US style='font-size:26.5pt;line-height:
-173%;font-family:"Helvetica",sans-serif;font-weight:normal'>MCS </span></a><span
-style='font-size:26.5pt;line-height:173%;font-weight:normal'>Óë</span><span
-lang=EN-US style='font-size:26.5pt;line-height:173%;font-family:"Helvetica",sans-serif;
-font-weight:normal'>callroutegw</span><span style='font-size:26.5pt;line-height:
-173%;font-weight:normal'>Ïà¹Ø½Ó¿Ú</span></h2>
-
-<h3><a name="_Toc26098392">¼ÓÈë»áÒé <span lang=EN-US>wxjoinconf</span></a><span
-lang=EN-US> </span></h3>
-
-<p class=MsoNoSpacing><span lang=EN-US>eg:<br>
-{<br>
-&nbsp; &nbsp; &quot;id&quot;: &quot;3&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp;&nbsp;&nbsp; &nbsp;&quot;uuid&quot;:
-&quot;14f5ac8e-5496-11e7-a38b-d93e113210c6&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp;&nbsp; &nbsp;&quot;method&quot;:
-&quot;wxjoinconf&quot;,<br>
-&nbsp; &nbsp; &quot;params&quot;: {</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;confId&quot;:
-&quot;123&quot; ,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp;&quot;crgwid&quot;:&quot;53001&quot;,&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; //</span>¶ÔÓ¦<span
-lang=EN-US>callroute</span>µÄ±àºÅ<span lang=EN-US>&nbsp;</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; }<br>
-}</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>response<br>
-{<br>
-&nbsp; &nbsp; &nbsp;&quot;id&quot;: &quot;3&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp;&quot;uuid&quot;:
-&quot;14f5ac8e-5496-11e7-a38b-d93e113210c6&quot;,&nbsp;&nbsp;//</span>ÓÃ»§<span
-lang=EN-US>ID</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp;
-&quot;method&quot;:&quot;wxjoinconf&quot;,<br>
-&nbsp; &nbsp; &nbsp;&quot;result&quot;: {<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&quot;audiossrc&quot;: &quot;503677616&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp;&quot;videossrc&quot;: &quot;503677616&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&quot;pushurl&quot;:&quot;&quot;,&nbsp;
-&nbsp; &nbsp; &nbsp;<span style='color:black'>//</span></span><span
-style='color:black'>Ğ¡³ÌĞòÍÆÒôÊÓÆµÁ÷µÄ<span lang=EN-US>rtmp url</span></span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&quot;pullurl&quot;:&quot;&quot;,
-<span style='color:black'>//</span></span><span style='color:black'>Ğ¡³ÌĞòÍÆÒôÊÓÆµÁ÷Ëù¶ÔÓ¦µÄÀ­Á÷µØÖ·£¬</span></p>
-
-<p class=MsoNoSpacing style='text-indent:94.5pt'><span lang=EN-US
-style='color:black'>//</span><span style='color:black'>Ğ¡³ÌĞò±¾Éí²»Ê¹ÓÃ£¬<span
-lang=EN-US>debug</span>Ê±ÓÃµ½</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &quot;pullaudiourl&quot;:&quot;&quot;,&nbsp;
-&nbsp; <span style='color:black'>//</span></span><span style='color:black'>Ğ¡³ÌĞòÀ­»áÒéÒôÆµµÄ<span
-lang=EN-US>rtmp url</span></span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US style='color:black'>&nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp;&nbsp; &quot;audioip&quot;: &quot;192.168.1.123&quot;,&nbsp; &nbsp;
-&nbsp; &nbsp;//</span><span style='color:black'>ÒôÆµ<span lang=EN-US>mas</span>µØÖ·<span
-lang=EN-US><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &quot;audiortpport&quot;:
-&quot;12345&quot;,&nbsp; &nbsp; &nbsp; &nbsp; //</span>ÒôÆµ<span lang=EN-US>mas
-rtp</span>Ã½Ìå¶Ë¿Ú</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US style='color:black'>&nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp;&nbsp; &quot;videoip&quot;: &quot;192.168.1.123&quot;,&nbsp; &nbsp;
-&nbsp; &nbsp;//</span><span style='color:black'>ÊÓÆµ<span lang=EN-US>mas</span>µØÖ·<span
-lang=EN-US><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &quot;videortpport&quot;:
-&quot;12345&quot;,&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;//</span>ÊÓÆµ<span
-lang=EN-US>mas rtp</span>Ã½Ìå¶Ë¿Ú</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp;}<br>
-}</span></p>
-
-<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
-
-<h3><a name="_Toc26098393">ÍË³ö»áÒé <span lang=EN-US>&nbsp;wxquitconf</span></a></h3>
-
-<p class=MsoNoSpacing><span lang=EN-US>eg:<br>
-{<br>
-&nbsp; &nbsp; &quot;id&quot;: &quot;3&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp;&nbsp;&nbsp; &nbsp;&quot;uuid&quot;:
-&quot;14f5ac8e-5496-11e7-a38b-d93e113210c6&quot;,<br>
-&nbsp; &nbsp; &quot;method&quot;: &quot;wxquitconf&quot;,<br>
-&nbsp; &nbsp; &quot;params&quot;: {</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;confId&quot;:
-&quot;123&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&quot;crgwid&quot;:&quot;53001&quot;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;//callroutegw</span>±àºÅÈç<span lang=EN-US>53001&nbsp;</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; }<br>
-}</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>response<br>
-{<br>
-&nbsp; &nbsp; &nbsp;&quot;id&quot;: &quot;3&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp;&nbsp; &quot;uuid&quot;:
-&quot;14f5ac8e-5496-11e7-a38b-d93e113210c6&quot;,&nbsp;&nbsp;//</span>ÓÃ»§<span
-lang=EN-US>ID</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp;
-&quot;method&quot;:&quot;wxquitconf&quot;,<br>
-&nbsp; &nbsp; &nbsp;&quot;result&quot;: {</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp;}<br>
-}</span></p>
-
-<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
-
-<h3><a name="_Toc26098394">ÇëÇóÊÓÆµ <span lang=EN-US>wxreqvideo</span></a></h3>
-
-<p class=MsoNoSpacing><span lang=EN-US>eg:<br>
-{<br>
-&nbsp; &nbsp; &quot;id&quot;: &quot;3&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp;&nbsp;&nbsp; &quot;uuid&quot;:
-&quot;14f5ac8e-5496-11e7-a38b-d93e113210c6&quot;,<br>
-&nbsp; &nbsp; &quot;method&quot;: &quot;wxreqvideo&quot;,<br>
-&nbsp; &nbsp; &quot;params&quot;: {</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;confId&quot;:
-&quot;123&quot; ,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&quot;antissrc&quot;:&quot;503677616&quot;,&nbsp; &nbsp; &nbsp; <span
-style='color:black'>//</span></span><span style='color:black'>±»ÇëÇóÊÓÆµµÄ»áÒé³ÉÔ±µÄ<span
-lang=EN-US>ssrc</span></span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&quot;seq&quot;:&quot;231ABfu13ad21&quot;,&nbsp;
-&nbsp; &nbsp;//</span>Î¢ĞÅĞ¡³ÌĞòĞ¯´øµÄÏûÏ¢ĞòÁĞºÅ<span lang=EN-US>,</span>Î¨Ò»±êÊ¶Ò»´ÎÇëÇó</p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&quot;type&quot;:&quot;1&quot;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;//</span>ÇëÇóµÄÀàĞÍ£¬<span lang=EN-US>1</span>£ºÊÓÆµ<span
-lang=EN-US>&nbsp; 2</span>£ºÆÁÄ»¹²Ïí</p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp;&nbsp; }<br>
-}</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>response<br>
-{<br>
-&nbsp; &nbsp; &nbsp;&quot;id&quot;: &quot;3&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp;&quot;uuid&quot;:
-&quot;14f5ac8e-5496-11e7-a38b-d93e113210c6&quot;,&nbsp;&nbsp;//</span>ÓÃ»§<span
-lang=EN-US>ID</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp;
-&quot;method&quot;:&quot;wxreqvideo&quot;,<br>
-&nbsp; &nbsp; &nbsp;&quot;result&quot;: {</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&quot;pullurl&quot;:&quot;&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&quot;seq&quot;:&quot;231ABfu13ad21&quot;,&nbsp; &nbsp;//</span>Î¢ĞÅĞ¡³ÌĞòĞ¯´øµÄÏûÏ¢ĞòÁĞºÅ<span
-lang=EN-US>,</span>Î¨Ò»±êÊ¶Ò»´ÎÇëÇó</p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&quot;type&quot;:&quot;1&quot;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; //</span>ÇëÇóµÄÀàĞÍ£¬<span lang=EN-US>1</span>£ºÊÓÆµ<span
-lang=EN-US>&nbsp; 2</span>£ºÆÁÄ»¹²Ïí</p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp;}<br>
-}</span></p>
-
-<h3><a name="_Toc26098395">È¡ÏûÊÓÆµ<span lang=EN-US> wxcancelvideo</span></a></h3>
-
-<p class=MsoNoSpacing><span lang=EN-US>eg:<br>
-{<br>
-&nbsp; &nbsp; &quot;id&quot;: &quot;3&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp;&nbsp;&nbsp; &quot;uuid&quot;: &quot;14f5ac8e-5496-11e7-a38b-d93e113210c6&quot;,<br>
-&nbsp; &nbsp; &quot;method&quot;: &quot;wxcancelvideo&quot;,<br>
-&nbsp; &nbsp; &quot;params&quot;: {</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;confId&quot;:
-&quot;123&quot; ,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&quot;antissrc&quot;:&quot;503677616&quot;,&nbsp; &nbsp; &nbsp; &nbsp; <span
-style='color:black'>//</span></span><span style='color:black'>±»ÇëÇóÊÓÆµµÄ»áÒé³ÉÔ±µÄ<span
-lang=EN-US>ssrc</span></span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&quot;seq&quot;:&quot;231ABfu13ad21&quot;,&nbsp; &nbsp; &nbsp; &nbsp;//</span>Î¢ĞÅĞ¡³ÌĞòĞ¯´øµÄÏûÏ¢ĞòÁĞºÅ<span
-lang=EN-US>,</span>Î¨Ò»±êÊ¶Ò»´ÎÇëÇó</p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&quot;type&quot;:&quot;1&quot;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;//</span>ÇëÇóµÄÀàĞÍ£¬<span lang=EN-US>1</span>£ºÊÓÆµ<span
-lang=EN-US>&nbsp; 2</span>£ºÆÁÄ»¹²Ïí</p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; }<br>
-}</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>response<br>
-{<br>
-&nbsp; &nbsp; &nbsp;&quot;id&quot;: &quot;3&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp;&quot;uuid&quot;:
-&quot;14f5ac8e-5496-11e7-a38b-d93e113210c6&quot;,&nbsp;&nbsp;//</span>ÓÃ»§<span
-lang=EN-US>ID</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp;
-&quot;method&quot;:&quot;wxcancelvideo&quot;,<br>
-&nbsp; &nbsp; &nbsp;&quot;result&quot;: {</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp;&quot;seq&quot;:&quot;231ABfu13ad21&quot;,&nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp;//</span>Î¢ĞÅĞ¡³ÌĞòĞ¯´øµÄÏûÏ¢ĞòÁĞºÅ<span lang=EN-US>,</span>Î¨Ò»±êÊ¶Ò»´ÎÇëÇó</p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&quot;type&quot;:&quot;1&quot;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; //</span>ÇëÇóµÄÀàĞÍ£¬<span lang=EN-US>1</span>£ºÊÓÆµ<span lang=EN-US>&nbsp; 2</span>£ºÆÁÄ»¹²Ïí</p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp;}<br>
-}</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp;</span></p>
-
-<h3><a name="_Toc26098396">ÇëÇóÊÓÆµ <span lang=EN-US>wxreqavsync</span></a></h3>
-
-<p class=MsoNoSpacing><span lang=EN-US>eg:<br>
-{<br>
-&nbsp; &nbsp; &quot;id&quot;: &quot;3&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp;&nbsp;&nbsp; &quot;uuid&quot;:
-&quot;14f5ac8e-5496-11e7-a38b-d93e113210c6&quot;,<br>
-&nbsp; &nbsp; &quot;method&quot;: &quot; wxreqavsync,<br>
-&nbsp; &nbsp; &quot;params&quot;: {</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;confId&quot;:
-&quot;123&quot; ,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&quot;antissrc&quot;:&quot;503677616&quot;,&nbsp; &nbsp; &nbsp; <span
-style='color:black'>//</span></span><span style='color:black'>±»ÇëÇóÊÓÆµµÄ»áÒé³ÉÔ±µÄ<span
-lang=EN-US>ssrc</span></span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&quot;seq&quot;:&quot;231ABfu13ad21&quot;,&nbsp; &nbsp; &nbsp;//</span>Î¢ĞÅĞ¡³ÌĞòĞ¯´øµÄÏûÏ¢ĞòÁĞºÅ<span
-lang=EN-US>,</span>Î¨Ò»±êÊ¶Ò»´ÎÇëÇó</p>
-
-<p class=MsoNoSpacing style='margin-left:21.0pt;text-indent:21.0pt'><span
-lang=EN-US>&quot;type&quot;:&quot;1&quot;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; //</span>ÇëÇóµÄÀàĞÍ£¬<span lang=EN-US>1</span>£ºÊÓÆµ<span
-lang=EN-US>&nbsp; 2</span>£ºÆÁÄ»¹²Ïí</p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp;}</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>}<br>
-}</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>response<br>
-{<br>
-&nbsp; &nbsp; &nbsp;&quot;id&quot;: &quot;3&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp;&quot;uuid&quot;:
-&quot;14f5ac8e-5496-11e7-a38b-d93e113210c6&quot;,&nbsp;&nbsp;//</span>ÓÃ»§<span
-lang=EN-US>ID</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &quot;method&quot;:&quot; wxreqavsync
-&quot;,<br>
-&nbsp; &nbsp; &nbsp;&quot;result&quot;: {</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&quot;seq&quot;:&quot;231ABfu13ad21&quot;,&nbsp; &nbsp;//</span>Î¢ĞÅĞ¡³ÌĞòĞ¯´øµÄÏûÏ¢ĞòÁĞºÅ<span
-lang=EN-US>,</span>Î¨Ò»±êÊ¶Ò»´ÎÇëÇó</p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&quot;type&quot;:&quot;1&quot;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; //</span>ÇëÇóµÄÀàĞÍ£¬<span lang=EN-US>1</span>£ºÊÓÆµ<span
-lang=EN-US>&nbsp; 2</span>£ºÆÁÄ»¹²Ïí</p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp; &nbsp;}<br>
-}</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp;</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp;</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>//</span>ËùÓĞÇëÇóÈç¹ûÊ§°Ü£¬¶¼Ê¹ÓÃÏÂÃæµÄÊ§°ÜÓ¦´ğ£º</p>
-
-<p class=MsoNoSpacing><span lang=EN-US>error message:<br>
-{<br>
-&nbsp; &nbsp; &quot;id&quot;: &quot;1&quot;,</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp;&nbsp;&quot;uuid&quot;: &quot;14f5ac8e-5496-11e7-a38b-d93e113210c6&quot;,&nbsp;&nbsp;//</span>ÓÃ»§<span
-lang=EN-US>ID</span></p>
-
-<p class=MsoNoSpacing><span lang=EN-US>&nbsp; &nbsp;
-&quot;method&quot;:&quot;&quot;,&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; //</span>ÄÚÈİÎªÇëÇóµÄ<span
-lang=EN-US>method</span>Öµ<span lang=EN-US><br>
-&nbsp; &nbsp; &quot;result&quot;: {<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&quot;code&quot;: &quot;111&quot;,<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&quot;message&quot;: &quot;Invalid
-format&quot;<br>
-&nbsp; &nbsp; &nbsp; }<br>
-}</span></p>
-
-<h2><a name="_Toc26098397"><span lang=EN-US>mcs </span>ºÍ<span lang=EN-US>wxmgw</span>½»»¥</a></h2>
-
-<p class=MsoNormal><span lang=EN-US style='font-family:"Helvetica",sans-serif;
-color:#333333;background:white'>struct Port {</span><span lang=EN-US
-style='font-family:"Helvetica",sans-serif;color:#333333'><br>
-<span style='background:white'>1:i32 audio,</span><br>
-<span style='background:white'>2:i32 video,</span><br>
-<span style='background:white'>}</span><br>
-<span style='background:white'>struct StartPushReq {</span><br>
-<span style='background:white'>1:string uuid,</span><br>
-<span style='background:white'>2:string pushUrl,</span><br>
-<span style='background:white'>3:i32 audioPayloadType,</span><br>
-<span style='background:white'>4:string audioCodec,</span><br>
-<span style='background:white'>5:i32 videoPayloadType,</span><br>
-<span style='background:white'>6:string videoCodec</span></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='font-family:"Helvetica",sans-serif;
-color:red;background:white'>7:string confId,</span></p>
-
-<p class=MsoNormal><span lang=EN-US style='font-family:"Helvetica",sans-serif;
-color:red;background:white'>8:string reqUuid,</span></p>
-
-<p class=MsoNormal><span lang=EN-US style='font-family:"Helvetica",sans-serif;
-color:red;background:white'>9:string weixin,&nbsp;&nbsp; </span><span
-style='color:red;background:white'>Óë³ÉÔ±ÊÇÎ¢ĞÅĞ¡³ÌĞò³ÉÔ±</span><span lang=EN-US
-style='font-family:"Helvetica",sans-serif;color:#333333'><br>
-<span style='background:white'>}</span><br>
-<span style='background:white'>struct StartPushResp {</span><br>
-<span style='background:white'>1:Port port,</span><br>
-<span style='background:white'>2:i32 code,</span><br>
-<span style='background:white'>3:string message,</span><br>
-<span style='background:white'>}</span><br>
-<span style='background:white'>struct StopPushReq {</span><br>
-<span style='background:white'>1:string uuid,</span></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='font-family:"Helvetica",sans-serif;
-color:red;background:white'>2:string confId</span><span lang=EN-US
-style='font-family:"Helvetica",sans-serif;color:#333333'><br>
-<span style='background:white'>}</span><br>
-<span style='background:white'>struct StopPushResp {</span><br>
-<span style='background:white'>1:i32 code,</span><br>
-<span style='background:white'>2:string message,</span><br>
-<span style='background:white'>}</span><br>
-<span style='background:white'>struct StartPullReq{</span><br>
-<span style='background:white'>1:string uuid,</span><br>
-<span style='background:white'>2:string pullUrl,</span><br>
-<span style='background:white'>3:i64 ssrc,</span><br>
-<span style='background:white'>4:string masIp,</span><br>
-<span style='background:white'>5:i32 audioPort,</span><br>
-<span style='background:white'>6:i32 videoPort,</span><br>
-<span style='background:white'>7:i32 audioPayloadType,</span><br>
-<span style='background:white'>8:string audioCodec,</span><br>
-<span style='background:white'>9:i32 videoPayloadType,</span><br>
-<span style='background:white'>10:string VideoCodec,</span><br>
-<span style='background:white'>11:string pushAudioUrl,</span></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='font-family:"Helvetica",sans-serif;
-color:red;background:white'>12:string confId</span><span lang=EN-US
-style='font-family:"Helvetica",sans-serif;color:#333333'>,<br>
-<span style='background:white'>}</span><br>
-<span style='background:white'>struct StartPullResp {</span><br>
-<span style='background:white'>1:i32 code,</span><br>
-<span style='background:white'>2:string message,</span><br>
-<span style='background:white'>}</span><br>
-<span style='background:white'>struct StopPullReq {</span><br>
-<span style='background:white'>1:string uuid,</span></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='font-family:"Helvetica",sans-serif;
-color:red;background:white'>2:string confId</span><span lang=EN-US
-style='font-family:"Helvetica",sans-serif;color:#333333'>,<br>
-<span style='background:white'>}</span><br>
-<span style='background:white'>struct StopPullResp {</span><br>
-<span style='background:white'>1:i32 code,</span><br>
-<span style='background:white'>2:string message</span><br>
-<span style='background:white'>}</span></span></p>
-
-<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
-
-<p class=MsoNormal><span lang=EN-US style='font-family:"Helvetica",sans-serif;
-color:red;background:white'>struct AvSyncReq {</span><span lang=EN-US
-style='font-family:"Helvetica",sans-serif;color:red'><br>
-<span style='background:white'>1:string uuid,</span></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='font-family:"Helvetica",sans-serif;
-color:red;background:white'>2:string confId</span><span lang=EN-US
-style='font-family:"Helvetica",sans-serif;color:red'>,</span></p>
-
-<p class=MsoNormal><span lang=EN-US style='font-family:"Helvetica",sans-serif;
-color:red'>3:string syncUuid<br>
-<span style='background:white'>}</span><br>
-<span style='background:white'>struct AvSyncResp {</span><br>
-<span style='background:white'>1:i32 code,</span><br>
-<span style='background:white'>2:string message</span><br>
-<span style='background:white'>}</span></span></p>
-
-<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
-
-<h1><a name="_Toc26098398">Êı¾İ</a></h1>
-
-<p class=MsoNormal><span lang=EN-US>Mcs</span>»áÒé³ÉÔ±</p>
-
-<p class=MsoListParagraph>ÆÕÍ¨³ÉÔ±<span lang=EN-US>: &nbsp;&nbsp;</span>Ğ¡³ÌĞòÊÓÆµÖ±²¥ÆµµÀ£¬ÍÆÁ÷ÓëÀ­Á÷µØÖ·</p>
-
-<p class=MsoListParagraph>Ğ¡³ÌĞò³ÉÔ±<span lang=EN-US>: &nbsp;</span>»ìÒôÖ±²¥ÆµµÀ£¬ÍÆÁ÷ÓëÀ­Á÷µØÖ· </p>
-
-<p class=MsoNormal><span lang=EN-US>Wxgw</span>ÖØÒªÊı¾İ</p>
-
-<p class=MsoListParagraph><span lang=EN-US>&nbsp;</span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
-lang=EN-US>Rtp2rtmpMap</span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
-lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Key: uuid</span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
-lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ÊÓÆµ<span
-lang=EN-US>pubsub</span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
-lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ÒôÆµ<span
-lang=EN-US>pubsub</span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
-lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flvmuxer&nbsp;
-flv</span>¸´ºÏÆ÷</p>
-
-<p class=MsoListParagraph><span lang=EN-US>&nbsp;</span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
-lang=EN-US>Rtmp2rtpMap</span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
-lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Key: uuid </span>Ğ¡³ÌĞò<span
-lang=EN-US>uuid</span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
-lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flvdemuxer:
-flv</span>½â¸´ºÏÆ÷</p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
-lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ÊÓÆµ<span
-lang=EN-US>pubsub</span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
-lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ÒôÆµ<span
-lang=EN-US>pubsub</span></p>
-
-<p class=MsoListParagraph><span lang=EN-US>&nbsp;</span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'>Ğ¡³ÌĞò»áÒé·¿¼ä<span
-lang=EN-US>:</span></p>
-
-<p class=MsoNormal style='text-indent:52.5pt'>Ğ¡³ÌĞò²Î»áÕß <span lang=EN-US>rtmp2rtp</span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
-lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span>Ğ¡³ÌĞò²Î»áÕß<span lang=EN-US>
-rtp2rtmp</span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
-lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</span>Ğ¡³ÌĞòÇëÇóÕß <span lang=EN-US>rtp2rtmp</span></p>
-
-<h1><a name="_Toc26098399">²âÊÔ</a></h1>
 
 </div>
 

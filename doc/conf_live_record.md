@@ -220,197 +220,184 @@ style='font-size:22.0pt;line-height:240%;font-family:等线'><br clear=all
 style='page-break-before:always'>
 </span></b>
 
-<h1><a name="_Toc26097398">会议直播与录相方案设计</a></h1>
+<h1><a name="_Toc37241775">会议直播与录相方案设计</a></h1>
 
 <p class=MsoNormal align=left style='text-align:left'><b><span lang=EN-US
 style='font-size:22.0pt'>&nbsp;</span></b></p>
 
 <p class=MsoTocHeading>目录</p>
 
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc26097398"><span lang=EN-US><span
-lang=EN-US>会议直播与录相方案设计</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc26097399"><span lang=EN-US><span
-lang=EN-US>需求</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc26097400"><span lang=EN-US><span
-lang=EN-US>产品功能</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26097401"><span lang=EN-US><span
-lang=EN-US>功能性需求</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097402"><span lang=EN-US><span
-lang=EN-US>会议直播</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097403"><span lang=EN-US><span
-lang=EN-US>会议录像</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26097404"><span lang=EN-US><span
-lang=EN-US>非功能性需求</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc26097405"><span lang=EN-US><span
-lang=EN-US>产品使用场景</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc26097406"><span lang=EN-US><span
-lang=EN-US>系统设计</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26097407"><span lang=EN-US><span
-lang=EN-US>架构设计</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097408"><span lang=EN-US><span
-lang=EN-US>会议总体架构(</span></span><span lang=EN-US><span lang=EN-US>非集群)</span></span><span
-style='color:windowtext;display:none;text-decoration:none'> </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26097409"><span lang=EN-US><span
-lang=EN-US>功能模块设计</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097410">MCS<span lang=EN-US><span
-lang=EN-US>的内部结构</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097411">RCS<span lang=EN-US><span
-lang=EN-US>与MLG</span></span><span lang=EN-US><span lang=EN-US>内部结构</span></span><span
+<p class=MsoToc1><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241775"><span lang=EN-US><span lang=EN-US>会议直播与录相方案设计</span></span><span
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26097412"><span lang=EN-US><span
-lang=EN-US>模块消息交互与流程</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097413"><span lang=EN-US><span
-lang=EN-US>会议录像基本流程</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097414"><span lang=EN-US><span
-lang=EN-US>会议直播基本流程</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097415"><span lang=EN-US><span
-lang=EN-US>同时开始录像与直播流程</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
-
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097416"><span lang=EN-US><span
-lang=EN-US>同时直播与录像时，先<span lang=EN-US>停止直播流程</span></span></span><span
+<p class=MsoToc1><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241776"><span lang=EN-US><span lang=EN-US>需求</span></span><span
 style='color:windowtext;display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097417"><span lang=EN-US><span
-lang=EN-US>在已有直播上切换屏幕共享直播流程</span></span><span style='color:windowtext;
+<p class=MsoToc1><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241777"><span lang=EN-US><span lang=EN-US>产品功能</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241778"><span lang=EN-US><span lang=EN-US>功能性需求</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241779"><span lang=EN-US><span lang=EN-US>会议直播</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241780"><span lang=EN-US><span lang=EN-US>会议录像</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241781"><span lang=EN-US><span lang=EN-US>非功能性需求</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
+
+<p class=MsoToc1><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241782"><span lang=EN-US><span lang=EN-US>产品使用场景</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
+
+<p class=MsoToc1><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241783"><span lang=EN-US><span lang=EN-US>系统设计</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241784"><span lang=EN-US><span lang=EN-US>架构设计</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241785"><span lang=EN-US><span lang=EN-US>会议总体架构(</span></span><span
+lang=EN-US><span lang=EN-US>非集群)</span></span><span style='color:windowtext;
+display:none;text-decoration:none'> </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241786"><span lang=EN-US><span lang=EN-US>功能模块设计</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241787">MCS<span lang=EN-US><span lang=EN-US>的内部结构</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241788">RCS<span lang=EN-US><span lang=EN-US>与MLG</span></span><span
+lang=EN-US><span lang=EN-US>内部结构</span></span><span style='color:windowtext;
 display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097418"><span lang=EN-US><span
-lang=EN-US>直接开启屏幕共享直播流程</span></span><span style='color:windowtext;display:
-none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241789"><span lang=EN-US><span lang=EN-US>模块消息交互与流程</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097419"><span lang=EN-US><span
-lang=EN-US>一个会议同时有两个或以上直播或录像流程</span></span><span style='color:windowtext;
-display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241790"><span lang=EN-US><span lang=EN-US>会议录像基本流程</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097420"><span lang=EN-US><span
-lang=EN-US>多人自动模式添加，删除成员流程</span></span><span style='color:windowtext;
-display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241791"><span lang=EN-US><span lang=EN-US>会议直播基本流程</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097421"><span lang=EN-US><span
-lang=EN-US>多人自动模式手动模式切换流程</span></span><span style='color:windowtext;
-display:none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241792"><span lang=EN-US><span lang=EN-US>同时开始录像与直播流程</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097422"><span lang=EN-US><span
-lang=EN-US>第三方会议接入流程</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241793"><span lang=EN-US><span lang=EN-US>同时直播与录像时，先停止直播流程</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26097423"><span lang=EN-US><span
-lang=EN-US>接口设计</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241794"><span lang=EN-US><span lang=EN-US>在已有直播上切换屏幕共享直播流程</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097424"><span lang=EN-US><span
-lang=EN-US>会议录像</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241795"><span lang=EN-US><span lang=EN-US>直接开启屏幕共享直播流程</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097425"><span lang=EN-US><span
-lang=EN-US>会议直播</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241796"><span lang=EN-US><span lang=EN-US>一个会议同时有两个或以上直播或录像流程</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26097426"><span lang=EN-US><span
-lang=EN-US>数据结构设计</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241797"><span lang=EN-US><span lang=EN-US>多人自动模式添加，删除成员流程</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097427"><span lang=EN-US><span
-lang=EN-US>会议录像与直播实体关联图</span></span><span style='color:windowtext;display:
-none;text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241798"><span lang=EN-US><span lang=EN-US>多人自动模式手动模式切换流程</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097428"><span lang=EN-US><span
-lang=EN-US>会议实体信息</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241799"><span lang=EN-US><span lang=EN-US>第三方会议接入流程</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097429"><span lang=EN-US><span
-lang=EN-US>会议成员信息</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241800"><span lang=EN-US><span lang=EN-US>数据结构设计</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097430"><span lang=EN-US><span
-lang=EN-US>录像会话</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241801"><span lang=EN-US><span lang=EN-US>会议录像与直播实体关联图</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097431"><span lang=EN-US><span
-lang=EN-US>录像文件列表</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241802"><span lang=EN-US><span lang=EN-US>会议实体信息</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc3><span lang=EN-US><a href="#_Toc26097432"><span lang=EN-US><span
-lang=EN-US>直播会话</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241803"><span lang=EN-US><span lang=EN-US>会议成员信息</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc1><span lang=EN-US><a href="#_Toc26097433"><span lang=EN-US><span
-lang=EN-US>系统测试</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241804"><span lang=EN-US><span lang=EN-US>录像会话</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
-<p class=MsoToc2><span lang=EN-US><a href="#_Toc26097434"><span lang=EN-US><span
-lang=EN-US>测试用例</span></span><span style='color:windowtext;display:none;
-text-decoration:none'>... </span><span
-style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></p>
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241805"><span lang=EN-US><span lang=EN-US>录像文件列表</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241806"><span lang=EN-US><span lang=EN-US>直播会话</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
+
+<p class=MsoToc1><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241807"><span lang=EN-US><span lang=EN-US>系统测试</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><span lang=EN-US><a
+href="#_Toc37241808"><span lang=EN-US><span lang=EN-US>测试用例</span></span><span
+style='color:windowtext;display:none;text-decoration:none'>... </span><span
+style='color:windowtext;display:none;text-decoration:none'>0</span></a></span></span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
@@ -423,7 +410,7 @@ style='font-size:22.0pt'>&nbsp;</span></b></p>
 <p class=MsoNormal align=left style='text-align:left'><b><span lang=EN-US
 style='font-size:22.0pt'>&nbsp;</span></b></p>
 
-<h1><a name="_Toc26097399">需求</a></h1>
+<h1><a name="_Toc37241776">需求</a></h1>
 
 <p class=MsoNormal style='text-indent:28.0pt'><span style='font-size:14.0pt;
 font-family:新宋体'>在使用实时音视频的过程中，经常会有两种情况，一是需要将音视频通话，会议的全过程录像，方便过后回看以及相应处理。如重要会议需要事后回看学习，等等<span
@@ -435,9 +422,9 @@ font-family:新宋体'>从上面的需求可以归类成两个最基本功能，就是会议录像与直播，针
 <p class=MsoNormal style='text-indent:28.0pt'><span style='font-size:14.0pt;
 font-family:新宋体'>我们会议系统现在部分功能都已经实现，但随着业务，应用场景的不段变化，现在方案实现，越来越复杂，有新需求变更时，实现也越来越来麻烦。为了解决目前这些问题，需要对会议直播与录像进行重构，以更好方式来完成已有业务功能，以及更容易适应新的需求变更。</span></p>
 
-<h1><a name="_Toc26097400">产品功能</a></h1>
+<h1><a name="_Toc37241777">产品功能</a></h1>
 
-<h2><a name="_Toc26097401">功能性需求</a></h2>
+<h2><a name="_Toc37241778">功能性需求</a></h2>
 
 <table class=MsoTable15Grid4Accent5 border=1 cellspacing=0 cellpadding=0
  width=491 style='width:368.3pt;border-collapse:collapse;border:none'>
@@ -746,7 +733,7 @@ font-family:新宋体'>我们会议系统现在部分功能都已经实现，但随着业务，应用场景的不
 
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>&nbsp;</span></p>
 
-<h3><a name="_Toc26097402">会议直播</a></h3>
+<h3><a name="_Toc37241779">会议直播</a></h3>
 
 <h4>多人单人直播</h4>
 
@@ -796,7 +783,7 @@ color:black'>旁路直播中，两个主播<span lang=EN-US>pk</span>画面</span></p>
 <p class=MsoNormal style='text-indent:28.0pt'><span style='font-size:14.0pt;
 color:black'>只输出音频或视频</span></p>
 
-<h3><a name="_Toc26097403">会议录像</a></h3>
+<h3><a name="_Toc37241780">会议录像</a></h3>
 
 <h4>录像文件支持<span lang=EN-US>mp4,flv</span></h4>
 
@@ -810,7 +797,7 @@ color:black'>可以将输出单独录像成<span lang=EN-US>h264,aac</span>祼流</span></p>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>&nbsp;</span></p>
 
-<h2><a name="_Toc26097404">非功能性需求</a></h2>
+<h2><a name="_Toc37241781">非功能性需求</a></h2>
 
 <table class=MsoTable15Grid4Accent1 border=1 cellspacing=0 cellpadding=0
  width=509 style='width:382.0pt;border-collapse:collapse;border:none'>
@@ -932,7 +919,7 @@ style='font-size:14.0pt;color:black'>录像与直播画面的连续性</span></b></p>
 <p class=MsoNormal><b><span lang=EN-US style='font-size:14.0pt'>&nbsp;&nbsp; </span></b><span
 lang=EN-US style='font-size:14.0pt'>&nbsp;</span><span style='font-size:14.0pt'>画面花屏，或卡顿的次数，在直播或录像过程有可能网络掉线后马上恢复</span></p>
 
-<h1><a name="_Toc26097405">产品使用场景</a></h1>
+<h1><a name="_Toc37241782">产品使用场景</a></h1>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=575
  style='width:431.0pt;border-collapse:collapse'>
@@ -1125,27 +1112,27 @@ lang=EN-US style='font-size:14.0pt'>&nbsp;</span><span style='font-size:14.0pt'>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
-<h1><a name="_Toc26097406">系统设计</a></h1>
+<h1><a name="_Toc37241783">系统设计</a></h1>
 
-<h2><a name="_Toc26097407">架构设计</a></h2>
+<h2><a name="_Toc37241784">架构设计</a></h2>
 
-<h3><a name="_Toc26097408">会议总体架构<span lang=EN-US>(</span>非集群<span lang=EN-US>)</span></a></h3>
+<h3><a name="_Toc37241785">会议总体架构<span lang=EN-US>(</span>非集群<span lang=EN-US>)</span></a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=937 height=510
 src="conf_live_record.files/image001.png"></span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
-<h2><a name="_Toc26097409">功能模块设计</a></h2>
+<h2><a name="_Toc37241786">功能模块设计</a></h2>
 
-<h3><a name="_Toc26097410"><span lang=EN-US>MCS</span>的内部结构</a></h3>
+<h3><a name="_Toc37241787"><span lang=EN-US>MCS</span>的内部结构</a></h3>
 
 <p class=MsoNormal><span lang=EN-US>Mcs</span>是媒体系统的总的控制中心，下图只例出与会议直播与录像相关的模块结构</p>
 
 <p class=MsoNormal><span lang=EN-US><img width=912 height=345
 src="conf_live_record.files/image002.png"></span></p>
 
-<h3><a name="_Toc26097411"><span lang=EN-US>RCS</span>与<span lang=EN-US>MLG</span>内部结构</a></h3>
+<h3><a name="_Toc37241788"><span lang=EN-US>RCS</span>与<span lang=EN-US>MLG</span>内部结构</a></h3>
 
 <h4><span lang=EN-US>MLG</span>内部结构</h4>
 
@@ -1163,9 +1150,9 @@ src="conf_live_record.files/image003.png"></span></p>
 <p class=MsoNormal><span lang=EN-US><img width=919 height=519
 src="conf_live_record.files/image004.png"></span></p>
 
-<h2><a name="_Toc26097412">模块消息交互与流程</a></h2>
+<h2><a name="_Toc37241789">模块消息交互与流程</a></h2>
 
-<h3><a name="_Toc26097413">会议录像基本流程</a></h3>
+<h3><a name="_Toc37241790">会议录像基本流程</a></h3>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US style='font-size:14.0pt'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
@@ -1260,7 +1247,7 @@ src="conf_live_record.files/image005.png"></span></p>
 <p class=MsoNormal><span lang=EN-US><img width=1003 height=991
 src="conf_live_record.files/image006.png"></span></p>
 
-<h3><a name="_Toc26097414">会议直播基本流程</a></h3>
+<h3><a name="_Toc37241791">会议直播基本流程</a></h3>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US style='font-size:14.0pt'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
@@ -1333,7 +1320,7 @@ lang=EN-US>mcu</span>通知向<span lang=EN-US>mlg</span>发送视频数据，在<span lang
 <p class=MsoNormal><span lang=EN-US><img width=1055 height=950
 src="conf_live_record.files/image007.png"></span></p>
 
-<h3><a name="_Toc26097415">同时开始录像与直播流程</a></h3>
+<h3><a name="_Toc37241792">同时开始录像与直播流程</a></h3>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US style='font-size:14.0pt'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
@@ -1385,7 +1372,7 @@ lang=EN-US style='font-size:14.0pt'>9.<span style='font:7.0pt "Times New Roman"'
 style='font-size:14.0pt'>收到<span lang=EN-US>mps</span>的音频与<span lang=EN-US>mcu</span>的视频后，封装成<span
 lang=EN-US>rtmp</span>流，发送到直播系统</span></p>
 
-<h3><a name="_Toc26097416">同时直播与录像时，先停止直播流程</a></h3>
+<h3><a name="_Toc37241793">同时直播与录像时，先停止直播流程</a></h3>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US style='font-size:14.0pt'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
@@ -1413,7 +1400,7 @@ style='font-size:14.0pt'>通知<span lang=EN-US>mcu</span>删除该直播的<span lang=E
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
-<h3><a name="_Toc26097417">在已有直播上切换屏幕共享直播流程</a></h3>
+<h3><a name="_Toc37241794">在已有直播上切换屏幕共享直播流程</a></h3>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US style='font-size:14.0pt'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
@@ -1436,7 +1423,7 @@ lang=EN-US>observer</span>，输出相关视频到<span lang=EN-US>mlg</span></span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
-<h3><a name="_Toc26097418">直接开启屏幕共享直播流程</a></h3>
+<h3><a name="_Toc37241795">直接开启屏幕共享直播流程</a></h3>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US style='font-size:14.0pt'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
@@ -1469,7 +1456,7 @@ lang=EN-US style='font-size:14.0pt'>5.<span style='font:7.0pt "Times New Roman"'
 style='font-size:14.0pt'>收到<span lang=EN-US>mps</span>的音频与<span lang=EN-US>mcu</span>的视频后，封装成<span
 lang=EN-US>rtmp</span>流，发送到直播系统</span></p>
 
-<h3><a name="_Toc26097419">一个会议同时有两个或以上直播或录像流程</a></h3>
+<h3><a name="_Toc37241796">一个会议同时有两个或以上直播或录像流程</a></h3>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US style='font-size:14.0pt'>1．<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1481,7 +1468,7 @@ lang=EN-US style='font-size:14.0pt'>2．<span style='font:7.0pt "Times New Roman"
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
-<h3><a name="_Toc26097420">多人自动模式添加，删除成员流程</a></h3>
+<h3><a name="_Toc37241797">多人自动模式添加，删除成员流程</a></h3>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US style='font-size:14.0pt'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
@@ -1503,7 +1490,7 @@ lang=EN-US style='font-size:14.0pt'>4.<span style='font:7.0pt "Times New Roman"'
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
 lang=EN-US>&nbsp;</span></p>
 
-<h3><a name="_Toc26097421">多人自动模式手动模式切换流程</a></h3>
+<h3><a name="_Toc37241798">多人自动模式手动模式切换流程</a></h3>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 lang=EN-US style='font-size:14.0pt'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
@@ -1517,74 +1504,13 @@ lang=EN-US style='font-size:14.0pt'>2.<span style='font:7.0pt "Times New Roman"'
 lang=EN-US style='font-size:14.0pt'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:14.0pt'>手动模式，如果有人退会议，且在输出列表中，需要删除，如是不在列表中，不需要处理</span></p>
 
-<h3><a name="_Toc26097422">第三方会议接入流程</a></h3>
+<h3><a name="_Toc37241799">第三方会议接入流程</a></h3>
 
 <p class=MsoNormal>待补充</p>
 
-<h2><a name="_Toc26097423">接口设计</a></h2>
+<h2><a name="_Toc37241800">数据结构设计</a></h2>
 
-<h3><a name="_Toc26097424">会议录像</a></h3>
-
-<p class=MsoNormal><b><span style='font-size:14.0pt;color:red'>接口的详细定义请参考<span
-lang=EN-US>&lt;&lt;</span>会议录像<span lang=EN-US>rest api</span>接口说明<span
-lang=EN-US>.doc&gt;&gt;</span></span></b></p>
-
-<p class=MsoNormal><span lang=EN-US>URL:&nbsp; /v1/rcs/{func}</span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
-lang=EN-US style='font-size:14.0pt'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:14.0pt'>开始录像<span lang=EN-US>(start)</span></span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
-lang=EN-US style='font-size:14.0pt'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:14.0pt'>停止录像<span lang=EN-US>(stop)</span></span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
-lang=EN-US style='font-size:14.0pt'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:14.0pt'>切换会议成员<span lang=EN-US>(switchConfMember)</span></span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
-lang=EN-US style='font-size:14.0pt'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:14.0pt'>删除录像文件<span lang=EN-US>(delRecordFile)</span></span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
-lang=EN-US style='font-size:14.0pt'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:14.0pt'>获取录像会话列表<span lang=EN-US>(getRecordSessions)</span></span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
-lang=EN-US style='font-size:14.0pt'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:14.0pt'>获取录像文件列表<span lang=EN-US>(getRecrodFilelist)</span></span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:0cm'><span
-lang=EN-US>&nbsp;</span></p>
-
-<h3><a name="_Toc26097425">会议直播</a></h3>
-
-<p class=MsoNormal><span lang=EN-US>URL:&nbsp; /v1/mlg/{func}</span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
-lang=EN-US style='font-size:14.0pt'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:14.0pt'>开始直播<span lang=EN-US>(startConfLive)</span></span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
-lang=EN-US style='font-size:14.0pt'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:14.0pt'>停止直播<span lang=EN-US>(stopConfLive)</span></span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
-lang=EN-US style='font-size:14.0pt'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:14.0pt'>切换会议成员<span lang=EN-US>(switchConfMember)</span></span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
-lang=EN-US style='font-size:14.0pt'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:14.0pt'>获取录像会话列表<span lang=EN-US>(getLiveSessions)</span></span></p>
-
-<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
-lang=EN-US style='font-size:14.0pt'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:14.0pt'>获取会议直播播放地址<span lang=EN-US>(getPlayUrls)</span></span></p>
-
-<h2><a name="_Toc26097426">数据结构设计</a></h2>
-
-<h3><a name="_Toc26097427">会议录像与直播实体关联图</a></h3>
+<h3><a name="_Toc37241801">会议录像与直播实体关联图</a></h3>
 
 <p class=MsoNormal><span lang=EN-US><img width=634 height=447
 src="conf_live_record.files/image008.png"></span></p>
@@ -1604,7 +1530,7 @@ lang=EN-US>(</span>多对多<span lang=EN-US>)</span></span></p>
 <p class=MsoNormal><span style='font-size:14.0pt'>直播会话<span lang=EN-US>—</span>会议成员<span
 lang=EN-US>(</span>多对多<span lang=EN-US>)</span></span></p>
 
-<h3><a name="_Toc26097428">会议实体信息</a></h3>
+<h3><a name="_Toc37241802">会议实体信息</a></h3>
 
 <p class=MsoNormal style='text-indent:21.0pt'>会议<span lang=EN-US>ID</span></p>
 
@@ -1618,7 +1544,7 @@ lang=EN-US>(</span>多对多<span lang=EN-US>)</span></span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp;&nbsp; </span></p>
 
-<h3><a name="_Toc26097429">会议成员信息</a></h3>
+<h3><a name="_Toc37241803">会议成员信息</a></h3>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp; </span>成员<span
 lang=EN-US>ID </span></p>
@@ -1638,7 +1564,7 @@ lang=EN-US>ID</span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp; </span>直播会话列表</p>
 
-<h3><a name="_Toc26097430">录像会话</a></h3>
+<h3><a name="_Toc37241804">录像会话</a></h3>
 
 <p class=MsoNormal style='text-indent:21.0pt'>录像会话<span lang=EN-US>id</span></p>
 
@@ -1670,7 +1596,7 @@ lang=EN-US>ID</span></p>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>&nbsp;</span></p>
 
-<h3><a name="_Toc26097431">录像文件列表</a></h3>
+<h3><a name="_Toc37241805">录像文件列表</a></h3>
 
 <p class=MsoNormal style='text-indent:21.0pt'>录像会话<span lang=EN-US>ID</span></p>
 
@@ -1692,7 +1618,7 @@ lang=EN-US>ID</span></p>
 
 <p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>&nbsp;</span></p>
 
-<h3><a name="_Toc26097432">直播会话</a></h3>
+<h3><a name="_Toc37241806">直播会话</a></h3>
 
 <p class=MsoNormal style='text-indent:21.0pt'>直播会话<span lang=EN-US>id</span></p>
 
@@ -1724,9 +1650,9 @@ lang=EN-US>ID</span></p>
 
 <p class=MsoNormal style='text-indent:21.0pt'>结束时间</p>
 
-<h1><a name="_Toc26097433">系统测试</a></h1>
+<h1><a name="_Toc37241807">系统测试</a></h1>
 
-<h2><a name="_Toc26097434">测试用例</a></h2>
+<h2><a name="_Toc37241808">测试用例</a></h2>
 
 <p class=MsoNormal><b><span style='font-size:14.0pt'>用例详细描述请参考<span lang=EN-US>&lt;&lt;</span>会议直播与录像用例<span
 lang=EN-US>.xlsx&gt;&gt;</span></span></b></p>
