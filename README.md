@@ -24,7 +24,7 @@ GitHub:  https://github.com/xialixin/srs_code_note
 
 
 [开源直播服务器SRS3.0源代码分析]:doc/srs_note.md
-[SRS4.0支持GB28181对接]:doc/srs_gb28181_2.md
+[SRS4.0支持GB28181对接]:doc/srs_gb28181.md
 [SRS_WIKI整理文档]:doc/srs_wiki.md
 [基于开源项目cdn原理实现]:doc/live_vod_cdn.md
 [连麦方案设计]:doc/live_talk.md
