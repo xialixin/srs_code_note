@@ -138,19 +138,19 @@
      ./objs/sb_ps_publish -i doc/test.mpg -c 500 -r rtp://127.0.0.1:9000
   命令显示结果
     
-  ![](./sb_ps_load.files/gb28281_sb_ps_load_1.png)
+  ![](./sb_ps_load.files/gb28281_sb_ps_load_1.jpg)
   
   CPU使用情况，可使用htop 显示结果
 
-  ![](./sb_ps_load.files/gb28281_sb_ps_load_2.png)
+  ![](./sb_ps_load.files/gb28281_sb_ps_load_2.jpg)
   
   500路流量，可使使用iftop -i lo 显示结果   
   流量限制与网卡容量有关，测试环境的网卡是1G
 
-  ![](./sb_ps_load.files/gb28281_sb_ps_load_3.png)
+  ![](./sb_ps_load.files/gb28281_sb_ps_load_3.jpg)
   
   Gb28181压测的媒体列表
   压测工具的中媒体ssrc是pid+index组成, uint32_t ssrc = pid << 16 | GetId();  
 
-  ![](./sb_ps_load.files/gb28281_sb_ps_load_4.png)  
-  ![](./sb_ps_load.files/gb28281_sb_ps_load_0.png)
+  ![](./sb_ps_load.files/gb28281_sb_ps_load_4.jpg)  
+  ![](./sb_ps_load.files/gb28281_sb_ps_load_0.jpg)
