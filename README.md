@@ -21,6 +21,8 @@ GitHub:  https://github.com/xialixin/srs_code_note
 * [微信小程序rtc网关方案] 微信小程序接入会议系统方案 小程序rtmp->会议rtp  会议rtp->小程序rtmp
 
 * [物联网调查报告]  从网上整理一些物联网资料以及之前从事安防行业项目与物联网相关的一些想法
+* [80年代至今互联网事件与音视频关联]  从网上整理80年代至今中国互联网发展中的一些大事件,以及与此相关音视频发展关系
+
 * [动手学深度学习教材]  深度学习框架mxnet作者之一李沐老师编写，通俗易懂，入门级的好教材，有环境可边动手边学习。
 * [动手学深度学习教材配套视频] 动手学深度学习教材配套视频，视频与教材有些不一样，因为教材不断在更新
 
@@ -40,6 +42,8 @@ GitHub:  https://github.com/xialixin/srs_code_note
 [微信小程序rtc网关方案]:doc/wx_conf_gateway.md
 
 [物联网调查报告]:doc/iot_report.md
+[80年代至今互联网事件与音视频关联]:doc/internet_event.xlsx
+
 [动手学深度学习教材]:https://zh.d2l.ai/
 [动手学深度学习教材配套视频]:https://www.bilibili.com/video/av66465506
 
