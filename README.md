@@ -19,6 +19,7 @@ GitHub:  https://github.com/xialixin/srs_code_note
 * [FreeSwitch会议直播流程] 阅读freeswitch会议直播相关源代码画的流程
 * [第三方sip客户端接入方案] 项目中有不少第三方会议需要接入自研rtc系统方案
 * [微信小程序rtc网关方案] 微信小程序接入会议系统方案 小程序rtmp->会议rtp  会议rtp->小程序rtmp
+* [WebRTC之QOS] 网上整理的Qos原理以及webrtc 相关qos的资料
 
 * [物联网调查报告]  从网上整理一些物联网资料以及之前从事安防行业项目与物联网相关的一些想法
 * [80年代至今互联网事件与音视频关联]  从网上整理80年代至今中国互联网发展中的一些大事件,以及与此相关音视频发展关系
@@ -44,6 +45,8 @@ GitHub:  https://github.com/xialixin/srs_code_note
 [FreeSwitch会议直播流程]:doc/freeswitch_live.png
 [第三方sip客户端接入方案]:doc/sip_conf_client.md
 [微信小程序rtc网关方案]:doc/wx_conf_gateway.md
+
+[WebRTC之QOS]:doc/webrtc_qos.md
 
 [物联网调查报告]:doc/iot_report.md
 [80年代至今互联网事件与音视频关联]:doc/internet_event.xlsx
